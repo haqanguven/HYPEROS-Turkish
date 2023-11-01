@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d dosya</item>
+        <item quantity="one">%1$s + %2$d dosya</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Sim kilitlenmeden önce %d deneme hakkınız kaldı</item>
+        <item quantity="one">Sim kilitlenmeden önce %d deneme hakkınız kaldı</item>
+    </plurals>
+</resources>

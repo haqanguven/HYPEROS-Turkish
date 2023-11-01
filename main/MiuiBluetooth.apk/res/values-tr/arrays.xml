@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Çaldığında titret</item>
+        <item>Mesaj alırken titret</item>
+        <item>Alarm durumunda titret</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fotoğraf çek</item>
+        <item>Cihazı bul</item>
+        <item>Mi tuşu bul</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini kullan (Varsayılan)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ ses</item>
+        <item>Qualcomm® aptX™ HD ses</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Aktif"</item>
+        <item>" | Aktif (Medya)"</item>
+        <item>" | Aktif (Telefon)"</item>
+    </string-array>
+</resources>

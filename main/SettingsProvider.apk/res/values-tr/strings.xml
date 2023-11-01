@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ayarlar deposo</string>
+    <string name="wifi_softap_config_change">Bağlantı paylaşımı ayarları değişti</string>
+    <string name="wifi_softap_config_change_summary">Ayrıntıları görmek için dokunun</string>
+</resources>

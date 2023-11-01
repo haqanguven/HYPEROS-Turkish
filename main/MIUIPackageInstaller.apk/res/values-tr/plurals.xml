@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="app_info_permission_count">
+        <item quantity="other">%1$s izin</item>
+        <item quantity="one">%1$s izin</item>
+    </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s izin,</item>
+        <item quantity="one">%1$s izin,</item>
+    </plurals>
+    <plurals name="app_info_private_permission_count">
+        <item quantity="other">%1$s gizlilikle ilgili izin</item>
+        <item quantity="one">%1$s gizlilikle ilgili izin</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%1$s gözden geçir</item>
+        <item quantity="one">%1$s gözden geçir</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin</item>
+        <item quantity="one">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin</item>
+    </plurals>
+    <plurals name="pure_mode_guard_day">
+        <item quantity="other">Güvenli mod %d gündür açık</item>
+        <item quantity="one">Güvenli mod %d gündür açık</item>
+    </plurals>
+    <plurals name="settings_security_mode_enable_count">
+        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
+        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_count">
+        <item quantity="other">&lt;font color=#0D84FF>%1$s&lt;/font> riskleri etkisiz hale getirildi</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$s&lt;/font> riskleri etkisiz hale getirildi</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_days">
+        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
+        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
+    </plurals>
+    <plurals name="settings_security_mode_title_on_msg">
+        <item quantity="other">Güvenli mod %1$s gündür açık</item>
+        <item quantity="one">Güvenli mod %1$s gündür açık</item>
+    </plurals>
+</resources>

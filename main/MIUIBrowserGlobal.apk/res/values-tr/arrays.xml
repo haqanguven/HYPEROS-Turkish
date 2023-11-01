@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Kitap rafı</item>
+        <item>Kütüphane</item>
+        <item>Kitap rafı</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Beyaz</item>
+        <item>Sarı</item>
+        <item>Gri</item>
+        <item>Kahverengi</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>İlgilenmiyorum</item>
+        <item>Tekrarlamalı</item>
+        <item>Düşük kalite</item>
+        <item>Uygunsuz fotoğraf</item>
+        <item>Sahte bilgi</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Cinsel içerik</item>
+        <item>Yanlış bilgi</item>
+        <item>Güncel değil</item>
+        <item>Aşırı görüş</item>
+        <item>Bilinçaltı reklam</item>
+        <item>Beğenmedim</item>
+    </string-array>
+    <string-array name="personal__language_name_arr">
+        <item>English</item>
+        <item>Español (España)</item>
+        <item>Español (América)</item>
+        <item>Bahasa Indonesia</item>
+        <item>Filipino</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Geri veya ileri git</item>
+        <item>Sekmeler arası geçiş</item>
+        <item>Hiçbiri</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Varsayılan başlangıç sayfası</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Dikey görünüm</item>
+        <item>Yatay görünüm</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Açık</item>
+        <item>Yalnızca gizli mod</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çok küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Masaüstü</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Kısıtla</item>
+        <item>Sor</item>
+        <item>İzin ver</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Kısıtla</item>
+        <item>Sor</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Kısıtla</item>
+        <item>İzin ver</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Otomatik</item>
+        <item>Hiçbiri</item>
+        <item>Yeni kullanıcı</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Ara</item>
+        <item>Haber</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Tamam</item>
+        <item>Takip et</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Tarayıcıdan mesaj</item>
+        <item>Olimpiyatları Mi ile takip edin</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Mevcut ağ bağlantısı çok yavaş. Zayıf ağ kapsama alanında gibi görünüyorsunuz</item>
+        <item>Mevcut ağ bağlantısı yavaş</item>
+        <item>Ağ bağlantısı ile ilgili bir sorun bulunamadı</item>
+        <item>Mevcut ağ bağlantısı hızlı. Film izlemek için yeterli</item>
+        <item>Mevcut ağ bağlantısı çok hızlı. Oyununuzun zirvesindesiniz</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Sosyal medyadan videoları ve fotoğrafları indirin</item>
+        <item>WhatsApp durumlarınızdan görüntüleri ve videoları kaydedin</item>
+        <item>Cihazınızdaki dosyaları yönetin ve onları özel yapın</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Videoları indir</item>
+        <item>WhatsApp durum kaydedici</item>
+        <item>Özel dosyalar</item>
+    </string-array>
+</resources>

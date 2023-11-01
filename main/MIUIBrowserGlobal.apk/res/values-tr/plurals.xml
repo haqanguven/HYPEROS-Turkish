@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="adblock_notification">
+        <item quantity="other">%d reklam engellendi</item>
+        <item quantity="one">%d reklam engellendi</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d öğe engellendi</item>
+        <item quantity="one">%d öğe engellendi</item>
+    </plurals>
+    <plurals name="adblock_total_counts">
+        <item quantity="other">Şimdiye kadar %d reklam engellendi</item>
+        <item quantity="one">Şimdiye kadar %d reklam engellendi</item>
+    </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">%d gündür taranmadı</item>
+        <item quantity="one">%d gündür taranmadı</item>
+    </plurals>
+    <plurals name="articles_updated_amount">
+        <item quantity="other">%1$d yeni konuya göz at</item>
+        <item quantity="one">%1$d yeni konuya göz at</item>
+        <item quantity="few">%1$d yeni konuya göz at</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Bir sonraki video %d saniye içinde oynatılacak</item>
+        <item quantity="one">Bir sonraki video %d saniye içinde oynatılacak</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Cihazınızı %d gündür taramadınız. Şimdi taramak ister misiniz?</item>
+        <item quantity="one">Cihazınızı %d gündür taramadınız. Şimdi taramak ister misiniz?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">gün</item>
+        <item quantity="one">gün</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Cihazınızı %d gündür optimize etmediniz. Şimdi optimize edilsin mi?</item>
+        <item quantity="one">Cihazınızı %d gündür optimize etmediniz. Şimdi optimize edilsin mi?</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s beğeni</item>
+        <item quantity="one">%s beğeni</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
+        <item quantity="one">%1$d gün önce</item>
+    </plurals>
+    <plurals name="download_business_v5_edit_mode_title">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="download_dialog_confirm_delete_downloads_message">
+        <item quantity="other">%d görev silinsin mi?</item>
+        <item quantity="one">%d görev silinsin mi?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniye ileri sar</item>
+        <item quantity="one">%d saniye ileri sar</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniye geri sar</item>
+        <item quantity="one">%d saniye geri sar</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d eşleşme</item>
+        <item quantity="one">%d eşleşme</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d yeni dosya bulundu</item>
+        <item quantity="one">%1$d yeni dosya bulundu</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="hashtag_followers">
+        <item quantity="other">%d takipçi</item>
+        <item quantity="one">%d takipçi</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+        <item quantity="one">%1$d saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">%d kez korundu</item>
+        <item quantity="one">%d kez korundu</item>
+    </plurals>
+    <plurals name="le_notification_download_completed">
+        <item quantity="other">%d öğe başarıyla indirildi</item>
+        <item quantity="one">%d öğe başarıyla indirildi</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="one">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Son %d gün</item>
+        <item quantity="one">Son %d gün</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d arasından %2$d</item>
+        <item quantity="one">%d eşleşme</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d saniye sonra otomatik olarak yeni bir sayfa oluştur</item>
+        <item quantity="one">%d saniye sonra otomatik olarak yeni bir sayfa oluştur</item>
+    </plurals>
+    <plurals name="nf_item_like">
+        <item quantity="other">%s beğeni</item>
+        <item quantity="one">%s beğeni</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="opr_activity_news_task">
+        <item quantity="other">%d habere göz atın</item>
+        <item quantity="one">%d habere göz atın</item>
+    </plurals>
+    <plurals name="opr_activity_svideo_task">
+        <item quantity="other">%d kısa video izleyin</item>
+        <item quantity="one">%d kısa video izleyin</item>
+    </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">%s kez korunuyor</item>
+        <item quantity="one">%s kez korunuyor</item>
+    </plurals>
+    <plurals name="players">
+        <item quantity="other">%d oyuncu</item>
+        <item quantity="one">%d oyuncu</item>
+    </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%d reklam engellendi</item>
+        <item quantity="one">%d reklam engellendi</item>
+    </plurals>
+    <plurals name="search_trending_views">
+        <item quantity="other">%s arama talebi</item>
+        <item quantity="one">%s arama talebi</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="sku_price">
+        <item quantity="other">%2$s her %1$s ay</item>
+        <item quantity="one">%2$s her %1$s ay</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d albüm</item>
+        <item quantity="one">%d albüm</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d popüler şarkı</item>
+        <item quantity="one">%d popüler şarkı</item>
+    </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d sekme</item>
+        <item quantity="one">%d sekme</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
+    </plurals>
+    <plurals name="video_collection_reminder_view">
+        <item quantity="other">Uzun bir süredir %d favori videolarınızı izlemediniz</item>
+        <item quantity="one">Uzun bir süredir %d favori video izlemediniz</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s görüntüleme</item>
+        <item quantity="one">%s görüntüleme</item>
+    </plurals>
+    <plurals name="videos_updated_amount">
+        <item quantity="other">%1$d yeni videoya göz at</item>
+        <item quantity="one">%1$d yeni videoya göz at</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d izlenmeler</item>
+        <item quantity="one">%1$d izlenme</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="other">%dk görüntüleme</item>
+        <item quantity="one">%dk görüntüleme</item>
+    </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d kişi oy verdi</item>
+        <item quantity="one">%d kişi oy verdi</item>
+        <item quantity="few">%d kişi oy verdi</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">%d reklam engellendi</item>
+        <item quantity="one">%d reklam engellendi</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">%d kez izin verildi</item>
+        <item quantity="one">%d kez izin verildi</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">%d kez kısıtlandı</item>
+        <item quantity="one">%d kez kısıtlandı</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">%d kez durduruldu</item>
+        <item quantity="one">%d kez durduruldu</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">%s reklam engellendi</item>
+        <item quantity="one">%s reklam engellendi</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">%s kez izin verildi</item>
+        <item quantity="one">%s kez izin verildi</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">%s kez kısıtlandı</item>
+        <item quantity="one">%s kez kısıtlandı</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">%s kez durduruldu</item>
+        <item quantity="one">%s kez durduruldu</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s gün</item>
+        <item quantity="one">%s gün</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s kez</item>
+        <item quantity="one">%s kez</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_position_action">
+        <item>Soldaki menü düğmesi. Sağdaki geri düğmesi</item>
+        <item>Soldaki Geri düğmesi. Sağdaki menü düğmesi</item>
+    </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Son uygulamalar tepsisini göster</item>
+        <item>Menüyü göster</item>
+    </string-array>
+</resources>

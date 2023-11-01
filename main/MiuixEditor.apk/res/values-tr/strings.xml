@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Sık kullanılan ifadeler ekleyin</string>
+    <string name="app_name">Metin eylemi</string>
+    <string name="call">Ara</string>
+    <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenleyin</string>
+    <string name="floating_toolbar_close_overflow_description">Taşmayı kapat</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
+    <string name="floating_toolbar_open_overflow_description">Daha fazla seçenek</string>
+    <string name="frequent_phrases">Sık kullanılan ifadeler</string>
+    <string name="google_call">Ara</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Harita</string>
+    <string name="google_open">Aç</string>
+    <string name="google_translate">Çevir</string>
+    <string name="open">Tarayıcı</string>
+    <string name="query">Sorgu</string>
+    <string name="select">Seç</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="translate">Çevir</string>
+    <string name="translation_more">Daha fazla</string>
+    <string name="translation_query_error">Sonuç bulunamadı</string>
+    <string name="translation_query_error_network">Bilgi alınamadı. Ağ bağlantısını kontrol edin ve tekrar deneyin</string>
+</resources>

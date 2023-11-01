@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_classify1">
+        <item>Özel</item>
+        <item>MIUI pil tasarrufu</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktif uygulamalar</item>
+        <item>Uyuyan uygulamalar</item>
+    </string-array>
+</resources>

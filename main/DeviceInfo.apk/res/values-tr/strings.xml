@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_version">Android sürümü</string>
+    <string name="app_name">Cihaz bilgisi</string>
+    <string name="baseband_version">Ana bant sürümü</string>
+    <string name="device_info_unknown">Bilinmiyor</string>
+    <string name="eprl">EPRL kimliği</string>
+    <string name="esn">ESN</string>
+    <string name="hardware_version">Donanım sürümü</string>
+    <string name="iccid">ICCID</string>
+    <string name="imei1">IMEI1</string>
+    <string name="imei2">IMEI2</string>
+    <string name="imsi">IMSI</string>
+    <string name="meid">MEID</string>
+    <string name="meta_info">Meta sürümü</string>
+    <string name="mlpl">MLPL kimliği</string>
+    <string name="model_number">Model</string>
+    <string name="mspl">MSPL kimliği</string>
+    <string name="my_number">Telefon numaram</string>
+    <string name="nid">NID</string>
+    <string name="prl_version">PRL sürümü</string>
+    <string name="sid">SID</string>
+    <string name="software_version">Yazılım sürümü</string>
+    <string name="uim_id">UIM kimliği</string>
+</resources>

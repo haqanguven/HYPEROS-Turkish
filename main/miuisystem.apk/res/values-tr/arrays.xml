@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>Ağ erişimi</item>
+        <item>Mesajı okuma</item>
+        <item>Mesajı düzenleme</item>
+        <item>Mesaj al</item>
+        <item>Mesaj gönder</item>
+        <item>Telefon arama</item>
+        <item>Kişileri okuma</item>
+        <item>Kişileri düzenleme</item>
+        <item>Arama geçmişini okumu</item>
+        <item>Arama geçmişini düzenleme</item>
+        <item>Kamera erişimi</item>
+        <item>Konum erişimi</item>
+    </string-array>
+    <string-array name="di_zhi">
+		<item>Çocuklar</item>
+		<item>Çirkin</item>
+		<item>Yin</item>
+		<item>Mao</item>
+		<item>Chen</item>
+		<item>Si</item>
+		<item>Öğleden sonra</item>
+		<item>Değil</item>
+		<item>Uygula</item>
+		<item>Üniter</item>
+		<item>Ekran</item>
+		<item>Merhaba</item>
+    </string-array>
+    <string-array name="jia_zi">
+		<item>Jiazi</item>
+		<item>Bu</item>
+		<item>Bingyin</item>
+		<item>Dingmao</item>
+		<item>Wuchen</item>
+		<item>Jisi</item>
+		<item>Gengwu</item>
+		<item>Xin Wei</item>
+		<item>Ren Shen</item>
+		<item>Guiyou</item>
+		<item>Jiaxu</item>
+		<item>Yihai</item>
+		<item>Bingzi</item>
+		<item>Ding Chou</item>
+		<item>Wuyin</item>
+		<item>Ji Mao</item>
+		<item>Gengchen</item>
+		<item>Xin Si</item>
+		<item>Renwu</item>
+		<item>Guiwei</item>
+		<item>Jiashen</item>
+		<item>Yiyou</item>
+		<item>Bingxu</item>
+		<item>Ding Hai</item>
+		<item>Wuzi</item>
+		<item>Ben çirkinim</item>
+		<item>Geng Yin</item>
+		<item>Xinmao</item>
+		<item>Renchen</item>
+		<item>Kimi</item>
+		<item>Jiawu</item>
+		<item>Yiwei</item>
+		<item>Bingshen</item>
+		<item>Ding You</item>
+		<item>Wuxu</item>
+		<item>Jihai</item>
+		<item>Gengzi</item>
+		<item>Xin Chou</item>
+		<item>Ren Yin</item>
+		<item>Kuimao</item>
+		<item>Jichen</item>
+		<item>Otsumi</item>
+		<item>Bingwu</item>
+		<item>Ding Wei</item>
+		<item>Wushen</item>
+		<item>Jiyou</item>
+		<item>Gengxu</item>
+		<item>Xinhai</item>
+		<item>Renzi</item>
+		<item>Chou Chou</item>
+		<item>Jayin</item>
+		<item>Yi Mao</item>
+		<item>Bingchen</item>
+		<item>Ding Si</item>
+		<item>Wuwu</item>
+		<item>Bende yok</item>
+		<item>Geng Shen</item>
+		<item>Xin You</item>
+		<item>Renxu</item>
+		<item>Guihai</item>
+    </string-array>
+    <string-array name="tian_gan">
+		<item>Bir</item>
+		<item>B</item>
+		<item>C</item>
+		<item>Ding</item>
+		<item>E</item>
+		<item>Kendi</item>
+		<item>Geng</item>
+		<item>Xin</item>
+		<item>Ren</item>
+		<item>Dekan</item>
+    </string-array>
+</resources>

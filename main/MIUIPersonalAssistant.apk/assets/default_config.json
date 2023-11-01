@@ -1,0 +1,27 @@
+[
+  {
+    "productId": "b8006e83-c497-4642-9815-f674b82842b0",
+    "title": "Hava durumu",
+    "appName": "Hava durumu",
+    "maMlTag":"Bağla",
+    "resource": "maml_weather_2x2.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "weather",
+    "implUniqueCode": "ma_0220210813165003011950"
+  },
+  {
+    "providerName": "com.mi.health.exercise.widget.StepRemoteWidgetProvider",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "steps"
+  },
+  {
+    "productId": "f45ca1ae-5574-45d5-98da-f3601d07fab1",
+    "tag": "",
+    "resource": "f45ca1ae-5574-45d5-98da-f3601d07fab1.zip",
+    "spanX": 2,
+    "spanY": 2,
+    "serviceKey": "security"
+  }
+]

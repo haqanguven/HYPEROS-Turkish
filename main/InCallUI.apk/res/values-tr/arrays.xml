@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="absent_num">
+        <item>Boş numara</item>
+        <item>Boşnumara</item>
+    </string-array>
+</resources>

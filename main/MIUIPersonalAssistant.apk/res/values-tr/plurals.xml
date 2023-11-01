@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d bronz madalya</item>
+        <item quantity="one">%d bronz madalya</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d altın madalya</item>
+        <item quantity="one">%d altın madalya</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">Toplam %d madalya</item>
+        <item quantity="one">Toplam %d madalya</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">%d yerleştir</item>
+        <item quantity="one">%d yerleştir</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d gümüş madalya</item>
+        <item quantity="one">%d gümüş madalya</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Araç mağazası. Uygulama listesi. Uygulama listesinde %d öğe</item>
+        <item quantity="one">Araç mağazası. Uygulama listesi. Uygulama listesinde %d öğe</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Listedeki %d sayısı</item>
+        <item quantity="one">Listedeki %d sayısı</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
+        <item quantity="one">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Araç mağazası. Uygulama listesi. Listedeki %d öğe</item>
+        <item quantity="one">Araç mağazası. Uygulama listesi. Listedeki %d öğe</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Listedeki %d sayısı.</item>
+        <item quantity="one">Listedeki %d sayısı.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
+        <item quantity="one">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Araç mağazası. Uygulama listesi. Listedeki %d öğe</item>
+        <item quantity="one">Araç mağazası. Uygulama listesi. Listede %d öğe</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Listedeki %d sayısı</item>
+        <item quantity="one">Listedeki %d sayısı</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
+        <item quantity="one">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">En fazla %1$d karakter girin</item>
+        <item quantity="one">En fazla %1$d karakter girin</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">En az %1$d karakter</item>
+        <item quantity="one">En az %1$d karakter</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d paket yolda</item>
+        <item quantity="one">%d paket yolda</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">%s öğe şimdi silinsin mi?</item>
+        <item quantity="one">%s öğe şimdi silinsin mi?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">%s öğe seçildi</item>
+        <item quantity="one">%s öğe seçildi</item>
+    </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">%d telefon numarası eklediniz</item>
+        <item quantity="one">%d telefon numarası eklediniz</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d paket terk edildi</item>
+        <item quantity="one">%d paket terk edildi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d paket alınmayı bekliyor</item>
+        <item quantity="one">%d paket alınmayı bekliyor</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d paket iptal edildi</item>
+        <item quantity="one">%d paket iptal edildi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">Teslimat için %d paket çıktı</item>
+        <item quantity="one">Teslimat için %d paket çıktı</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d pakette sorun yaşanıyor</item>
+        <item quantity="one">%d pakette sorun yaşanıyor</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d paket aktarım halinde</item>
+        <item quantity="one">%d paket aktarım halinde</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">%d paket teslim edilemedi</item>
+        <item quantity="one">%d paket teslim edilemedi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d paket teslim edildi</item>
+        <item quantity="one">%d paket teslim edildi</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Mi para</item>
+        <item quantity="one">%s Mi para</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">%d seçili öğe şimdi silinsin mi?</item>
+        <item quantity="one">%d seçili öğe şimdi silinsin mi?</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">Araçta %1$d şirket</item>
+        <item quantity="one">Araçta %1$d şirket</item>
+    </plurals>
+</resources>

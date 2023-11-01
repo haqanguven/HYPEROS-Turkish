@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s saat %2$s"</item>
+        <item quantity="one">" %1$s saat %2$s"</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosfer basıncı: %s hektopaskal</item>
+        <item quantity="one">Atmosfer basıncı: %s hektopaskal</item>
+    </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Azaltılmış karakter aralığı. Karakter aralığı %s</item>
+        <item quantity="one">Azaltılmış karakter aralığı. Karakter aralığı %s</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Artan karakter aralığı. Karakter aralığı %s</item>
+        <item quantity="one">Artan karakter aralığı. Karakter aralığı %s</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Animasyonların oynatma süresi %d saniyeyi aşamaz
+Daha uzun animasyonlar bu noktada durdurulacak"</item>
+        <item quantity="one">"Animasyonların oynatma süresi %d saniyeyi aşamaz
+Daha uzun animasyonlar bu noktada durdurulacaktır"</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Yakılan %1$s kalori</item>
+        <item quantity="one">Yakılan %1$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Kalori hedefi: %1$s kalori</item>
+        <item quantity="one">Kalori hedefi: %1$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Etkinlik süresi: %1$s dakika</item>
+        <item quantity="one">Etkinlik süresi: %1$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Etkinlik hedefi: %1$s dakika</item>
+        <item quantity="one">Etkinlik hedefi: %1$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dakika</item>
+        <item quantity="one">%1$s/%2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s saat içinde ayağa kalktı</item>
+        <item quantity="one">%1$s saat içinde ayağa kalktı</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Daimi hedef: %1$s saat</item>
+        <item quantity="one">Daimi hedef: %1$s saat</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saat</item>
+        <item quantity="one">%1$s/%2$s saat</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Geçerli adım sayısı: %1$s adım</item>
+        <item quantity="one">Geçerli adım sayısı: %1$s adım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Adım hedefi: %1$s adım</item>
+        <item quantity="one">Adım hedefi: %1$s adım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s adım</item>
+        <item quantity="one">%1$s/%2$s adım</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat içerisinde</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat içerisinde</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içerisinde</item>
+        <item quantity="one">1 dakika içerisinde</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Artan satır aralığı. Satır aralığı %s</item>
+        <item quantity="one">Artan satır aralığı. Satır aralığı %s</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Azaltılmış satır aralığı. Satır aralığı %s</item>
+        <item quantity="one">Azaltılmış satır aralığı. Satır aralığı %s</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Sıcaklık: %1$s derece, %2$s</item>
+        <item quantity="one">Sıcaklık: %1$s derece, %2$s</item>
+    </plurals>
+</resources>
