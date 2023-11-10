@@ -297,43 +297,43 @@
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Gizlilik</item>
-        <item>Interconnectivity/Privacy</item>
-        <item>Privacy and interconnectivity, Privacy</item>
+        <item>Ara bağlantı/Gizlilik</item>
+        <item>Gizlilik ve ara bağlantı, Gizlilik</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Interconnectivity services</item>
-        <item>Interconnectivity/Interconnectivity services</item>
-        <item>Interconnectivity services</item>
+        <item>Ara bağlantı hizmetleri</item>
+        <item>Ara bağlantı/Ara bağlantı hizmetleri</item>
+        <item>Ara bağlantı hizmetleri</item>
     </string-array>
     <string-array name="settings_search_relay_app">
-        <item>App handoff</item>
-        <item>Interconnectivity/App handoff</item>
-        <item>Transfer apps, handoff, transfer</item>
+        <item>Uygulama aktarımı</item>
+        <item>Ara bağlantı/Uygulama aktarımı</item>
+        <item>Uygulamaları aktarma, aktarma, aktarma</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Calls</item>
-        <item>Interconnectivity/Calls</item>
-        <item>Calls</item>
+        <item>Aramalar</item>
+        <item>Ara bağlantı/Aramalar</item>
+        <item>Aramalar</item>
     </string-array>
     <string-array name="settings_search_relay_network">
-        <item>Network assistance</item>
-        <item>Interconnectivity/Network assistance</item>
-        <item>Network assistance, tethering, hotspot sharing</item>
+        <item>Ağ yardımı</item>
+        <item>Ara bağlantı/Ağ yardımı</item>
+        <item>Ağ yardımı, internet paylaşımı, erişim noktası paylaşımı</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
-        <item>Home screen+</item>
-        <item>Interconnectivity/Home screen+</item>
-        <item>Home screen+, Mi Smart Hub, screen sharing</item>
+        <item>Ana ekran+</item>
+        <item>Ara bağlantı/Ana ekran+</item>
+        <item>Ana ekran+, Mi akıllı ses, ekran paylaşımı</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
-        <item>Clipboard</item>
-        <item>Interconnectivity/Clipboard</item>
-        <item>Clipboard</item>
+        <item>Pano</item>
+        <item>Ara bağlantı/Pano</item>
+        <item>Pano</item>
     </string-array>
     <string-array name="settings_search_share_notify">
-        <item>Cross-device notifications</item>
-        <item>Interconnectivity/Notifications</item>
-        <item>Cross-device notifications</item>
+        <item>Cihazlar arası bildirimler</item>
+        <item>Ara bağlantı/Bildirimler</item>
+        <item>Cihazlar arası bildirimler</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

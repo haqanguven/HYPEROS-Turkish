@@ -30,24 +30,24 @@
         <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="car_map_hour">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
     </plurals>
     <plurals name="car_map_kilometre">
-        <item quantity="other">%d km</item>
-        <item quantity="one">%d km</item>
+        <item quantity="other">%d kilometre</item>
+        <item quantity="one">%d kilometre</item>
     </plurals>
     <plurals name="car_map_kilometre_decimal">
-        <item quantity="other">%.1f km</item>
-        <item quantity="one">%.1f km</item>
+        <item quantity="other">%.1f kilometre</item>
+        <item quantity="one">%.1f kilometre</item>
     </plurals>
     <plurals name="car_map_meter">
-        <item quantity="other">%d m</item>
-        <item quantity="one">%d m</item>
+        <item quantity="other">%d metre</item>
+        <item quantity="one">%d metre</item>
     </plurals>
     <plurals name="car_map_minute">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
         <item quantity="other">%1$d cihaz</item>
@@ -58,8 +58,8 @@
         <item quantity="one">%1$d cihaz</item>
     </plurals>
     <plurals name="controller_auth_count_down">
-        <item quantity="other">Enter the code from %1$s (%2$d secs)</item>
-        <item quantity="one">Enter the code from %1$s (%2$d sec)</item>
+        <item quantity="other">%1$s kodunu girin (%2$d saniye)</item>
+        <item quantity="one">%1$s kodunu girin (%2$d saniye)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>

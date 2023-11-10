@@ -570,12 +570,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="err_toast_msg_default">Bu işlem desteklenmiyor</string>
     <string name="err_toast_msg_mirror_and_bluetooth_support_only">Ses oynatma aktarılamıyor</string>
     <string name="err_toast_msg_mirror_support_support_only">Cihaz yalnızca ekranlar arası işbirliğini destekler ve ekran kartlarını sürükleyip bırakabilirsiniz</string>
-    <string name="err_toast_msg_not_support">Bu işlem desteklenmiyor</string>
     <string name="err_toast_msg_not_support_audio_protocol">Ses oynatma bu cihaza aktarılamıyor</string>
     <string name="err_toast_msg_not_support_video_protocol">"Bu cihaz MIUI+'ı desteklemiyor"</string>
     <string name="err_toast_msg_retry_later">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="err_toast_msg_try_switch_network">Hem mobil cihazınızı hem de bilgisayarınızı aynı wifi ağına bağlayın</string>
-    <string name="err_toast_msg_upgrade_pc_version">"Bu özelliği kullanabilmek için bilgisayarınızda MIUI+'ı güncelleyin"</string>
     <string name="error_a11y_label">Hata: Geçersiz</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
@@ -665,27 +663,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="google_app_id">1:687519570831:android:be4b90f392c3a688b889fa</string>
     <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
     <string name="google_storage_bucket">milink-73be7.appspot.com</string>
-    <string name="guide_confirm_button_text">Hadi başlayalım</string>
-    <string name="guide_exit_button_content_description">Çık</string>
-    <string name="guide_next_button_text">Devam et</string>
-    <string name="guide_page_subtitle_0">Cihazlar arasında video, ses ve uygulama aktarımının özel işlevlerini deneyimleyebileceğiniz küresel cihazların ara bağlantısını ve birlikte çalışabilirliğini gerçekleştirir</string>
-    <string name="guide_page_subtitle_0_pad">"Cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir. Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi altında görebilirsiniz"</string>
-    <string name="guide_page_subtitle_0_pad_global">"Cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir. Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz"</string>
-    <string name="guide_page_subtitle_1">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
-    <string name="guide_page_subtitle_1_pad">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
-    <string name="guide_page_subtitle_2">"Büyük ekran projeksiyonu ve ekranlar arası işbirliğini kolayca gerçekleştirmek için telefon ekran kartını tablete, bilgisayara ve TV'ye sürükleyip bırakın"</string>
-    <string name="guide_page_subtitle_2_pad">"Büyük ekran projeksiyonunu kolayca gerçekleştirmek için düz ekran kartını TV'ye sürükleyip bırakın"</string>
-    <string name="guide_page_subtitle_3">"Uygulamayı ekranın sol üst köşesine sürükleyin. İstediğiniz tableti, bilgisayarı veya TV'yi seçmek için tıklayın. Ardından mevcut uygulama hedef cihaza aktarılabilir"</string>
-    <string name="guide_page_subtitle_earphones">Kulaklığı ilgili cihaza bağlamak ve kullanmaya devam etmek için kulaklık kartını cep telefonu, tablet ve TV arasında sürükleyin</string>
-    <string name="guide_page_title_0">Hoş geldiniz</string>
-    <string name="guide_page_title_0_pad">Hoş geldiniz</string>
-    <string name="guide_page_title_1">Müzik akışı</string>
-    <string name="guide_page_title_1_pad">Müzik akışı</string>
-    <string name="guide_page_title_2">Telefonu diğer cihazlara yansıtın</string>
-    <string name="guide_page_title_2_pad">Tableti diğer cihazlara yansıtın</string>
-    <string name="guide_page_title_3">Uygulamayı doğrudan dağıtın</string>
-    <string name="guide_page_title_earphones">Kulaklık akışı</string>
-    <string name="hang_up">Ekran kapalı durumdayken yansıt</string>
+    <string name="hang_up">Ekran kapalıyken yayınla</string>
     <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik pil tüketimini azaltır. Ekranı tekrar açmak için güç tuşuna basın</string>
     <string name="hang_up_alert_dialog_neg">İptal et</string>
     <string name="hang_up_alert_dialog_pos">Tamam</string>
@@ -707,7 +685,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="help_page_text_03">Yansıtma telefonunuzun ekranındaki öğelerin daha büyük bir harici ekranda görüntülenmesidir. Bu özellik mobil veri harcamadan resim ve videoları arkadaşlarınız ve ailenizle paylaşmanıza olanak sağlar</string>
     <string name="help_page_text_04">Ögeleri daha büyük bir ekrana nasıl yansıtırım?</string>
     <string name="help_page_text_05">Adım 1: Cihazlarınızı ve ağ koşullarını kontrol edin</string>
-    <string name="help_page_text_05_new">Step %1$d: Check your devices and network environment</string>
+    <string name="help_page_text_05_new">Adım %1$d: Cihazlarınızı ve ağ ortamınızı kontrol edin</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TV'ler, set üstü kutular, projektörler:
 En iyi etki için hem mobil cihazınızı hem de harici monitörünüzü aynı wifi ağına bağlayın. Farklı ağlara bağlılarsa harici monitörün bulunması ve bağlanması daha fazla zaman alabilir
 Not: Daha eski TV modelleri farklı ağlar arasında yayınlamayı desteklemeyebilir
@@ -727,7 +705,7 @@ Not: Eski TV'ler farklı ağlarda yayın yapmayı desteklemeyebilir
 %2$d. Bazı TV markalarında yayın yapabilmek için Miracast'ı açmanız gerekir"</string>
     <string name="help_page_text_06_new_6">Daha fazla</string>
     <string name="help_page_text_08">Adım %1$d: Yansıtmayı açın</string>
-    <string name="help_page_text_08_new">Step %1$d: Turn on casting</string>
+    <string name="help_page_text_08_new">Adım %1$d: Yayını etkinleştirin</string>
     <string name="help_page_text_09">"Telefonunuzun bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
     <string name="help_page_text_09_global">"Mobil cihazınızın bildirim çubuğunda yansıt geçişine dokunun. Daha dengeli bir bağlantı için wifi ve Bluetooth'u açın"</string>
     <string name="help_page_text_09_new_1">Cihazınızın kontrol merkezinde yayını açın ardından harici bir monitör arayın</string>
@@ -841,7 +819,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başı,</string>
-    <string name="material_slider_value">Value</string>
+    <string name="material_slider_value">Değer</string>
     <string name="material_timepicker_am">ÖÖ</string>
     <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin</string>
     <string name="material_timepicker_hour">Saat</string>
@@ -864,7 +842,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miplay_accessibility_volume">Ses</string>
     <string name="miplay_detail_divider_title">TV ve hoparlörler</string>
     <string name="miplay_detail_header_no_song">Oynatma geçmişi yok</string>
-    <string name="miplay_detail_title_text">Play everywhere</string>
+    <string name="miplay_detail_title_text">Her yerde oynat</string>
     <string name="miplay_device_full_name">%1$s üzerinden %2$s</string>
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
     <string name="miplay_mini_card_no_song_but_attached_hint">Müzik %1$s üzerinde çalınacak</string>
@@ -875,14 +853,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miplay_song_title_empty">Şarkı yok</string>
     <string name="mirror_phone_content">Ana ekran+ şimdi açılsın mı?</string>
     <string name="mirror_phone_content_remote">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
-    <string name="mirror_phone_title">"Ana ekran+'ı aç"</string>
-    <string name="mirror_phone_title_remote">"Telefonda Ana ekran+'ı aç"</string>
-    <string name="mirror_remote_pad_content">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
-    <string name="mirror_remote_pad_title">"Tablette Ana ekran+'ı aç"</string>
-    <string name="mirror_remote_pc_content">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
-    <string name="mirror_remote_pc_title">"Bilgisayarda Ana ekran+'ı aç"</string>
-    <string name="mirror_remote_phone_content">"Tabletinizde veya bilgisayarınızda Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
-    <string name="mirror_remote_phone_title">"Ana ekran+'ı aç"</string>
+    <string name="mirror_phone_title">Ana ekranı aç+</string>
+    <string name="mirror_phone_title_remote">"Telefonda Ana ekranı+ açın"</string>
+    <string name="mirror_remote_pad_content">"Ana ekran+'yı Ayarlar > Ara Bağlantı bölümünden açabilirsiniz"</string>
+    <string name="mirror_remote_pad_title">"Tablette Ana ekranı+ açın"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -894,7 +868,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_edit">Edit</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -1394,7 +1368,7 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="upgrade_cancel_all">Güncellemeleri iptal et</string>
     <string name="upgrade_check_upgrade">Güncelle</string>
     <string name="upgrade_checking">Güncellemeler kontrol ediliyor…</string>
-    <string name="upgrade_edit_mijia">Edit</string>
+    <string name="upgrade_edit_mijia">Düzenle</string>
     <string name="upgrade_help_menu">Yardım</string>
     <string name="upgrade_help_title">Güncelleme ile ilgili yardım</string>
     <string name="upgrade_log_title">Değişiklik günlüğü</string>
