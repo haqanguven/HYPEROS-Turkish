@@ -52,6 +52,10 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI sizin için %1$d aramayı yanıtladı</item>
+        <item quantity="one">Mi AI sizin için %1$d aramayı yanıtladı</item>
+    </plurals>
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">cevapsız arama</item>
         <item quantity="one">cevapsız arama</item>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferred_network_type_pref_entries_4g_preferred">4G öncelikli</string>
+    <string name="status_hint_label_wifi_call">Wifi</string>
+    <string name="wifi_call_setting">Wifi askıya al</string>
+    <string name="wificall_switch_title">Wifi askıya al</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="volte_switch_title">VoLTE aramalar</string>
+    <string name="wifi_call_accept">Kabul ediyorum</string>
+    <string name="wifi_call_available_message">"Wifi arama, mobil operatörünüz Orange Polska S.A.'nın bir hizmetidir.
+Lütfen operatörünüz tarafından sağlanan hizmetin açıklamasını okuyun:
+
+Wifi arama hizmeti, herhangi bir mobil ağın kapsama alanı dışında olsanız bile, herhangi bir Wifi internet bağlantısı üzerinden sesli arama yapmanızı ve almanızı sağlar. Hizmet cep telefonu numaranız için aktif hale getirildikten sonra, Wifi ağına her bağlandığınızda sesli aramalarınız Wifi arama kullanılarak gerçekleştirilecektir. Bu size bildirim çubuğunda özel bir simgeyle sunulacaktır.
+
+Wifi bağlantınızın kalitesinin düşük olması veya cihazınızın Wifi şebekesinin kapsama alanı dışında olması durumunda, telefonunuz aramaları mevcut bir mobil şebekeyi kullanarak yapacaktır.
+
+Polonya'da Wifi arama ile yaptığınız aramalar, mobil tarife planınızda normal mobil aramalarınızla aynı şekilde ücretlendirilir. Polonya'da gelen aramalar ücretsizdir. Polonya dışında Wifi arama aramaları yaparsanız, aramalarınız mobil tarife planınızın fiyat listesinde belirtilen özel ücret üzerinden ücretlendirilebilir.
+
+Bununla birlikte, Wifi bağlantılarınız Wifi bağlantınızın sağlayıcısı tarafından bağımsız olarak ücretlendirilebilir.
+
+KABUL butonuna bastığınızda ve telefonunuz Wifi ağına bağlandığında Wifi arama hizmetiniz aktif hale gelecektir. İstediğiniz zaman telefon menüsünü kullanarak Wifi aramayı devre dışı bırakabilirsiniz.
+
+Wifi arama hizmetinizin ayrıntılı açıklamasını www.orange.pl/wificalling adresinde bulabilirsiniz.
+
+Acil durum çağrılarınızın (örn. 112 aramaları gibi) bulunduğunuz konuma uygun en yakın acil durum merkezine yönlendirilebilmesi için Wifi arama servislerindeki acil çağrılarınızın herhangi bir mobil ağ üzerinden cihazınız tarafından taşınacağını lütfen unutmayın. belirli bir anda kullanılabilir Yalnızca mobil şebekenin mevcut olmadığı durumlarda, acil arama Wifi arama hizmeti aracılığıyla yönlendirilecektir. Maalesef bu gibi durumlarda kesin konumunuzu bilemeyeceğiz ve bu nedenle acil durum çağrınız, gerçek konumunuza bağlı olarak en yakın Acil Durum merkezine yönlendirilemez.
+
+Wifi arama kullanımınızla ilgili olarak biz (yani kişisel veri denetleyiciniz olarak hareket eden Orange Polska SA), Wifi aramayı kullandığınız cihazın, cihazda kullanılan yazılımın numarası ve modeli hakkındaki verilerinizi işleyeceğiz, Hizmetin gerçekleştirilmesi ve çözümlenmesi amacıyla, Wifi arama ile bağlantı kurmak için kullanılan ağın uç noktası (IP adresi ve bu IP adresinin atfedildiği ülke dahil) ve her aramanın saati ve süresi, şikayetlerin yanıtlanması ve yasal yükümlülüğü yerine getirmek. Bu verileri, sizinle aramızdaki telekomünikasyon hizmetlerinin sağlanmasına ilişkin anlaşmanın süresi boyunca ve sözleşmenin feshedilmesinden sonra, hak taleplerinin karşılanması ve kanun hükümlerinde tanımlanan diğer görevlerin yerine getirilmesi süresince işleyeceğiz. Verilerin sağlanması isteğe bağlıdır, ancak hizmeti kullanmak gereklidir. Verilerinize erişme ve bunları düzeltme hakkına sahipsiniz.
+
+Lütfen verilerimizi bulun: Orange Polska S.A., adres: Aleje Jerozolimskie 160, 02-326 Varşova, Polonya, Varşova'daki Başkent Varşova Bölge Mahkemesi Girişimciler Siciline kayıtlı, Ulusal Mahkeme Kaydı XII Ticaret Bölümü ( KRS), 0000010681 giriş numarasıyla, NIP (vergi numarası) 526-02-50-995; sermayesi (tümü ödenmiş) 3.937.072.437,00 PLN'dir."</string>
+    <string name="wifi_call_cancel">Daha fazla bilgi</string>
+    <string name="wifi_call_help_message_1">Wifi arama, mobil kapsama alanı dışında olsanız bile, mevcut herhangi bir Wifi ağı üzerinden İnternet bağlantısı üzerinden sesli arama yapma ve alma olanağı sağlayan hizmettir. Bildirim çubuğundaki Wifi arama simgesi, tüm aramalarınızın Wifi aramayı kullandığını gösterir</string>
+    <string name="wifi_call_help_message_2">"Wifi bağlantısının zayıflaması veya Wifi kapsama alanı dışına çıkmanız durumunda cep telefonunuz mobil şebekeye geçecektir.
+
+Wifi arama kullanımı mobil operatörünüzün sağladığı hizmet tarifelerine göre derecelendirilir. Ayrıntılar www.orange.pl/wificalling'de
+
+Acil Durum Numaralarına yapılan aramaların örn. 112 mobil ağ üzerinden yönlendirilecek. Mobil kapsama alanı olmaması durumunda, Acil Durum Çağrıları Wifi arama hizmeti aracılığıyla yönlendirilebilir. Bu gibi durumlarda mobil operatörünüz konum bilgilerinizi tam olarak belirleyemeyebilir ve bu nedenle çağrınızı, gerçek konumunuza en yakın olmayan Acil Durum Merkezine yönlendirebilir"</string>
+    <string name="wifi_call_help_title">Wifi arama - yardım</string>
+    <string name="wifi_call_notification_message">"Wifi arama mobil kapsama alanı dışında olsanız bile, mevcut herhangi bir Wifi ağında internet bağlantısı üzerinden sesli arama yapma ve alma olanağı sağlayan hizmettir. Bildirim çubuğundaki Wifi arama simgesi, tüm aramalarınızın Wifi aramayı kullandığını gösterir.
+
+Ayrıntılar www.orange.pl/wificalling'de
+
+Mobil cihazınızda Wifi arama hizmetinizi etkinleştirmek için aşağıdaki AYARLAR menüsünü seçin"</string>
+    <string name="wifi_call_setting">Wifi arama</string>
+    <string name="wifi_call_welcome_settings">Ayarlar</string>
+    <string name="wificall_switch_title">Wifi arama</string>
+</resources>

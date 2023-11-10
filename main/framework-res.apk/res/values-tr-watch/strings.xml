@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="android_upgrading_apk">Uygulama %1$d / %2$d</string>
+    <string name="global_action_emergency">Acil arama</string>
     <string name="permgrouplab_sensors">Sensörler</string>
+    <string name="reboot_to_update_title">Wear OS sistem güncellemesi</string>
 </resources>

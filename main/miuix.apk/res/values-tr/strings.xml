@@ -200,6 +200,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -254,7 +255,7 @@
     <string name="month_september">Eylül</string>
     <string name="month_september_short">Eylül</string>
     <string name="month_september_shortest">E</string>
-    <string name="more">More</string>
+    <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>

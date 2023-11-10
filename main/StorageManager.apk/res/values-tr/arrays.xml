@@ -85,6 +85,7 @@
         <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
         <item>LC3</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -96,12 +97,7 @@
         <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
         <item>LC3</item>
-    </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>" | Aktif"</item>
-        <item>" | Aktif (Medya)"</item>
-        <item>" | Aktif (Telefon)"</item>
+        <item>Qualcomm® aptX™ TWS+ ses</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (Varsayılan)</item>
@@ -117,9 +113,21 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Devre dışı</item>
         <item>Etkin filtre uygulandı</item>
-		<item>Etkin</item>
-		<item>Etkin başlıklar filtrelendi</item>
-		<item>Etkin medya paketleri filtrelendi</item>
+        <item>Etkin</item>
+        <item>Etkin başlıklar filtrelendi</item>
+        <item>Etkin medya paketleri filtrelendi</item>
+        <item>Enabled Profiles Filtered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Yalnızca ACL başlıklarını bırakın</item>
+        <item>A2DP ortam paketlerini filtreleyin</item>
+        <item>RFCOMM kanalını filtrele</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Devre dışı bırak</item>
+        <item>Karakter dizisiyle doldur</item>
+        <item>Yalnızca başlığı bırak</item>
+        <item>Tamamen kaldır</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>
@@ -188,6 +196,14 @@
         <item>4 MB</item>
         <item>16 MB</item>
     </string-array>
+    <string-array name="select_logd_size_values">
+        <item>32768</item>
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>8388608</item>
+    </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Kapalı</item>
         <item>Günlük arabelleklerin tümü</item>
@@ -237,6 +253,12 @@
         <item>Seri</item>
         <item>Çok seri</item>
         <item>En hızlı</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola taşı</item>
+        <item>Aşağı taşı</item>
+        <item>Sağa taşı</item>
+        <item>Yukarı taşı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Şarj oluyor</item>

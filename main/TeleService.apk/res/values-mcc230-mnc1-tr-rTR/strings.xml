@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_data_preference_4g_only_prompt">Yalnızca LTE Sim kartınız olduğu anlaşılıyor. Normal çalıştığından emin olmak için bunu mobil veriler için varsayılan olarak ayarlayın. Şimdi ayarlansın mı?</string>
+    <string name="change_data_sim_4g_only_prompt">"Sim %1$s yalnızca LTE'yi destekliyor. Sim %2$s mobil veri için varsayılan Sim'iniz olmadığında Sim kart normal şekilde çalışmayabilir. Şimdi değiştirilsin mi?"</string>
+    <string name="dual_4g_switch_summary">Her iki Sim yuvası için LTE bağlantısına izin verin</string>
+    <string name="dual_4g_switch_title">Çift LTE</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">"VoLTE her iki Sim yuvası için de LTE bağlantısı gerektirir. Şimdi Çift LTE'ye geçilsin mi?"</string>
+    <string name="opened_dual_4g_confirm_prompt">"Yalnızca LTE'ye özel bir Sim kartınız olduğu anlaşılıyor. Çift LTE otomatik olarak açıldı"</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">"Sim %1$s yalnızca LTE'yi destekliyor. Sim kartınızın normal şekilde çalıştığından emin olmak için çift LTE açıldı"</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">LTE öncelikli</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_dtag">2G/3G/LTE</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_dtag">2G/3G/LTE/5G</string>
+    <string name="turn_off_dual_4g_failed">Çift LTE kapatılamadı</string>
+    <string name="turn_on_dual_4g_failed">Çift LTE açılamadı</string>
+    <string name="wifi_call_setting">Wifi aracılığıyla bağlantı</string>
+</resources>

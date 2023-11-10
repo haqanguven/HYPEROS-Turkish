@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_hint_label_wifi_call">Wifi arama</string>
+    <string name="vice_slot_volte_data_switch_prompt">"Devam eden 4G aramaları sırasında cihazınız ikincil Sim'i kullanarak bir mobil veri ağına bağlanacaktır. Bu ek veri ücretlerine neden olabilir. Veri planınızla ilgili ayrıntılar için yerel operatörünüzle iletişime geçin"</string>
+    <string name="vice_slot_volte_data_switch_summary">"4G aramaları sırasında cihaz ikincil Sim'i kullanarak bir mobil veri ağına bağlanacaktır"</string>
+    <string name="vice_slot_volte_data_switch_title">"İkincil Sim'de 4G aramaları sırasında mobil verileri kullanın"</string>
+    <string name="volte_switch_summary">Sesli aramaların kalitesini artırmak için 4G kullanın</string>
+    <string name="volte_switch_title">4G aramasını kullan</string>
+    <string name="wifi_calling">Wifi araması</string>
+    <string name="wifi_calling_settings_title">Wifi araması</string>
+</resources>

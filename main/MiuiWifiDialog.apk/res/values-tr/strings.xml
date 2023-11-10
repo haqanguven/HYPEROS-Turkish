@@ -32,6 +32,13 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Miui wifi diyalog</string>
+    <string name="call_notification_answer_action">Yanıtla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen aramayı tarama</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -152,6 +159,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -210,9 +218,6 @@
     <string name="morning">Sabah</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>
-	<string name="notification_channel_network_alerts">Ağ uyarıları</string>
-	<string name="notification_channel_network_available">Ağ mevcut</string>
-	<string name="notification_channel_network_status">Ağ durumu</string>
     <string name="ok">Tamam</string>
     <string name="pm">ÖS</string>
     <string name="saturday">Cumartesi</string>
@@ -301,115 +306,11 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-	<string name="wifiResourcesAppLabel">Sistem wifi kaynakları</string>
-	<string name="wifi_available_action_all_networks">Tüm ağlar</string>
-	<string name="wifi_available_action_connect">Bağlan</string>
-	<string name="wifi_available_content_failed_to_connect">Tüm ağları görmek için dokunun</string>
-	<string name="wifi_available_title">Kablosuz ağı açmak için bağlanın</string>
-	<string name="wifi_available_title_connected">Kablosuz ağa bağlı</string>
-	<string name="wifi_available_title_connecting">Kablosuz ağa bağlanılıyor</string>
-	<string name="wifi_available_title_failed_to_connect">Kablosuz ağa bağlanılamadı</string>
-	<string name="wifi_ca_cert_dialog_abort_text">"Hayır. Bağlanma"</string>
-	<string name="wifi_ca_cert_dialog_continue_text">Evet. Bağlan</string>
-	<string name="wifi_ca_cert_dialog_message_contact_text">"İletişim:
-%1$s
-
-"</string>
-<string name="wifi_ca_cert_dialog_message_hint">"Yalnızca aşağıdaki bilgiler doğru görünüyorsa bu ağın bağlanmasına izin verin
-
-"</string>
-	<string name="wifi_ca_cert_dialog_message_issuer_name_text">"Veren adı:
-%1$s
-
-"</string>
-	<string name="wifi_ca_cert_dialog_message_organization_text">"Kuruluş:
-%1$s
-
-"</string>
-	<string name="wifi_ca_cert_dialog_message_server_name_text">"Sunucu adı:
-%1$s
-
-"</string>
-	<string name="wifi_ca_cert_dialog_message_signature_name_text">"İmza:
-%1$s
-
-"</string>
-	<string name="wifi_ca_cert_dialog_preT_abort_text">"Bağlanma"</string>
-	<string name="wifi_ca_cert_dialog_preT_continue_text">Yine de bağlan</string>
-	<string name="wifi_ca_cert_dialog_preT_message_hint">%1$s ağında bir sertifika eksik</string>
-	<string name="wifi_ca_cert_dialog_preT_message_link">Nasıl sertifika ekleyeceğinizi öğrenin</string>
-	<string name="wifi_ca_cert_dialog_preT_title">"Bu ağ doğrulanamıyor"</string>
-	<string name="wifi_ca_cert_dialog_title">Bu ağ güvenilir mi?</string>
-	<string name="wifi_ca_cert_failed_to_install_ca_cert">Sertifika kurulumu başarısız oldu</string>
-	<string name="wifi_ca_cert_notification_message">Bağlanmadan önce %1$s için ağ ayrıntılarını inceleyin. Devam etmek için dokunun</string>
-	<string name="wifi_ca_cert_notification_preT_abort_text">Bağlanma</string>
-	<string name="wifi_ca_cert_notification_preT_continue_text">Yine de bağlan</string>
-	<string name="wifi_ca_cert_notification_preT_message">%1$s ağında bir sertifika eksik. Nasıl sertifika ekleyeceğinizi öğrenmek için dokunun</string>
-	<string name="wifi_ca_cert_notification_preT_title">Bu ağ doğrulanamıyor</string>
-	<string name="wifi_ca_cert_notification_title">Ağın doğrulanması gerekiyor</string>
-	<string name="wifi_cannot_connect_with_randomized_mac_message">Gizlilik ayarlarını değiştirmek ve yeniden denemek için dokunun</string>
-	<string name="wifi_cannot_connect_with_randomized_mac_title">%1$s ile bağlantı kurulamıyor</string>
-	<string name="wifi_connect_alert_message">%1$s uygulaması %2$s wifi ağına bağlanmak istiyor</string>
-	<string name="wifi_connect_alert_title">Bağlantıya izin verilsin mi?</string>
-	<string name="wifi_connect_default_application">Bir uygulama</string>
-	<string name="wifi_disable_mac_randomization_dialog_confirm_text">Ayarı değiştir</string>
-	<string name="wifi_disable_mac_randomization_dialog_failure">Gizlilik ayarı değiştirilemiyor</string>
-	<string name="wifi_disable_mac_randomization_dialog_message">"Bağlanmak için %1$s cihazının benzersiz bir tanımlayıcı olan MAC adresini kullanması gerekiyor. Şu anda bu ağ için gizlilik ayarınız rastgele bir tanımlayıcı kullanıyor
-
-Bu değişiklik cihazınızın konumunun yakındaki cihazlar tarafından izlenmesini sağlayabilir"</string>
-	<string name="wifi_disable_mac_randomization_dialog_network_not_found">Ağ bulunamadı</string>
-	<string name="wifi_disable_mac_randomization_dialog_success">Ayar güncellendi. Tekrar bağlanmayı deneyin</string>
-	<string name="wifi_disable_mac_randomization_dialog_title">Gizlilik ayarı değiştirilsin mi?</string>
-	<string name="wifi_eap_error_message_code_16384">%1$s : EAP kimlik doğrulama hatası 16384</string>
-	<string name="wifi_eap_error_message_code_16385">%1$s : EAP kimlik doğrulama hatası 16385</string>
-	<string name="wifi_eap_error_message_code_32756">%1$s : EAP kimlik doğrulama hatası 32756</string>
-	<string name="wifi_eap_error_message_code_32760">%1$s : EAP kimlik doğrulama hatası 32760</string>
-	<string name="wifi_eap_error_message_code_32761">%1$s : EAP kimlik doğrulama hatası 32761</string>
-	<string name="wifi_eap_error_message_code_32762">%1$s : EAP kimlik doğrulama hatası 32762</string>
-	<string name="wifi_eap_error_message_code_32763">%1$s : EAP kimlik doğrulama hatası 32763</string>
-	<string name="wifi_eap_error_message_code_32764">%1$s : EAP kimlik doğrulama hatası 32764</string>
-	<string name="wifi_eap_error_message_code_32765">%1$s : EAP kimlik doğrulama hatası 32765</string>
-	<string name="wifi_eap_error_message_code_32766">%1$s : EAP kimlik doğrulama hatası 32766</string>
-	<string name="wifi_eap_error_message_code_32767">%1$s : EAP kimlik doğrulama hatası 32767</string>
-	<string name="wifi_eap_error_message_unknown_error_code">%1$s : EAP kimlik doğrulama hatası. Bilinmeyen hata kodu</string>
-	<string name="wifi_enable_request_dialog_message">Wifi'yi hızlı ayarlardan kapatabilirsiniz</string>
-	<string name="wifi_enable_request_dialog_negative_button">İzin verme</string>
-	<string name="wifi_enable_request_dialog_positive_button">İzin ver</string>
-	<string name="wifi_enable_request_dialog_title">%1$s'nin kablosuz ağı açmasına izin verilsin mi?</string>
-	<string name="wifi_interface_priority_approve">İzin ver</string>
-	<string name="wifi_interface_priority_message">Bu %3$s için sorunlara neden olabilir</string>
-	<string name="wifi_interface_priority_message_plural">Bu şu uygulamalar için sorunlara neden olabilir: %3$s</string>
-	<string name="wifi_interface_priority_reject">İzin verme</string>
-	<string name="wifi_interface_priority_title">%1$s bir ağ kaynağı kullanmak istiyor</string>
-	<string name="wifi_p2p_enter_pin_message">Gerekli PIN'i yazın:</string>
-	<string name="wifi_p2p_frequency_conflict_message">Telefon %1$s'ye bağlıyken geçici olarak wifi bağlantısını kesecek</string>
-	<string name="wifi_p2p_from_message">Kimden:</string>
-	<string name="wifi_p2p_invitation_sent_title">Davetiye gönderildi</string>
-	<string name="wifi_p2p_invitation_to_connect_title">Bağlanma daveti</string>
-	<string name="wifi_p2p_show_pin_message">PIN:</string>
-	<string name="wifi_p2p_to_message">Kime:</string>
-	<string name="wifi_sim_required_message">%1$s'ye bağlanmak için bir %2$s Sim takın</string>
-	<string name="wifi_sim_required_title">Kablosuz bağlantı kesildi</string>
-	<string name="wifi_softap_auto_shutdown_timeout_expired_summary">Bağlı cihaz yok. Değiştirmek için dokunun</string>
-	<string name="wifi_softap_auto_shutdown_timeout_expired_title">İnternet paylaşım noktası kapatıldı</string>
-	<string name="wifi_suggestion_action_allow_app">İzin ver</string>
-	<string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Bağlan</string>
-	<string name="wifi_suggestion_action_allow_imsi_privacy_exemption_confirmation">Bağlan</string>
-	<string name="wifi_suggestion_action_disallow_app">Hayır. Teşekkürler</string>
-	<string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">Bağlanma</string>
-	<string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">Bağlanma</string>
-	<string name="wifi_suggestion_content">%s önerilen ağ. Cihaz otomatik olarak bağlanabilir</string>
-	<string name="wifi_suggestion_imsi_privacy_content">Bu ağlar cihazın konumunu izlemek için kullanılabilecek bir Sim kimliği alır</string>
-	<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Bağlanırsanız %s wifi ağı Sim'inizle ilişkili benzersiz bir kimliğe erişebilir veya bu kimliği paylaşabilir. Bu cihazınızın konumunun izlenmesine olanak sağlayabilir"</string>
-	<string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Bağlantı onaylansın mı?</string>
-	<string name="wifi_suggestion_imsi_privacy_title">%s kablosuz ağına bağlanılsın mı?</string>
-	<string name="wifi_suggestion_title">Önerilen kablosuz ağlara izin verilsin mi?</string>
-	<string name="wifi_wakeup_enabled_content">Kayıtlı bir ağın yakınındasınız: %1$s</string>
-	<string name="wifi_wakeup_enabled_title">Kablosuz bağlantı otomatik olarak açıldı</string>
-	<string name="wifi_wakeup_onboarding_action_disable">Tekrar açma</string>
-	<string name="wifi_wakeup_onboarding_subtext">Yüksek kaliteli kayıtlı bir ağın yakınındayken</string>
-	<string name="wifi_wakeup_onboarding_title">Kablosuz bağlantı otomatik olarak açılacak</string>
-	<string name="wifi_watchdog_network_disabled">Wifi ağına bağlanılamadı</string>
-	<string name="wifi_watchdog_network_disabled_detailed">" internet bağlantısı zayıf"</string>
-	<string name="yesterday">Dün</string>
+    <string name="wifi_p2p_enter_pin_message">"Gerekli Pin'i yazın:"</string>
+    <string name="wifi_p2p_from_message">Kime:</string>
+    <string name="wifi_p2p_invitation_sent_title">Davet gönderildi</string>
+    <string name="wifi_p2p_invitation_to_connect_title">Bağlantıya davet et</string>
+    <string name="wifi_p2p_show_pin_message">Pin:</string>
+    <string name="wifi_p2p_to_message">Kime:</string>
+    <string name="yesterday">Dün</string>
 </resources>

@@ -241,6 +241,7 @@
     <string name="evening">Öğleden sonra</string>
     <string name="event_track_content_type_audio">Ses</string>
     <string name="event_track_content_type_video">Video</string>
+    <string name="event_track_content_type_video">video</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -342,12 +343,20 @@
     <string name="miplay_accessibility_prev">Önceki şarkı</string>
     <string name="miplay_accessibility_seekbar">İlerleme çubuğu</string>
     <string name="miplay_accessibility_volume">Ses</string>
-    <string name="miplay_detail_divider_title">TV &amp; hoparlörler</string>
+    <string name="miplay_bluetooth_share_des_text">"Xiaomi kulaklık kullanıcıları: şarj kutusunu açın veya %ds süreyle kutu düğmesini basılı tutun
+Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıklarınızı sıfırlayın ve ardından bağlanın"</string>
+    <string name="miplay_bluetooth_share_headphone_pairing">Sesi paylaşmak için kulaklık ekleyin</string>
+    <string name="miplay_bluetooth_share_subTitle_text">Cihaz sesini başka bir kişiyle paylaşma</string>
+    <string name="miplay_bluetooth_share_title_text">Sesi paylaş</string>
+    <string name="miplay_detail_divider_title">Hoparlörler</string>
     <string name="miplay_detail_header_no_song">Oynatma geçmişi yok</string>
     <string name="miplay_device_full_name">%1$s - %2$s</string>
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
+    <string name="miplay_not_support_hint">Bu özellik desteklenmiyor</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımı. Tekrar deneyin</string>
     <string name="miplay_song_title_empty">Şarkı yok</string>
+    <string name="miplay_switch_local_device_when_in_audio_share_hint">Ses paylaşımını sonlandırıp tekrar deneyin</string>
+    <string name="miplay_tv_cast_retry_toast">Yayınlamayı durdurup tekrar deneyin</string>
     <string name="miui_dnd_count_down">Zamanlayıcıyı ayarlamak için kaydırın</string>
 <string name="miui_dnd_count_down_time">"Rahatsız etme zamanlayıcısı
 %s"</string>
@@ -559,7 +568,6 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
     <string name="quick_settings_cellular_detail_title">Mobil veri</string>
     <string name="quick_settings_cellular_detail_unable_change">Arama sırasında ayarlanamıyor</string>
-    <string name="quick_settings_circulate_workd_label">Mi akıllı ses</string>
     <string name="quick_settings_drivemode_label">Araç modu</string>
     <string name="quick_settings_edit_label">Düzenle</string>
     <string name="quick_settings_extreme_batterysaver_label">Yüksek pil tasarrufu</string>

@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="AudioOnOff">Ses açık veya kapalı</string>
+    <string name="AudioOnOff">Ses açık veya kapalı</string>
     <string name="AudioStatus">Ses durumu</string>
     <string name="CloudControl">Bulut kontrolü</string>
     <string name="CurrentDsi">Mevcut DSi</string>
     <string name="CurrentDsiAnt0">Anten 0</string>
     <string name="CurrentDsiAnt1">Anten 1</string>
+    <string name="CurrentDsiAnt10">Anten 10</string>
     <string name="CurrentDsiAnt2">Anten 2</string>
     <string name="CurrentDsiAnt3">Anten 3</string>
     <string name="CurrentDsiAnt4">Anten 4</string>
     <string name="CurrentDsiAnt5">Anten 5</string>
-    <string name="CurrentDsiOtherAnt">Diper antenler</string>
-	<string name="DsiSetSwitch">DSI çözümü</string>
+    <string name="CurrentDsiAnt6">Anten 6</string>
+    <string name="CurrentDsiAnt7">Anten 7</string>
+    <string name="CurrentDsiAnt8">Anten 8</string>
+    <string name="CurrentDsiAnt9">Anten 9</string>
     <string name="HotspotStatus">Erişim noktası durumu</string>
     <string name="SAR">SAR</string>
     <string name="SAROnOff">SAR açık veya kapalı</string>
@@ -24,7 +27,7 @@
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="abc_capital_off">Kapalı</string>
     <string name="abc_capital_on">Açık</string>
-	<string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
     <string name="abc_menu_enter_shortcut_label">Girin</string>
@@ -50,10 +53,12 @@
     <string name="auto_frontflash_title">Ön kamera flaş testi</string>
     <string name="auto_rearflash_description">Tüm arka kamera flaş ışıkları açık. Geçmek için tıklayın. Aksi takdirde başarısız olmak için tıklayın</string>
     <string name="auto_rearflash_title">Arka kamera flaş testi</string>
+    <string name="aux_mic_check_record_tip">"Kaydediliyor. Lütfen cihazın altındaki AUX MIC'e bir şeyler söyleyin"</string>
     <string name="back_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın arkasındaki mikrofona bir şeyler söyleyin</string>
     <string name="battery_authentic">Pil doğrulama</string>
+    <string name="battery_auto_plug_wirelee_summary">Kablosuz şarj cihazı başarıyla bağlandı. Test başarılı oldu</string>
     <string name="battery_dual_connector">Pil çift konektörü</string>
-	<string name="battery_id">Pil kimliği</string>
+    <string name="battery_id">Pil kimliği</string>
     <string name="battery_plug_wirelee_summary">Her bağlantıda kablosuz şarj cihazı bağlantıyı bir kez kesin</string>
     <string name="battery_plug_wirelee_title">Kablosuz şarj testi</string>
     <string name="battery_plugin_wirelee">Kablosuz şarj bağlı</string>
@@ -62,7 +67,7 @@
     <string name="battery_reverse_wireless_charge_summary">Ters kablosuz şarj testi</string>
     <string name="battery_reverse_wireless_charge_time_out">Ters kablosuz şarj zaman aşımı</string>
     <string name="battery_reverse_wireless_charge_title">Ters kablosuz şarj</string>
-    <string name="battery_ Third_connector">Pil konnektör voltajı</string>
+    <string name="battery_third_connector">Pil konektörü gerilimi</string>
     <string name="battery_value">Elektrik</string>
     <string name="bottom_high_speaker_title">Alt tweeter testi</string>
     <string name="bottom_left_high_speaker">Sol taraf alt tweeter testi</string>
@@ -71,28 +76,24 @@
     <string name="bottom_right_high_speaker">Sağ taraf alt tweeter testi</string>
     <string name="bottom_right_low_speaker">Sağ taraf alt woofer testi</string>
     <string name="bottom_speaker_title">Alt hoparlör testi</string>
-    <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="bt_address">Adres:</string>
     <string name="bt_name">Ad:</string>
     <string name="camera_capture">Yakala</string>
     <string name="camerainfo">Kamera bilgileri</string>
     <string name="cancel">İptal et</string>
-    <string name="character_counter_content_description">%2$d karakterden %1$d karakter girildi</string>
-    <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d/%2$d aşıldı</string>
     <string name="charger_test_end">"
 Şarj cihazı testi bitti. Lütfen şarj cihazının fişini çekin"</string>
-    <string name="chip_text">Yonga metni</string>
-	<string name="cit_DP_check_summary">Type-C - DP kablosu test işlemi sırasında bağlanmalıdır</string>
+    <string name="cit_DP_check_summary">Type-C - DP kablosu test işlemi sırasında bağlanmalıdır</string>
     <string name="cit_DP_check_title">DP testi</string>
     <string name="cit_DP_in_start_test">Test işlemini başlatmak için lütfen type-C - DP Kablosunu takın</string>
     <string name="cit_DP_plug_err">"Algılama cihazı bağlantı değişikliği
 Temel düğüm değeri okunamadı
-"değeri alınmadı"</string>
+değer alınamadı"</string>
     <string name="cit_DP_plug_fail">"Algılama cihazı bağlantı değişikliği
 Temel düğüm değeri okunamadı
 Testi başlatmak için lütfen type-C dönüşünü DP Kablosuna takın"</string>
     <string name="cit_DP_plug_out_err">"Test hatası
-"değeri alınmadı"</string>
+değer alınamadı"</string>
     <string name="cit_DP_plug_out_fail">"Algılama cihazı bağlantı değişikliği
 Temel düğüm değeri okunamadı
 Test başarısız oldu
@@ -121,15 +122,15 @@ Test başarısız oldu"</string>
 Test başarısız oldu"</string>
     <string name="cit_USB3_in_need_plugout">Bağlı USB aygıtı algılandı. Testi başlatmak için dışarı çekin</string>
     <string name="cit_USB3_in_start_test">%1$s özellikli cihazları takın ve teste başlayın</string>
-	<string name="cit_USB3_plug_err">Doğru değeri okumadınız. Nedenini öğrenmek için lütfen geliştiriciyle iletişime geçin</string>
-    <string name="cit_USB3_plug_fail">Test cihazı %1$s'yi desteklemiyor ve test başarısız oldu</string>
+    <string name="cit_USB3_plug_err">Doğru değeri okumadınız. Nedenini öğrenmek için lütfen geliştiriciyle iletişime geçin</string>
+    <string name="cit_USB3_plug_fail">"Test cihazı %1$s'yi desteklemiyor ve test başarısız oldu"</string>
     <string name="cit_USB3_plug_out_test_err">"Cihaz yerinden çıktı. Test başarısız oldu
 Doğru değeri alamadım. Nedenini öğrenmek için lütfen araştırma ve geliştirme öğrencisiyle iletişime geçin"</string>
     <string name="cit_USB3_plug_out_test_fail">"Cihaz yerinden çıktı. Test başarısız oldu
 Test ekipmanı %1$s'yi desteklemeyebilir. Yedek ekipmanı yeniden test etmeniz önerilir"</string>
     <string name="cit_USB3_plug_out_test_pass">Cihaz çıktı. Tst geçti</string>
     <string name="cit_USB3_plug_pass">%1$s geçti. Lütfen cihazları çıkarın</string>
-    <string name="cit_USB3_plug_re_plugin">"%1$s testi bitti. Lütfen testi tekrarlamayın"</string>
+    <string name="cit_USB3_plug_re_plugin">%1$s testi bitti. Lütfen testi tekrarlamayın</string>
     <string name="cit_abnormal_reboot_summary">Lütfen bekleyin. Bu cihazdaki kararlılık verileri okunuyor</string>
     <string name="cit_abnormal_reboot_title">Cihaz kararlılık verileri</string>
     <string name="cit_ac_charger_in">(USB_DCP) yoluyla şarj</string>
@@ -146,7 +147,7 @@ Cihazı kalibre etmeden önce düz bir yüzeye yerleştirin"</string>
     <string name="cit_action_on">Açık</string>
     <string name="cit_analog_headset_plug_hint">Analog kulaklıkları şimdi bağlayın</string>
     <string name="cit_apk_signature_failed">apk imzası başarısız oldu</string>
-	<string name="cit_apk_signature_passed">AAPK imzası başarılı oldu</string>
+    <string name="cit_apk_signature_passed">AAPK imzası başarılı oldu</string>
     <string name="cit_aud_current_state">Mevcut durum:</string>
     <string name="cit_aud_spk_vendor">Konuşmacı satıcısı:</string>
     <string name="cit_aud_spkcal">Ayarla</string>
@@ -157,10 +158,22 @@ Cihazı kalibre etmeden önce düz bir yüzeye yerleştirin"</string>
     <string name="cit_audio_hw_check_summary">Ses donanımı kontrol testi</string>
     <string name="cit_audio_hw_check_tips">Test çalıştırılıyor</string>
     <string name="cit_audio_hw_check_title">Ses donanımı kontrol testi</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Yardımcı mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Arka mikrofon hoparlör geri bildirim testi</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Ana mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Yardımcı mikrofondan alıcıya geri bildirim testi
+
+Cihazı sanki arama yapıyormuş gibi tutun, yardımcı mikrofonla konuşun ve alıcıdan ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Arka mikrofondan alıcıya geri bildirim testi
+
+Cihazı arama yapıyormuş gibi tutun, arka mikrofona konuşun ve alıcıdan ses duymalısınız"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Ana mikrofondan alıcıya geri bildirim testi
 
 Cihazı arama yapıyormuş gibi tutun, ana mikrofona konuşun alıcıdan ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Üst mikrofondan alıcıya geri bildirim testi
+
+Cihazı arama yapıyormuş gibi tutun, üst mikrofona konuşun ve alıcıdan ses duymalısınız."</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Üst mikrofon hoparlörü geri bildirim testi</string>
     <string name="cit_audio_spk_cal_valueF0">F0:</string>
     <string name="cit_audio_spk_cal_valueRe">Bak:</string>
     <string name="cit_audio_spk_cal_valueT">Sıcaklık:</string>
@@ -175,7 +188,7 @@ Cihazı arama yapıyormuş gibi tutun, ana mikrofona konuşun alıcıdan ses duy
     <string name="cit_batterylight_blue">Mavi</string>
     <string name="cit_batterylight_green">Yeşil</string>
     <string name="cit_batterylight_red">Kırmızı</string>
-	<string name="cit_batterylight_rgb_all">Tüm ışık efektleri</string>
+    <string name="cit_batterylight_rgb_all">Tüm ışık efektleri</string>
     <string name="cit_batterylight_white">Beyaz</string>
     <string name="cit_blue_tooth_address_check_summary">Bu cihazın Bluetooth adresi aşağıda görüntülenmelidir</string>
     <string name="cit_blue_tooth_address_check_title">Bluetooth adresini al</string>
@@ -190,6 +203,14 @@ Cihazı arama yapıyormuş gibi tutun, ana mikrofona konuşun alıcıdan ses duy
     <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth cihazı açılıyor</string>
     <string name="cit_bottom_left_speaker_test">Sol alt hoparlör testi</string>
     <string name="cit_bottom_right_speaker_test">Sağ alt hoparlör testi</string>
+    <string name="cit_btn_security_test_summary">"1. Lütfen butona tıklayın, bir süre bekleyin ve ağ durumunu kontrol etmeye dikkat edin
+2.Güncelleme Başarısı açılırsa bu Widevine sertifikasının başarıyla güncellendiği anlamına gelir
+3.Sertifika Güncelleme Başarısız açılırsa bu geniş sertifikanın güncellendiği anlamına gelir
+4.Bu araç normal bir test olarak kullanılmaz
+5.Bu araç şu anda yalnızca XiaoMi Pad 6 ile çalışmaktadır"</string>
+    <string name="cit_btn_security_test_text">Güncelleme başarılı</string>
+    <string name="cit_btn_security_text">Widevine sertifika güncellemesi</string>
+    <string name="cit_btn_security_text_title">Güvenlik sertifikaları güncellemesi</string>
     <string name="cit_build_finger_failed">parmak izi oluşturma başarısız oldu</string>
     <string name="cit_build_finger_passed">parmak izi oluşturma başarılı oldu</string>
     <string name="cit_calibration_fail">Kalibrasyon başarısız oldu</string>
@@ -202,7 +223,7 @@ Cihazı arama yapıyormuş gibi tutun, ana mikrofona konuşun alıcıdan ses duy
 2.Deklanşöre dokunun
 3.Sistem fotoğrafı çektikten sonra otomatik olarak kaydedecektir
 4.Çektiğiniz fotoğraf ekranda görünmelidir. Testi tamamlamak için geçtiye dokunun"</string>
-<string name="cit_camera_deleted">Fotoğraf silindi</string>
+    <string name="cit_camera_deleted">Fotoğraf silindi</string>
     <string name="cit_camera_deleted_failed">Fotoğraf silinemedi</string>
     <string name="cit_camera_flash_adjust">Flaşı ayarlayın</string>
     <string name="cit_camera_hardware_check">Kameranın donanımla ilgili işlev tespiti devam ediyor. Lütfen bekleyin</string>
@@ -225,8 +246,8 @@ ve şarj cihazını ters takın"</string>
     <string name="cit_charger_waiting_in">Şarj cihazını bağlayın</string>
     <string name="cit_charger_waiting_out">Şarj cihazının bağlantısını şimdi kesin</string>
     <string name="cit_cust_img_version">CUST sürüm bilgisini sorgula</string>
-    <string name="cit_rought_camera_check_title">Derinlik kamerası</string>
-	<string name="cit_diag_chaging_summary">Şarj günlüğü dosyalarını SD karta kopyala</string>
+    <string name="cit_depth_camera_check_title">Depth camera</string>
+    <string name="cit_diag_chaging_summary">Şarj günlüğü dosyalarını SD karta kopyala</string>
     <string name="cit_diag_chaging_title">Şarj kaydediciyi oku</string>
     <string name="cit_diag_jank_summary">jank günlükçü dosyalarını SD karta kopyala</string>
     <string name="cit_diag_signal_summary">Sinyal kararlılığı kaydedici dosyalarını SD karta kopyalayın</string>
@@ -244,15 +265,26 @@ ve şarj cihazını ters takın"</string>
     <string name="cit_earpiece">Alıcı</string>
     <string name="cit_earpiece_summary">"İki rastgele sayı duyacaksınız
 Lütfen duyduğunuz sayıya göre uygun düğmeyi tıklayın"</string>
-	<string name="cit_emergencycall_check_summary">"112'nin yerleştirilip yerleştirilemeyeceğini kontrol etmek için lütfen 112'yi çevir düğmesine tıklayarak 112'yi çevirin"</string>
+    <string name="cit_emergencycall_check_summary">"112'nin yerleştirilip yerleştirilemeyeceğini kontrol etmek için lütfen 112'yi çevir düğmesine tıklayarak 112'yi çevirin"</string>
     <string name="cit_emergencycall_check_title">Acil durum araması</string>
+    <string name="cit_esim_check_summary">Aşağıda eSIM durumu gösterilmektedir ve eSIM durumunun doğru görüntülenmesi testin başarılı olduğunu gösterir</string>
+    <string name="cit_esim_check_title">eSIM kart</string>
+    <string name="cit_esim_eid_error">eID uyumsuzluğu</string>
+    <string name="cit_esim_eid_number">eID:</string>
+    <string name="cit_esim_mode_general_summary">eSIM veya SIM2 geçişini destekleyin</string>
+    <string name="cit_esim_mode_number">eSIM mod:</string>
+    <string name="cit_esim_mode_single_summary">eSIM veya SIM2 geçişini desteklemiyor</string>
+    <string name="cit_esim_serial_number">eSIM kart:</string>
+    <string name="cit_esim_state_absent">eSIM etkinleştirilmedi</string>
+    <string name="cit_esim_state_ready">eSIM etkinleştirildi</string>
     <string name="cit_exit_test_summary">Çıktığınızda ilgili tüm metin verileri silinecek</string>
     <string name="cit_exit_test_title">Testten çık</string>
     <string name="cit_external_keyboard_test_summary">Lütfen klavyeyi bağladıktan sonra karakterleri rastgele girin ve test sonuçlarını gözlemleyin</string>
     <string name="cit_external_keyboard_test_title">Harici klavye testi</string>
-    <string name="cit_fail">Başarısız</string>
+    <string name="cit_fail">Başarısız olu</string>
     <string name="cit_flash_life_check_summary">Cihaz flaş ömrü tahmini</string>
     <string name="cit_flash_life_check_title">Flaş ömrü</string>
+    <string name="cit_flash_timeout_tip">Test zaman aşımına uğradı. Lütfen flaş testini tekrar girin</string>
     <string name="cit_flicker_sensor_check_summary">Flicker için değerler aşağıda görünmelidir</string>
     <string name="cit_flicker_sensor_check_title">Titreşim sensörü</string>
     <string name="cit_flip_board_bottom_speaker_test_title">"Flip Board'da alt hoparlör testi"</string>
@@ -268,6 +300,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_front_camera_motor_cali_tips">Açılır kamera motoru kalibrasyon işlemi sırasında kamerayı engellemeyin</string>
     <string name="cit_front_dual_camera_check_title">Ön Bokeh kamera</string>
     <string name="cit_front_sub_camera_check_title">Ön yardımcı kamera</string>
+    <string name="cit_front_sub_camera_check_title_fold">Alt ekran ön kamera</string>
     <string name="cit_get_signature_failed">imza alınamadı</string>
     <string name="cit_gps_check_summary">Karşılık gelen GPS bilgisi aşağıda görüntülenmelidir</string>
     <string name="cit_gps_check_title">GPS</string>
@@ -283,7 +316,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_gyroscope_second_cali_title">İkinci Jiroskop sensörü kalibrasyon testi</string>
     <string name="cit_gyroscope_sensor_cali_title">Jiroskop sensörü kalibrasyon testi</string>
     <string name="cit_gyroscope_sensor_check_summary">X，Y，Z için değer koordinatları aşağıda görünmelidir</string>
-	<string name="cit_hall_far">Uzak</string>
+    <string name="cit_hall_far">Uzak</string>
     <string name="cit_hall_miui_test_summary">Mıknatıs yeşil alana yakın olduğunda siyah ekran, aksi takdirde ekran parlak ekrandır</string>
     <string name="cit_hall_near">Yakın</string>
     <string name="cit_hall_test_summary">Lütfen mıknatısı yeşil alana yaklaştırın ve 1 saniye sonra uzak durun</string>
@@ -300,6 +333,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_headset_pull_finish">Kulaklık bağlantısı kesildi</string>
     <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesildi. Test tamamlandı</string>
     <string name="cit_headset_right_hph_val">Riht kanal empedans değeri：</string>
+    <string name="cit_horn_motor_test">Horn motor test</string>
     <string name="cit_hvdcp_charger_in">(USB_HVDCP) yoluyla şarj</string>
     <string name="cit_init_fp_fod_test_tip">Init parmak izi test oOrtamı</string>
     <string name="cit_ispv3_test">ISPv3 test</string>
@@ -308,7 +342,9 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_lcdlight_brightness">Arka ışık</string>
     <string name="cit_lcdlight_brightness_max">MAX</string>
     <string name="cit_lcdlight_brightness_min">MIN</string>
-	<string name="cit_led_selected">Mevcut seçili：</string>
+    <string name="cit_lcdlight_title">Arka ışık testi</string>
+    <string name="cit_led_change">LED flaş modunu seçin</string>
+    <string name="cit_led_selected">Mevcut seçili：</string>
     <string name="cit_leds_check_title">Bildirim ışığı</string>
     <string name="cit_light_sensor_check_summary">DAC değeri aşağıda görünmelidir. Lütfen ışık sensörünü test edin</string>
     <string name="cit_light_sensor_check_title">Işık sensörü</string>
@@ -319,6 +355,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_main_board_bottom_speaker_test_title">Ana kartta alt hoparlör testi</string>
     <string name="cit_main_board_top_speaker_test_title">Ana kartta en iyi hoparlör testi</string>
     <string name="cit_main_camera_check_title">Arka kamera</string>
+    <string name="cit_modem_hardware_title">Modem donanım testi</string>
     <string name="cit_nfc_check_enable_tip">NFC test ortamını başlat</string>
     <string name="cit_nfc_check_summary">"NFC'yi başlatmak için lütfen düğmeyi tıklayın ve ardından kartı cihazın arkasının üst kısmına yerleştirin
 Test sırasında ekranı kapatmayın"</string>
@@ -329,6 +366,7 @@ Test sırasında ekranı kapatmayın"</string>
     <string name="cit_pass">Geçildi</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Testi başlatmak için lütfen kalemi tablonun sağ algılama alanına yerleştirin</string>
     <string name="cit_pencil_reverse_wireless_charger_title">Kalem Şarj Testi</string>
+    <string name="cit_pixeworks_chip_check_title">Pixeworks iris 7 çip kontrolü</string>
     <string name="cit_pointer_location_title">Dokunmatik sensör</string>
     <string name="cit_power_check_summary">Pilin şarj miktarı aşağıda yüzde olarak ifade edilmelidir.</string>
     <string name="cit_power_check_title">Pil göstergesi</string>
@@ -350,7 +388,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_sar_sensor_collect_cali_description">Sar Sensör kalibrasyonu ve veri toplama</string>
     <string name="cit_second_screen_accelermeter_sensor_cali_title">İkinci ekran hızlandırma sensörü kalibrasyon testi</string>
     <string name="cit_second_screen_gyroscope_sensor_cali_title">İkinci ekran Jiroskop sensörü kalibrasyon testi</string>
-	<string name="cit_signature_check_label">İmza kontrolü:</string>
+    <string name="cit_signature_check_label">İmza kontrolü:</string>
     <string name="cit_sim_check_summary">Sim kartın durumunun ve bilgilerinin aşağıda görüntülendiğini doğrulayın. İki sim yuvası varsa aynı anda yalnızca iki Sim kart var ve doğru duruma sahipse geçilebilir</string>
     <string name="cit_sim_check_title">Sim kart</string>
     <string name="cit_sim_error_unknown">Bilinmeyen</string>
@@ -371,7 +409,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_soft_torch_first">İlk yumuşak flaş</string>
     <string name="cit_soft_torch_second">İkinci hafif flaş</string>
     <string name="cit_start_calibration">Ayarla</string>
-	<string name="cit_sub_display_check_title">Alt ekran</string>
+    <string name="cit_sub_display_check_title">Alt ekran</string>
     <string name="cit_sub_touch_panel_test_title">Sub dokunma sensörü</string>
     <string name="cit_tele_camera_check_title">Tele kamera</string>
     <string name="cit_test_results">Geçmiş test sonucu</string>
@@ -385,7 +423,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tof_sensor_check_title">Tof sensörü</string>
     <string name="cit_tool">Ek araçlar</string>
     <string name="cit_tool_active_mbn">Etkin</string>
-    <string name="cit_tool_active_mbn_notify">MBN'yi ayarlamak için biraz bekleyin</string>
+    <string name="cit_tool_active_mbn_notify">"MBN'yi ayarlamak için biraz bekleyin"</string>
     <string name="cit_tool_asdiv_ant_pos_setting">Karınca konumunu ayarla</string>
     <string name="cit_tool_asdiv_get_result_band_title">Geçerli karınca grubu</string>
     <string name="cit_tool_asdiv_get_result_carrier_title">Geçerli karınca taşıyıcı hücresi</string>
@@ -407,7 +445,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tool_bluetooth_le_rx_50">RX: BLE 5.0</string>
     <string name="cit_tool_bluetooth_le_rx_50_channel">Kanal:</string>
     <string name="cit_tool_bluetooth_le_rx_50_phy">PHY:</string>
-	<string name="cit_tool_bluetooth_le_rx_ch0">Bluetooth LE 2.402GHz frekans RX test moduna girin</string>
+    <string name="cit_tool_bluetooth_le_rx_ch0">Bluetooth LE 2.402GHz frekans RX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_rx_ch1">Bluetooth LE 2.404GHz frekans RX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_rx_ch10">Bluetooth LE 2.422GHz frekans RX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_rx_ch11">Bluetooth LE 2.424GHz frekans RX test moduna girin</string>
@@ -449,7 +487,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tool_bluetooth_le_rx_ch9">Bluetooth LE 2.420GHz frekans RX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_rx_msg">Bluetooth LE 5.0 RX test moduna girin:</string>
     <string name="cit_tool_bluetooth_le_rx_msg_old">Bluetooth LE 4.x RX test moduna girin:</string>
-	<string name="cit_tool_bluetooth_le_rx_num">RX paket sayısı:</string>
+    <string name="cit_tool_bluetooth_le_rx_num">RX paket sayısı:</string>
     <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
     <string name="cit_tool_bluetooth_le_tx_4x_antenna">Anten:</string>
     <string name="cit_tool_bluetooth_le_tx_4x_channel">Kanal:</string>
@@ -463,7 +501,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tool_bluetooth_le_tx_50_powerdbm">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_le_tx_antenna">anten:</string>
     <string name="cit_tool_bluetooth_le_tx_ch0">Bluetooth LE 2.402GHz frekans TX test moduna girin</string>
-	<string name="cit_tool_bluetooth_le_tx_ch1">Bluetooth LE 2.404GHz frekans TX test moduna girin</string>
+    <string name="cit_tool_bluetooth_le_tx_ch1">Bluetooth LE 2.404GHz frekans TX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_tx_ch10">Bluetooth LE 2.422GHz frekans TX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_tx_ch11">Bluetooth LE 2.424GHz frekans TX test moduna girin</string>
     <string name="cit_tool_bluetooth_le_tx_ch12">Bluetooth LE 2.426GHz frekans TX test moduna girin</string>
@@ -511,7 +549,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tool_bluetooth_le_tx_power_msg">Bluetooth BLE TX Güç testi moduna girin:</string>
     <string name="cit_tool_bluetooth_le_tx_type">PHY:</string>
     <string name="cit_tool_bluetooth_not_on">Bluetooth etkin değil</string>
-	<string name="cit_tool_bluetooth_off">"Bluetooth'u devre dışı bırak"</string>
+    <string name="cit_tool_bluetooth_off">"Bluetooth'u devre dışı bırak"</string>
     <string name="cit_tool_bluetooth_on">"Bluetooth'u etkinleştir"</string>
     <string name="cit_tool_bluetooth_rse">Bluetooth RSE test moduna girin</string>
     <string name="cit_tool_bluetooth_rse_chain">Anten:</string>
@@ -555,13 +593,13 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
 3. Mevcut modemde yüklü olan MBN bilgilerini görüntüleyebilir
 İlk satır geçerli modem tarafından yüklenen MBN'nin sistemin varsayılan MBN'si olup olmadığını gösterir. (Bazı ürünler ilgili arayüze entegre olmayabilir. Bu satır şunu gösterecektir: Desteklenmiyor)
 İkinci satır modemde yüklü olan varsayılan MBN ve taşıyıcı MBN'nin adını ve sürüm numarasını gösterir. Özel olarak yüklenen MBN'miz taşıyıcı MBN'dir, SUB0 kart 1'dir, SUB1 kart 2'dir"</string>
-	<string name="cit_tool_mbn_path_select_hit">"MBN'nin tam yolunu seçin:"</string>
+    <string name="cit_tool_mbn_path_select_hit">"MBN'nin tam yolunu seçin:"</string>
     <string name="cit_tool_mbn_path_select_notice">Yukarıda bulamadınız mı?</string>
     <string name="cit_tool_mbn_recovery_default">"Kurtarma varsayılan MBN'si"</string>
     <string name="cit_tool_modem">Modem test araçları</string>
     <string name="cit_tool_modem_bugreport">MODEM çekirdek dökümünü zorla</string>
     <string name="cit_tool_modem_clear_empty">Temizle</string>
-    <string name="cit_tool_modem_deactive_mbn">dDevre dışı</string>
+    <string name="cit_tool_modem_deactive_mbn">Devre dışı</string>
     <string name="cit_tool_modem_exit_ftm">FTM modundan çık</string>
     <string name="cit_tool_modem_feature_config_cust">Geçerli hata yapılandırması aşağıdaki gibidir</string>
     <string name="cit_tool_modem_feature_config_default">Varsayılan olarak geçerli hata yapılandırması</string>
@@ -572,7 +610,7 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_tool_modem_rf_ant_test">Modem RF ANT test ayarı</string>
     <string name="cit_tool_modem_test_clr">Kodun varsayılan değerini ayarla</string>
     <string name="cit_tool_modem_test_device_value_set">Cihaz durumunu değiştir</string>
-	<string name="cit_tool_modem_test_get">Güncelleme</string>
+    <string name="cit_tool_modem_test_get">Güncelleme</string>
     <string name="cit_tool_modem_test_mode">Modem test modu ayarı</string>
     <string name="cit_tool_modem_test_mode_closed">Test modu kapatıldı</string>
     <string name="cit_tool_modem_test_mode_mismatch">Test modu eşleşmiyor</string>
@@ -603,7 +641,7 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_tool_setting_wait">Ayarlanıyor. Lütfen bekleyin</string>
     <string name="cit_tool_switch_autosms">Otomatik mesaj kaydını etkinleştir veya devre dışı bırak</string>
     <string name="cit_tool_to_fetching">Getirilecek</string>
-	<string name="cit_tool_wlan">Wifi test aracı</string>
+    <string name="cit_tool_wlan">Wifi test aracı</string>
     <string name="cit_tool_wlan_circular_capture">Dairesel olarak yakala</string>
     <string name="cit_tool_wlan_clear">Temizle</string>
     <string name="cit_tool_wlan_exit">Çıkış</string>
@@ -618,11 +656,13 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_tool_wlan_rx_stop">Dur</string>
     <string name="cit_tool_wlan_rxac_test">Rx: Ac</string>
     <string name="cit_tool_wlan_rxax_test">Rx: Balta</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: be</string>
     <string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
     <string name="cit_tool_wlan_rxbg_test_channel">Kanal:</string>
     <string name="cit_tool_wlan_rxn_test">Rx: n</string>
     <string name="cit_tool_wlan_rxn_test_bw">Bant genişliği:</string>
     <string name="cit_tool_wlan_rxn_test_channel">Kanal:</string>
+    <string name="cit_tool_wlan_sar_test_title">Wifi-SAR aracı</string>
     <string name="cit_tool_wlan_sniffer">Wifi koklayıcı aracı</string>
     <string name="cit_tool_wlan_sniffer_settings">Koklayıcı ayarları</string>
     <string name="cit_tool_wlan_sniffer_test_title">Wifi algılayıcı test aracı</string>
@@ -630,6 +670,8 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_tool_wlan_tx_ac">Tx: Ac</string>
     <string name="cit_tool_wlan_tx_ax">Tx: Balta</string>
     <string name="cit_tool_wlan_tx_ax_gI">Koruma aralığı:</string>
+    <string name="cit_tool_wlan_tx_be">Tx: be</string>
+    <string name="cit_tool_wlan_tx_be_gI">Guard Interval:</string>
     <string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
     <string name="cit_tool_wlan_tx_bg_chan">Kanal:</string>
     <string name="cit_tool_wlan_tx_bg_ducl">Görev:</string>
@@ -646,7 +688,7 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_tool_wlan_update_ap_list">AP listesini güncelle</string>
     <string name="cit_top_left_speaker_test">Sol üst hoparlör testi</string>
     <string name="cit_top_right_speaker_test">Sağ üst hoparlör testi</string>
-	<string name="cit_torch">Flash</string>
+    <string name="cit_torch">Flash</string>
     <string name="cit_torch_first">İlk flaş</string>
     <string name="cit_torch_second">İkinci flaş</string>
     <string name="cit_touch_auto_main_tips">Ana ekranda otomatik test yapılıyor. Lütfen ekrana dokunmayın</string>
@@ -671,7 +713,7 @@ Test başarısız oldu"</string>
     <string name="cit_usb_OTG_out">USB_OTG aygıtının fişi çekildi. Lütfen fişi tersine çevirin</string>
     <string name="cit_usb_OTG_plug_in_start_test">Lütfen USB_OTG cihazını takın ve teste başlayın</string>
     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG fişe takıldı. Test tamamlandı</string>
-	<string name="cit_usb_OTG_plug_re_plugin">USB_OTG testi tamamlandı. Yeniden test etmeye gerek yok</string>
+    <string name="cit_usb_OTG_plug_re_plugin">USB_OTG testi tamamlandı. Yeniden test etmeye gerek yok</string>
     <string name="cit_usb_charger_in">(USB) ile şarj</string>
     <string name="cit_usb_charger_out">Şarj cihazı bağlantısı kesildi</string>
     <string name="cit_uwb_calibrate_color_black">Siyah</string>
@@ -698,12 +740,11 @@ Renklerin tüm ekranda tutarlı bir şekilde görüntülendiğini onaylayın. D�
     <string name="cit_wifi_address_error">"Wifi adresi alınamadı. Wifi'nin etkinleştirildiğinden emin olun."</string>
     <string name="cit_wifi_ap_scan_check_summary">Aşağıda tespit edilen alandaki cihazların wifi AP bilgileri yer almaktadır. Yeşil renkle vurgulanan bilgilerin doğru olduğunu onaylayın</string>
     <string name="cit_wifi_ap_scan_check_title">Wifi AP taraması</string>
-	<string name="cit_wifi_ap_scan_retry">Yeniden taranıyor</string>
+    <string name="cit_wifi_ap_scan_retry">Yeniden taranıyor</string>
     <string name="cit_wifi_ap_scanning">Tarama</string>
     <string name="cit_wifi_fail_to_scan">Ağ taraması yapılamadı</string>
     <string name="cit_wifi_state_refresh">Yenile</string>
     <string name="cit_x_tele_camera_check_title">Süper tele kamera</string>
-    <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="close_third_color_led">Üç renkli ışığı kapat</string>
     <string name="cold_light_title">Soğuk ışık</string>
     <string name="continue_vibrator">Titrşime devam et</string>
@@ -716,14 +757,13 @@ Renklerin tüm ekranda tutarlı bir şekilde görüntülendiğini onaylayın. D�
     <string name="enrol">Kaydol</string>
     <string name="enrolCount">Kayıt sayısı</string>
     <string name="enrolQuality">Kayıt kalitesi</string>
-    <string name="error_icon_content_description">Hata</string>
-    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="enrollment_error_tip">The fingerprint entry card control strategy is triggered, please ensure that the fingerprints are clear and clean, or exit the current test item and start the test again.</string>
     <string name="failed_to_get_permission">Bulut denetimi algılama başarısız oldu ve bazı işlevler kayboldu</string>
     <string name="fingerprint_input_title">parmak izi giriş testi</string>
     <string name="firstplug_mic_check_record_tip">Kaydı durdurun. Kulaklığı taktıktan sonra sonucu onaylayın</string>
     <string name="fod_check_start_error">"Sensör kontrol programı başlatılamıyor
 Test başarısız oldu"</string>
-	<string name="fod_check_summary">"Test talimatları:
+    <string name="fod_check_summary">"Test talimatları:
 Sensör tipine göre otomatik test
 Test sonucunu temel alarak başarılı veya başarısız düğmesini tıklayın"</string>
     <string name="fod_check_title">Parmak izi sensörü kontrolü</string>
@@ -733,76 +773,34 @@ Test başarısız oldu"</string>
     <string name="fod_fingerprint_input_title">Ekran parmak izi giriş testi</string>
     <string name="front_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın ön tarafındaki mikrofana bir şeyler söyleyin</string>
     <string name="get_dsi_tips">Mevcut DSI değeri</string>
-    <string name="headset_plug_check_tip">Şimdi bandı oynatın, kulaklığı dinleyin. Lütfen testi kapattığınızda kulaklığı çıkarın</string>
+    <string name="headset_plug_check_tip">Şimdi bandı oynatın ve kulaklığı dinleyin. Lütfen testi kapattığınızda kulaklığı çıkarın</string>
     <string name="headset_press">Basın</string>
     <string name="headset_record">Kayıt yapılıyor. Lütfen kulaklığa bir şey söyleyin. Kayıt 3 saniye içinde durdurulacaktır</string>
     <string name="headset_test">Kulaklık testi</string>
     <string name="headset_test_tips">Bu kulaklığın takılmasını, çıkarılmasını, kulaklığın mikrofona ve kulaklık düğmesini test edecek vede tüm testler başarılı olacaktır</string>
     <string name="headset_unplug_check_tip">Lütfen kulaklığı takın</string>
-    <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="inputdefine">Yazılım</string>
     <string name="interval_vibrator">Aralıklı titreşimi</string>
-    <string name="item_view_role_description">Sekme</string>
     <string name="keyboard">Anahtar</string>
     <string name="keyboard_vibrator_test">Klavye testi</string>
-    <string name="label">Etiket</string>
     <string name="lcminfo">LCM bilgisi</string>
     <string name="main_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın ana kısmındaki mikrofana bir şeyler söyleyin</string>
-    <string name="material_clock_toggle_content_description">Öğleden önce veya öğleden sonrayı seçin</string>
-    <string name="material_hour_selection">Saati seçin</string>
-    <string name="material_ minute_selection">Dakika seçin</string>
-    <string name="material_ minute_suffix">%1$s dakika</string>
-	<string name="material_slider_range_end">Aralık sonu,</string>
-    <string name="material_slider_range_start">Aralık başlangıcı,</string>
-    <string name="material_timepicker_am">ÖÖ</string>
-    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin</string>
-    <string name="material_timepicker_hour">Saat</string>
-    <string name="material_timepicker_ minute">Dakika</string>
-    <string name="material_timepicker_pm">ÖS</string>
-    <string name="material_timepicker_select_time">Zamanı seçin</string>
-    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
     <string name="mic1_spk_loop">Mikrofon konuşma döngüsü</string>
     <string name="mic_check_rm_headset_tip">Önce kulaklığı çıkarın ve sesi kaydedin</string>
+    <string name="mic_reopen_tip">Lütfen test için bu test öğesini yeniden girin</string>
     <string name="mic_tip">Lütfen Mikrofondan bir ses çıkarın. Kulaklığı taktıktan sonra ses için kulaklığı dinleyin</string>
     <string name="mic_volume_height_tip">Mikrofon hacim testi başarılı oldu</string>
     <string name="mic_volume_low_tip">Mikrofon hacim testi geçemedi. Lütfen kayıt yaparken daha yüksek bir ses çıkarın</string>
+    <string name="miui_sar_nv_ota">Sar NV OTA</string>
+    <string name="modem_sar_enhance_tool_title">Modem Sar geliştirme aracı</string>
     <string name="motor_calibration">Motor kalibrasyonu</string>
-	<string name="mtb_tool_modem_cdma_manager">CDMA Cap yöneticisi</string>
-    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
-    <string name="mtrl_chip_close_icon_content_description">"%1$s'yi kaldırın"</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">%1$d'den fazla yeni bildirim</string>
-    <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
-    <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
-    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_confirm">Tamam</string>
-    <string name="mtrl_picker_date_header_title">Tarih Seç</string>
-    <string name="mtrl_picker_date_header_unselected">Seçili tarih</string>
-    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
-    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Kullanım: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Geçersiz aralık</string>
-    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına gidin</string>
-    <string name="mtrl_picker_out_of_range">Aralık dışında: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
-    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi – Bitiş tarihi</string>
-    <string name="mtrl_picker_save">Kaydet</string>
-    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
-    <string name="mtrl_timepicker_confirm">Tamam</string>
+    <string name="mtb_tool_modem_cdma_manager">CDMA Cap yöneticisi</string>
     <string name="nfc_disable_tip">Lütfen NFC işlevini açın</string>
     <string name="nfc_not_available">NFC kullanılamıyor</string>
     <string name="no_vibrator">Vibratör yok</string>
     <string name="open_third_color_led">Üç renkli led aç</string>
-    <string name="password_toggle_content_description">Şifreyi göster</string>
-	<string name="plugout_and_reverse_plugin">"
+    <string name="password_enroll_error">Telefonunuzun şifresi var ve parmak izi bilgisini kaydedemiyor</string>
+    <string name="plugout_and_reverse_plugin">"
 Lütfen şarj cihazının fişini çekin ve fişi ters takın"</string>
     <string name="pop_camera">Açılır kamera</string>
     <string name="pop_push_camera_test_summary">"Kameranın çıkıp çıkmadığını görmek için açılır kamera düğmesine tıklayın
@@ -812,6 +810,7 @@ Kameranın içeri girip girmediğini görmek için kamera düğmesine bas'ı tı
     <string name="radio_info_asdiv_switch_label">ASDiv durumu:</string>
     <string name="radio_info_call_status_label">Sesli arama durumu:</string>
     <string name="radio_info_cellinfo_label">Tüm hücre ölçüm bilgileri:</string>
+    <string name="radio_info_cid">CID</string>
     <string name="radio_info_current_network_label">Geçerli ağ:</string>
     <string name="radio_info_data_connected">Bağlandı</string>
     <string name="radio_info_data_connecting">Bağlanıyor</string>
@@ -821,6 +820,8 @@ Kameranın içeri girip girmediğini görmek için kamera düğmesine bas'ı tı
     <string name="radio_info_entry">Mobil ağ bilgisi</string>
     <string name="radio_info_gprs_service_label">Veri hizmeti:</string>
     <string name="radio_info_gsm_service_label">Ses hizmeti:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_lac">LAC</string>
     <string name="radio_info_neighboring_location_label">Komşu hücre bilgisi:</string>
     <string name="radio_info_phone_idle">Boşta</string>
     <string name="radio_info_phone_number_label">Telefon Numarası:</string>
@@ -843,9 +844,13 @@ Kameranın içeri girip girmediğini görmek için kamera düğmesine bas'ı tı
     <string name="receiver_off">Alıcı kapalı</string>
     <string name="receiver_on">Alıcı açık</string>
     <string name="receiver_on_off_tips">Alıcı açma veya kapama anahtarı</string>
+    <string name="remove_finger">Parmak kaldırma testi</string>
     <string name="sar_algo_data_check_description">Sar algo veri toplama</string>
     <string name="sar_authentation_test_title">Sar doğrulama testi</string>
+    <string name="sar_enhance">SAR geliştirme aracı</string>
+    <string name="sar_enhance_button_text">Sar geliştirme aracı</string>
     <string name="sar_mtk_test_title">Sar Mtk kimlik doğrulama testi</string>
+    <string name="sar_nv_ota_switch">"SAR NV OTA'YI kapatın"</string>
     <string name="sar_off">Sar kapalı</string>
     <string name="sar_on">Sar açık</string>
     <string name="sar_sensor_calibrate_fail">Sar sensör kalibrasyonu başarısız</string>
@@ -865,23 +870,33 @@ Kalibre etme başarısından sonra armatürü cihaza yakın ve cihazdan uzakta k
     <string name="sar_sensor_test_timeout">Sar sensor test zaman aşımı</string>
     <string name="search_menu_title">Ara</string>
     <string name="set_dsi_tips">DSI ayarla</string>
-	<string name="sidebottom_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın yan tarafındaki mikrofona bir şeyler söyleyin</string>
+    <string name="sidebottom_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın yan tarafındaki mikrofona bir şeyler söyleyin</string>
     <string name="sidetop_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın yan tarafındaki mikrofona bir şeyler söyleyin</string>
     <string name="slave_battery_authentic">İkincil pil orijinal</string>
+    <string name="smart_transmit">Akıllı iletim durumu</string>
     <string name="soft_light_title">Yumuşak ışık</string>
     <string name="speak_from_mic">Mikrofona konuşma veya hoparlör çalma. Ses olup olmadığına karar verin</string>
     <string name="successfully_obtained_permission">Bulut denetimi algılaması başarılı. İşlev devreye giriyor</string>
     <string name="temperature">Sıcaklık</string>
+    <string name="test_aux_mic">AUX mikrofon</string>
+    <string name="test_back_handset">Arka ahize testi</string>
     <string name="test_back_mic">Arka mikrofon</string>
+    <string name="test_first_flash">İlk flaş testi</string>
+    <string name="test_flash">Flaş testi</string>
+    <string name="test_front_handset">Ön ahize testi</string>
     <string name="test_front_mic">Ön mikrofon</string>
+    <string name="test_horn_motor_summary">"İki rastgele sayı duyacaksınız
+Lütfen duyduğunuz sayıya göre uygun düğmeye tıklayın
+Farklı titreşim koşullarına göre doğru düğmeyi seçin"</string>
     <string name="test_main_mic">Ana mikrofon</string>
+    <string name="test_second_flash">İkinci flaş testi</string>
     <string name="test_sidebottom_mic">Yan alt mikrofon</string>
     <string name="test_sidetop_mic">Yan üst mikrofon</string>
     <string name="test_speaker">Konuşmacı</string>
     <string name="test_speaker_summary">"İki rastgele sayı duyacaksınız
 Lütfen duyduğunuz sayıya göre uygun düğmeyi tıklayın"</string>
+    <string name="test_sub_front_camera">Alt ekran ön kamera</string>
     <string name="test_top_mic">Üst mikrofon</string>
-    <string name="test_top_speaker">top_speaker</string>
     <string name="testing">Otomatik test çalışıyor</string>
     <string name="tips_not_placed_right_angle">Cihaz dik açıyla yerleştirilmemiş</string>
     <string name="tips_show_current_angle">Mevcut açıyı göster</string>
@@ -904,4 +919,5 @@ Lütfen duyduğunuz sayıya göre uygun düğmeyi tıklayın"</string>
     <string name="vibrator_change">Titreşim modunu seçin</string>
     <string name="waiting">4 saniye bekleniyor</string>
     <string name="warm_light_title">Sıcak ışık</string>
+    <string name="wifi_power_test_testing">Wifi güç testi</string>
 </resources>

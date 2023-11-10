@@ -1055,6 +1055,8 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="toolbar_theme_description">Bir tema seçin</string>
     <string name="toolbar_undo_description">Geri al</string>
     <string name="toolbar_voice_description">Ses</string>
+    <string name="toolbar_voice_done_description">Durdur</string>
+    <string name="toolbar_voice_mark_description">İşaretle</string>
     <string name="trash_folder_name">Çöp kutusu</string>
     <string name="trash_folder_reminder_new">Notlar kalıcı olarak silinmeden önce %d gün çöp kutusunda tutulur</string>
     <string name="tuesday">Salı</string>

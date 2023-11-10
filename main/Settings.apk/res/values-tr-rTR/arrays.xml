@@ -21,10 +21,6 @@
         <item>Ilık</item>
         <item>Soğuk</item>
     </string-array>
-    <string-array name="ai_item_action_array">
-        <item>Hiçbiri</item>
-        <item>Google asistanı etkinleştir</item>
-    </string-array>
     <string-array name="ai_key_item_name">
         <item>Google asistan ile konuş</item>
         <item>Google aramayı aç</item>
@@ -65,18 +61,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP veya CHAP</item>
-    </string-array>
-    <string-array name="app_install_location_entries">
-        <item>Dahili depolama alanı</item>
-        <item>Çıkarılabilir SD kart</item>
-        <item>Sistem karar versin</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>Konum</item>
-        <item>Kişisel</item>
-        <item>Mesajlaşma</item>
-        <item>Medya</item>
-        <item>Cihaz</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Konum</item>
@@ -236,6 +220,12 @@
         <item>Yüzde (Simgenin yanında)</item>
         <item>Üst çubuk</item>
     </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>Grafik</item>
+        <item>Yüzde (Simgenin içinde)</item>
+        <item>Yüzde (Simgenin yanında)</item>
+        <item>Üst çubuk</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>%0</item>
         <item>%50</item>
@@ -380,6 +370,11 @@
         <item>" | Etkin (Medya)"</item>
         <item>" | Etkin (Telefon)"</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>Uygulama varsayılanını kullan</item>
+        <item>İşitme cihazında oynat</item>
+        <item>Telefonun hoparlöründe oynat</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Varsayılan)</item>
         <item>AVRCP 1.3</item>
@@ -404,18 +399,24 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 dakika</item>
-        <item>5 dakika</item>
-        <item>1 saat</item>
-        <item>Asla zaman aşımına uğratma</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Devre dışı</item>
         <item>Etkin filtre uygulandı</item>
         <item>Etkin</item>
         <item>Etkin başlıklar filtrelendi</item>
         <item>Etkin medya puanları filtrelendi</item>
+        <item>Enabled Profiles Filtered</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Yalnızca ACL başlıklarını filtrele</item>
+        <item>A2DP ortam paketlerini filtrele</item>
+        <item>RFCOMM kanalını filtrele</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Devre dışı</item>
+        <item>Karakter dizisiyle doldurun</item>
+        <item>Yalnızca başlığı bırak</item>
+        <item>Tamamen kaldır</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 saniye</item>
@@ -516,10 +517,6 @@
         <item>Koyu</item>
         <item>Açık</item>
     </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Son 30 gün</item>
-        <item>Kullanım döngüsünü ayarla</item>
-    </string-array>
     <string-array name="date_of_app_all">
         <item>Bugün (Mobil veri)</item>
         <item>Bu ay (Mobil veri)</item>
@@ -543,16 +540,6 @@
         <item>Fazla çizilen alanları göster</item>
         <item>Alanları renk körlüğüne uygun olarak göster</item>
     </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>Asla</item>
-        <item>15 saniye</item>
-        <item>30 saniye</item>
-        <item>1 dakika</item>
-        <item>2 dakika</item>
-        <item>5 dakika</item>
-        <item>10 dakika</item>
-        <item>30 dakika</item>
-    </string-array>
     <string-array name="eap_ocsp_type">
         <item>Doğrula</item>
         <item>Sertifika durumu iste</item>
@@ -572,12 +559,6 @@
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
         <item>Doğal</item>
-    </string-array>
-    <string-array name="entries_font_size">
-        <item>Küçük</item>
-        <item>Normal</item>
-        <item>Büyük</item>
-        <item>Çok Büyük</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Değişiklikleri uygulamak için cihaz yeniden başlatılsın mı?</item>
@@ -757,13 +738,22 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Başka bir ödeme uygulamasının açık olduğu zamanlar hariç</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
-        <item>Grafik</item>
+        <item>Grafiksel</item>
         <item>Yüzde (Simgenin içinde)</item>
         <item>Yüzde (Simgenin yanında)</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
+        <item>Grafiksel</item>
+        <item>Yüzde (Simgenin içinde)</item>
+        <item>Yüzde (Simgenin yanında)</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Ara</item>
+        <item>Ayarlar</item>
+    </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
+        <item>Stil 1</item>
+        <item>Stil 2</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Yok</item>
@@ -844,11 +834,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Global</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
-    </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Sadece GSM</item>
         <item>Sadece WCDMA</item>
@@ -863,28 +848,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Fotoğraflar</item>
         <item>Dosyalar</item>
         <item>Notlar</item>
-    </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Orta</item>
-        <item>Düşük</item>
-        <item>Kritik düzeyde</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Kalıcı</item>
-        <item>En üst etkinlik</item>
-        <item>Önemli (Ön plan)</item>
-        <item>Önemli (Arka plan)</item>
-        <item>Yedek</item>
-        <item>Ağır</item>
-        <item>Hizmet (Çalışıyor)</item>
-        <item>Hizmet (Yeniden başlatılıyor)</item>
-        <item>Alıcı</item>
-        <item>Ana ekran</item>
-        <item>Son etkinlik</item>
-        <item>Önbelleğe alındı (Etkinlik)</item>
-        <item>Önbelleğe alındı (Etkinlik istemcisi)</item>
-        <item>Önbelleğe alındı (Boş)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
@@ -949,6 +912,18 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Asla izin verme</item>
         <item>Her zaman izin ver</item>
     </string-array>
+    <string-array name="select_gpo_version_summaries">
+        <item>Kapalı</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_gpo_version_titles">
+        <item>Kapalı</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Kapalı</item>
         <item>64KB</item>
@@ -1003,6 +978,15 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>2 saat</item>
         <item>8 saat</item>
     </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Akıllı ev</item>
+        <item>Hiçbiri</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>Akıllı ev</item>
+        <item>Hiçbiri</item>
+    </string-array>
     <string-array name="special_locale_names_global">
         <item>Basitleştirilmiş çince (Çin)</item>
         <item>Geleneksel çince (Tayvan)</item>
@@ -1014,7 +998,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>İzin ver</item>
         <item>Yoksay</item>
     </string-array>
-    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>Asla</item>
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
@@ -1022,7 +1006,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     <string-array name="tabs_taptic_detail">
         <item>Canlı</item>
         <item>Temel</item>
-        <item>Pop</item>
+        <item>En iyi</item>
     </string-array>
     <string-array name="tabs_taptic_detail_m2">
         <item>Canlı</item>
@@ -1038,15 +1022,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>12 saat (1:00)</item>
         <item>24 saat (13:00)</item>
         <item>Otomatik (Sistem diline göre)</item>
-    </string-array>
-    <string-array name="timezone_filters">
-        <item>Amerika</item>
-        <item>Avrupa</item>
-        <item>Afrika</item>
-        <item>Asya</item>
-        <item>Avustralya</item>
-        <item>Pasifik</item>
-        <item>Tümü</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Kapalı</item>
@@ -1112,6 +1087,12 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Dokunma</item>
         <item>Doğrudan dokunma</item>
     </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola taşı</item>
+        <item>Aşağı taşı</item>
+        <item>Sağa taşı</item>
+        <item>Yukarı taşı</item>
+    </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TDSCDMA</item>
@@ -1123,11 +1104,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>WCDMA</item>
         <item>LTE</item>
         <item>Üçlü mod</item>
-    </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>Kullanım süresi</item>
-        <item>Son kullanıldığı tarih</item>
-        <item>Uygulama adı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Şarj oluyor</item>
@@ -1141,13 +1117,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Bağlandığında sor</item>
         <item>Sadece şarj</item>
         <item>SD kartı tak</item>
-    </string-array>
-    <string-array name="user_content_ratings_entries">
-        <item>Yükselen varlık</item>
-        <item>İnsan</item>
-        <item>Neanderthal</item>
-        <item>Şempanze</item>
-        <item>Maymun</item>
     </string-array>
     <string-array name="vip_mode_text">
         <item>Herhangi birinden</item>
@@ -1165,26 +1134,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Bağlanıyor</item>
         <item>Bağlı</item>
         <item>Zaman aşımı</item>
-        <item>Başarısız</item>
-    </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>Önceden paylaşılan anahtara sahip L2TP/IPSec VPN</item>
-        <item>Sertifikalara sahip L2TP/IPSec VPN</item>
-        <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamaya sahip IPSec VPN</item>
-        <item>Sertifikalara ve Xauth kimlik doğrulamaya sahip IPSec VPN</item>
-        <item>Sertifikalara ve karma kimlik doğrulamaya sahip IPSec VPN</item>
-        <item>Sertifikalar ve kullanıcı adı/parola kimlik doğrulaması ile IKEv2/IPSec VPN</item>
-        <item>Önceden paylaşılan anahtarlara sahip IKEv2/IPSec VPN</item>
-        <item>Sertifikalı IKEv2/IPSec VPN</item>
-    </string-array>
-    <string-array name="wfd_status">
-        <item>Oturum başlatılıyor</item>
-        <item>Oturum başlatıldı</item>
-        <item>Oturum sonlandırılıyor</item>
-        <item>Oturum başlatılamıyor</item>
-        <item>Zaman aşımına uğradı. Yeniden deneniyor</item>
-        <item>Cihaz bağlandı</item>
+        <item>Başarısız oldu</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Kapalı</item>
@@ -1217,10 +1167,24 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Wifi</item>
         <item>Mobil</item>
     </string-array>
+    <array name="wifi_calling_mode_choices_with_ims_preferred">
+        <item>Tercih edilen</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="wifi_calling_mode_choices_without_wifi_only_with_ims_preferred">
+        <item>Tercih edilen</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
     <string-array name="wifi_connect_type_entries">
         <item>Otomatik bağlan</item>
         <item>El ile bağlan</item>
         <item>Her zaman sor</item>
+    </string-array>
+    <string-array name="wifi_eap_method_tts_strings">
+        <item>AKA prime</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Otomatik</item>
@@ -1228,10 +1192,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Sadece 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
-        <item>Hayır</item>
-        <item>Evet</item>
-    </string-array>
-    <string-array name="wifi_hidden_gbk_entries">
         <item>Hayır</item>
         <item>Evet</item>
     </string-array>
@@ -1259,11 +1219,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Müsait</item>
         <item>Kapsama alanı dışında</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>İtme tuşu</item>
-        <item>Eş cihazın Pin kodu</item>
-        <item>Bu cihazın Pin kodu</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Rastgele MAC kullan</item>
         <item>Cihaz MAC kullan</item>
@@ -1288,15 +1243,29 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item></item>
         <item>Taranıyor</item>
         <item>Bağlanıyor</item>
-        <item>Kimlik doğrulanıyor</item>
+        <item>Kimlik doğrulaması yapılıyor</item>
         <item>IP adresi alınıyor</item>
         <item>Bağlandı</item>
         <item>Askıya alındı</item>
         <item>Bağlantı kesiliyor</item>
         <item>Bağlantı kesildi</item>
-        <item>Başarısız</item>
+        <item>Başarısız oldu</item>
         <item>Engellendi</item>
-        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>"%1$s'a bağlanılıyor"</item>
+        <item>%1$s ile kimlik doğrulaması yapılıyor</item>
+        <item>"%1$s'den IP adresi alınıyor"</item>
+        <item>"%1$s'a bağlanıldı"</item>
+        <item>Askıya alındı</item>
+        <item>%1$s bağlantısı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
@@ -1306,7 +1275,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item></item>
         <item>Taranıyor</item>
         <item>Bağlanıyor</item>
-        <item>Doğrulanıyor</item>
+        <item>Kimlik doğrulaması yapılıyor</item>
         <item>IP adresi alınıyor</item>
         <item>Bağlandı</item>
         <item>Askıya alındı</item>
@@ -1314,7 +1283,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Bağlantı kesildi</item>
         <item>Başarısız oldu</item>
         <item>Engellendi</item>
-        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+        <item>Geçici olarak zayıf bağlantıdan kaçınılıyor</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>

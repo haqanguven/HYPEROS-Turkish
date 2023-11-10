@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="call_notification_answer_action">Yanıtla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen aramayı tara</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
     <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>

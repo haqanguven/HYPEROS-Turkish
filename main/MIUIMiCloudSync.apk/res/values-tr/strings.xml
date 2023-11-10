@@ -7,7 +7,7 @@
 	<string name="error_title">Senkronize edilemedi</string>
 	<string name="error_unauthorized">Çok fazla oturum açma girişimi nedeniyle senkronizasyon devre dışı bırakıldı</string>
 	<string name="micloud_downloading_clipboard_message_from_web">Pano: Bilgisayarınızdan bir mesaj alındı</string>
-	<string name="micloud_send_message_desc">Mi mesajı gönderiliyor</string>
+	<string name="micloud_send_message_desc">Mi mesaj gönderiliyor</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="xiaomi_account_type">com.xiaomi</string>

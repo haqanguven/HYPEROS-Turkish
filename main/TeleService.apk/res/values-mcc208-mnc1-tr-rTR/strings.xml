@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_call_available_message">"Wifi aramalarının yapılabilmesi için konumla ilgili bilgileriniz Google'a ve operatörünüze gönderilebilir"</string>
+    <string name="wifi_call_help_message_1">Fransa metropolünün herhangi bir yerinde bir mobil ağa bağlanmadan arama yapmak ve almak için wifi ağlarını kullanın</string>
+    <string name="wifi_call_help_message_2">Hizmeti kullanmak için servis sağlayıcınız tarafından sunulduğunu kontrol edin, arama ayarlarında etkinleştirin ve ardından bir wifi ağına bağlanın. Bu işlev mevcut olduğunda aşağıdaki simge gösterilecektir</string>
+    <string name="wifi_call_notification_message">Fransa metropolünün herhangi bir yerinde bir mobil ağa bağlanmadan arama yapmak ve almak için wifi ağlarını kullanın. Servisi kullanmak için servis sağlayıcınız tarafından sunulduğunu kontrol edin, arama ayarlarında etkinleştirin ve ardından bir wifi ağına bağlanın. Bu işlev mevcut olduğunda aşağıdaki simge gösterilecektir</string>
+</resources>

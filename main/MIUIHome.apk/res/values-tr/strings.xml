@@ -757,6 +757,8 @@ Arttırılmış güvenlik"</string>
     <string name="navigation_type_title_synonyms_4">Gezinme tuşu</string>
     <string name="navigation_type_virtual_key">Tuşlar</string>
     <string name="network_error">Ağa bağlanılamadı. Tekrar deneyin</string>
+    <string name="new_default_folder_title_tools">Sistem uygulamaları</string>
+    <string name="new_feature_title">Yenilikler</string>
     <string name="new_feature_title">Yenilikler</string>
     <string name="new_open_personal_assistant_settings_simplified">Uygulama kasası</string>
     <string name="new_privacy_thumbnail_blur_summary">Son kullanılanlarda uygulama önizlemelerini bulanıklaştırın</string>

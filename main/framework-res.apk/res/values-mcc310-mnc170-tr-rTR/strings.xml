@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_illegal_me">İzin verilmeyen cep telefonları MM#6</string>
+    <string name="mmcc_illegal_ms">Sim karta izin verilmiyor MM#3</string>
+    <string name="mmcc_imsi_unknown_in_hlr">Yapılandırılmamış Sim kart MM#2</string>
+</resources>

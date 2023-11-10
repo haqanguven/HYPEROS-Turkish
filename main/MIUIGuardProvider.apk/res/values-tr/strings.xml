@@ -2,19 +2,28 @@
 <resources>
     <string name="AVL">AVL</string>
     <string name="DesAVL">AVL</string>
-    <string name="DesMi">Mi</string>
-    <string name="DesQAX">Garip inanç</string>
+    <string name="DesFlamingo">F</string>
+    <string name="DesMi">Xiaomi</string>
+    <string name="DesQAX">Qianshin</string>
     <string name="DesTencent">Tencent</string>
-    <string name="Mi">Mi</string>
-    <string name="QAX">Garip inanç</string>
+    <string name="Flamingo">Flamingo</string>
+    <string name="Mi">Xiaomi</string>
+    <string name="QAX">Qianshin</string>
     <string name="Tencent">Tencent</string>
-    <string name="app_name">MIUI güvenlik bileşenleri</string>
+    <string name="app_name">Sistem güvenlik bileşenleri</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
-    <string name="avl_dialog_policy">Gizlilik politikasını görüntüle</string>
+    <string name="avl_dialog_policy">Gizlilik politikası</string>
     <string name="avl_dialog_title">"AVL'nin gizlilik politikası"</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+    <string name="call_notification_answer_action">Yanıtla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen aramayı tarama</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="default_web_client_id">484664152262-6lfq5kfidvg0o6jrnr26kf5ueijooli4.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId">484664152262</string>
@@ -37,10 +46,22 @@
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tencent_dialog_cloudscan">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
-    <string name="tencent_dialog_dbupdate">Virüs veritabanını otomatik olarak güncelle</string>
+    <string name="tencent_dialog_cloudscan">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntılarını yükleyin ve tarayın</string>
+    <string name="tencent_dialog_dbupdate">Virüs tanımlarını otomatik olarak güncelle</string>
     <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>
-    <string name="tencent_dialog_policy">Gizlilik politikasını görüntüle</string>
-    <string name="tencent_dialog_title">"Tencent'in gizlilik politikası"</string>
+    <string name="tencent_dialog_policy">Gizlilik politikası</string>
+    <string name="tencent_dialog_title">Tencent'in Gizlilik politikası</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="threat_type_adware_desc">Bu uygulama reklamları uygunsuz şekillerde görüntüler ve pili tüketir veya sistem kaynaklarını kötüye kullanır</string>
+    <string name="threat_type_backdoor_desc">Bu uygulama kodu uzaktan çalıştırarak sizi ve cihazınızı güvenlik risklerine maruz bırakabilir</string>
+    <string name="threat_type_default_desc">Bu uygulama güvenlik riskleri içeriyor ve pili tüketiyor veya sistem kaynaklarını kötüye kullanıyor</string>
+    <string name="threat_type_exploit_desc">Bu uygulama cihaz özelliklerini değiştirebilir veya gizliliğinizi tehlikeye atacak kötü amaçlı kod çalıştırabilir</string>
+    <string name="threat_type_hacktool_desc">Bu uygulama hackleme yoluyla cihazınızın özelliklerini veya davranışını değiştirebilir ve cihaz güvenliğini etkileyebilir</string>
+    <string name="threat_type_monitoring_desc">Bu uygulama özel verilerinizi izleyebilir veya toplayabilir</string>
+    <string name="threat_type_rootkit_desc">"Bu uygulama gizlenebilir ve sistemde düşündüğünüzden daha uzun süre kalabilir, bu da veri güvenliğini tehlikeye atabilir"</string>
+    <string name="threat_type_spyware_desc">Bu uygulama özel verilerinizi çalabilir</string>
+    <string name="threat_type_trackware_desc">Bu uygulama özel verilerinizi izler ve sızdırabilir veya ifşa edebilir</string>
+    <string name="threat_type_trojan_desc">Bu uygulama Truva atı yazılımı kullanıyor olabilir ve belirli koşullar karşılandığında kötü amaçlı kod çalıştıracaktır</string>
+    <string name="threat_type_virus_desc">Bu uygulama cihazınızı ve içindeki verileri tehlikeye atabilecek bir virüstür</string>
+    <string name="threat_type_worm_desc">Bu uygulama virüs içerebilir ve bunları diğer cihazlara yayabilir</string>
 </resources>

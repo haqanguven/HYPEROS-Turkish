@@ -2,15 +2,15 @@
 <resources>
     <string-array name="cta_permission_names">
         <item>Ağ erişimi</item>
-        <item>Mesajı okuma</item>
-        <item>Mesajı düzenleme</item>
+        <item>Mesajı oku</item>
+        <item>Mesajı düzenle</item>
         <item>Mesaj al</item>
         <item>Mesaj gönder</item>
-        <item>Telefon arama</item>
-        <item>Kişileri okuma</item>
-        <item>Kişileri düzenleme</item>
-        <item>Arama geçmişini okumu</item>
-        <item>Arama geçmişini düzenleme</item>
+        <item>Telefon ara</item>
+        <item>Kişileri oku</item>
+        <item>Kişileri düzenle</item>
+        <item>Arama geçmişini oku</item>
+        <item>Arama geçmişini düzenle</item>
         <item>Kamera erişimi</item>
         <item>Konum erişimi</item>
     </string-array>

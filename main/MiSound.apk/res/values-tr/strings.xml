@@ -31,6 +31,7 @@
     <string name="add_sound">Özel hazır ayar ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_disable_description_title">Bu uygulama devre dışı bırakılsın mı?</string>
     <string name="app_name">Kulaklık</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>

@@ -329,6 +329,7 @@
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
+    <string name="screen_rotation_freeze_message">Yatay modda kilitli ekran yönü</string>
     <string name="search_menu_title">Ara</string>
     <string name="send">Gönder</string>
     <string name="show_on_keyguard">Kilit ekranında görüntüle</string>
@@ -357,6 +358,16 @@
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_data">Mobil veri</string>
+    <string name="status_bar_toggle_lock">Kilitle</string>
+    <string name="status_bar_toggle_mute">Sessiz</string>
+    <string name="status_bar_toggle_rotate">Yönlendirmeyi kilitle</string>
+    <string name="status_bar_toggle_screenshot">Ekran görüntüsü</string>
+    <string name="status_bar_toggle_torch">El feneri</string>
+    <string name="status_bar_toggle_vibrate">Titreşim</string>
+    <string name="status_bar_toggle_wifi">Kablosuz</string>
+    <string name="status_bar_toggle_wifi_ap">Etkili nokta</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>

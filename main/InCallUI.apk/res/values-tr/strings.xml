@@ -36,6 +36,9 @@
     <string name="ai_mode_manual">El ile</string>
     <string name="ai_mode_subtitles">Altyazılar</string>
     <string name="am">ÖÖ</string>
+    <string name="align_satellite_model_use">Başlat</string>
+    <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="antifraud_center">Dolandırıcılığa karşı uyarı platformu</string>
     <string name="antifraud_center_incoming_prompt">Dolandırıcılığa karşı resmi uyarı platformundan gelen hiçbir aramayı kaçırmayın</string>
     <string name="antispam_local_marked">Yerel işaretli</string>
@@ -310,6 +313,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="focus_notification_on_call">Arıyor</string>
+    <string name="focus_notification_on_ringing">Gelen arama</string>
     <string name="font_camera_tip">Ön kamerayı kullanmak için cihazı katlayın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
@@ -360,6 +365,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -467,14 +473,32 @@
     <string name="relay_cal_from_device_name">"%1$s'den"</string>
     <string name="relay_call">Dokunma</string>
     <string name="relay_call_device_name">Bağlı cihaz (%1$s)</string>
-    <string name="relay_deny_permission_msg">Ses kaydetme izni olmadan arama yapılamaz</string>
-    <string name="relay_grant_permissions_on_phone">Telefonunuza ses kaydetme izni verin</string>
-    <string name="relay_known">Tamam</string>
-    <string name="relay_network_error">Ağ hatası</string>
-    <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazda arama alınamıyor. Bunun yerine telefonunuza geri dönün</string>
-    <string name="remind_unlock_message">Cihazınız şu an kilitli. %s cihaz kilidini açmanızdan sonra kullanılabilir durumda olacaktır. Kilit şimdi açılsın mı?</string>
-    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_EXTERNAL_STORAGE</string>
+    <string name="relay_call_unable_to_work">Bu özellik aktarılan çağrılar için kullanılamaz</string>
+    <string name="relay_device_local">Bu cihaz</string>
+    <string name="relay_device_type_pc">Bilgisayar</string>
+    <string name="relay_stop_recorder">Kayıt durduruldu</string>
+    <string name="remind_unlock_message">Cihazınız artık kilitli. %s cihazınızın kilidini açtıktan sonra kullanılabilir olacaktır. Şimdi kilidi açılsın mı?</string>
+    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_ SES< /dize>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
+    <string name="satellite_call_failed">Sinyal kesildi. Tekrar deneyin</string>
+    <string name="satellite_dialog_button">Kayan pencere</string>
+    <string name="satellite_dialog_cancel">İptal et</string>
+    <string name="satellite_guide_down">"Topu mavi alana koymak için
+cihazınızı aşağı doğru eğin"</string>
+    <string name="satellite_guide_found">Uydu bulundu</string>
+    <string name="satellite_guide_left">"Uydu simgesini mavi alana yerleştirmek için
+cihazınızı sola eğin"</string>
+    <string name="satellite_guide_right">"Uydu simgesini mavi alana yerleştirmek için
+cihazınızı sağa eğin"</string>
+    <string name="satellite_guide_searching">Uydu aranıyor</string>
+    <string name="satellite_guide_searching_floating">Aranıyor</string>
+    <string name="satellite_guide_up">"Topu mavi alana koymak için
+cihazınızı yukarı eğin"</string>
+    <string name="satellite_incall_tip">Hoparlör açık</string>
+    <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
+    <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
+    <string name="satellite_state_connected">Uyduya bağlanıldı. Cihazınızı hareket ettirmeyin</string>
+    <string name="satellite_state_connected_floating">Cihazınızı hareket ettirmeyin</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -601,7 +625,7 @@ LTE"</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_call">"Vo
-WiFi"</string>
+Wifi"</string>
     <string name="xiaoai_assistant">Mi AI arama asistanı</string>
     <string name="yesterday">Dün</string>
 </resources>

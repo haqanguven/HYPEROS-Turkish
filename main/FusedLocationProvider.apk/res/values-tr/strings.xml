@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kaynaşmış konum sağlayıcı</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Size konum hizmetleri sağlamak için baz istasyonuna wifi ağına ve konum bilgilerine erişir</string>
+</resources>
