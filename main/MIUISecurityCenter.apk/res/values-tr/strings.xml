@@ -545,7 +545,7 @@
     <string name="app_manager_manage_space">Alan yönetimi</string>
     <string name="app_manager_memory">Ram</string>
     <string name="app_manager_menu_clear_data">Verileri temizle</string>
-    <string name="app_manager_mobile_slot">Mobile veri (Sim %d)</string>
+    <string name="app_manager_mobile_slot">Mobil veri (Sim %d)</string>
     <string name="app_manager_mobile_slot1">Mobil veri (Sim 1)</string>
     <string name="app_manager_mobile_slot2">Mobil veri (Sim 2)</string>
     <string name="app_manager_net_control_title">Veri kullanımını kısıtla</string>

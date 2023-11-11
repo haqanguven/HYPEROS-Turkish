@@ -1111,12 +1111,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="passport_user_agreement_hint_3rd_app">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını vede Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_3rd_app_mobile">"%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını, Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve Çin'in %5$s Hüküm ve koşullarını okudum ve kabul ettim"</string>
     <string name="passport_user_agreement_hint_3rd_app_with_telecom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını, Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve ayrıca eSurfing hesabının %5$s Hüküm ve koşullarını okudum ve kabul ettim</string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">China Unicom %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını, Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve %5$s Hüküm ve koşullarını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">Çin Unicom %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını, Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve %5$s Hüküm ve koşullarını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_default">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
-    <string name="passport_user_agreement_hint_with_mobile">Xiaomi Hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasının yanı sıra China Mobile doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_hint_with_mobile">Xiaomi Hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasının yanı sıra Çin Mobil doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_with_telecom">Xiaomi Hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasının yanı sıra eSurf hesabı doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
-    <string name="passport_user_agreement_hint_with_unicom">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve China Unicom doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_hint_with_unicom">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve Çin Unicom doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
     <string name="passport_user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="passport_user_avatar_uploading">Yükleniyor</string>
     <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi hesap kimliği</string>

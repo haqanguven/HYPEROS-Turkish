@@ -1155,7 +1155,7 @@
     <string name="summary_delete_cache">Seçili uygulamaların önbellek verileri temizlensin mi?</string>
     <string name="summary_delete_large_file">Seçili dosyalar kalıcı olarak silinsin mi?</string>
     <string name="summary_delete_video">Seçili dosyalar kalıcı olarak silinsin m?</string>
-    <string name="summary_optimizer">"Bu özellik klasör adlarını Chetaah Mobile'nin çevrimiçi veritabanına yükler ve cihazınızın kimliğine ihtiyaç duyar"</string>
+    <string name="summary_optimizer">"Bu özellik klasör adlarını Chetaah Mobil'in çevrimiçi veritabanına yükler ve cihazınızın kimliğine ihtiyaç duyar"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>

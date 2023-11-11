@@ -3039,9 +3039,9 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_mall_card_title_new">Yerli hakları</string>
     <string name="device_memory">Ram</string>
     <string name="device_miui_more">Daha fazla görüntüle</string>
-    <string name="device_miui_version">MIUI sürümü</string>
-    <string name="device_miui_version_for_POCO">MIUI sürümü (POCO için)</string>
-    <string name="device_miui_version_parameters">MIUI sürümü</string>
+    <string name="device_miui_version">OS sürümü</string>
+    <string name="device_miui_version_for_POCO">OS sürümü (POCO için)</string>
+    <string name="device_miui_version_parameters">OS sürümü</string>
     <string name="device_miui_version_update">MIUI güncellemesi mevcut</string>
     <string name="device_name">Cihaz adı</string>
     <string name="device_name_input_error">Cihaz adı kaydedilemedi</string>
@@ -7827,7 +7827,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="se_wallet_hce">HCE cüzdanı</string>
     <string name="se_wallet_uicc">Sim %1$s cüzdanı</string>
     <string name="se_wallet_uicc_jp">Sim %1$s cüzdanı (Otomatik olarak seçilemez)</string>
-    <string name="search_about_settings">Telefon hakkında;Model numarası;Android sürümü;MIUI sürümü;CPU;Ram;Dahili depolama;Ana bant sürümü;Çekirdek sürümü;Derleme numarası;Cihazım;Telefon;Cihaz</string>
+    <string name="search_about_settings">Telefon hakkında;Model numarası;Android sürümü;OS sürümü;CPU;Ram;Dahili depolama;Ana bant sürümü;Çekirdek sürümü;Derleme numarası;Cihazım;Telefon;Cihaz</string>
     <string name="search_accelerometer_title">Otomatik ekranı döndürme ;Otomatik ekran;Oryantasyon;Portre;Manzara</string>
     <string name="search_access_control">Gizlilik ayarları;Güvenlik Gizlilik;Ziyaretçi;Ziyaretçi modu</string>
     <string name="search_accessibility_captioning_title">Altyazılar</string>
@@ -8785,7 +8785,7 @@ Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayal
     <string name="sos_privacy_revoke_failed_dialog_content">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="sos_privacy_revoke_failed_dialog_title">İzin geri alınamadı</string>
     <string name="sound_assist_key_summary">Birden fazla uygulama aynı anda ses çalarken bireysel uygulamalar için sesi ayarlayın</string>
-    <string name="sound_assist_key_title">Uygulamalar için medya sesini ayarla</string>
+    <string name="sound_assist_key_title">Uygulamalar için medya sesi</string>
     <string name="sound_assist_summary">Ses ayarlarınızı özelleştirin</string>
     <string name="sound_assist_title">Ses asistanı</string>
     <string name="sound_category_call_ringtone_vibrate_title">Zil tonu &amp; bildirim sesleri</string>

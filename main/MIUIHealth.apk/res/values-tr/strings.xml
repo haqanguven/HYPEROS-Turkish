@@ -6787,9 +6787,9 @@ Güncellemeler seçtiğiniz boşta kalma süresi sırasında yüklenecektir"</st
     <string name="user_agreement_hint_default_1"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a>"'nı okuyup kabul edin"</string>
     <string name="user_agreement_hint_default_extra"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a>"'nı okudum ve kabul ediyorum. İlki giriş otomatik olarak bir Xiaomi hesabı oluşturacak"</string>
     <string name="user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
-    <string name="user_agreement_hint_with_mobile">Xiaomi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a>, <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">China Mobile doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_mobile">Xiaomi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a>, <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Çin Mobil doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_with_telecom">Xiaomi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
-    <string name="user_agreement_hint_with_unicom">Xiaomi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">China Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_unicom">Xiaomi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Çin Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_identity_verify_failed">Girdiğiniz hesap bilgileri yanlış</string>

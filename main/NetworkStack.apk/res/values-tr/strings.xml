@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Ağ yöneticisi</string>
+    <string name="connected">Bağlı</string>
+    <string name="notification_channel_description_connected">Cihazın kimlik doğrulaması bir giriş portalı ağında başarıyla doğrulandığında gösterilen bildirimler</string>
+    <string name="notification_channel_description_network_venue_info">Ağın bir mekan bilgi sayfasına sahip olduğunu belirtmek için gösterilen bildirimler</string>
+    <string name="notification_channel_name_connected">Bağlantılı portal kimlik doğrulaması</string>
+    <string name="notification_channel_name_network_venue_info">Ağ mekanı bilgileri</string>
+    <string name="tap_for_info">Bağlı. İnternet sitesini görüntülemek için dokunun</string>
+</resources>

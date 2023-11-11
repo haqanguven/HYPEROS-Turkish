@@ -870,9 +870,9 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="passport_user_agreement_hint_3rd_app_with_unicom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını, Xiaomi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve ayrıca %5$s Şartlarını ve koşullarını okudum ve kabul ediyorum. Çin Unicom doğrulama hizmetleri</string>
     <string name="passport_user_agreement_hint_default">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
-    <string name="passport_user_agreement_hint_with_mobile">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasının yanı sıra China Mobile doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_hint_with_mobile">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasının yanı sıra Çin Mobil doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_hint_with_telecom">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik Politikasının yanı sıra eSurf hesabı doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
-    <string name="passport_user_agreement_hint_with_unicom">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve China Unicom doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
+    <string name="passport_user_agreement_hint_with_unicom">Xiaomi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve Çin Unicom doğrulama hizmetlerinin %3$s Şartlarını ve koşullarını okudum ve kabul ettim</string>
     <string name="passport_user_agreement_link">"Xiaomi'nin %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum"</string>
     <string name="passport_user_agreement_required">Kullanıcı sözleşmesi (Zorunlu)</string>
     <string name="passport_user_avatar_update_title">Profil fotoğrafını değiştir</string>
