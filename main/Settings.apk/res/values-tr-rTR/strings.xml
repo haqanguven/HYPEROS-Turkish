@@ -756,7 +756,7 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="app_cache_optimization_summary">Bu özelliği açtıktan sonra etkili olması için cihazınızı yeniden başlatın.</string>
     <string name="app_cellular_data_usage">Uygulama veri kullanımı</string>
     <string name="app_data_sharing_updates_summary">Konum verilerinizi paylaşma şeklini değiştiren uygulamaları inceleyin</string>
-    <string name="app_data_sharing_updates_title">Data sharing updates for location</string>
+    <string name="app_data_sharing_updates_title">Konum için veri paylaşımı güncellemeleri</string>
     <string name="app_default_dashboard_title">Varsayılan uygulamalar</string>
     <string name="app_detail">Ayrıntılar</string>
     <string name="app_disable_dlg_positive">Uygulamayı devre dışı bırak</string>

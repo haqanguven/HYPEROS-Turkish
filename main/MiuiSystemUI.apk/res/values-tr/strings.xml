@@ -1544,8 +1544,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
     <string name="quick_settings_cellular_detail_title">Mobil veri</string>
     <string name="quick_settings_cellular_detail_unable_change">Arama sırasında ayarlanamıyor</string>
-    <string name="quick_settings_ Cellular_state_change_message_off">Mobil veri kapalı</string>
-    <string name="quick_settings_ Cellular_state_change_message_on">Mobil veri açık</string>
+    <string name="quick_settings_cellular_state_change_message_off">Mobil veri kapalı</string>
+    <string name="quick_settings_cellular_state_change_message_on">Mobil veri açık</string>
     <string name="quick_settings_color_correction_label">Renk düzeltmesi</string>
     <string name="quick_settings_connecting">Bağlanıyor</string>
     <string name="quick_settings_contrast_high">Yüksek</string>
