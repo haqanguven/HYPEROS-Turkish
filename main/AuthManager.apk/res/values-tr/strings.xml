@@ -42,10 +42,10 @@
     <string name="HIPS_Perm_Read_Call_Log_Desc">Arama geçmişinizi okur</string>
     <string name="HIPS_Perm_Read_Contact">Kişileri oku</string>
     <string name="HIPS_Perm_Read_Contact_Desc">Kişilerinizi okur</string>
-    <string name="HIPS_Perm_Read_MMS">Multimedya mesajlarını oku</string>
-    <string name="HIPS_Perm_Read_MMS_Desc">Multimedya mesajlarınızı okur</string>
     <string name="HIPS_Perm_Read_SMS">Mesajları oku</string>
     <string name="HIPS_Perm_Read_SMS_Desc">Mesajlarınızı okur</string>
+    <string name="HIPS_Perm_Receive_SMS">Mesajları ve multimedyaları al</string>
+    <string name="HIPS_Perm_Receive_SMS_desc">Mesajlarınızı almak içindir</string>
     <string name="HIPS_Perm_SendMMS">Multimedya gönder</string>
     <string name="HIPS_Perm_SendMMS_Desc">Doğrudan multimedya mesajı gönderir</string>
     <string name="HIPS_Perm_SendSMS">Mesaj gönder</string>
@@ -80,10 +80,10 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Oturum açmak için operatörden telefon numarası alın</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Şimdi tek dokunuşla oturum açamıyorsanız oturum açma sayfasına geri dönün ve tekrar deneyin</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu uygulama oturum açmak için operatörden telefon numaranızı almak istiyor. İzin verilsin mi?</string>
-    <string name="HIPS_Perm_operator_shake">İvmeölçer verilerine erişin</string>
+    <string name="HIPS_Perm_operator_shake">İvme ölçer verilerine eriş</string>
     <string name="HIPS_Perm_operator_shake_Desc">Cihazın uzaydaki konumunu algılamak, titremeyi tanımak ve etkileşimli duyusal özellikler sağlamak içindir</string>
-    <string name="HIPS_Perm_process_nfc">NFC</string>
-    <string name="HIPS_Perm_process_nfc_Desc">Yakın alan iletişim donanımına erişir</string>
+    <string name="HIPS_Perm_operator_wall_paper">Dinamik duvar kağıdı hizmetleri</string>
+    <string name="HIPS_Perm_operator_wall_paper_Desc">Sistem dinamik duvar kağıdı hizmetlerini düzenleyin</string>
     <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamasına erişme</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Aramaları takip eder ve sonlandırır</string>
     <string name="HIPS_Perm_read_Calendar">Takvime erişimi</string>
@@ -342,7 +342,7 @@
     <string name="group_other">Diğer izinler</string>
     <string name="group_read_clipboard">Panoya erişin</string>
     <string name="group_sms">Mesajlar</string>
-    <string name="group_sport_healthy">Sağlık ve aktivite</string>
+    <string name="group_sport_healthy">Sağlık ve etkinlik</string>
     <string name="group_write_clipboard">Öğeleri panoya ekle</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>

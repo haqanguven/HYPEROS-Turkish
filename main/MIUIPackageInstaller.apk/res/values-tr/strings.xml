@@ -639,7 +639,7 @@
     <string name="night">Akşam</string>
     <string name="no_considering">暂不考虑</string>
     <string name="no_install_because_32bit">Uygulama mağazası size uygulamanın 64 bit sürümünü sağladı. Lütfen onu yüklediğinizden emin olun</string>
-    <string name="no_install_permission_tip">"%1$s'nin yükleme izni yok"</string>
+    <string name="no_install_permission_tip">%1$s uygulamasının yükleme izni yok</string>
     <string name="no_set_lock_screen_tip">Parmak izi veya kilit ekranı şifresi belirlemediniz. Lütfen parmak izi veya kilit ekranı şifresi ayarlamak için sistem ayarlarına gidin</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
