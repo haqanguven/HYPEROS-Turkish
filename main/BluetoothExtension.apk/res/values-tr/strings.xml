@@ -472,7 +472,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="mihome_ignore_title">Bu cihaz yoksayılsın mı?</string>
     <string name="mihome_update_tips">Mi ev uygulamasını güncelleyin ve ardından telefonunuzu cihaza yakın tutun</string>
     <string name="mihome_update_title">Mi ev uygulamasını güncelle</string>
-    <string name="miuix_access_state_desc">Selected</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
@@ -685,7 +685,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_aiapps">Modül başlığı</string>
     <string name="today">Bugün</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="tomorrow">Yarın</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>

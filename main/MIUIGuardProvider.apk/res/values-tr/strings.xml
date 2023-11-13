@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AVL">AVL</string>
-    <string name="DesAVL">AVL</string>
-    <string name="DesFlamingo">F</string>
-    <string name="DesMi">Xiaomi</string>
-    <string name="DesQAX">Qianshin</string>
-    <string name="DesTencent">Tencent</string>
-    <string name="Flamingo">Flamingo</string>
-    <string name="Mi">Xiaomi</string>
-    <string name="QAX">Qianshin</string>
-    <string name="Tencent">Tencent</string>
     <string name="app_name">Sistem güvenlik bileşenleri</string>
-    <string name="avl_dialog_cloudscan" />
-    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
     <string name="avl_dialog_policy">Gizlilik politikası</string>
     <string name="avl_dialog_title">"AVL'nin gizlilik politikası"</string>
-    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="call_notification_answer_action">Yanıtla</string>
     <string name="call_notification_answer_video_action">Video</string>
     <string name="call_notification_decline_action">Reddet</string>
@@ -24,34 +11,11 @@
     <string name="call_notification_incoming_text">Gelen arama</string>
     <string name="call_notification_ongoing_text">Devam eden arama</string>
     <string name="call_notification_screening_text">Gelen aramayı tarama</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
-    <string name="default_web_client_id">484664152262-6lfq5kfidvg0o6jrnr26kf5ueijooli4.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId">484664152262</string>
-    <string name="google_api_key">AIzaSyDaFcvaCIcen1MFnR8VIUpuEnJsKpsKYJA</string>
-    <string name="google_app_id">1:484664152262:android:bbb10594123b82ad1247c7</string>
-    <string name="google_crash_reporting_api_key">AIzaSyDaFcvaCIcen1MFnR8VIUpuEnJsKpsKYJA</string>
-    <string name="google_storage_bucket">guardprovider-c3e77.appspot.com</string>
-    <string name="project_id">guardprovider-c3e77</string>
-    <string name="qax_dialog_cloudscan">TODO</string>
-    <string name="qax_dialog_dbupdate">TODO</string>
-    <string name="qax_dialog_header">TODO</string>
-    <string name="qax_dialog_policy">TODO</string>
-    <string name="qax_dialog_title">TODO</string>
-    <string name="qax_dialog_url">TODO</string>
-    <string name="size_byte">B</string>
-    <string name="size_giga_byte">GB</string>
-    <string name="size_kilo_byte">KB</string>
-    <string name="size_mega_byte">MB</string>
-    <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">TB</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tencent_dialog_cloudscan">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntılarını yükleyin ve tarayın</string>
     <string name="tencent_dialog_dbupdate">Virüs tanımlarını otomatik olarak güncelle</string>
     <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>
     <string name="tencent_dialog_policy">Gizlilik politikası</string>
-    <string name="tencent_dialog_title">Tencent'in Gizlilik politikası</string>
-    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="tencent_dialog_title">Tencent'in gizlilik politikası</string>
     <string name="threat_type_adware_desc">Bu uygulama reklamları uygunsuz şekillerde görüntüler ve pili tüketir veya sistem kaynaklarını kötüye kullanır</string>
     <string name="threat_type_backdoor_desc">Bu uygulama kodu uzaktan çalıştırarak sizi ve cihazınızı güvenlik risklerine maruz bırakabilir</string>
     <string name="threat_type_default_desc">Bu uygulama güvenlik riskleri içeriyor ve pili tüketiyor veya sistem kaynaklarını kötüye kullanıyor</string>

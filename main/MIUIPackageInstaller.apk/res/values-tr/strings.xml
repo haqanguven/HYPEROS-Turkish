@@ -87,14 +87,14 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="bundle_app_learn_how_to_install">"%1$s'yi nasıl kuracağınızı öğrenin"</string>
-    <string name="bundle_app_market__tips_install">"Bu uygulama Xiaomi App Store'da listelenmiştir. Lütfen güvenle yükleyin"</string>
+    <string name="bundle_app_market__tips_install">Bu uygulama Xiaomi uygulama mağazasında listelenmiştir. Lütfen güvenle yükleyin</string>
     <string name="bundle_app_market_install_background">Arka planda kurulum</string>
     <string name="bundle_app_market_install_permissions">izinler</string>
     <string name="bundle_app_market_install_privacy">Gizlilik</string>
     <string name="bundle_app_market_install_title">"%1$s'yi yüklemek istiyor musunuz?"</string>
     <string name="bundle_app_on_self_desc_text">Gerçekten yüklemeniz gereken uygulamalar sağlandı. Hala %1$s yüklemeniz gerekiyorsa devam etmek için burayı tıklayın</string>
     <string name="bundle_app_on_self_desc_text_click">Devam etmek için burayı tıklayın</string>
-    <string name="bundle_app_on_self_tips">"Bu uygulama Xiaomi App Store'da başlatıldı. Lütfen indirdiğinizden emin olun"</string>
+    <string name="bundle_app_on_self_tips">Bu uygulama Xiaomi uygulama mağazasında başlatıldı. Lütfen indirdiğinizden emin olun</string>
     <string name="bundle_app_on_self_title_text">%1$s paketinin indirme davranışını tanımladı</string>
     <string name="bundle_app_sure_description">Kullanıcılar tarafından şikayet edilen ve Xiaomi App Store tarafından incelenen bu uygulamada çok sayıda #paket yükleme veya zorunlu yükleme# davranışı var. %1$s gerçekten yüklemeniz gereken uygulama olmayabilir</string>
     <string name="bundle_app_sure_name">Yüklemek istediğiniz uygulamanın adını onaylayın</string>
@@ -246,8 +246,8 @@
     <string name="dialog_install_source">Kurulum kaynağı: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Tamam</string>
     <string name="dialog_security_mode_guide_cancel">İptal et</string>
-    <string name="dialog_security_mode_guide_child_msg">Küçüklerin mahremiyetini ve güvenliğini korumak, riskli uygulamaları kontrol etmek ve kötü amaçlı içerikleri önlemek için güvenlik görevlisini açmanız önerilir</string>
-    <string name="dialog_security_mode_guide_delete_apps_msg">Hiç kullanmadığınız birkaç uygulamayı sildiniz. Yanlışlıkla uygulama indirme, reklam indirme vb. durumlar var mı? Uygulamaların istediğiniz zaman diğer uygulamaları indirmesini ve yüklemesini önlemek için güvenlik görevlisini açmayı seçebilirsiniz</string>
+    <string name="dialog_security_mode_guide_child_msg">Küçüklerin mahremiyetini ve güvenliğini korumak, riskli uygulamaları kontrol etmek ve kötü amaçlı içerikleri önlemek için Mi korumayı açmanız önerilir</string>
+    <string name="dialog_security_mode_guide_delete_apps_msg">Hiç kullanmadığınız birkaç uygulamayı sildiniz. Yanlışlıkla uygulama indirme, reklam indirme vb. durumlar var mı? Uygulamaların istediğiniz zaman diğer uygulamaları indirmesini ve yüklemesini önlemek için Mi korumayı açmayı seçebilirsiniz</string>
     <string name="dialog_security_mode_guide_elder_msg">Güvenliği korumak ve cep telefonu kullanımı sorununu çözmek için yaşlılar için özel olarak tasarlanmış emniyet korumasını açmanız önerilir</string>
     <string name="dialog_security_mode_guide_open">Aç</string>
     <string name="dialog_security_mode_guide_title">Güvenlik korumasını açmanız önerilir</string>
@@ -276,29 +276,29 @@
     <string name="elder_mode_title">Yaşlı modu</string>
     <string name="empty" />
     <string name="empty_app">Uygulama yok</string>
-    <string name="enhance_mode_close_feedback">感谢使用增强防护</string>
-    <string name="enhance_mode_feedback_reason">我关闭增强防护主要原因是</string>
-    <string name="enhance_safe_guard_mode_description">开启后，仅支持安装经过小米应用市场检测的应用，并禁止安装病毒和风险应用</string>
-    <string name="enhance_safe_guard_title">开启增强防护，阻拦风险应用</string>
-    <string name="enhance_safe_mode">增强防护</string>
-    <string name="enhance_safe_mode_open_description">开启后仅支持安装通过小米应用商店安全检测的应用，全面禁止安装病毒和风险应用</string>
-    <string name="enhance_safe_mode_title">增强防护模式</string>
-    <string name="enhanced_protection_des_1">增强防护是安全守护下的子功能。增强防护可以给您提供更高级和更便捷的安全防护，避免恶意应用入侵，全方位保护您的权益。</string>
-    <string name="enhanced_protection_des_2">"启用增强防护后，手机仅支持安装经过小米应用商店安全检测的应用。\u000d
-可有效防范以下场景中存在的安全风险："</string>
-    <string name="enhanced_protection_des_end_1">被诈骗团伙盯上、接到奇怪的骚扰电话、手机莫名死机.......</string>
-    <string name="enhanced_protection_des_end_2">这些都是不良应用危害用户安全的典型表现，现在，即便是手机小白，也可以<font color="#259cff">开启增强防护模式</font>，一眼识别不良应用</string>
-    <string name="enhanced_protection_f_1_demo">2023年2月1日，陈先生安装某款应用后，在犯罪分子的诱导下，多次通过银行卡进行转账，共计被骗78238元。</string>
-    <string name="enhanced_protection_f_1_des">在未开启增强防护模式的情况下，恶意应用容易骗取您的钱款。</string>
-    <string name="enhanced_protection_f_1_title">一、防范诈骗应用安装</string>
-    <string name="enhanced_protection_f_2_demo">2020年6月至9月，李某制作了一款可以窃取用户照片的软件，又将该软件伪装成“颜值检测”软件，以此方式窃取用户手机相册照片1751张。其中，含有人脸信息、姓名、身份证号码、联系方式、家庭住址等100余条公民个人信息。</string>
-    <string name="enhanced_protection_f_2_des">在未开启增强防护模式的情况下，恶意应用容易窃取您的个人隐私。</string>
-    <string name="enhanced_protection_f_2_title">二、防范个人信息泄露</string>
-    <string name="enhanced_protection_f_3_des">在未开启增强防护模式的情况下，恶意应用容易攻击您的手机系统，使得手机出现卡顿、死机的情况。</string>
-    <string name="enhanced_protection_f_3_title">三、防范造成系统不稳定</string>
+    <string name="enhance_mode_close_feedback">Gelişmiş korumayı kullandığınız için teşekkür ederiz</string>
+    <string name="enhance_mode_feedback_reason">Gelişmiş korumayı kapatmamın ana nedeni</string>
+    <string name="enhance_safe_guard_mode_description">Açıldığında yalnızca Xiaomi uygulama mağazası tarafından test edilen uygulamalar desteklenir ve virüs ve riskli uygulamaların yüklenmesi yasaktır</string>
+    <string name="enhance_safe_guard_title">Gelişmiş korumayı etkinleştirin ve riskli uygulamaları engelleyin</string>
+    <string name="enhance_safe_mode">Korumayı geliştirin</string>
+    <string name="enhance_safe_mode_open_description">Açıldıktan sonra yalnızca Xiaomi uygulama mağazası güvenlik algılamasını geçen uygulamaların kurulumu desteklenir, virüs ve riskli uygulamaların kurulumu tamamen yasaktır</string>
+    <string name="enhance_safe_mode_title">Gelişmiş koruma modu</string>
+    <string name="enhanced_protection_des_1">Gelişmiş koruma güvenlik koruması altındaki bir alt işlevdir. Gelişmiş koruma size daha gelişmiş ve kullanışlı güvenlik koruması sağlayabilir, kötü amaçlı uygulamalara izinsiz girişleri önleyebilir ve haklarınızı ve çıkarlarınızı çok yönlü bir şekilde koruyabilir</string>
+    <string name="enhanced_protection_des_2">"Gelişmiş korumayı etkinleştirdikten sonra, telefon yalnızca Xiaomi uygulama mağazası güvenlik denetimini geçen uygulamaların kurulumunu destekler
+Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir: "</string>
+    <string name="enhanced_protection_des_end_1">Dolandırıcılık çetelerinin hedefi olmak, tuhaf taciz edici telefon çağrıları almak ve telefonun sebepsiz yere çökmesi</string>
+    <string name="enhanced_protection_des_end_2">Bunlar kullanıcı güvenliğini tehlikeye atan kötü uygulamaların tipik belirtileridir. Artık cep telefonu konusunda acemi olanlar bile <font color="#259cff">gelişmiş koruma modunu açabilir</font> ve bunları bir bakışta tanımlayabilir</string>
+    <string name="enhanced_protection_f_1_demo">1 Şubat 2023'te, Bay Chen belirli bir uygulamayı yükledikten sonra, suçlular tarafından banka kartları aracılığıyla birçok kez para transferi yapmaya teşvik edildi ve toplam 78.238 yuan tutarında dolandırıldı</string>
+    <string name="enhanced_protection_f_1_des">Gelişmiş koruma modu etkinleştirilmediğinde, kötü amaçlı uygulamalar sizi kolaylıkla paranızı dolandırabilir. </string>
+    <string name="enhanced_protection_f_1_title">1. Hileli uygulama kurulumunu önleyin</string>
+    <string name="enhanced_protection_f_2_demo">"Li, Haziran'dan Eylül 2020'ye kadar kullanıcıların fotoğraflarını çalabilecek bir yazılım oluşturdu ve ardından, kullanıcıların cep telefonu albümlerindeki 1751 fotoğraftan fotoğraf çalmak için yazılımı görünüş algılama yazılımı olarak gizledi. Bunlar arasında yüz bilgisi, isim, kimlik numarası, iletişim bilgileri ve ev adresi gibi 100'den fazla vatandaşa ait kişisel bilgi yer alıyor"</string>
+    <string name="enhanced_protection_f_2_des">Gelişmiş koruma modu etkinleştirilmediğinde kötü amaçlı uygulamalar kişisel gizliliğinizi kolayca çalabilir</string>
+    <string name="enhanced_protection_f_2_title">2. Kişisel bilgilerin sızmasını önleyin</string>
+    <string name="enhanced_protection_f_3_des">Gelişmiş koruma modu açılmadığında kötü amaçlı uygulamalar cep telefonu sisteminize kolayca saldırarak telefonun donmasına veya donmasına neden olabilir</string>
+    <string name="enhanced_protection_f_3_title">3. Sistem kararsızlığını önleyin</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
-    <string name="error_detail_info">"Detaylar:\u000d
+    <string name="error_detail_info">"Detaylar:
 %1$s"</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="ettings_security_mode_open_security_mode">Korumayı aç</string>
@@ -382,7 +382,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_automatic_detection">4次自动检测</string>
+    <string name="four_automatic_detection">4 otomatik algılama</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -413,13 +413,13 @@
     <string name="install_abi_error_des_market">"Uygulamanın 32 bit sürümünü indirip yüklemek için Xiaomi App Store'a gidebilirsiniz"</string>
     <string name="install_app_loading">Yükleme paketi kontrol ediliyor</string>
     <string name="install_apps_user_restriction_dlg_text">Bu kullanıcının uygulama yüklemesine izin verilmiyor</string>
-    <string name="install_completed_pure_open_tip_title">Güvenlik nedeniyle uygulama güvenliğini korumak ve riskli uygulamaları önlemek için güvenlik görevlisinin etkinleştirilmesi önerilir</string>
+    <string name="install_completed_pure_open_tip_title">Güvenlik nedeniyle uygulama güvenliğini korumak ve riskli uygulamaları önlemek için Mi korumanın etkinleştirilmesi önerilir</string>
     <string name="install_package_error">Kurulum paketi sisteminizle uyumlu değil</string>
     <string name="install_package_error_des">"Uyumluluk açısından test edilmiş uygulamayı yüklemek için lütfen ilgili geliştiriciyle iletişime geçin veya Mi App Store'a gidin"</string>
     <string name="install_package_error_four">Uygulama sistem güvenliğini ihlal edecek şekilde yüklendi</string>
     <string name="install_package_error_four_des">Bilinmeyen yükleme kaynağı iznini kaldırın veya kapatın</string>
-    <string name="install_source">Kurulum kaynağı</string>
-    <string name="install_source_dialog_safe_title">%1$s uygulamasının uygulama yüklemesine izin verilsin mi?</string>
+    <string name="install_source">Kaynak</string>
+    <string name="install_source_dialog_safe_title">%1$s uygulama yüklemesine izin verilsin mi?</string>
     <string name="install_source_dialog_safe_title_des">Cihazınız ve kişisel verileriniz bilinmeyen uygulamalara karşı daha savunmasızdır. Bu kaynaktan uygulamalar yükleyerek bu uygulamaların kullanımından kaynaklanabilecek cihazınıza gelebilecek her türlü zarardan veya veri kaybından sorumlu olmayı kabul edersiniz</string>
     <string name="install_source_dialog_tip">Kullanıcılar tarafından şikayet edilen ve Xiaomi App Store tarafından incelenen uygulama güvenlik riskleri barındırıyor ve kurulumu durduruldu. Lütfen bu uygulama tarafından sağlanan diğer uygulamaların da risk altında olabileceğini unutmayın</string>
     <string name="install_source_no_credible">Kurulum kaynağı güvenilir değil</string>
@@ -431,10 +431,10 @@
     <string name="item_view_role_description">Sekme</string>
     <string name="label">Bilgi</string>
     <string name="learn_bundle_app_install">Paket kurulumunu anla</string>
-    <string name="learn_enhance_safe_guard">了解增强防护</string>
+    <string name="learn_enhance_safe_guard">Gelişmiş koruma hakkında bilgi edinin</string>
     <string name="learn_more">Daha fazla bilgi</string>
-    <string name="learn_more_text">了解更多</string>
-    <string name="let_me_think_again">我再想想</string>
+    <string name="learn_more_text">Daha fazla bilgi</string>
+    <string name="let_me_think_again">Tekrar düşüneyim</string>
     <string name="lock_finger">Yüklemek için parmak izini doğrulayın</string>
     <string name="lock_screen_authrioze_subtitle_password">Kilit ekranı şifre yetkilendirmesi</string>
     <string name="lock_screen_password_authrioze">Kilit ekranı şifre yetkili kurulum</string>
@@ -480,7 +480,7 @@
     <string name="material_timepicker_pm">ÖS</string>
     <string name="material_timepicker_select_time">Zaman seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
-    <string name="mi_protected">Güvenlik görevlisi</string>
+    <string name="mi_protected">Mi koruma</string>
     <string name="mi_protected_duty">Seni güvende tutacağız</string>
     <string name="midnight">Gece</string>
     <string name="miui_clean">Temizle</string>
@@ -637,7 +637,7 @@
     <string name="net_work_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="net_work_error_retry">Tekrar dene</string>
     <string name="night">Akşam</string>
-    <string name="no_considering">暂不考虑</string>
+    <string name="no_considering">Henüz dikkate alma</string>
     <string name="no_install_because_32bit">Uygulama mağazası size uygulamanın 64 bit sürümünü sağladı. Lütfen onu yüklediğinizden emin olun</string>
     <string name="no_install_permission_tip">%1$s uygulamasının yükleme izni yok</string>
     <string name="no_set_lock_screen_tip">Parmak izi veya kilit ekranı şifresi belirlemediniz. Lütfen parmak izi veya kilit ekranı şifresi ayarlamak için sistem ayarlarına gidin</string>
@@ -647,8 +647,8 @@
     <string name="only_get_app_for_mi_store">"Uygulamaları yalnızca Mi App Store'dan ve Mi sertifikalı geliştiricilerden edinin"</string>
     <string name="only_get_app_for_mi_store_sub">Xiaomi uygulama mağazası ve sertifikalı geliştiriciler tarafından sağlanan uygulamaların tümü sıkı güvenlik uygunluk kontrollerinden geçmiştir</string>
     <string name="open">Aç</string>
-    <string name="open_and_exit">开启并退出</string>
-    <string name="open_enhanced_protection">开启增强防护</string>
+    <string name="open_and_exit">Aç ve çık</string>
+    <string name="open_enhanced_protection">Gelişmiş korumayı açın</string>
     <string name="passed_security_test">Xiaomi güvenlik denetimini geçti</string>
     <string name="passport_access_denied">Erişim reddedildi</string>
     <string name="passport_account_crop_user_avatar">Fotoğrafı kırp</string>
@@ -797,15 +797,15 @@
     <string name="passport_to_verify_code_login">Mesaj ile oturum açın</string>
     <string name="passport_unknown_error">Bilinmeyen hata</string>
     <string name="passport_unknown_host_network_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="passport_user_agreement_hint_3rd_app">"\"\"I've read and agreed to \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>"\" and Xiaomi Account's \""<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>.\"</string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">"\"\"I've read and agreed to \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>"\", Xiaomi Account's \""<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>, as well as <a href="%5$s">Terms and conditions of China Mobile verification services</a>.\"</string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">"\"\"I've read and agreed to \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>"\", Xiaomi Account's \""<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>, as well as <a href="%5$s">Terms and conditions of eSurfing account verification services</a>.\"</string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">"\"\"I've read and agreed to \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>"\", Xiaomi Account's \""<a href="%3$s">User Agreement</a> and <a href="%4$s">Privacy Policy</a>, as well as <a href="%5$s">Terms and conditions of China Unicom verification services</a>.\"</string>
-    <string name="passport_user_agreement_hint_default">"\"\"I've read and agreed to Xiaomi Account's \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>.\"</string>
+    <string name="passport_user_agreement_hint_3rd_app">"<a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> vede Xiaomi hesabının <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile">"<a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> vede Xiaomi hesabının <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a>'nın yanı sıra <a href="%5$s">China Mobile doğrulama hizmetlerinin şart ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom">"<a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> vede Xiaomi hesabının <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a>'nın yanı sıra <a href="%5$s">eSörf hesabı doğrulama hizmetlerinin şart ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">"<a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> vede Xiaomi hesabının <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a>'nın yanı sıra <a href="%5$s">Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_default">"Xiaomi hesabının <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a>'nı okudum ve kabul ediyorum"</string>
     <string name="passport_user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
-    <string name="passport_user_agreement_hint_with_mobile">"\"\"I've read and agreed to Xiaomi Account's \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of China Mobile verification services</a>.\"</string>
-    <string name="passport_user_agreement_hint_with_telecom">"\"\"I've read and agreed to Xiaomi Account's \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of eSurfing account verification services</a>.\"</string>
-    <string name="passport_user_agreement_hint_with_unicom">"\"\"I've read and agreed to Xiaomi Account's \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy</a>, as well as <a href="%3$s">Terms and conditions of China Unicom verification services</a>.\"</string>
+    <string name="passport_user_agreement_hint_with_mobile">"Xiaomi hesabının <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve ayrıca <a href="%3$s">China Mobil doğrulama hizmetlerinin şartlar ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_with_telecom">"Xiaomi hesabının <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve ayrıca <a href="%3$s">eSörf hesabı doğrulama hizmetlerinin şart ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
+    <string name="passport_user_agreement_hint_with_unicom">"Xiaomi hesabının <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve ayrıca <a href="%3$s">Çin Unicom doğrulama hizmetlerinin şartlar ve koşulları</a>'nı okudum ve kabul ediyorum"</string>
     <string name="passport_user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="passport_user_avatar_uploading">Yükleniyor</string>
     <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi hesap kimliği</string>
@@ -893,12 +893,12 @@
     <string name="pref_key_about_privacy_title">Gizlilik politikası</string>
     <string name="pref_key_app_appeal">Uygulama itirazı</string>
     <string name="pref_key_developer_services">Geliştirici hizmetleri</string>
-    <string name="pref_key_shelf_app">"Xiaomi App Store'da iletişim kurun"</string>
+    <string name="pref_key_shelf_app">Xiaomi uygulama mağazasında iletişim kurun</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="prepare_install">Kurulum hazırlanıyor</string>
-    <string name="professional_review">专业人员审核</string>
+    <string name="professional_review">Profesyonel inceleme</string>
     <string name="prohibit_isntall">Kurulum yasaktır</string>
-    <string name="protect_privacy_and_security">保护隐私安全</string>
+    <string name="protect_privacy_and_security">Gizliliği ve güvenliği koruyun</string>
     <string name="pure_function_introduction">Özellikler</string>
     <string name="pure_guarding">Koruma</string>
     <string name="pure_introduction_des1">Uygulama güvenliğini korumak için üçüncü taraf kaynaklardan güvenli olmayan uygulamaların yüklenmesini kısıtlayın</string>
@@ -964,7 +964,7 @@
     <string name="risk_install_no_open">Kapalı</string>
     <string name="risk_verification">Risk doğrulaması</string>
     <string name="risk_verification_des">Bu uygulama çok sık yükleniyor. Güvenliğiniz için lütfen önce risk doğrulaması yapın ve geçtikten sonra yüklemeye devam edebilirsiniz</string>
-    <string name="safe_guard_title_text">Güvenliğiniz için güvenlik görevlisini aç</string>
+    <string name="safe_guard_title_text">Güvenliğiniz için Mi korumayı aç</string>
     <string name="safe_install_mode_settings_old">Güvenli mod</string>
     <string name="safe_mode">Güvenli mod</string>
     <string name="safe_mode_in_service">Güvenli mod hizmeti</string>
@@ -1006,54 +1006,54 @@
     <string name="security_mode_feedback_submit_toast">Geri dönüşünüz için teşekkür ederiz</string>
     <string name="security_mode_feedback_tips">Lütfen iyileştirmelerinizi bize bildirin</string>
     <string name="security_mode_guide_about_security_mode">Koruma hakkında daha fazla bilgi edinin</string>
-    <string name="security_mode_guide_about_security_mode_2">Güvenlik görevlisi nedir?</string>
+    <string name="security_mode_guide_about_security_mode_2">Mi koruma nedir?</string>
     <string name="security_mode_guide_do_not_show_again">Bir daha gösterme</string>
     <string name="security_mode_introduce">Güvenli mod işlevi tanıtımı</string>
     <string name="security_mode_introduce_setting">Temiz mod ayarları</string>
     <string name="security_mode_off_suggestion_msg">Devre dışı</string>
     <string name="security_mode_on_suggestion_msg">Etkin</string>
     <string name="security_mode_open_guide_elder_msg">Güvenliği koruyun ve cep telefonu kullanım sorunlarını çözün</string>
-    <string name="security_mode_open_guide_elder_title">Yaşlılar için tasarlanmış güvenlik görevlisini açın</string>
+    <string name="security_mode_open_guide_elder_title">Yaşlılar için tasarlanmış Mi korumayı açın</string>
     <string name="security_mode_open_notification_action_button">Daha fazla bilgi</string>
     <string name="security_mode_open_notification_msg">Güvenli mod cihazınızın korunmasını sağlar</string>
-    <string name="security_mode_open_notification_title">Güvenlik görevlisini etkinleştir</string>
+    <string name="security_mode_open_notification_title">Mi korumayı etkinleştir</string>
     <string name="security_mode_renamed">Güvenli mod güncellendi</string>
     <string name="security_mode_renamed_ok">Tamam</string>
     <string name="send">Gönder</string>
     <string name="server_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="service_mode">Servis modu</string>
     <string name="service_mode_advantage_app_error_install_subtitle">Uygulama diğer uygulamaları otomatik olarak indirip yüklediğinde size hatırlatacak ve onayınızı isteyecektir</string>
-    <string name="service_mode_advantage_app_error_install_tip">"Diğer uygulamaları yüklemek istiyorsanız\u000d
+    <string name="service_mode_advantage_app_error_install_tip">"Diğer uygulamaları yüklemek istiyorsanız
 İzniniz gerekiyor"</string>
     <string name="service_mode_advantage_app_error_install_title">Kötü amaçlı ve reklam yayınlamayı önleme</string>
     <string name="service_mode_advantage_app_security_detection_subtitle">Yükleme işlemi sırasında sistem korumasını korumak için harici, zararlı ve virüs uygulamalarını belirledi</string>
-    <string name="service_mode_advantage_app_security_detection_tip">"Uygulama güvenliği olsun ya da olmasın\u000d
+    <string name="service_mode_advantage_app_security_detection_tip">"Uygulama güvenliği olsun ya da olmasın
 Sizin için tanımlıyoruz"</string>
     <string name="service_mode_advantage_app_security_detection_title">Uygulama güvenlik kontrolleri</string>
     <string name="service_mode_advantage_bottom_tip">Kötü amaçlı uygulamaları önleyin, kontrol edin ve kullanıcı güvenliğini koruyun</string>
-    <string name="service_mode_advantage_icon_dark_desc">İndirilen uygulamaların güvenli olmadığından mı endişeleniyorsunuz? Gizliliğin gereğinden fazla elde edilmesinden endişe mi duyuyorsunuz? Reklamların yanlışlıkla uygulamaları yüklemeye teşvik edilmesinden endişe mi duyuyorsunuz? Güvenlik görevlisini etkinleştirin. Bu sorunların hepsinin çözüldüğünü göreceksiniz</string>
-    <string name="service_mode_advantage_icon_desc">İndirilen uygulamaların güvenli olmadığından mı endişeleniyorsunuz? Gizliliğin gereğinden fazla elde edilmesinden endişe mi duyuyorsunuz? Reklamların yanlışlıkla uygulamaları yüklemeye teşvik edilmesinden endişe mi duyuyorsunuz? Güvenlik görevlisini etkinleştirin. Bu sorunların hepsinin çözüldüğünü göreceksiniz</string>
+    <string name="service_mode_advantage_icon_dark_desc">İndirilen uygulamaların güvenli olmadığından mı endişeleniyorsunuz? Gizliliğin gereğinden fazla elde edilmesinden endişe mi duyuyorsunuz? Reklamların yanlışlıkla uygulamaları yüklemeye teşvik edilmesinden endişe mi duyuyorsunuz? Mi korumayı etkinleştirin. Bu sorunların hepsinin çözüldüğünü göreceksiniz</string>
+    <string name="service_mode_advantage_icon_desc">İndirilen uygulamaların güvenli olmadığından mı endişeleniyorsunuz? Gizliliğin gereğinden fazla elde edilmesinden endişe mi duyuyorsunuz? Reklamların yanlışlıkla uygulamaları yüklemeye teşvik edilmesinden endişe mi duyuyorsunuz? Mi korumayı etkinleştirin. Bu sorunların hepsinin çözüldüğünü göreceksiniz</string>
     <string name="service_mode_advantage_pay_protection_subtitle">Ödeme ortamını tespit edin, ödeme risklerini belirledikleri ve mülkü kontrol edecekler</string>
     <string name="service_mode_advantage_pay_protection_tip">Paranızı koruyun</string>
     <string name="service_mode_advantage_pay_protection_title">Ödeme koruma koruma</string>
     <string name="service_mode_advantage_risk_app_download_subtitle">Uyarılmış yüklemeyi önleme için tarayıcıya indirilenden uygulamalarını belirler</string>
-    <string name="service_mode_advantage_risk_app_download_tip">"Uygulamayı indirirken\u000d
+    <string name="service_mode_advantage_risk_app_download_tip">"Uygulamayı indirirken
 Kendiniz için riskleri belirleyin"</string>
     <string name="service_mode_advantage_risk_app_download_title">Riskli uygulama indirme koruması</string>
     <string name="service_mode_advantage_risk_app_forbidden_subtitle">Riskli uygulamaların diğer kötü amaçlı ve reklam amaçlı uygulamaları dağıtmasını önlemek için, riskli uygulamaların yüklenmesi varsayılan olarak yasaklanmıştır</string>
-    <string name="service_mode_advantage_risk_app_forbidden_tip">"Yüklemeye devam etmek için riskli uygulamalardan kaçının\u000d
+    <string name="service_mode_advantage_risk_app_forbidden_tip">"Yüklemeye devam etmek için riskli uygulamalardan kaçının
 Diğer kötü amaçlı veya istenmeyen uygulamalar"</string>
     <string name="service_mode_advantage_risk_app_forbidden_title">Riskli uygulamaların diğer uygulamaları yüklemesini yasaklayın</string>
     <string name="service_mode_advantage_risk_app_remind_subtitle">Riskli, zararlı ve virüs uygulamaları çiçeklerken veya çalıştırırken bariz uyarılar</string>
-    <string name="service_mode_advantage_risk_app_remind_tip">"Uygulama risklerine karşı her zaman uyarın,\u000d
+    <string name="service_mode_advantage_risk_app_remind_tip">"Uygulama risklerine karşı her zaman uyarın,
 Uyanık olmanıza yardımcı olun"</string>
     <string name="service_mode_advantage_risk_app_remind_title">Riskli uygulama uyarılarını kullanın</string>
     <string name="service_mode_advantage_risk_app_safe_subtitle">" Sizi olası riskler hakkında bilgilendirmek için risk ve güvenilmeyen yükleme kaynakları hakkında bilgi ister"</string>
-    <string name="service_mode_advantage_risk_app_safe_tip">"Kurulumun kaynağını anlamanıza yardımcı olmak için \u000d
+    <string name="service_mode_advantage_risk_app_safe_tip">"Kurulumun kaynağını anlamanıza yardımcı olmak için 
 güvenilirlik ve güvenlik"</string>
     <string name="service_mode_advantage_risk_app_safe_title">Kurulum kaynağı risk hatırlatıcısı</string>
-    <string name="service_mode_advantage_start">Güvenlik görevlisini aç</string>
-    <string name="service_mode_advantage_subtitle">İndirdiğiniz güvenli olmayan uygulamalar konusunda endişeli misiniz? Gizliliğin aşırı kazanılması konusunda endişeli misiniz? Yanlışlıkla uygulama yüklemek için reklamlar tarafından teşvik edilmekten endişe duyuyor musunuz? Güvenlik görevlisini etkinleştirin, bu sorunların kolayca çözüldüğünü göreceksiniz</string>
+    <string name="service_mode_advantage_start">Mi korumayı aç</string>
+    <string name="service_mode_advantage_subtitle">İndirdiğiniz güvenli olmayan uygulamalar konusunda endişeli misiniz? Gizliliğin aşırı kazanılması konusunda endişeli misiniz? Yanlışlıkla uygulama yüklemek için reklamlar tarafından teşvik edilmekten endişe duyuyor musunuz? Mi korumayı etkinleştirin, bu sorunların kolayca çözüldüğünü göreceksiniz</string>
     <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Telekomünikasyon dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
     <string name="service_mode_advantage_telecom_fraud_protection_tip">Telekom dolandırıcılığına karşı korunmanıza yardımcı olur</string>
     <string name="service_mode_advantage_telecom_fraud_protection_title">Telekomünikasyon dolandırıcılık koruması</string>
@@ -1095,7 +1095,7 @@ güvenilirlik ve güvenlik"</string>
     <string name="settings_security_mode_status_off_msg">Kapalı</string>
     <string name="settings_security_mode_status_on_msg">Güvenli mod korumaya devam ediyor</string>
     <string name="settings_security_mode_title_off_msg">Güvenli mod</string>
-    <string name="single_authorize">单次授权</string>
+    <string name="single_authorize">Tek yetkilendirme</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -1133,9 +1133,9 @@ güvenilirlik ve güvenlik"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
-    <string name="sure">确定</string>
-    <string name="sure_close_enhance_safe_guard">确定要关闭增强防护吗？</string>
-    <string name="sure_close_enhance_safe_guard_des">为了保护手机安全，增强防护能过滤掉没有经过小米应用商店安全检测的应用，守护您的每一次安装！</string>
+    <string name="sure">Tamam</string>
+    <string name="sure_close_enhance_safe_guard">Gelişmiş korumayı kapatmak istediğinizden emin misiniz?</string>
+    <string name="sure_close_enhance_safe_guard_des">Cep telefonunuzun güvenliğini korumak için gelişmiş koruma, Xiaomi uygulama mağazası güvenlik denetimini geçemeyen uygulamaları filtreleyebilir ve yaptığınız her kurulumu koruyabilir</string>
     <string name="sure_install">Yüklediğinizden emin misiniz?</string>
     <string name="sure_ok">Tamam</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
@@ -1229,14 +1229,14 @@ güvenilirlik ve güvenlik"</string>
     <string name="unrecorded_risk_app">Riskli uygulamaları keşfedin</string>
     <string name="unrecorded_risk_app_description">İlgili yasalara ve mevzuat gerekliliklerine göre bu uygulamanın kurulumu yasaktır</string>
     <string name="unrecorded_risk_app_description_2">Geliştiriciyseniz itirazda bulunabilirsiniz</string>
-    <string name="unrecorded_risk_app_description_temp">如果您的利益受到侵害，可能无法联系到此应用的开发者，请谨慎安装！</string>
+    <string name="unrecorded_risk_app_description_temp">Çıkarlarınız ihlal edilirse bu uygulamanın geliştiricisiyle iletişime geçilemeyebilir. Bu nedenle lütfen dikkatli yükleyin</string>
     <string name="untrusted_external_source_title">%1$s uygulama yükleme izni</string>
     <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yükleyerek bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından kendinizin sorumlu olduğunu kabul etmiş olursunuz</string>
     <string name="update_start">Güncelle</string>
     <string name="uri_no_permission">Dosya okunamıyor. İzin reddedildi</string>
     <string name="user_is_not_allowed_dlg_text">Mevcut kullanıcının kaldırma işlemini gerçekleştirme izni yok</string>
-    <string name="using_enhanced_protection">"建议开启\u000d
-增强防护模式"</string>
+    <string name="using_enhanced_protection">"Gelişmiş koruma modunun
+açılması önerilir"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="verification_word">Doğrula</string>
@@ -1263,8 +1263,8 @@ güvenilirlik ve güvenlik"</string>
     <string name="weibo_redirect_uri" />
     <string name="welcome_to_security_mody">Güvenli moda hoş geldiniz</string>
     <string name="what_is_security_mode">Güvenli mod nedir</string>
-    <string name="why_enhanced_protection_1">为什么需要开启</string>
-    <string name="why_enhanced_protection_2">增强防护模式？</string>
+    <string name="why_enhanced_protection_1">Neden açmanız gerekiyor?</string>
+    <string name="why_enhanced_protection_2">Gelişmiş koruma modu?</string>
     <string name="xiaomi_account_risk">Xiaomi hesap şifresi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>

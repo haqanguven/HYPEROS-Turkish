@@ -704,23 +704,33 @@ Bunlar silindikten sonra telefonunuzun kilidini açmak veya kimliğinizi doğrul
     <string name="float_button_text">Batmadan yüzmek</string>
     <string name="float_notification_snooze_strategy">Kayan bildirimleri geçici olarak gizle</string>
     <string name="fmt_chinese_date">N-e</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="font_scaling_dialog_title">Yazı tipi boyutu</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="font_scale_percentage">%%%1$d</string>
+    <string name="font_scaling_dialog_title">Yazı boyutu</string>
     <string name="font_scaling_larger">Büyüt</string>
     <string name="font_scaling_smaller">Küçült</string>
     <string name="forget_password_string_for_esim"><u>PUK kodunu unuttum</u></string>
+    <string name="format_chs_day">%s gün</string>
+    <string name="format_chs_hour">%s saat</string>
+    <string name="format_chs_minute">%s dakika</string>
+    <string name="format_chs_month_day">%1$d ay %2$d gün</string>
     <string name="format_day_desc">Ayın günü: %s</string>
     <string name="format_day_week_desc">Ayın günü: %1$s, %2$s</string>
     <string name="format_lunar_calendar_month_day_desc">Geleneksel Çin takvimine göre tarih: %s</string>
-    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, geleneksel Çin takvimine göre tarih: %3$s, tatil: %4$s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, geleneksel Çin takvimine göre tarih: %3$s, Tatil: %4$s</string>
+    <string name="format_month_day_style1">d/MMM</string>
+    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_week">dd MMM, EEE</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, geleneksel Çin takvimine göre tarih: %4$s</string>
+    <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, tatil: %4$s</string>
+    <string name="format_number_hour_desc">%s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Tatil: %1$s, geleneksel Çin takvimine göre tarih: %2$s</string>
+    <string name="format_week_day_style1">d EE</string>
     <string name="format_week_day_style1_desc">%1$s, ayın günü: %2$s</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
@@ -1147,6 +1157,16 @@ Bu uygulamanın tüm cihaz günlüklerine erişmesine izin vermezseniz uygulama 
     <string name="miui_keyboard_shortcut_system_dock">Uygulama yuvasını göster</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Son uygulamalar arasında geçiş yap</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
+    <string name="miui_lock_screen_date">dd MMM EEE</string>
+    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"d/M
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"d/M
+EEE"</string>
     <string name="miui_lock_solar_term_autumn_begins">立秋</string>
     <string name="miui_lock_solar_term_autumn_equinox">秋分</string>
     <string name="miui_lock_solar_term_clear_and_bright">清明</string>
@@ -1171,6 +1191,10 @@ Bu uygulamanın tüm cihaz günlüklerine erişmesine izin vermezseniz uygulama 
     <string name="miui_lock_solar_term_white_dews">白露</string>
     <string name="miui_lock_solar_term_winter_begins">立冬</string>
     <string name="miui_lock_solar_term_winter_solstice">冬至</string>
+    <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">dd MMM EEEE</string>
+    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
     <string name="miui_notification_menu_more_setting">Daha fazla</string>
     <string name="miui_notification_menu_msg_not_allow">"%1$s'den gelen tüm bildirimler kısıtlansın mı?"</string>
     <string name="miui_notification_menu_msg_unfocus">%1$s için bildirim spot ışığını kapatmak üzeresiniz. Bu bildirimler normal şekilde görüntülenecek. Şimdi kapatılsın mı?</string>
@@ -1178,7 +1202,9 @@ Bu uygulamanın tüm cihaz günlüklerine erişmesine izin vermezseniz uygulama 
     <string name="miui_notification_menu_snooze">Ertele</string>
     <string name="miui_notification_menu_title_not_allow">Kısıtla</string>
     <string name="miui_notification_menu_unfocus">Bildirim spot ışığını kapat</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
     <string name="miui_screen_rotation_freeze_message">Yatay modda kilitli ekran yönü</string>
+    <string name="miui_smart_frame_clock_date">d/M</string>
     <string name="miui_snooze_always_float">Gizleme</string>
     <string name="miui_snooze_cancel">İptal et</string>
     <string name="miui_snooze_default_time">%d dakika için</string>
@@ -1528,8 +1554,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_bluetooth_secondary_label_input">Giriş</string>
     <string name="quick_settings_bluetooth_secondary_label_transient">Açılıyor</string>
     <string name="quick_settings_brightness_dialog_title">Parlaklık</string>
-    <string name="quick_settings_bt_state_change_message_off">Bluetooth açık</string>
-    <string name="quick_settings_bt_state_change_message_on">Bluetooth kapalı</string>
+    <string name="quick_settings_bt_state_change_message_off">Bluetooth kapalı</string>
+    <string name="quick_settings_bt_state_change_message_on">Bluetooth açık</string>
     <string name="quick_settings_camera_label">Kamera erişimi</string>
     <string name="quick_settings_camera_mic_available">Kullanılabilir</string>
     <string name="quick_settings_camera_mic_blocked">Engellendi</string>
@@ -1856,6 +1882,10 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="status_bar">Durum çubuğu</string>
     <string name="status_bar_airplane">Uçak modu</string>
     <string name="status_bar_alarm">Alarm</string>
+    <string name="status_bar_clock_date_format">d MMM E</string>
+    <string name="status_bar_clock_date_format_12">d MMM E</string>
+    <string name="status_bar_clock_date_time_format">H:mm d MMM E</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm a, d MMM E</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Otomatik ekran döndürme</string>
     <string name="status_bar_work">İş profili</string>

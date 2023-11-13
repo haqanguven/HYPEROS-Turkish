@@ -4,22 +4,4 @@
         <item>ÖÖ</item>
         <item>ÖS</item>
     </string-array>
-    <string-array name="passwordStrength">
-        <item>Yetersiz</item>
-        <item>Yeterli</item>
-        <item>İyi</item>
-        <item>Güçlü</item>
-    </string-array>
-    <string-array name="playback_rate">
-        <item>-32x</item>
-        <item>-16x</item>
-        <item>-8x</item>
-        <item>-4x</item>
-        <item>-2x</item>
-        <item>2x</item>
-        <item>4x</item>
-        <item>8x</item>
-        <item>16x</item>
-        <item>32x</item>
-    </string-array>
 </resources>
