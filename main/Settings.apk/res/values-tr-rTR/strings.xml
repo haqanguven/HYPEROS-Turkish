@@ -5041,7 +5041,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lock_profile_wipe_warning_content_password">İş şifrenizi bu defa yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
     <string name="lock_profile_wipe_warning_content_pattern">İş deseninizi bu denemenizde yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
     <string name="lock_profile_wipe_warning_content_pin">İş deseninizi bu denemenizde yanlış girmeniz durumunda iş profiliniz ve ilgili veriler bu cihazdan silinecektir</string>
-    <string name="lock_screen_action">Kilit ekranında gösterilen öğeler</string>
+    <string name="lock_screen_action">Kilit ekranında gösterilecek öğeler</string>
     <string name="lock_screen_after_fold_screen_summary">Ön kamerayı veya kulaklığı kullanırken katlandıktan sonra ekran kilitlenmiyor</string>
     <string name="lock_screen_after_fold_screen_title">Ekranı katladıktan sonra ekranı kilitleyin</string>
     <string name="lock_screen_auto_pin_confirm_summary">6 haneli veya daha fazla doğru PIN kodunu girerseniz kilidi otomatik olarak açın. Bu onaylamak için Enter tuşuna basmaktan biraz daha az güvenlidir</string>
@@ -9175,7 +9175,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="suggestion_button_close">Kapat</string>
     <string name="suggestion_for_phone_recycled">Farklı bir telefon numarası ekle</string>
     <string name="suggestions_available">Aşağıdaki öneriler</string>
-    <string name="summary_quick_control_all_devices">"Yakındaki TV'lerin, hoparlörlerin ve arabaların kontrollerini kontrol merkezinde göster"</string>
+    <string name="summary_quick_control_all_devices">Yakındaki televizyonların, hoparlörlerin ve arabaların kontrollerini kontrol merkezinde göster</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_first_day_of_week">Pazar</string>
     <string name="sunday_short">Pazar</string>
@@ -9485,7 +9485,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="title_of_auto_launch_manage">Otomatik başlatma</string>
     <string name="title_quick_control_all_devices">Yakındaki cihazlar için kontroller</string>
     <string name="title_regional_pref_footer">Bir uygulama bölgesel tercihleri desteklemiyorsa uygulama varsayılan yerel ayarlarını kullanır</string>
-    <string name="title_show_notification_icon">Bildirim simgelerini göster</string>
+    <string name="title_show_notification_icon">Bildirim simgeleri</string>
     <string name="title_smart_device_control">Akıllı cihaz kontrolleri</string>
     <string name="title_special_features_health_global">Kalp atış hızı</string>
     <string name="title_unavailable_locale">%s kullanılamıyor</string>
