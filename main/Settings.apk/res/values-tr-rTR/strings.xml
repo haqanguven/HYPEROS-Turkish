@@ -4890,7 +4890,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="leftright_waving_summary">Çalma ilerlemesini ayarlayın ve şarkılar arasında geçiş yapın</string>
     <string name="leftright_waving_title">Yatay olarak dalgala</string>
     <string name="legacy_control_center_desc">Geçiş ve bildirimleri görüntülemek için durum çubuğunu aşağı çekin</string>
-    <string name="legacy_control_center_title">Eski sürüm</string>
+    <string name="legacy_control_center_title">Stil 1</string>
     <string name="legacy_navigation_summary">Geri gitme, ana sayfaya gitme ve uygulamalar arasında geçiş yapma işlemleri için ekranınızın altındaki simgeleri kullanın</string>
     <string name="legacy_navigation_title">3 düğmeli gezinme</string>
     <string name="legal_information">Yasal bilgiler</string>
@@ -5967,7 +5967,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="model_name">Model</string>
     <string name="model_number">Cihaz modeli</string>
     <string name="modern_control_center_desc">Bildirimleri görüntülemek için soldaki durum çubuğunu aşağı çekin. Kontrol merkezini açmak için sağdaki durum çubuğunu aşağı çekin</string>
-    <string name="modern_control_center_title">Yeni sürüm</string>
+    <string name="modern_control_center_title">Stil 2</string>
     <string name="modifier_keys_alt">Alt</string>
     <string name="modifier_keys_cancel">İptal et</string>
     <string name="modifier_keys_caps_lock">Büyük harf kilidi</string>
@@ -6583,7 +6583,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="notification_sound_title">Varsayılan bildirim sesi</string>
     <string name="notification_status_bar">Bildirimler &amp; durum çubuğu</string>
     <string name="notification_style_settings">Bildirim stili</string>
-    <string name="notification_style_title">Bildirim türü</string>
+    <string name="notification_style_title">Bildirim stili</string>
     <string name="notification_suggestion_summary">Bildirim içeriğini gösterin veya gizleyin</string>
     <string name="notification_suggestion_title">Kilit ekranınızdaki bilgileri kontrol edin</string>
     <string name="notification_switch_label">Bildirim göster</string>
@@ -9483,7 +9483,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="title_layout_current2_weight">Metin boyutu &amp; yazı tipi kalınlığı</string>
     <string name="title_miui_music_mute_by_user">Sessiz mod</string>
     <string name="title_of_auto_launch_manage">Otomatik başlatma</string>
-    <string name="title_quick_control_all_devices">Yakındaki cihazlara ilişkin kontrolleri göster</string>
+    <string name="title_quick_control_all_devices">Yakındaki cihazlar için kontroller</string>
     <string name="title_regional_pref_footer">Bir uygulama bölgesel tercihleri desteklemiyorsa uygulama varsayılan yerel ayarlarını kullanır</string>
     <string name="title_show_notification_icon">Bildirim simgelerini göster</string>
     <string name="title_smart_device_control">Akıllı cihaz kontrolleri</string>

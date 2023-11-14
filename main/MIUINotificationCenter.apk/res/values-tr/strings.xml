@@ -303,8 +303,8 @@
     <string name="not_sent_recently">Son zamanlarda kullanılmadı</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
-    <string name="notification_display_setting">Bildirim çubuğu</string>
-    <string name="notification_display_style">Bildirim türü</string>
+    <string name="notification_display_setting">Bildirim stili</string>
+    <string name="notification_display_style">Bildirim stili</string>
     <string name="notification_fold_description1">Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir</string>
     <string name="notification_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından önemli olup olmadıklarını belirlemek için birden çok kriter kullanacaktır</string>
     <string name="notification_fold_description3">Önemli olduğunu düşündüğünüz bildirimler yine de bildirimler klasörüne düşüyorsa bu tür sorunları bize bildirebilirsiniz</string>
@@ -315,8 +315,8 @@
     <string name="notification_keyguard_hide_content">Bildirimleri göster ancak içeriği gizle</string>
     <string name="notification_keyguard_show_content">Bildirim ve içeriği göster</string>
     <string name="notification_keyguard_show_nothing">Kilit ekranı bildirimlerini gösterme</string>
-    <string name="notification_style_android">Android</string>
-    <string name="notification_style_miui">MIUI</string>
+    <string name="notification_style_android">Stil 2</string>
+    <string name="notification_style_miui">Stil 1</string>
     <string name="off">Kapat</string>
     <string name="on">Aç</string>
     <string name="pm">ÖS</string>
