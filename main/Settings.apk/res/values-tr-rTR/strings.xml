@@ -10088,8 +10088,8 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vibrate_when_ringing_title">Arama titreşimi</string>
     <string name="video_calling_settings_title">Operatör görüntülü görüşmesi</string>
     <string name="video_tool_box_title">Video araç kutusu</string>
-    <string name="view_face_privacy_policy">Devam etmeden önce <a href;="https://privacy.mi.com/Facial-recognition/%1$s/">\"Yüz verileri &amp;#038; ekran kilidi\" Gizlilik bildirimini</a> okuyup kabul edin</string>
-    <string name="view_fingerprint_privacy_policy">Devam etmeden önce <a href;="https://privacy.mi.com/setting-fingerprint/%1$s/">\"Parmak izleri &amp;#038; ekran kilidi\" Gizlilik bildirimini</a> okuyup kabul edin</string>
+    <string name="view_face_privacy_policy">"Devam etmeden önce <a href;="https://privacy.mi.com/Facial-recognition/%1$s/">Yüz verileri &amp; ekran kilidi gizlilik bildirimini</a> okuyup kabul edin"</string>
+    <string name="view_fingerprint_privacy_policy">"Devam etmeden önce <a href;="https://privacy.mi.com/setting-fingerprint/%1$s/">Parmak izleri &amp; ekran kilidi gizlilik bildirimini</a> okuyup kabul edin"</string>
     <string name="view_saved_network">Görüntülemek için kaydedilmiş ağı seçin</string>
     <string name="vip_list">Gelen arama izinleri</string>
     <string name="vip_service_settings">Servislerim</string>

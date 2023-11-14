@@ -44,6 +44,7 @@
     <string name="alert_sync_merge_dialog_cancel">İptal et</string>
     <string name="alert_sync_merge_dialog_confirm">Aç</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Xiaomi bulut</string>
     <string name="bad_authentication">Geçersiz hesap veya şifre</string>
     <string name="btn_return">Geri</string>
@@ -134,6 +135,7 @@
     <string name="cloud_storage_common_functions_text">Sıklıkla kullanılan</string>
     <string name="cloud_storage_default_title">Bulut depolama</string>
     <string name="cloud_storage_full_upgrade_default_text">Yetersiz depolama. Fotoğraflar senkronize edilemedi</string>
+    <string name="cloud_storage_info_type_creation">Mi kanvas</string>
     <string name="cloud_storage_info_type_drive">Xiaomi sürücü</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Aile</string>
@@ -153,9 +155,16 @@
     <string name="connect_wlan_china">Wifi ağına bağlan</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Senkronizasyonu açarsanız bu cihazdan yüklenen kişiler bulutta depolanan kişilerle birleştirilir. Yine de senkronizasyon açılsın mı?</string>
     <string name="copy">Kopyala</string>
-    <string name="cta_notification_content_text">Öğeleri geri yükleyebilmek için %s uygulamasının internete bağlanmasına izin verin</string>
-    <string name="cta_notification_content_title">%s konumundan öğeler geri yüklenemiyor</string>
-    <string name="customize_notification_btn_text">Yükselt</string>
+    <string name="creation_dialog_message">Mi kanvas verilerini tabletinizde görüntüleyin</string>
+    <string name="creation_dialog_positive_btn">Tamam</string>
+    <string name="creation_dialog_title">Dikkat</string>
+    <string name="creation_sync_settings_only_in_wifi">Yalnızca wifi üzerinden senkronizasyon</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Mobil veriden tasarruf edilmesi önerilir</string>
+    <string name="creation_sync_settings_preference">Tuvaletleri senkronize et</string>
+    <string name="creation_sync_settings_summary">Tuvaller oluşturuldu</string>
+    <string name="cta_notification_content_text">"Öğeleri geri yükleyebilmek için %s'nin internete bağlanmasına izin verin"</string>
+    <string name="cta_notification_content_title">"Öğeler %s cihazından geri yüklenemiyor"</string>
+     <string name="customize_notification_btn_text">Yükselt</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Bu hesap başka bir cihazda da kullanılıyor. Birden fazla uygulamadaki öğeler bu cihazdaki öğelerle birleştirilsin mi? (%1$s ve %2$s dahil)</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Bu hesap başka bir cihazda da kullanılıyor. %s konumundaki öğeler bu cihazdaki öğelerle birleştirilsin mi?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Bu hesap başka bir cihazda da kullanılıyor. %1$s ve %2$s konumundaki öğeler bu cihazdaki öğelerle birleştirilsin mi?</string>
@@ -312,8 +321,9 @@
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
-	<string name="gallery_auto_sync_fail_noti_content">Bulutta yeterli depolama alanı kalmadı. Fotoğrafları ve videoları senkronize etmek için depolama planınızı yükseltin</string>
-	<string name="gallery_data_transfer_ddl">Son tarih: %s</string>
+    <string name="gallery_auto_sync_fail_noti_content">Bulutta yeterli depolama alanı kalmadı. Fotoğrafları ve videoları senkronize etmek için depolama planınızı yükseltin</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">Bulut depolama alanı yetersiz. Fotoğraflar kaydedilemiyor</string>
+    <string name="gallery_data_transfer_ddl">Son tarih: %s</string>
 	<string name="gallery_data_transfer_summary">Galeri öğeleri artık Xiaomi bulut ile senkronize edilemez. Bulutla senkronize ettiğiniz fotoğraf ve videoları Google fotoğraflara aktarmanızı ve öğelerinizi yedeklemek için Google fotoğrafların hizmetlerini kullanmanızı öneririz</string>
 	<string name="gallery_data_transfer_title">Senkronize edilmiş fotoğrafları ve videoları Google fotoğraflara aktarın</string>
 	<string name="gallery_service_termination_announcement">Uyarı: Galeri öğeleri artık Xiaomi bulut ile senkronize edilemez</string>
@@ -331,7 +341,6 @@
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="help_and_feedback">Yardım ve geri bildirim</string>
-    <string name="hybrid_provider">%1$s tarafından sağlanmaktadır</string>
     <string name="i_know">Tamam</string>
     <string name="input_password_hint">Şifreyi girin</string>
     <string name="keybag_create_by_new_passcode_prompt">Bu şifre bulutta depolanan şifrelerinizi korur. Bu şifreyi unutursanız bunlara erişemezsiniz</string>
