@@ -470,6 +470,10 @@
         <item>Balıkesir</item>
         <item>Hatay</item>
     </string-array>
+    <string-array name="middle_devices">
+        <item>marble</item>
+    </string-array>
+    <array name="middle_platforms" />
     <string-array name="minute_rain_array">
         <item>Ağır</item>
         <item>Orta</item>
@@ -537,6 +541,8 @@
         <item>Aşırı kirli</item>
         <item>Endeksin üzerinde</item>
     </string-array>
+    <array name="primary_devices" />
+    <array name="primary_platforms" />
     <string-array name="realtime_humidity_status">
         <item>Kuru</item>
         <item>Rahat</item>

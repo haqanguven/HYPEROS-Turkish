@@ -410,7 +410,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="information_go_to_fitness">"İlgili ayarları Mi Fitness'ta bulabilirsiniz"</string>
     <string name="install_all_deferred">Yükleme ertelendi</string>
     <string name="install_all_features_now">Tüm özellikleri şimdi yükleyin</string>
-    <string name="install_package">"Daha fazla işlev için %1$s'yi yükleyin"</string>
+    <string name="install_package">"Daha fazlası için %1$s'yi yükleyin"</string>
     <string name="installer_downloaded">Tamamen indir</string>
     <string name="installer_downloading">İndiriliyor</string>
     <string name="installer_error_access_denied">Mevcut cihaz koşullarında yüklemeye izin verilmiyor</string>

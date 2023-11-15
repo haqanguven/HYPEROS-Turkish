@@ -1990,7 +1990,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_hci_snoop_log">Bluetooth HCI gizli günlüğü</string>
     <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğü filtreleme MAP</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">"PBAP'yi filtreleyen Bluetooth HCI gözetleme günlüğü"</string>
-    <string name="bt_hci_snoop_log_filter_summary">Filtreleme modunu ayarlayın. (Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin)</string>
+    <string name="bt_hci_snoop_log_filter_summary">"Filtreleme modunu ayarlayın. (Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin)"</string>
     <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Bu seçeneği değiştirmek için Bluetooth HCI gözetleme günlük modunu Etkin Filtrelenmiş olarak ayarlayın</string>
     <string name="bt_hci_snoop_log_filters_dashboard_footer">"Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin"</string>
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Filtreleri ayarla</string>
@@ -8199,7 +8199,7 @@ Silme işleminden sonra telefonunuzun kilidini açmak için Pin'inize, deseniniz
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı çalışmadı. Tekrar deneyin veya farklı bir parmak kullanın</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message_setup">Bir şeyler yanlış gitti. Parmak izinizi daha sonra ayarlarda ayarlayabilirsiniz</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Parmak izi kayıt işlemi için süre sınırı aşıldı. Tekrar deneyin</string>
-    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message_setup">Parmak izinizi daha sonra Ayarlar'da ayarlayabilirsiniz</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message_setup">Parmak izinizi daha sonra ayarlardan ayarlayabilirsiniz</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_dialog_title">Parmak izi kurulumu tamamlanamıyor</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_message">Şimdi tekrar deneyebilir veya parmak izinizi daha sonra ayarlayabilirsiniz</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_message_setup">Şimdi tekrar deneyebilir veya parmak izinizi daha sonra ayarlardan ayarlayabilirsiniz</string>
@@ -10088,8 +10088,8 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vibrate_when_ringing_title">Arama titreşimi</string>
     <string name="video_calling_settings_title">Operatör görüntülü görüşmesi</string>
     <string name="video_tool_box_title">Video araç kutusu</string>
-    <string name="view_face_privacy_policy">"Devam etmeden önce <a href;="https://privacy.mi.com/Facial-recognition/%1$s/">Yüz verileri &amp; ekran kilidi gizlilik bildirimini</a> okuyup kabul edin"</string>
-    <string name="view_fingerprint_privacy_policy">"Devam etmeden önce <a href;="https://privacy.mi.com/setting-fingerprint/%1$s/">Parmak izleri &amp; ekran kilidi gizlilik bildirimini</a> okuyup kabul edin"</string>
+    <string name="view_face_privacy_policy">"Devam etmeden önce https://privacy.mi.com/Facial-recognition %1$s Yüz verileri &amp; ekran kilidi gizlilik bildirimini okuyup kabul edin"</string>
+    <string name="view_fingerprint_privacy_policy">"Devam etmeden önce https://privacy.mi.com/setting-fingerprint %1$s Parmak izleri &amp; ekran kilidi gizlilik bildirimini okuyup kabul edin"</string>
     <string name="view_saved_network">Görüntülemek için kaydedilmiş ağı seçin</string>
     <string name="vip_list">Gelen arama izinleri</string>
     <string name="vip_service_settings">Servislerim</string>

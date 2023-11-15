@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_Perm_Access_Gallery">Galeriye erişim</string>
+    <string name="HIPS_Perm_Access_Gallery">Kamerayla çekilen fotoğraflara ve videolara erişme</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Bu uygulamanın galerinizdeki öğelere erişmesine izin verin</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">"Bluetooth'u açma ve kapatma"</string>
     <string name="HIPS_Perm_CallLog_Desc">Arama geçmişini yazın ve silin</string>
@@ -126,6 +126,7 @@
     <string name="activity_title_antivirus">Güvenlik taraması</string>
     <string name="activity_title_antivirus_kddi">Güvenlik taraması</string>
     <string name="activity_title_apps_manager">Uygulamalar</string>
+    <string name="activity_title_apps_settings">Uygulamalar</string>
     <string name="activity_title_auto_start_manager">Otomatik başlat</string>
     <string name="activity_title_auto_start_manager_global">Otomatik başlat</string>
     <string name="activity_title_garbage_cleanup">Temizleyici</string>
@@ -210,7 +211,7 @@
     <string name="allow_notify">allow_notify</string>
     <string name="allow_onetime">Bir kez izin ver</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
-    <string name="already_close_gamebooster">Oyun hızı arttırması kapalı</string>
+    <string name="already_close_gamebooster">Oyun hızlandırıcı kapalı</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="anti_disturb_msg_detail">Gelen arama bildirimleri hariç tüm bildirimleri kapat</string>
@@ -470,7 +471,15 @@
     <string name="app_install_intercept">Yüklemeyi engelle</string>
     <string name="app_install_tips_go_to">Aç</string>
     <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
-    <string name="app_management_empty_desc">Bu uygulama bu özelliği desteklemiyor</string>
+    <string name="app_manage_frequency">Kullanım sıklığı</string>
+    <string name="app_manage_install_time">Yükleme süresi</string>
+    <string name="app_manage_installed">Yüklendi</string>
+    <string name="app_manage_list">Uygulama sıralaması</string>
+    <string name="app_manage_name">Uygulama adı</string>
+    <string name="app_manage_search">Arama kutusu</string>
+    <string name="app_manage_store">Depolama kullanımı</string>
+    <string name="app_manage_uninstall">Yüklü değil</string>
+    <string name="app_management_empty_desc">"Bu uygulama bu özelliği desteklemiyor"</string>
     <string name="app_management_for_chain_start">Diğer uygulamaları açmayı engelle</string>
     <string name="app_management_for_chain_start_desc">Bu uygulamanın diğer uygulamalara bağlanmasını veya diğer uygulamaları açmasını engelle</string>
     <string name="app_management_for_device_id">Tanımlayıcıları gizleyin ve izlemeyi önleyin</string>
@@ -1251,7 +1260,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cancel_button">İptal et</string>
     <string name="card_click_type_close_ad">Sağ üst köşedeki reklamı kapat düğmesi</string>
     <string name="card_click_type_open_or_download">Sağ alt köşede aç veya indir</string>
-    <string name="card_click_type_other">dDiğer alanlar</string>
+    <string name="card_click_type_other">Diğer alanlar</string>
     <string name="card_main_apkclean_title">APK sil</string>
     <string name="card_main_appdataclean_title">Uygulama verilerini temizle</string>
     <string name="card_main_applock_action">Aç</string>
@@ -1410,11 +1419,16 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="clear_instant_app_data">Uygulamayı temizle</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_tab_behavior_record">Uygulama davranışı kaydı</string>
+    <string name="click_tab_permission">İzin</string>
+    <string name="click_tab_uninstall_app">Uygulamayı kaldırma</string>
+    <string name="click_tab_update_app">Uygulama yükseltme</string>
     <string name="click_to_charge_bill">Doldur</string>
     <string name="click_to_set_carrier">Ayarlamak için dokunun</string>
     <string name="click_to_set_personalized_reminder">Uyarıları ayarla</string>
     <string name="click_to_set_traffic">Ayarlamak için dokunun</string>
     <string name="clipboard_ai_allow">Benim adıma karar ver</string>
+    <string name="clipboard_ai_allow_summary">Sistemin bir uygulamanın pano içeriğine erişip erişemeyeceğini belirlemesine ve eriştiğinde size hatırlatma yapmasına olanak tanır</string>
     <string name="close">Kapat</string>
     <string name="close_callwait">Kapat</string>
     <string name="close_lucky_money_dialog_ok">Kapat</string>
@@ -1584,11 +1598,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="data_usage_no_total_package_body">Veri limiti ayarlamak için dokunun</string>
     <string name="data_usage_no_total_package_body_dual">%s için veri limiti ayarlanmadı</string>
     <string name="data_usage_no_total_package_title">Veri kullanım limiti ayarla</string>
-    <string name="data_usage_protected_dialog_message">"MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı
-
-Mobil veriyi tekrar açtığınızda operatörünüz size ek ücretler talep edebilir"</string>
+    <string name="data_usage_protected_dialog_message">Ek operatör ücretlerinin oluşmasını önlemek için mobil veriler kapatıldı</string>
     <string name="data_usage_protected_notify_message">MIUI ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
-    <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
     <string name="data_usage_warning_body">Veri kullanım detaylarını görüntülemek için dokunun</string>
     <string name="data_usage_warning_body_notify">Ayrıntıları görüntülemek için dokunun</string>
     <string name="data_usage_warning_title_notify">Tarife sınırını aştınız</string>
@@ -1656,6 +1667,8 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_msg_install_manager_content_pad">Güvenlik yeniden yüklensin mi?</string>
     <string name="dialog_msg_stop_virus_scan">Güvenlik taraması tamamlanmadan önce durdurulsun mu?</string>
     <string name="dialog_no_longer_alert">Tekrar gösterme</string>
+    <string name="dialog_preference_click_cancel">İptal et</string>
+    <string name="dialog_preference_click_reset">Uygulamayı sıfırla</string>
     <string name="dialog_remobe_luckymoney_cancle">Tek atış kullan</string>
     <string name="dialog_remobe_luckymoney_ok">Devam et</string>
     <string name="dialog_remove_luckymoney">Mevcut MIUI sürümü zaten sistem seviyesi kırmızı zarf asistanını destekliyor</string>
@@ -2333,20 +2346,20 @@ gönüllüsü"</string>
     <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
     <string name="function_gwsd_detail">"Bu özellik hakkında:
- 1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
- 2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
- 3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
+1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
+2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
+3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
     <string name="function_gwsd_detail_new">"Bu özellik hakkında:
-  %1$d. Bir veri Sim'inde veya bir VoLTE şebekesine bağlı normal bir Sim kartta mobil veri kullanırken, siz açana kadar bağlantı gelen aramalar tarafından kesilmeyecektir
-  %2$d. Bu özellik açıkken, normal bir Sim kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir
-  %5$d. Çin Mobile ve Çin Unicom tarafından verilen Veri Sim kartları desteklenir. Çin Mobil, Çin Unicom ve Çin Telecom tarafından verilen normal Sim kartlar desteklenir"</string>
+%1$d. Bir veri Sim'inde veya bir VoLTE şebekesine bağlı normal bir Sim kartta mobil veri kullanırken, siz açana kadar bağlantı gelen aramalar tarafından kesilmeyecektir
+%2$d. Bu özellik açıkken, normal bir Sim kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir
+%5$d. Çin Mobile ve Çin Unicom tarafından verilen Veri Sim kartları desteklenir. Çin Mobil, Çin Unicom ve Çin Telecom tarafından verilen normal Sim kartlar desteklenir"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
     <string name="function_oncall_not_close_network">Aramalar için bağlantıyı kes</string>
     <string name="function_oncall_not_close_network_detail">"Bu özellik hakkında
-  %1$d. Bu özellik, bu cihaz belirli 5G ağlarına bağlıyken oyun oturumları sırasında gelen aramalarla kesintiye uğramadan çevrimiçi kalmanıza olanak tanır
-  %2$d. Sim kartlarınızdan hiçbiri 5G şebekesine bağlı değilse gelen aramalar birincil Sim'iniz tarafından otomatik olarak reddedilecektir
-  %3$d. Bu özellik yalnızca anakara Çin'de desteklenir
-  %4$d. Bu özellik yalnızca 5G-SA ağlarında çalışır"</string>
+%1$d. Bu özellik, bu cihaz belirli 5G ağlarına bağlıyken oyun oturumları sırasında gelen aramalarla kesintiye uğramadan çevrimiçi kalmanıza olanak tanır
+%2$d. Sim kartlarınızdan hiçbiri 5G şebekesine bağlı değilse gelen aramalar birincil Sim'iniz tarafından otomatik olarak reddedilecektir
+%3$d. Bu özellik yalnızca anakara Çin'de desteklenir
+%4$d. Bu özellik yalnızca 5G-SA ağlarında çalışır"</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>
     <string name="function_shield_pull_notification_bar">Bildirim alanını açma</string>
@@ -2506,6 +2519,8 @@ gönüllüsü"</string>
     <string name="gb_collimator_size">Boyut</string>
     <string name="gb_collimator_style">Tür</string>
     <string name="gb_collimator_toast">Bir görüş nişan almayı çok daha kolay hale getirir</string>
+<string name="gb_cooler_device_toast">"Görsel deneyim şu şekilde geliştirildi:
+Xiaomi oyun soğutucusu"</string>
     <string name="gb_create_icon_summary">Ana ekran kısayolu oluştur</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Yanıtla</string>
@@ -2837,6 +2852,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="group_head_data_location_desc">Tüm uygulamaların konum erişimini kısıtlamak için kapatın</string>
     <string name="group_head_data_location_service">Konum hizmetleri</string>
     <string name="group_head_data_mic_desc">Tüm uygulamaların mikrofon erişimini kısıtlamak için kapatın</string>
+    <string name="group_head_data_screen_shots_clipboard">Ekran görüntülerini otomatik olarak panoya kopyalayın</string>
     <string name="group_image_video">Fotoğraflar ve videolar</string>
     <string name="group_location">Konum</string>
     <string name="group_microphone">Mikrofon</string>
@@ -3006,12 +3022,14 @@ manzara moduna geçin"</string>
     <string name="hints_virus_app_list_item_summary">uygulama</string>
     <string name="hints_virus_app_summary">%s (Uygulama)</string>
     <string name="hints_virus_lib_update_default_summary">Son güncelleme zamanı bilinmiyor</string>
+    <string name="homepage_entry_way">Ana sayfa</string>
     <string name="hongbao_cancel">İptal et</string>
     <string name="hongbao_message_slogon">Xiaomi cep telefonu hızlı</string>
     <string name="hongbao_name">Mi kırmızı zarf yardımcısı</string>
     <string name="hot">Popüler</string>
     <string name="hot_today">Bugün popüler</string>
     <string name="i_know">Tamam</string>
+    <string name="i_know_time">Tamam (%d)</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="icon_created_settings_preference">Eklendi</string>
     <string name="icon_text_size_giga_byte">%.1fG</string>
@@ -3364,6 +3382,11 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_call">Çevir</string>
     <string name="menu_charge_bill">Bakiye yükle</string>
     <string name="menu_charge_traffic">Veri satın al</string>
+    <string name="menu_click_defult_setting">Varsayılan uygulama ayarları</string>
+    <string name="menu_click_hide_system">Sistem hizmetlerini gizle</string>
+    <string name="menu_click_reset_preference">Uygulama makalesini yeniden oluşturmak iyidir</string>
+    <string name="menu_click_setting">Ayarlar</string>
+    <string name="menu_click_show_system">Sistem hizmetlerini göster</string>
     <string name="menu_edit">Düzenle</string>
     <string name="menu_hide_work_profile_text">Çalışma alanı uygulamalarını gizle</string>
     <string name="menu_item_about_content">Sürüm: %s</string>
@@ -3388,7 +3411,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_item_virus_cloud_scan_title">Çevrimiçi virüs veritabanı</string>
     <string name="menu_item_virus_install_monitor_summary">Uygulamaları yüklemeden önce virüs taramasından geçir</string>
     <string name="menu_item_virus_install_monitor_title">Yüklemeden önce tara</string>
-    <string name="menu_item_virus_lib_auto_update_summary">%s tarihinde güncellendi</string>
+    <string name="menu_item_virus_lib_auto_update_summary">%s tarihinde güncellendi</string>
     <string name="menu_remove">Sil</string>
     <string name="menu_report">Hata bildir</string>
     <string name="menu_setting_traffic">Manuel olarak ayarla</string>
@@ -3908,6 +3931,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="optmizingbar_title_clear">Önbelleği temizle</string>
     <string name="optmizingbar_title_security">Güvenlik</string>
     <string name="optmizingbar_title_system">Sistem güvenliği</string>
+    <string name="order_bh_net_empty">Henüz burada hiçbir şey yok</string>
     <string name="order_bh_net_error">Ağ yok</string>
     <string name="organization">Kuruluş</string>
     <string name="other">Diğer ayarlar</string>
@@ -4029,6 +4053,20 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_hight_refresh_rate_reminder_summary">Daha yüksek bir yenileme hızı kullanılıyor. Bu güç tüketimini ve cihaz sıcaklığını artırabilir</string>
     <string name="pc_hight_refresh_rate_reminder_title">Yüksek kare hızına sahip bir video izleme</string>
     <string name="pc_install_manager">USB üzerinden yükleme</string>
+    <string name="pc_keywords_fast_charge">Hızlı şarj</string>
+    <string name="pc_keywords_low_power_consumption_save">Pil tasarrufu</string>
+    <string name="pc_keywords_low_power_mode">Düşük güç modu</string>
+    <string name="pc_keywords_navigation_discharge">Gezinirken şarj etmeyi durdurun</string>
+    <string name="pc_keywords_night_mode">Gece modu</string>
+    <string name="pc_keywords_night_protect">Geceleri pil koruması</string>
+    <string name="pc_keywords_reverse_charge">Tersine şarj etme</string>
+    <string name="pc_keywords_sleep_mode">Uyku modu</string>
+    <string name="pc_keywords_sleep_protect">Uyku sırasında pil koruması</string>
+    <string name="pc_keywords_sleep_save_mode">Gece Pil tasarrufu</string>
+    <string name="pc_keywords_summary_battery_protect">Pilin eskimesini azaltmak için sistem, gereksiz sürekli şarjı azaltmak amacıyla günlük şarj rutininizden bilgi alır</string>
+    <string name="pc_keywords_summary_low_power_consume">Belirli senaryolarda 5G bağlantısının daha az güç tüketmesini sağlayın</string>
+    <string name="pc_keywords_summary_navigation">Navigasyon uygulamalarını kullanırken, pil seçilen seviyeye ulaştığında şarj işlemi otomatik olarak durdurulacaktır</string>
+    <string name="pc_keywords_summary_night_save">Uyku algılandığında pilden tasarruf etmek için bazı özellikleri otomatik olarak kapatın</string>
     <string name="pc_low_batterty_got_it">Tamam</string>
     <string name="pc_low_battery_fast_charge">Şarjı hızlandırın</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
@@ -4141,23 +4179,24 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_action_prompt">Bildir</string>
     <string name="permission_action_reject">Reddet</string>
     <string name="permission_action_tag">Gizlilik koruması</string>
-    <string name="permission_action_virtual">Boş bilgi yetkisi</string>
+    <string name="permission_action_virtual">Boş mesajları döndür</string>
+    <string name="permission_action_virtual_common_summary">Uygulamalara gerekli izinleri verir ancak gizliliğinizi korumak için boş mesajlar döndürür</string>
     <string name="permission_action_virtual_phone_summary">Uygulamalara ilgili izinleri verin ancak Sim kartın gerçek telefon numarasına erişmelerine izin vermeyin</string>
-    <string name="permission_close_permission_control_dialog_msg">İzin yöneticisi kapatıldığında, uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden ya da kamera ve diğer kaynaklara erişmeden önce izninizi istemeyecektir</string>
+    <string name="permission_close_permission_control_dialog_msg">İzin yöneticisi kapalıyken uygulamalar kişilerinizi okumadan, arama geçmişinizi görüntülemeden, sistem ayarlarını değiştirmeden veya kamera ve diğer cihaz kaynaklarına erişmeden önce izninizi istemez</string>
     <string name="permission_close_permission_control_dialog_title">Kapatılsın mı?</string>
     <string name="permission_exception_title">Uygulamalar için sınırlı ağ bağlantısı</string>
     <string name="permission_group_audio">Bu izin uygulamaların bu cihazda depolanan müzik ve diğer ses dosyalarına erişmesine olanak tanır</string>
     <string name="permission_group_calendar">Bu izin uygulamaların takvim etkinliklerine erişmesine, bunları eklemesine, silmesine ve düzenlemesine olanak tanır</string>
-    <string name="permission_group_call_log">Bu izin uygulamaların çağrı geçmişine erişmesine veya bunları düzenlemesine olanak tanır</string>
+    <string name="permission_group_call_log">Bu izin uygulamaların arama geçmişine erişmesine veya bunları düzenlemesine olanak tanır</string>
     <string name="permission_group_camera">Bu izin uygulamaların fotoğraf çekmek veya video kaydetmek için kamerayı kullanmasına olanak tanır</string>
-    <string name="permission_group_contact">Bu izin uygulamaların kişilere erişmesine veya kişileri düzenlemesine, ayrıca bu cihazda oluşturulan uygulama kişilerini görüntülemesine olanak tanır.</string>
-    <string name="permission_group_file">Bu izin uygulamaların bu cihazda depolanan tüm dosyalara erişmesine olanak tanır.</string>
+    <string name="permission_group_contact">Bu izin uygulamaların kişilere erişmesine veya kişileri düzenlemesine, ayrıca bu cihazda oluşturulan uygulama kişilerini görüntülemesine olanak tanır</string>
+    <string name="permission_group_file">Bu izin uygulamaların bu cihazda depolanan tüm dosyalara erişmesine olanak tanır</string>
     <string name="permission_group_image_video">Bu izin uygulamaların bu cihazda depolanan fotoğraflara ve videolara erişmesine olanak tanır</string>
     <string name="permission_group_location">Bu izin uygulamaların ağ veya uydu aracılığıyla konum bilgilerine erişmesine olanak tanır</string>
-    <string name="permission_group_microphone">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına olanak tanır.</string>
+    <string name="permission_group_microphone">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına olanak tanır</string>
     <string name="permission_group_nearby_device">Bu izin uygulamaların yakındaki cihazları keşfetmesine ve bunlara bağlanmasına, ayrıca konumlarını belirlemesine olanak tanır</string>
     <string name="permission_group_phone">Bu izin uygulamaların arama yapmasına, aramaları yanıtlamasına ve sonlandırmasına, ayrıca telefon numaranıza, cihaz durumunuza ve mobil ağ bilgilerinize erişmesine olanak tanır</string>
-    <string name="permission_group_sms">Bu izin uygulamaların SMS ve MMS göndermesine ve görüntülemesine olanak tanır</string>
+    <string name="permission_group_sms">Bu izin uygulamaların mesaj ve multimedya mesajı göndermesine ve görüntülemesine olanak tanır</string>
     <string name="permission_group_sport_healthy">Bu izin uygulamaların etkinlik bilgilerinize erişmesine olanak tanır</string>
     <string name="permission_instruction_access_notification">Bu izin uygulamaların tüm bildirimlerinizi okumasına, aramasına ve temizlemesine izin verir. Bildirimlerin özel bilgiler içerebileceğini unutmayın</string>
     <string name="permission_instruction_activity_recognition">Bu izin uygulamaların fiziksel aktivitenizi algılayan yerleşik sensörler tarafından toplanan bilgilere erişmesine izin verir. Fiziksel aktiviteniz hakkındaki bilgilerin kişisel olduğunu unutmayın</string>
@@ -4180,6 +4219,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_install_shortcuts">Bu izin uygulamaların ana ekran kısayolları oluşturmasına izin verir</string>
     <string name="permission_instruction_install_unknown_source">Bu izin uygulamaların cihazınıza başka uygulamalar yüklemesine izin verir. Kötü amaçlı uygulamalar onayınız olmadan uygulamaları yüklemek için bu izni kullanır</string>
     <string name="permission_instruction_location">Bu izni verdiğinizde, uygulamalar konumunuza erişmek için ağları veya uydu konumlandırmayı kullanır. Özelliği destekleyen uygulamaların yalnızca yaklaşık konumunuza erişmesine izin verebilirsiniz</string>
+    <string name="permission_instruction_mac_adress">Bu cihazın MAC adresine erişin</string>
     <string name="permission_instruction_media_audio">Bu iznin verilmesi uygulamaların telefonunuzdaki müziğe ve diğer seslere erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_media_files">Bu iznin verilmesi uygulamaların telefonunuzdaki dosyalara ve belgelere erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_modify_audio_settings">Bu izin uygulamaların ses ayarlarını değiştirmesine izin verir. Bu izni vermediğiniz sürece bazı uygulamalarda ses düzeyini ayarlayamayabilirsiniz</string>
@@ -4194,6 +4234,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_read_clipboard">Bu izin gizli bilgiler içerebilecek her türlü içeriği okumasına izin verir</string>
     <string name="permission_instruction_read_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerine erişmesine izin verir. Bu bilgiler belirli kişilerle aramalar, e-postalar ve diğer yöntemler aracılığıyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişileri kaydetmesine de izin verir. Kötü amaçlı uygulamalar bu izni izniniz olmadan kişileri paylaşmak için kullanabilir</string>
     <string name="permission_instruction_read_history">Tarama geçmişine erişin</string>
+    <string name="permission_instruction_read_imei">"Bu cihazın IMEI'sine erişin"</string>
     <string name="permission_instruction_read_media_pic">Bu iznin verilmesi uygulamaların telefonunuzdaki fotoğraflara ve videolara erişmesine izin verir. Lütfen bu kişisel bilgilerin çok önemli olduğunu ve özel bilgilerin gereksiz yere ifşa edilmesini önlemek için uygulamaya bu izni verirken dikkatli olmanız gerektiğini unutmayın</string>
     <string name="permission_instruction_read_notify_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan bildirim metin mesajlarını okumasına izin verir</string>
     <string name="permission_instruction_read_phone_state">Bu izin uygulamaların telefon numaranıza, IMEI, IMSI ve diğer cihaz tanımlayıcılara erişmesine izin verir. Uygulamalar normalde bu izni çağrılarınızın yönlendirilip yönlendirilmediğini belirlemek için kullanır. Bir sanal cihaz kimliği kullanıyorsanız uygulamalar gerçek cihaz tanımlayıcılarınıza erişemez</string>
@@ -4228,6 +4269,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_permission_control_closed_desc_dialog_msg">Uygulamalar kişilerinizi okumadan, arama kaydınızı görüntülemeden, sistem ayarlarını değiştirmeden yada kamera veya diğer kaynaklara erişimden önce izninizi sormayacak. İzin ayarlarından bu özelliği kullanılabilir hale getirebilirsiniz</string>
     <string name="permission_permission_control_closed_desc_dialog_title">İzin yöneticisi</string>
     <string name="permission_precise_location">Hassas konum</string>
+    <string name="permission_precise_location_sumary">Bu özellik kapatıldığında uygulamalar yalnızca yaklaşık konumunuza erişebilir</string>
     <string name="permission_privacy_link">%1$s %2$s</string>
     <string name="permission_share_uid">Hassas konum</string>
     <string name="permission_upgrade_more">Daha fazla gizlilik koruma özelliğine bakın</string>
@@ -4298,10 +4340,13 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_usage_deny_w_contacts_once">%1$s | Bu uygulamanın kişilerinizi düzenlemesi reddedildi</string>
     <string name="permission_usage_deny_wake_path_once">%1$s Bu uygulamanın %2$s otomatik olarak başlatılması reddedildi</string>
     <string name="permission_usage_deny_wakepath_once">%1$s | Reddedildi</string>
+    <string name="permission_usage_media_aural_app">%1s müzik ve sese erişti</string>
+    <string name="permission_usage_media_visual_app">%1s fotoğraf ve videolara erişti</string>
     <string name="permission_usage_now">Şimdi</string>
     <string name="permission_usage_now_access">Şimdi erişiliyor</string>
     <string name="permission_usage_projection_screen_once">%1$s｜Erişilen veya kaydedilen ekran içeriği</string>
     <string name="permission_usage_projection_screen_use">Ekran içeriğine erişin veya içeriği kaydedin</string>
+    <string name="permission_usage_projection_screen_use_app">"%1s'in eriştiği veya kaydettiği ekran içeriği"</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Bu uygulama bu cihazın kamerasını kullandı</string>
     <string name="permission_usage_terminal_camera_use">"Bu uygulama bu cihazın kamerasını kullanıyor"</string>
     <string name="permission_usage_terminal_screen_once">%1$s | Bu uygulama bu cihazın ekranını kullandı</string>
@@ -4591,7 +4636,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_rank_surface_flinger">İşleniyor</string>
     <string name="power_rank_system">Android sistemi</string>
     <string name="power_save_mode">Pil tasarrufu</string>
-    <string name="power_save_mode_auto_exit_summary_new">Pil %s veya tamamen şarj olduğunda kapatın​</string>
+    <string name="power_save_mode_auto_exit_summary_new">Pil %s veya tamamen şarj olduğunda kapatın</string>
     <string name="power_save_mode_auto_exit_title">Şarj edildiğinde kapat</string>
     <string name="power_save_mode_close_aod_display_summary">Pil tasarrufu açıkken her zaman açık ekranı kapat</string>
     <string name="power_save_mode_close_aod_display_title">Her zaman açık ekranı kapat</string>
@@ -5951,7 +5996,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="storage_click_system_data">Sistem verileri</string>
     <string name="storage_click_system_log">Sistem günlüğü</string>
     <string name="storage_click_video">Video</string>
-    <string name="storage_compact_warning">Birden fazla izin durumu ayarlanacak</string>
     <string name="storage_compact_warning_desc">Uygulama tek tek değil, yalnızca fotoğraflar, videolar, ses, dosyalar ve belgeler için erişim izinlerinin aynı anda ayarlanmasını destekler</string>
     <string name="storage_deepclean_entry">Derin temizlik</string>
     <string name="storage_dialog_unmountable">"Bu ^1 bozuk
@@ -6641,6 +6685,8 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="untrust_app_perm_oaid">Sanal kimliğinize erişmesine izin ver</string>
     <string name="untrust_app_perm_title">Bilinmeyen bir kaynaktan uygulama</string>
     <string name="untrust_app_perm_warn">Bu uygulama bilinmeyen bir kaynaktan geliyor ve güvenlik riskleri oluşturabilir. Gizliliğinizden ödün vermek için aşağıda listelenen izinleri kullanabilir. Dikkatli bir değerlendirmeden sonra bu izinleri verin</string>
+    <string name="unused_apps_switch">Kullanılmıyorsa uygulama etkinliğini duraklat</string>
+    <string name="unused_apps_switch_summary">İzinleri kaldırın, geçici dosyaları silin ve bildirimleri durdurun</string>
     <string name="upgrade_tvm_component_desc">İşlemlerinizin güvenliğini sağlamak için telefon tuşu bileşeni eklentisini güncelleyin</string>
     <string name="upgrade_tvm_component_title">Telefon tuşu bileşeni eklentisini güncelleyin</string>
     <string name="usage_sorted_activity_lable">Veri kullanımı</string>
@@ -6793,7 +6839,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_auto_update_engine_1">Tanımları otomatik olarak güncelle</string>
     <string name="virus_clear_dialog_title">Kötü amaçlı uygulamaları temizle</string>
     <string name="virus_detail_app">Virüs içerir</string>
-    <string name="virus_detail_split_line_text"> | </string>
+    <string name="virus_detail_split_line_text">|</string>
     <string name="virus_detail_title">Virüsler</string>
     <string name="virus_engine_choose_text">Çevrimiçi virüs tanımları</string>
     <string name="virus_engine_split_text">", "</string>

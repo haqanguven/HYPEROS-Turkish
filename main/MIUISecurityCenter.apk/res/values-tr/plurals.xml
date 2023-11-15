@@ -1250,6 +1250,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d numara</item>
         <item quantity="one">%d numara</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d izin düzenleniyor</item>
+        <item quantity="one">%1$d izin düzenleniyor</item>
+    </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
