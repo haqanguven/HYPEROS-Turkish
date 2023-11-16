@@ -190,6 +190,7 @@
     <string name="download_status_paused">Duraklat</string>
     <string name="download_success">İndirme tamamlandı</string>
     <string name="download_wait_connect">Bağlantı bekleniyor</string>
+    <string name="download_waiting">Bekleniyor</string>
     <string name="downloaded_empty">Boş</string>
     <string name="downloading">İndiriliyor</string>
     <string name="downloading_empty">Boş</string>

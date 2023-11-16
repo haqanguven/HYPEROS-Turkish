@@ -1412,7 +1412,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_present">Hediye</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Ücretsiz</string>
-    <string name="resource_price_unit"> Mi kredi</string>
+    <string name="resource_price_unit">Mi kredi</string>
     <string name="resource_purchase_common_error">Bir hata oluştu. Yeniden deneyin</string>
     <string name="resource_purchase_continue_to_pay">%s için ödemeye devam et</string>
     <string name="resource_purchase_getting_order">Sipariş bilgisi alınıyor</string>

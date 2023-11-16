@@ -1153,7 +1153,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="prefDefault_alerts_vibrateWhen">never</string>
     <string name="prefDefault_alerts_vibrate_false">never</string>
     <string name="prefDefault_alerts_vibrate_true">always</string>
-    <string name="pref_default_popup_alert_value">smart</string>
+    <string name="pref_default_popup_alert_value">none</string>
     <string name="pref_reminder_time">Hatırlatıcı zamanı</string>
     <string name="pref_title_alarm_remind">Alarm ile hatırlat</string>
     <string name="pref_title_no_remind">Hatırlatıcı yok</string>
@@ -1338,7 +1338,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="setting_title_weather_card_desc">Ay takvimi kartının sağ tarafında hava durumu bilgilerini gösterir</string>
     <string name="setting_title_weather_card_display">Hava durumunu göster</string>
     <string name="setting_title_yiji_display">Göster</string>
-    <string name="setting_toast_dump_mylog_done">Cep telefonu günlüğünüz MIUI/debug_log/com.android.calendar/dump klasöründe oluşturuldu</string>
     <string name="setting_user_experience">Kullanıcı deneyimi planı</string>
     <string name="share_as_picture">Fotoğraf olarak paylaş</string>
     <string name="share_as_url">Bağlantı olarak paylaşın</string>

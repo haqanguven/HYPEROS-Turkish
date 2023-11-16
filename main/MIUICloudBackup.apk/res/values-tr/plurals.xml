@@ -37,6 +37,14 @@
         <item quantity="other">%1$s yedek (%2$s)</item>
         <item quantity="one">%1$s yedek (%2$s)</item>
     </plurals>
+    <plurals name="days_and_size_without_backup">
+        <item quantity="other">Son yedeklemeden bu yana %1$d gün | Yeni veri: %2$s</item>
+        <item quantity="one">Son yedeklemeden bu yana %1$d gün | Yeni veri: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">Son yedeklemeden bu yana %d gün</item>
+        <item quantity="one">Son yedeklemeden bu yana %d gün</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

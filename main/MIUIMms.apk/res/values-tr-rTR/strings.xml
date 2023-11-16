@@ -52,6 +52,7 @@ Tekrar deneyin"</string>
 engellenenler listesine eklendi"</string>
     <string name="add_to_block_by_tag_failed">"%s içeren mesajlar engelleme listesine eklenemedi
 Tekrar deneyin"</string>
+    <string name="add_to_block_cta_failed">Engellenenler listesine öğe ekleyebilmek için güvenlik uygulamasına gerekli izinleri verin</string>
     <string name="add_to_browser_favorite_failed">Eklenemedi</string>
     <string name="add_to_browser_favorite_success">Başarıyla eklendi</string>
     <string name="add_video">Video ekle</string>

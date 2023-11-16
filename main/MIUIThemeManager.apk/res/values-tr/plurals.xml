@@ -129,8 +129,8 @@
         <item quantity="one">Kalori hedefi: %1$s kalori</item>
     </plurals>
     <plurals name="health_chart_calories_schedule_format">
-        <item quantity="other">%1$s/%2$s kcal</item>
-        <item quantity="one">%1$s/%2$s kcal</item>
+        <item quantity="other">%1$s/%2$s kalori</item>
+        <item quantity="one">%1$s/%2$s kalori</item>
     </plurals>
     <plurals name="health_chart_sport_time_current_schedule_format_desc">
         <item quantity="other">Etkinlik süresi: %1$s dakika</item>

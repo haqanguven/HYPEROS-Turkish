@@ -385,10 +385,17 @@ Ayrıntılar sayfasını görüntülemek için iki kez dokunun
 Sürüklemek için iki kez dokunun ve basılı tutun"</string>
     <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
 Ayrıntılar sayfasını görüntülemek için iki kez dokunun"</string>
+    <string name="pa_accessibility_picker_home_maml_slected_no_drag">"%1$s，%2$s, 
+Ayrıntılar sayfasına girmek için iki kez tıklayın"</string>
     <string name="pa_accessibility_picker_home_search">Araç ara</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
 Başlamak için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_title">Araç ekle</string>
+    <string name="pa_accessibility_picker_home_widget_add">%s aracını araç grubuna ekle</string>
+    <string name="pa_accessibility_picker_home_widget_add_card_content_desc">"%s aracının altında bir ekleme düğmesi var
+Aracı grubuna eklemek için iki kez dokunun"</string>
+    <string name="pa_accessibility_picker_home_widget_add_card_content_desc_status">"%1$s araç kurulum durumu %2$s aşağıda bir ekleme düğmesi var
+Aracı grubuna eklemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_widget_replace">%s seçildi. Araçları değiştir</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
 Başka bir araç ile değiştirmek için altındaki düğmeye iki kez dokunun"</string>
@@ -399,12 +406,18 @@ Ayrıntıları görüntülemek için iki kez dokunun
 Taşımak için iki kez dokunun ve basılı tutun"</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, kurulum durumu: %3$s
 Ayrıntıları görüntülemek için iki kez dokunun"</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, kurulum durumu: %3$s.
+Ayrıntıları görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, satır %2$d, sayı %3$d
 Ayrıntıları görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Temaları aç</string>
+    <string name="pa_accessibility_picker_save">Kaydet</string>
     <string name="pa_accessibility_picker_search_cancel">Araç arama çubuğu. İptal etmek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_search_clear">Arama geçmişini temizle</string>
     <string name="pa_accessibility_picker_search_tips">Araç arama çubuğu. Aramak için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_stack_widget_delete">Sil, %1$s</string>
+    <string name="pa_accessibility_picker_stack_widget_double_click_drag_sort">"%1$s'ı sıralamak üzere sürüklemek için çift tıklayın ve uzun basın"</string>
+    <string name="pa_accessibility_picker_stack_widget_drag_pa">%1$s aracıını seçin. Uygulama kasasına sürüklemek için çift tıklayın ve uzun basın</string>
     <string name="pa_accessibility_picker_status_installed">Yüklendi</string>
     <string name="pa_accessibility_picker_status_uninstalled">Yüklenemedi</string>
     <string name="pa_accessibility_picker_status_unkonw">Bilinmiyor</string>
@@ -426,6 +439,10 @@ Ayrıntıları görüntülemek için iki kez dokunun"</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Düzenlemek için iki defa dokunun</string>
+    <string name="pa_accessibility_stack_desc">Araç grubu gruptaki araçları değiştirmek için yukarı ve aşağı kaydırın</string>
+    <string name="pa_accessibility_stack_enter">Araç, araç grubuna girdi</string>
+    <string name="pa_accessibility_stack_page_down">Sayfa aşağı, mevcut araç:</string>
+    <string name="pa_accessibility_stack_page_up">Sayfa yukarı mevcut araç:</string>
     <string name="pa_accessibility_widget_slected_status">Seçildi: %1$s. Kurulum durumu: %2$s</string>
     <string name="pa_alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Araç</string>
@@ -655,6 +672,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_add_maml_net_unavailable">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="pa_picker_detail_add_to_home">Ana ekrana ekle</string>
     <string name="pa_picker_detail_add_to_minus">Uygulama kasasına ekle</string>
+    <string name="pa_picker_detail_add_to_stack">Gruba ekle</string>
     <string name="pa_picker_detail_add_widget_success">Başarıyla eklendi</string>
     <string name="pa_picker_detail_app_not_in_market">Bu uygulama artık herhangi bir araç sağlamıyor</string>
     <string name="pa_picker_detail_app_not_off_shelf">Bu uygulamanın araçları artık mevcut değil</string>
@@ -755,6 +773,9 @@ yükleme bağlantılarını bitirmesi gerekir"</string>
     <string name="pa_picker_search_result_type_recommend">Önerilen</string>
     <string name="pa_picker_search_result_type_suit">Araç setleri</string>
     <string name="pa_picker_search_result_type_widget">Araçlar</string>
+    <string name="pa_picker_stack_operate_empty_title">"Burada henüz bir şey yok.
+Başlamak için araçlar ekleyin."</string>
+    <string name="pa_picker_stack_operate_title">Grubu düzenle</string>
     <string name="pa_picker_suit_list_activity_title">Kişiselleştirilmiş takım elbise</string>
     <string name="pa_picker_tab_title_category">Kategoriler</string>
     <string name="pa_picker_tab_title_fun">Keşfet</string>
@@ -762,6 +783,7 @@ yükleme bağlantılarını bitirmesi gerekir"</string>
     <string name="pa_picker_theme_app_version_error">Tema duvar kağıdı uygulama sürümü anormal</string>
     <string name="pa_picker_tips_count_limit_forbidden">Uygulama kasasına daha fazla araç eklenemiyor. Yenilerini eklemek için eski araçları silin</string>
     <string name="pa_picker_toast_add_successfully">Başarıyla eklendi</string>
+    <string name="pa_picker_toast_count_limit_for_stack">En fazla 10 öğe ekleyin</string>
     <string name="pa_picker_toast_count_limit_forbidden">Daha fazla araç eklenemiyor</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Bu türden daha fazla araç eklenemez</string>
     <string name="pa_picker_toast_count_limit_warning">Başarıyla eklendi. Ana ekranınıza çok fazla araç yerleştirmenin cihazınızı yavaşlatabileceğini unutmayın</string>
@@ -933,6 +955,8 @@ yükleme bağlantılarını bitirmesi gerekir"</string>
     <string name="pa_sports_widget_empty_football">Futbol</string>
     <string name="pa_sports_widget_empty_game">Kralların onuru</string>
     <string name="pa_sports_widget_empty_recommend">Önerilen</string>
+    <string name="pa_stack_summary">Yeni bilgiler içeren araçları yukarıya taşı</string>
+    <string name="pa_stack_text">Güncellenen öğeleri yukarı taşı</string>
     <string name="pa_stock_add_stock_button">Ekle</string>
     <string name="pa_stock_change_cp_code_alert">Bu işlem verilerin düzgün görüntülenememesine neden olabilir</string>
     <string name="pa_stock_change_cp_code_error">Veri kaynağı değiştirilemedi</string>
@@ -980,6 +1004,9 @@ yükleme bağlantılarını bitirmesi gerekir"</string>
     <string name="pa_widget_advert_loading_dialog_message">Yükleniyor. Lütfen bekleyin</string>
     <string name="pa_widget_menu_edit">Düzenle</string>
     <string name="pa_widget_menu_edit_card_in_stack">%s düzenle</string>
+    <string name="pa_widget_menu_edit_stack">Grubu düzenle</string>
+    <string name="pa_widget_menu_remove">Kaldır</string>
+    <string name="pa_widget_menu_remove_card_in_stack">"%s'yi kaldır"</string>
     <string name="pa_widget_menu_replace">Değiştir</string>
     <string name="pa_widget_need_download_dialog_cancel">İptal et</string>
     <string name="pa_widget_need_download_dialog_confirm">Tamam</string>
