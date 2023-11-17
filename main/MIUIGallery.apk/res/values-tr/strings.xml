@@ -284,7 +284,7 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="album_favorites_name">Favoriler</string>
     <string name="album_from_format">%s konumundan</string>
     <string name="album_hidden_item_button_title">Gizleme</string>
-    <string name="album_hidden_page_title">Gizle</string>
+    <string name="album_hidden_page_title">Gizli albümler</string>
     <string name="album_homepage_show_all_photos">Tüm fotoğrafları göster</string>
     <string name="album_jump_failed">Albümler Xiaomi bulut ile senkronize olana kadar bekleyin ve tekrar deneyin</string>
     <string name="album_lockscreen_wallpapers">Kilit ekranı duvar kağıtları</string>

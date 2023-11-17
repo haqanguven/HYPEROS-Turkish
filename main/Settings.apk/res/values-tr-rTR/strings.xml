@@ -5704,7 +5704,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miheadset_multi_connect_mode_summary">Aynı anda birden fazla cihaz bağlayın</string>
     <string name="miheadset_network_not_available">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="miheadset_next">Sonraki parça</string>
-    <string name="miheadset_notification_summary">Kulaklıklar bağlandığında Bildirim alanında widget göster</string>
+    <string name="miheadset_notification_summary">Kulaklıklar bağlandığında bildirim alanında araç göster</string>
     <string name="miheadset_notification_title">Bildirim alanında göster</string>
     <string name="miheadset_offhook">Aramayı reddet</string>
     <string name="miheadset_ok_device">Tamam</string>
@@ -9312,7 +9312,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="tare_nonwakeup_inexact_idle">Beklemedeyken kesin olmayan uyandırma olmayan alarma izin ver</string>
     <string name="tare_notification_interaction">Bildirim etkileşimi</string>
     <string name="tare_notification_seen">Bildirim görüldü</string>
-    <string name="tare_notification_seen_15_min">15 Dakika İçinde Görülen Bildirim</string>
+    <string name="tare_notification_seen_15_min">15 dakika içinde görülen bildirim</string>
     <string name="tare_off">Kapalı</string>
     <string name="tare_on">Açık</string>
     <string name="tare_other_interaction">Diğer kullanıcı etkileşimi</string>
