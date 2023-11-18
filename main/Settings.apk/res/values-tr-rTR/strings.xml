@@ -8459,7 +8459,8 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="show_clip_access_notification_summary">Uygulamalar kopyaladığım metne, resimlere veya diğer içeriklere eriştiğinde mesaj göster</string>
     <string name="show_connected_devices_summary">Bağlı cihazları görüntüle</string>
     <string name="show_connected_devices_title">Bağlı cihazlar</string>
-    <string name="show_dev_already">Gerekli değil. Geliştirici seçeneklerini zaten etkinleştirildi</string>
+    <string name="show_dev_already">Geliştirici seçeneklerini zaten etkinleştirildi</string>
+    <string name="show_dev_countdown">{count, plural, =1 {Geliştirici seçeneklerini etkinleştirmeye # adım kaldı} other {Geliştirici seçeneklerini etkinleştirmeye # adım kaldı} }</string>
     <string name="show_dev_on">Geliştirici seçenekleri etkinleştirildi</string>
     <string name="show_fc">Zorla kapatılan uygulamalar</string>
     <string name="show_fc_summary">Zorla kapatılan uygulamaları göster</string>
