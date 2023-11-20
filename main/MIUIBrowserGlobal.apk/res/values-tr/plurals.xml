@@ -205,6 +205,10 @@
         <item quantity="other">%d reklam engellendi</item>
         <item quantity="one">%d reklam engellendi</item>
     </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d yeni önerilen video</item>
+        <item quantity="one">%d yeni önerilen video</item>
+    </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s arama talebi</item>
         <item quantity="one">%s arama talebi</item>

@@ -610,7 +610,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_guide_dialog_sure">Tamam</string>
     <string name="pa_guide_dialog_title">Araç mağazamıza göz atın</string>
     <string name="pa_half_day_time">h:mm</string>
-    <string name="pa_home_head_time_format">%1$s / %2$s</string>
+    <string name="pa_home_head_time_format">%1$s/%2$s</string>
     <string name="pa_horizontal_center">Yatay düzen. Merkeze hizalanmış</string>
     <string name="pa_horizontal_left">Yatay düzen. Sola hizalanmış</string>
     <string name="pa_horizontal_right">Yatay düzen. Sağa hizalanmış</string>

@@ -295,15 +295,20 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfada halen gönderilmemiş veriler bulunmaktadır. Veriyi yeniden gönderdiğinizde önceki işlemler tekrarlanacaktır (Örneğin: Arama veya satın alma işlemleri)</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
     <string name="browser_wallpaper">Duvar kağıtları</string>
+    <string name="browser_wallpaper_activity">Promosyonlar</string>
     <string name="browser_wallpaper_application">Uygula</string>
     <string name="browser_wallpaper_art">Sanat</string>
     <string name="browser_wallpaper_currently_in_use">Uygulandı</string>
+    <string name="browser_wallpaper_gallery">Fotoğraflarım</string>
     <string name="browser_wallpaper_landscape">Manzara</string>
     <string name="browser_wallpaper_more_btn">Daha fazla görüntüle</string>
+    <string name="browser_wallpaper_my">Duvar kağıtlarım</string>
     <string name="browser_wallpaper_preview">Önizleme</string>
+    <string name="browser_wallpaper_sub">Tatil temalı ve özel duvar kağıtları için öneriler alın</string>
     <string name="browser_wallpaper_subtitle">Tarayıcıyı güzel duvar kağıtları ile kişiselleştirin</string>
     <string name="browser_wallpaper_system_default">Varsayılan</string>
     <string name="browser_wallpaper_title">Duvar kağıtları</string>
+    <string name="browser_wallpaper_toast">Duvar kağıtlarını değiştirebilmek için promosyonlar düğmesini kapatın</string>
     <string name="btn_agree">Kabul et</string>
     <string name="btn_cancel">İptal</string>
     <string name="camera_permission_name">Kamerayı kullan</string>
@@ -554,6 +559,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Kişi ekle</string>
     <string name="contextmenu_copy">Kopyala</string>
+    <string name="contextmenu_copy_image">Resmi kopyala</string>
     <string name="contextmenu_copylink">Bağlantı adresini kopyala</string>
     <string name="contextmenu_dial_dot">Ara</string>
     <string name="contextmenu_download_image">Resmi kaydet</string>
@@ -578,6 +584,8 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="continue_reading">Okumaya devam et</string>
     <string name="continue_watch_video">İzlemeye devam et</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_image_failed">Kopyalanamadı</string>
+    <string name="copy_image_success">Kopyalandı</string>
     <string name="copy_success">Kopyalandı</string>
     <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
     <string name="copy_url">Bağlantıyı kopyala</string>
@@ -605,7 +613,12 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="debug_crash">Kilitlenme hata ayıklamasını etkinleştir</string>
-    <string name="debug_youtube_file">Youtube dosyasında hata ayıkla</string>
+    <string name="debug_user_firebase_config_list_title">Firebase yapılandırma listesi</string>
+    <string name="debug_user_firebase_config_reset">Sıfırla</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase yapılandırmaları sıfırlanacak</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">İşleniyor</string>
+    <string name="debug_user_firebase_config_search_hint">Arama yapılandırması</string>
+    <string name="debug_youtube_file">Youtube dosyasında hata ayıklama</string>
     <string name="debug_youtube_in_release">Yayında youtube hatalarını ayıklayın</string>
     <string name="decompress">Çıkar</string>
     <string name="decompress_fail">Çıkartılamadı</string>
@@ -1169,7 +1182,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="ignore_add_game_center_dialog_this_week">Bu haftayı gösterme</string>
     <string name="ignore_add_pwa_dialog_today">Bugün gösterme</string>
     <string name="improve_mi_browser_pe">Tarayıcıyı geliştirmemize yardımcı olun</string>
-    <string name="in_secureaccess">Tarıyıcı güvenli moda geçti</string>
     <string name="incognito_message">Artık özel olarak gezinebilirsiniz. Bu cihazı kullanan diğer kişiler etkinliğinizi görmeyecektir. Ancak indirilenler ve yer imleri yine de kaydedilir</string>
     <string name="incognito_off">Gizli mod kapalı</string>
     <string name="incognito_on">Gizlisiniz</string>
@@ -1437,6 +1449,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="more_option">Daha fazla seçenek</string>
     <string name="more_privacy">Daha fazla gizlilik seçeneği</string>
     <string name="more_recommend">Daha fazla öneri</string>
+    <string name="more_videos">Daha fazla video</string>
     <string name="morning">Sabah</string>
     <string name="most_visited_sites">En çok ziyaret edilenler</string>
     <string name="most_visited_sites_switch">Ziyaret edilen siteler</string>
@@ -1718,8 +1731,6 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Git</string>
     <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
     <string name="net_error">Ağ hatası</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Çevrenizde bir wifi bağlantı noktası bulundu. Bağlanmaya çalışılsın mı?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wifi ağı kullanılabilir</string>
     <string name="new_update_available">Bir güncelleme mevcut</string>
     <string name="news_flow_more_recommend">Daha fazla önerilen öge</string>
     <string name="news_load_failed">Tekrar denemek için dokunun</string>
@@ -2031,8 +2042,8 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="pref_content_search_engine">Adres çubuğu arama motoru</string>
     <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
     <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
-    <string name="pref_data_preload_value_always">Her zaman</string>
-    <string name="pref_data_preload_value_never">Asla</string>
+    <string name="pref_data_preload_value_always">ALWAYS</string>
+    <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_default_browser_str">Varsayılan tarayıcı</string>
     <string name="pref_desc_dns_prefetch">Tarayıcının talep edilmeden kaynaklardan önce alan adlarını çözmesine izin verin (Örneğin: Dosya veya bağlantı)</string>
@@ -2174,8 +2185,8 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="pref_ua_string">Kullanıcı aracısı</string>
     <string name="pref_version_info">Sürüm bilgisi</string>
     <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
-    <string name="pref_video_preload_value_always">Her zaman</string>
-    <string name="pref_video_preload_value_never">Asla</string>
+    <string name="pref_video_preload_value_always">ALWAYS</string>
+    <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
     <string name="pref_volume_key_action">Ses tuşlarını kullanarak kaydır</string>
     <string name="pref_web_protection">Gizlilik koruması</string>
@@ -2291,6 +2302,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="recent_apk_status_install">Yüklendi</string>
     <string name="recent_search_hint_text">%s</string>
     <string name="recommend">Önerilen</string>
+    <string name="recommend_bottom_guide">Daha fazla video görmek için yukarı kaydırın</string>
     <string name="recommend_button">Takip et (%s)</string>
     <string name="recommend_description">Takip etmek isteyebileceğiniz bazı içerik yaratıcılarını seçtik.</string>
     <string name="record_permission_name">Ses kaydet</string>
@@ -2455,8 +2467,6 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Uygulama mağazasında indir</string>
-    <string name="secureaccess">Güvenli moda geç</string>
-    <string name="secureaccess_cancel">Yoksay</string>
     <string name="security_url_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
     <string name="security_warning">Güvenlik uyarısı</string>
     <string name="security_warnings_confirm_message">Bu özelliği kapatmak bazı güvenlik tehtidleri oluşturabilir</string>
@@ -2531,6 +2541,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="skip_current_version">Bu sürümü atla</string>
     <string name="sku_price_everymonth">%1$s her ay</string>
     <string name="slide_card">Daha fazlası için kaydırın</string>
+    <string name="slide_next_video_text">"Sonraki video: "</string>
 	<string name="smart_subtitle">Bir bakışta ana noktaları görmek için makale içeriğinin yapay zeka tarafından oluşturulmuş bir özetini alın</string>
 	<string name="smart_summary">Akıllı özet</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
@@ -2634,8 +2645,6 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="support_pwa">PWA</string>
     <string name="survey_feedback_general">Tamam</string>
     <string name="switchText">Evet</string>
-    <string name="switch_proxy_dialog_msg">"Ağ saldırısı tespit edildi. MIUI'nin yerleşik Güvenlik uygulamasını kullanın veya bu durumu operatörünüze bildirin"</string>
-    <string name="switch_proxy_dialog_title">Ağ saldırısı</string>
     <string name="sync_alert_checkbox_bookmark">Yer imleri</string>
     <string name="sync_alert_checkbox_history">Tarama geçmişi</string>
     <string name="sync_bookmark">Yer imlerini senkronize et</string>
@@ -2757,6 +2766,10 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
+    <string name="turn_off_dia_btn_cancel">İptal et</string>
+    <string name="turn_off_dia_btn_turn_off">Kapat</string>
+    <string name="turn_off_dia_content">İçerik merkezini kapatırsanız ana ekrandan yukarı doğru kaydırma yapamazsınız. Bu hareketin eylemini Ayarlar > Ana ekranda düzenleyebilirsiniz. İçerik merkezi şimdi kapatılsın mı?</string>
+    <string name="turn_off_dia_title">İçerik merkezi kapatılsın mı?</string>
     <string name="twitter_moments">Twitter anları</string>
     <string name="type_not_support">Bu dosya türü desteklenmiyor. Dosya paketini açın ve tekrar deneyin</string>
     <string name="unSwitchText">Hayır</string>
@@ -2770,7 +2783,6 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="update_email_address_dialog_message">Kurtarma e-posta adresinizi güncellemeden önce kimliğinizi doğrulamanız gerekmektedir</string>
     <string name="update_email_address_dialog_title">Kurtarma e-posta adresini güncelle</string>
     <string name="update_no_network_toast">Ağa bağlanılamıyor</string>
-    <string name="update_now">Şimdi güncelle</string>
     <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
     <string name="upgrade">Güncelle</string>
     <string name="upload_error_log">Kayıtları yükle</string>
@@ -2785,22 +2797,26 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="url_suggest_indicator_bookmark">Yer imleri ve geçmiş</string>
     <string name="url_suggest_indicator_hoturl">Popüler</string>
     <string name="url_suggest_indicator_mostvisited">En çok ziyaret edilenler</string>
-    <string name="use_cellular_network_alert_message">Wifi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
-    <string name="use_cellular_network_alert_title">Veri kullanımı</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_defined_webpage">Başlangıç sayfasına ekle</string>
     <string name="user_defined_webpage_title">Başlangıç sayfasına ekle</string>
     <string name="user_experience_agree">Katıl</string>
-    <string name="user_experience_content">Kullanıcı deneyimi programı hedeflenen tarzda ürünlerimizi ve hizmetlerimizi geliştirmemize ayrıca size yardımcı olacak yeni özellikleri ve hizmetleri sunmamıza yardımcı olur. Siz programa katıldıktan sonra ilgili verileri toplamaya ve analiz etmeye başlayacağız. Aşağıdaki katıl butonuna dokunarak <font color="#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5"><a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5">&lt;a href=\"%1$s\" style=\"color:</a>#4086f5\">&lt;font color=\"#4086f5\">&lt;font color=</font></font>\"#4086f5\">&lt;a href=\"%1$s\" styl</a></a>e=\"color:#4086f5\">&lt;a href=\"%1$s\" styl</font>e=\"color:#4086f5\">&lt;fon</font>t color=\"#4086f5\">&lt;fo</a>n</a>t color=\"#4086f5\">&lt;a href=\"%1$s\" sty</font>le=\"color:#4086f5\">&lt;a </font>href=\"%1$s\" style=\"col</a>or:#4086f5\">&lt;font color=\"#4086f5\">&lt;fo</a>nt color=\"#4086f5\">&lt;a href=\"%1$s\" sty</font>le=\"color:#4086f5\">&lt;a </font>href=\"%1$s\" style=\"co</a></a></a>l</a></a>or:#4086f5\">&lt;f</font></font></font></font>ont color=\"#4086f5\">&lt;f</a>on</a>t color=\"#4086</font></font>f5\">&lt;a href=\"%1$s\" sty</a>le=\"color</font>:</a>#4086f5\">&lt;a href=\"%1$</font>"s\" style=\"color:&lt;/a>#4086f5\">&lt;font color=\"#4086f5\">&lt;font color=&lt;/font>&lt;/font>\"#4086f5\">&lt;a href=\"%1$s\" sty&lt;/a>l&lt;/a>e=\"color:#4086f5\">&lt;a href=\"%1$s\" sty&lt;/font>le=\"color:#4086f5\">&lt;fo&lt;/font>nt color=\"#4086f5\">&lt;f&lt;/a>o&lt;/a>nt color=\"#4086f5\">&lt;a href=\"%1$s\" st&lt;/font>yle=\"color:#4086f5\">&lt;a&lt;/font> href=\"%1$s\" style=\"co&lt;/a>lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f&lt;/a>ont color=\"#4086f5\">&lt;a href=\"%1$s\" st&lt;/font>yle=\"color:#4086f5\">&lt;a&lt;/font> href=\"%1$s\" style=\"co&lt;/a>\"lor:#4086f5\">&lt;font color=\"#4086f5\">&lt;f&lt;/a>&lt;/font>&lt;/font>&lt;/a>&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"ont color=\"#4086f5\">&lt;a href=\"%1$s\" st&lt;/a>&lt;/font>&lt;/font>&lt;/a>\"yle=\"color:#4086f5;\">Kullanıcı&lt;/font>&lt;/a>\" deneyimi programı&lt;/a>&lt;/font> şartlar ve koşullarını kabul edersiniz
-Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz"</string>
-    <string name="user_experience_disagree">Reddet</string>
+    <string name="user_experience_content">"Kullanıcı deneyimi programı ürünlerimizi ve hizmetlerimizi hedefe yönelik bir şekilde geliştirmemize ve ayrıca size yardımcı olacak yeni özellikler ve hizmetler sunmamıza yardımcı olur. İlgili verileri toplamaya ve analiz etmeye başlayacağız. Programa kaydolduktan sonra aşağıdaki kaydol seçeneğine dokunarak %1$s şart ve koşullarını kabul etmiş olursunuz: Kullanıcı deneyimi programı
+İstediğiniz zaman Ayarlar > Gizlilik ve gizlilik bölümünden bu seçeneği devre dışı bırakabilirsiniz"</string>
+    <string name="user_experience_disagree">Kaydolma</string>
     <string name="user_experience_title">Kullanıcı deneyimi programı</string>
-    <string name="user_guide_color_mode_info">Aydınlık mod ve karanlık mod mevcut</string>
+    <string name="user_guide_agree">Kabul ediyorum</string>
+    <string name="user_guide_color_mode_info">Aydınlık modu ve Karanlık modu mevcuttur</string>
     <string name="user_guide_color_mode_title">Renk şemasını seçin</string>
-    <string name="user_guide_control_privacy_tips">Gizliliğinizde tüm kontrol sizde olsun</string>
-    <string name="user_guide_read_info_tips">Arama sonuçlarında uygulamaları içerebilmesi için tarayıcının cihazınızda yüklü uygulamaların listesine erişmesi gerekir</string>
-    <string name="user_id_hint">E-posta/Telefon/Xiaomi hesap kimliği</string>
+    <string name="user_guide_control_privacy_tips">Gizliliğinizin tam kontrolü sizde olsun</string>
+    <string name="user_guide_disagree">Kabul etmiyorum</string>
+    <string name="user_guide_privacy_message">İçerik merkezini kullanmadan önce %1$s Gizlilik politikamızı ve %2$s kullanıcı sözleşmesini okuyup kabul edin</string>
+    <string name="user_guide_provide_service_content">Popüler videolar ve haberler</string>
+    <string name="user_guide_provide_service_title">Bu özellik aşağıdaki hizmetleri sağlar:</string>
+    <string name="user_guide_read_info_tips">Uygulamaları arama sonuçlarına dahil edebilmek için tarayıcının cihazınızda yüklü uygulamalar listesine erişmesi gerekiyor</string>
+    <string name="user_guide_turn_off_feature">Bu özelliği kapatmak için buraya dokunun</string>
+    <string name="user_id_hint">E-posta/Telefon/Mi hesap kimliği</string>
     <string name="username">İsim</string>
     <string name="uuid">UUID (Dışa aktarmak için tıklayın)</string>
     <string name="v5_edit_mode_title_empty">Öğeleri seçin</string>
@@ -2834,9 +2850,12 @@ https://forum.miuitr.info/"</string>
     <string name="video_downloader_retry">Tekrar deneyin</string>
     <string name="video_guess_you_like">Beğenebilirsin</string>
     <string name="video_play_next">Sıradaki</string>
-    <string name="video_replay_btn">Yeniden oynat</string>
-    <string name="video_retry_btn">Yeniden dene</string>
-    <string name="video_view_more">Daha fazla</string>
+    <string name="video_replay_btn">Tekrar oynat</string>
+    <string name="video_report_entrance">Rapor</string>
+    <string name="video_report_submit">Gönder</string>
+    <string name="video_retry_btn">Tekrar deneyin</string>
+    <string name="video_select_report_reason">Bir neden seçin</string>
+     <string name="video_view_more">Diğer</string>
     <string name="view_certificate">Sertifikayı görüntüle</string>
     <string name="view_details">Detayları göster</string>
     <string name="view_document_downloaded_files">İndirilenler menüsünde indirilen dosyaları görüntüleyin</string>
@@ -3026,6 +3045,7 @@ https://forum.miuitr.info/"</string>
     <string name="whatsapp_tab_status">Durum</string>
     <string name="whatsapp_webpage_btn">Görüntüle</string>
     <string name="whatsapp_webpage_tips">WhatsApp durum kaydedici</string>
+    <string name="withdraw_dia_content">İçerik merkezinin gizlilik Politikasına verdiğiniz onayı geri alırsanız bu özellik kişisel bilgilerinizi toplamayı durduracaktır. Daha önce toplanan ve sunucularımıza yüklenen tüm kişisel bilgiler silinecektir. Onayınızı geri çektiğinizde artık içerik merkezini kullanamayacaksınız. Onay şimdi geri alınsın mı?</string>
     <string name="xiaomi_sign_in_btn_txt">Oturum açın veya hesap oluşturun</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>

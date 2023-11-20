@@ -361,7 +361,7 @@ bulamıyor musunuz?"</string>
     <string name="circulate_help_error">Mevcut ağ kullanılamıyor</string>
     <string name="circulate_help_exit_button_content_description">Çıkış</string>
     <string name="circulate_help_feedback_button">Geri bildirim</string>
-    <string name="circulate_jump_to_mijia">Mi ev sayfasını veya Xiaomi ev sayfasını açın</string>
+    <string name="circulate_jump_to_mijia">Mi ev sayfasını aç</string>
     <string name="circulate_local_pad_name">Tabletim</string>
     <string name="circulate_local_phone_name">Telefonum</string>
     <string name="circulate_more_button_content_description">Daha fazla</string>

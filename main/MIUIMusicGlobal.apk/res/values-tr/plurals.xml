@@ -134,6 +134,10 @@ Not: Dosya cihazdan da silinecektir"</item>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">%1$d saniyeden az</item>
+        <item quantity="one">%1$d saniyeden az</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içinde</item>
     </plurals>
