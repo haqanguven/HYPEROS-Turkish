@@ -345,7 +345,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Son etkinlik: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Son %d saat içindeki etkinlik</string>
     <string name="app_behavior_desc_virtual_once">%1$s adresinde boş ileti döndürüldü</string>
-    <string name="app_behavior_door">Davranış kaydı</string>
+    <string name="app_behavior_door">Davranış kayıtları</string>
     <string name="app_behavior_get_install">%1s uygulama listene erişti</string>
     <string name="app_behavior_get_install_single">Bu uygulama uygulamalarınızın listesine erişti</string>
     <string name="app_behavior_global_settings_perm_tips">Uygulamalar ses kaydettiğinde veya kamera kullandığında bir durum çubuğu uyarısı alın</string>
@@ -1562,7 +1562,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Engellenen kişilere mesaj göndermek içindir</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Arama geçmişine öğe eklemek ve engellenen aramaları silmek içindir</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Deprem izleme amacıyla sismik dalgaları tespit etmek içindir</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum bilgilerinizi MIUI uyarı merkezine ve acil yardıma sağlamak içindir</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum bilgilerinizi uyarı merkezine ve acil yardım sağlamak içindir</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Oyun hızlandırıcıyı kullanırken ses kaydetmek içindir</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Virüs taraması yapmak ve cihazınızı optimize etmek içindir</string>
     <string name="customize_limit_pkg">%s (Özel)</string>
@@ -5408,7 +5408,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="securityadd_update_tips_message">En yeni oyun özelliklerine erişmek için güvenlik hizmeti eklentisini güncelleyin. %1$dMB indirilecek</string>
     <string name="securityadd_update_tips_now">Güncelleştirme</string>
     <string name="securityadd_update_tips_title">Güncelleştirme</string>
-    <string name="see_all_app_behavior_record">Tüm uygulamaların davranış kayıtları</string>
+    <string name="see_all_app_behavior_record">Davranış kayıtları</string>
     <string name="see_detail">Ayrıntılar</string>
     <string name="see_more_content">Daha fazla öne çıkanları görmek için oyunlar uygulamasını güncelleyin</string>
     <string name="select_app_title_default">Uygulamayı aç</string>
@@ -5672,7 +5672,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_lock_screen_password_summary">Ekran kilidini ayarla</string>
     <string name="sp_lock_screen_password_title">Ekran kilidi</string>
     <string name="sp_micare_summary">Kişisel güvenlik</string>
-    <string name="sp_micare_title">MIUI uyarı merkezi</string>
+    <string name="sp_micare_title">Uyarı merkezi</string>
     <string name="sp_monitored_apps_count_zero">Korunan ödeme uygulaması yok</string>
     <string name="sp_monitored_apps_list_title">Güvenli ödeme</string>
     <string name="sp_more_security_settings">Ek ayarlar</string>
@@ -6884,7 +6884,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="warningcenter_action_check">Görünüm</string>
     <string name="warningcenter_alert_home">Konum</string>
     <string name="warningcenter_alert_room">Ev</string>
-    <string name="warningcenter_alert_source">MIUI uyarı merkezi | Veri kaynağı: %s</string>
+    <string name="warningcenter_alert_source">Uyarı merkezi | Veri kaynağı: %s</string>
     <string name="warningcenter_alert_time">Zaman</string>
     <string name="warningcenter_alert_warning_time">Alınan zaman: %s</string>
     <string name="warningcenter_disaster_all">Tüm uyarılar</string>
@@ -6911,7 +6911,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="warningcenter_disaster_hanchao">Soğuk dalga</string>
     <string name="warningcenter_disaster_icon_title">Demo uyarısı</string>
     <string name="warningcenter_disaster_info">CMA uyarı merkezi tarafından yayınlandı</string>
-    <string name="warningcenter_disaster_info_from">MIUI uyarı merkezi | Bilgiler ulusal erken uyarı merkezinden geliyor</string>
+    <string name="warningcenter_disaster_info_from">Uyarı merkezi | Bilgiler ulusal erken uyarı merkezinden geliyor</string>
     <string name="warningcenter_disaster_info_title">Uyarılar hakkında</string>
     <string name="warningcenter_disaster_leiyudafeng">Fırtına ve fırtınalı</string>
     <string name="warningcenter_disaster_level_1">Seviye I (Son derece şiddetli)</string>
@@ -6998,7 +6998,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="warningcenter_policeassist_privacy">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum</string>
     <string name="warningcenter_policeassist_title">Acil konum</string>
     <string name="warningcenter_smarthome">Mi ev</string>
-    <string name="warningcenter_title">MIUI uyarı merkezi</string>
+    <string name="warningcenter_title">Uyarı merkezi</string>
     <string name="weChat_not_found">Uygulama sürümünüz çok düşük veya yüklü değil</string>
     <string name="website">İnternet sitesi</string>
     <string name="wechat_lucky_warning">WeChat kırmızı zarf</string>

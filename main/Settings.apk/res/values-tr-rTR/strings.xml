@@ -4636,7 +4636,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keyboard_select_summary">Klavye boyutunu tutuşunuza göre ayarlayın</string>
     <string name="keyboard_settings">Klavye</string>
     <string name="keyboard_settings_category">Giriş yöntemi</string>
-    <string name="keyboard_settings_summary">Ekran klavyesi, araçlar</string>
+    <string name="keyboard_settings_summary">Ekran klavyesi ve araçlar</string>
     <string name="keyboard_settings_title">Android klavyesi</string>
     <string name="keyboard_settings_with_physical_keyboard_summary">Ekran klavyesi, fiziksel klavye, araçlar</string>
     <string name="keyboard_shortcuts_helper">Klavye kısayol yardımcısı</string>
@@ -10020,7 +10020,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="user_enable_calling_sms">Telefon aramalarını ve mesajları aç</string>
     <string name="user_exit_guest_confirm_message">Bu oturumdaki tüm uygulamalar ve veriler silinecek</string>
     <string name="user_exit_guest_dialog_remove">Kaldır</string>
-    <string name="user_experience_open_url">Kullanıcı deneyimi programı hakkında daha fazla bilgi edinin</string>
+    <string name="user_experience_open_url">Kullanıcı deneyimi programı hakkında daha fazla bilgi</string>
     <string name="user_experience_program">Kullanıcı deneyimi geliştirme programı</string>
     <string name="user_experience_program_summary">Kullanım istatistiklerinizi bizimle paylaşarak ürün ve hizmetlerimizi geliştirmemize yardımcı olun</string>
     <string name="user_experience_program_title">Kullanıcı deneyimi geliştirme programı</string>

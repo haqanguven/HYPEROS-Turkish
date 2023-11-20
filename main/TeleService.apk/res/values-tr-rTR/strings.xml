@@ -943,7 +943,7 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fold_answer_pref_summary">Gelen bir aramayı otomatik olarak kabul etmek için cihazı katlayın</string>
     <string name="fold_answer_pref_title">Aramaları kabul etmek için katlayın</string>
-    <string name="forbidden_fakecell">Sahte baz istasyonlarına bağlanmayın</string>
+    <string name="forbidden_fakecell">Sahte baz istasyonlarına bağlanma</string>
     <string name="forbidden_fakecell_summary">Telefonunuzun sahte baz istasyonlarına bağlanmasını önleyin</string>
     <string name="forbidden_network">(Yasaklandı)</string>
     <string name="forced_to_display">Göstermeyi zorla</string>
@@ -2152,7 +2152,7 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="supp_service_over_ut_precautions_dual_sim">%1$s kullanmak için %2$d Sim için mobil verinin açık olduğundan emin olun. Bunu mobil ağ ayarlarından değiştirebilirsiniz</string>
     <string name="supp_service_over_ut_precautions_roaming">%s kullanmak için mobil veri ve veri dolaşımının açık olduğundan emin olun. Bunları mobil ağ ayarlarından değiştirebilirsiniz</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">%1$s kullanmak için %2$d Sim için mobil veri ve veri dolaşımının açık olduğundan emin olun. Bunları mobil ağ ayarlarından değiştirebilirsiniz</string>
-    <string name="support_forbidden_fakecell">Not: Bağlantının sahte baz istasyonlarıyla sınırlandırılması, kapsama alanının zayıf olduğu bölgelerde sinyali azaltabilir</string>
+    <string name="support_forbidden_fakecell">Not: Bağlantının sahte baz istasyonlarıyla sınırlandırılması kapsama alanının zayıf olduğu bölgelerde sinyali azaltabilir</string>
     <string name="switch_cancel_btn_text">İptal et</string>
     <string name="switch_confirm_btn_text">Tamam</string>
     <string name="switch_dds_to_sub_alert">Lütfen mobil verileriyi Sim göre değiştir</string>

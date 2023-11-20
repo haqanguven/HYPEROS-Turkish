@@ -1641,8 +1641,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_networks_available">Kullanılabilir ağlar</string>
     <string name="quick_settings_networks_unavailable">Ağlar kullanılamıyor</string>
     <string name="quick_settings_nfc_label">NFC</string>
-    <string name="quick_settings_nfc_state_change_message_off">NFC açık</string>
-    <string name="quick_settings_nfc_state_change_message_on">NFC kapalı</string>
+    <string name="quick_settings_nfc_state_change_message_off">NFC kapalı</string>
+    <string name="quick_settings_nfc_state_change_message_on">NFC açık</string>
     <string name="quick_settings_night_display_label">Gece lambası</string>
     <string name="quick_settings_night_secondary_label_on_at">"%s'da"</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">Gün batımında</string>
