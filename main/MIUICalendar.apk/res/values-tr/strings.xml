@@ -678,9 +678,9 @@
     <string name="life_assistant_group_title">Hayat asistanı</string>
     <string name="life_card_credit_primary">Kredi kartı geri ödemesi (Sıra numarası: %1$s)</string>
     <string name="life_card_credit_primary_no_account">Kredi kartı geri ödemesi</string>
-    <string name="life_card_credit_secondary">Geri ödeme tarihi: %1$s  |  Son %2$s gün</string>
+    <string name="life_card_credit_secondary">Geri ödeme tarihi: %1$s|Son %2$s gün</string>
     <string name="life_card_credit_secondary_no_countdown">Geri ödeme tarihi: %1$s</string>
-    <string name="life_card_credit_secondary_overdue">Geri ödeme tarihi: %1$s  |  Doldu</string>
+    <string name="life_card_credit_secondary_overdue">Geri ödeme tarihi: %1$s|Doldu</string>
     <string name="life_card_credit_secondary_overdue_last">Son %1$s gün</string>
     <string name="life_card_credit_secondary_overdue_title">Süresi bitmiş</string>
     <string name="life_card_credit_secondary_title">Geri ödeme tarihi</string>
@@ -915,10 +915,6 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="mtrl_slider_range_content_description">%1$s - %2$s</string>
-    <string name="n_day_before">gün önce</string>
-    <string name="n_day_later">gün sonra</string>
-    <string name="n_week_first">hafta önce</string>
-    <string name="n_week_last">hafta sonra</string>
     <string name="national_day">Ulusal gün</string>
     <string name="national_day_tradition">Ulusal gün</string>
     <string name="near_agenda_view">Yaklaşan etkinlikler</string>
@@ -1623,13 +1619,13 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="travel_seat_number_text">Koltuk</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
     <string name="travel_train_number_text">Tren</string>
-    <string name="trip_card_flight_primary">%1$s uçuş  %2$s - %3$s</string>
+    <string name="trip_card_flight_primary">%1$s uçuş%2$s - %3$s</string>
     <string name="trip_card_hotel_secondary">Bugün kontrol edin</string>
     <string name="trip_card_hotel_secondary_title">Check-in günü</string>
-    <string name="trip_card_movie_secondary">Bugün izle  |  %1$s</string>
+    <string name="trip_card_movie_secondary">Bugün izle|%1$s</string>
     <string name="trip_card_movie_secondary_no_cinema">Bugün izle</string>
     <string name="trip_card_title">Gezi hatırlatma</string>
-    <string name="trip_card_train_primary">%1$s tren saati  %2$s - %3$s</string>
+    <string name="trip_card_train_primary">%1$s tren saati%2$s - %3$s</string>
     <string name="trip_card_train_primary_no_arr">%2$s başlayarak %1$s gezisi</string>
     <string name="trip_card_travel_secondary">%1$s kalkış</string>
     <string name="trust_certificate_accept">Kabul et</string>
@@ -1712,6 +1708,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="xingxiu">Yıldız</string>
     <string name="year_indicator_month">Ay takviminin ilk günü</string>
+    <string name="year_month_title_date_format">M/yyyy</string>
     <string name="yearly">Yıllık (Her %s)</string>
     <string name="yearly_plain">Yıllık</string>
     <string name="yesterday">Dün</string>

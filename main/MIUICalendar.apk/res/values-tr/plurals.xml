@@ -168,6 +168,14 @@
         <item quantity="other">%d davet</item>
         <item quantity="one">%d davet</item>
     </plurals>
+    <plurals name="n_day_before">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="n_day_later">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">%d gün içinde</item>
+    </plurals>
     <plurals name="n_weeks">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
