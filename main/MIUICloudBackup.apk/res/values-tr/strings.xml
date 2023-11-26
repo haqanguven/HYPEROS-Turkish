@@ -38,7 +38,6 @@
     <string name="as_new_device">Eski ana ekran ve ayarlarını geri yükle</string>
     <string name="as_new_device_summary">Eski Xiaomi bulut yedeklemelerini sil</string>
     <string name="authentication_failed">Hesap doğrulanamadı</string>
-    <string name="auto_backup_failed">Otomatik olarak yedeklenemedi</string>
     <string name="back_up_task_in_process">Yedekleniyor</string>
     <string name="back_up_task_unfinished">Yedekleme işlemi tamamlanmadı</string>
     <string name="backing_up_to_micloud">Yedekleniyor</string>

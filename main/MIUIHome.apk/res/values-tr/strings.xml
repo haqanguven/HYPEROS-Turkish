@@ -962,6 +962,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_shortcuts_edit">Düzenle</string>
+    <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
     <string name="system_shortcuts_remove">Kaldır</string>
     <string name="system_text">Sistem</string>
