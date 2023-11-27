@@ -589,6 +589,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
     <string name="app_manager_restricted_settings_title">Kısıtlanmış ayarlara izin ver</string>
     <string name="app_manager_search_prompt">Aradığınızı bulamadınız mı? Uygulamaların tamamından deneyin</string>
+    <string name="app_manager_share_apk">Paylaş</string>
     <string name="app_manager_shortcut_manager">Ana ekran kısayollarını yönetin</string>
     <string name="app_manager_show_all_apps">Tüm uygulamaları göster</string>
     <string name="app_manager_show_all_apps_opened">Tüm uygulamalardan gösteriliyor</string>
@@ -2376,6 +2377,9 @@ gönüllüsü"</string>
     <string name="gallery_confirm_start_activity">%s, fotoğraflara başka bir uygulama üzerinden erişmeye çalışıyor. İzin vermek istiyor musunuz?</string>
     <string name="game_ad_recommendation">Herkes oynuyor</string>
     <string name="game_anti_disturb_msg">Oyun rahatsız etme modu</string>
+    <string name="game_balance_more_setting_title">Ek ayarlar</string>
+    <string name="game_balance_vision_enhance_subtitle">Oyunlarda kontrastı artırın ve ayrıntıları iyileştirin</string>
+    <string name="game_balance_vision_enhance_title">Geliştirilmiş görseller</string>
     <string name="game_booster">Oyun hızlandırıcı</string>
     <string name="game_booster_close">Oyun hızı arttırma kapalı</string>
     <string name="game_booster_intro">Oyun hız artırıcı hakkında</string>
@@ -2389,6 +2393,9 @@ gönüllüsü"</string>
     <string name="game_manual_record_setting_setting">Bu özellik hakkında</string>
     <string name="game_manual_record_setting_title">Anahtar anlar</string>
     <string name="game_more_improve">Pil ve bant genişliği tasarrufu amacıyla arka plan etkinliklerini ve indirme hızını kısıtlar</string>
+    <string name="game_ Performance_wild_mode">Üst düzey mod</string>
+    <string name="game_performance_wild_mode_tips">"Cihaz performansını artırmak için açın
+(Cihazınız ısınacak ve daha fazla güç tüketecektir)"</string>
     <string name="game_setting">Oyun ayarları</string>
     <string name="game_video_net_data">Mobil veri</string>
     <string name="game_video_network_eror">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
@@ -2490,6 +2497,8 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
     <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
+    <string name="gb_all_hight_display">Yüksek yenileme hızı</string>
+    <string name="gb_all_hight_display_sub_title">Tüm senaryolar için 120 Hz</string>
     <string name="gb_already_in_game_list_tips">Bu öğe zaten eklenen oyunlar arasında. Buraya eklenemez</string>
     <string name="gb_already_in_video_list_tips">Bu öğe zaten eklenen video uygulamaları arasında. Buraya eklenemez</string>
     <string name="gb_application_not_find">Burada henüz bir şey yok</string>
@@ -2626,6 +2635,8 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_performance_balance">Dengeli mod</string>
     <string name="gb_performance_balance_tips">"Dengeli mod yenileme hızı ve sıcaklık sınırlarını
 düşürürken güç tasarrufu sağlar"</string>
+    <string name="gb_performance_enhance">Yüksek performans</string>
+    <string name="gb_performance_enhance_sub_title">Güç tüketimi yerine performansa öncelik verin</string>
     <string name="gb_performance_high">Performans modu</string>
     <string name="gb_performance_mode">Oyun modu</string>
     <string name="gb_performance_tips">"Performans modu telefon performansını artırabilir
@@ -2763,6 +2774,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Aboneliklerinizin süresi doldu. Avantajlardan yararlanmak için aboneliği şimdi yenileyin</string>
     <string name="gb_voice_changer_user_vip_expired">Süresi doldu</string>
     <string name="gb_voice_changer_user_vip_remain_time">Son kullanma tarihi: %s</string>
+    <string name="gb_wild_mode_game_performance_enhance">Oyun performansınızı artırın</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun oturumlarınızın
 önemli anlarını kaydedin"</string>
     <string name="gb_wonderful_video_cancel">İptal et</string>
@@ -2935,6 +2947,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_guide_gtb_game_new">Yeni</string>
     <string name="gtb_guide_gtb_line_new">En iyi oyun deneyimi için yeni oyun hızlandırıcıyı kullanın</string>
     <string name="gtb_guide_gtb_line_new_global">Oyun hızlandırıcıyı açmak için kaydırın</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Oyun deneyiminizi bir sonraki seviyeye taşımak için oyun hızlandırıcı ultimate modunu deneyin</string>
     <string name="gtb_guide_gtb_line_xspace">Tamamen yeni oyun hızlandırıcı ile oyununuzu hızlandırın</string>
     <string name="gtb_guide_small_window_app_desc">Tek adımda konuşun ve oynayın</string>
     <string name="gtb_guide_small_window_app_title">Küçük pencere uygulamaları</string>
@@ -4134,6 +4147,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="percentage">%%%d</string>
     <string name="perfermance_optimization_summary">Aşırı ısınma ve donanım ile ilgili sorunlardan kaçının</string>
     <string name="perfermance_optimization_title">Performans optimizasyonu</string>
+    <string name="performance_frame_insert_super_display_tips">Akıllı kare hızı ve süper çözünürlük aynı anda etkili olamaz. Birini açmak diğerini kapatacaktır</string>
     <string name="perm_intercept_content">%1s uygulamasına aşağıdaki izin verilsin mi?</string>
     <string name="perm_intercept_notification_title">"%1s'nin bildirim kullanmasına izin vermek bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:"</string>
     <string name="perm_intercept_privacy_content">Bu eylemler kişisel verilerinizi açığa çıkarabilir. Yine de izin verilsin mi? (%1s)</string>
@@ -6728,9 +6742,15 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_advanced_settings_after_open">Sonra</string>
     <string name="vb_advanced_settings_before_open">Önce</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Animasyonları geliştirerek hareketli nesneleri daha canlı hale getirin. Bu özellik daha yüksek güç tüketimi gerektirir</string>
+    <string name="vb_default_mode">özel</string>
+    <string name="vb_dolby_effect">Dolby Atmos</string>
+    <string name="vb_dult_effect">3D LUT vision</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Otomatik yenileme hızı</string>
     <string name="vb_fps_settings_tips">Bu özellik ekran yenileme hızını video kare hızına ayarlar. Bu da pilden tasarruf sağlar ve oynatmayı sorunsuz hale getirir. Kayan yorumları açmak otomatik yenileme oranını kapatır</string>
+    <string name="vb_immerse_voice">Sürükleyici ses</string>
+    <string name="vb_movie_mode">Tiyatro modu</string>
+    <string name="vb_movie_subtitle">Yüksek performans gerektirir</string>
     <string name="vb_power_performance_mode_conflict_toast">Performans modu açıkken bu özellik kullanılamaz</string>
     <string name="vb_power_save_mode_conflict_toast">Pil tasarrufu açıkken bu özellik kullanılamıyor</string>
     <string name="vb_quick_func_auto_bgm">Arka plan müziğini tanıma</string>
@@ -6740,6 +6760,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_quick_func_screening">Yayınla</string>
     <string name="vb_settings">Ayarlar</string>
     <string name="vb_super_power_save_mode_conflict_toast">Ultra pil tasarrufu açıkken bu özellik kullanılamıyor</string>
+    <string name="vb_theatre_switch_guide">Tiyatro moduna geçmek için dokunun</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanacak</string>
     <string name="vb_ve_settings_display_style_tips_new">* Bu efektler yalnızca video oynatma alanına uygulanacak</string>
@@ -6803,6 +6824,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
 Özelliklerden birini açmak diğerini kapatır"</string>
     <string name="vb_video_super_division_tips">"Yeterince net değil mi?
 Çözünürlüğü yükseltmeyi deneyin"</string>
+    <string name="vb_voice_adjust">Tiyatro sesi</string>
     <string name="verify_allow">@string/app_behavior_allowed</string>
     <string name="verify_denied">@string/app_behavior_denied</string>
     <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını zorunlu kılın</string>

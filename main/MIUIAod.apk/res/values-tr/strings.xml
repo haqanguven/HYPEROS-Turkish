@@ -423,7 +423,7 @@ EE"</string>
     <string name="kg_effects_tip_not_support">Dinamik duvar kağıtlarına efekt uygulanmıyor</string>
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">Üçüncü taraf duvar kağıtları efektleri desteklemiyor</string>
     <string name="kg_effects_tip_title">Alan derinliği ve filtreler</string>
-    <string name="kg_enable_blur">Mat efekt</string>
+    <string name="kg_enable_blur">Bulanık efekti</string>
     <string name="kg_font_mi_sans_light">sans-serif-light</string>
     <string name="kg_font_mi_sans_medium">sans-serif-medium</string>
     <string name="kg_font_mi_sans_normal">sans-serif-normal</string>
