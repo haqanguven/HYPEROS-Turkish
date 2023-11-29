@@ -519,8 +519,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="masked_palm_civet">Maskeli palmiye misk kedisi</string>
     <string name="max_fps_string">"%s Hz'e kadar"</string>
     <string name="medium_tree_finch">Orta ağaç ispinozu</string>
-    <string name="mi_transfer_banner_summary">Mi taşıyıcıyı açmak için dokunun</string>
-    <string name="mi_transfer_banner_title">Eski cihazınızdaki öğeleri aktar</string>
+    <string name="mi_transfer_banner_summary">Başlamak için dokunun</string>
+    <string name="mi_transfer_banner_title">Eski cihazdaki öğeleri aktar</string>
     <string name="midnight">Gece</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
