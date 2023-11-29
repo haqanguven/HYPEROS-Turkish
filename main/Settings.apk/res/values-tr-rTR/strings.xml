@@ -1821,7 +1821,7 @@ Oynatma kalitesi"</string>
     <string name="bluetooth_share_broadcast_password_hint">Geçerli Bluetooth paylaşılan yayını bir şifre belirledi. Doğru bir şekilde doldurun ve katılın</string>
     <string name="bluetooth_share_broadcast_summary">Kulaklık kapatıldığında klasik bluetooth moduna geçecektir</string>
     <string name="bluetooth_share_broadcast_update">Yayın şifresini güncelle</string>
-    <string name="bluetooth_show_devices_without_names">İsimsiz bluetooth cihazları</string>
+    <string name="bluetooth_show_devices_without_names">İsimsiz bluetooth cihazlarını göster</string>
     <string name="bluetooth_show_devices_without_names_summary">İsimsiz bluetooth cihazları görüntülenecektir (Yalnızca MAC adresleri)</string>
     <string name="bluetooth_show_leaudio_device_details">Cihaz ayrıntılarında LE ses geçişini göster</string>
     <string name="bluetooth_show_received_files">Alınan dosyalar</string>
@@ -1969,7 +1969,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_absVolume_open_dialog_title">Dikkat</string>
     <string name="bt_absVolume_pre_title">Mutlak ses</string>
     <string name="bt_absVolume_summary">Bluetooth cihazlarının ve telefonun ses seviyesini mutlaka dengeli tutun. Medya arka planda oynatılmadığında bu özelliği açıp kapatabilirsiniz</string>
-    <string name="bt_always_show_icon">Her zaman durum çubuğu simgesini göster</string>
+    <string name="bt_always_show_icon">Durum çubuğu simgesini her zaman göster</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptif, yüksek kaliteli oynatma sağlar ve güç tüketimini artırırken oyunlar ve videolar için ses gecikmesini azaltır. Bluetooth donanım sınırlamaları ve çevresel parazit nedeniyle oynatma kesintiye uğrayabilir.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">"AptX Adaptif'e geçilsin mi?"</string>
     <string name="bt_audio_repair_property">Ses sorunlarını düzeltin</string>
@@ -1986,7 +1986,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_dialog_remember_choice">Tercihi hatırla</string>
     <string name="bt_dialog_settings">Ayarlar</string>
     <string name="bt_half_close_switch_summary">"Bluetooth'u kapatırsanız ertesi gün otomatik olarak tekrar açılır ve cihazlarınız yeniden bağlanır"</string>
-    <string name="bt_half_close_switch_title">"Bluetooth'u her zaman açık tutun"</string>
+    <string name="bt_half_close_switch_title">"Bluetooth'u her zaman açık tut"</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI gizli günlüğü</string>
     <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğü filtreleme MAP</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">"PBAP'yi filtreleyen Bluetooth HCI gözetleme günlüğü"</string>
@@ -11290,6 +11290,8 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_menu_by_region">Bölgeye göre seç</string>
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
+	<string name="icon_app_color_title">Renkli uygulama simgeleri</string>
+	<string name="infinite_scroll_title">Sonsuz kaydırma</string>
 	<string name="folder_layout_title">Klasör düzeni</string>
 	<string name="folder_blur_title">Klasör bulanıklık efekti</string>
 	<string name="folder_close_title">Klasörleri otomatik kapat</string>
