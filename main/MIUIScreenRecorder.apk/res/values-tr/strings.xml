@@ -34,8 +34,7 @@
     <string name="app_name">Ekran kaydedici</string>
     <string name="app_notification_channel_record_complete">Tamamlanmış kayıtlar hakkındaki bildirimler</string>
     <string name="app_notification_info">Ekran kaydedici arkaplanda çalışıyor</string>
-    <string name="app_notification_record_complete">"Galeriye kaydedildi.
-Görüntülemek için dokunun"</string>
+    <string name="app_notification_record_complete">Galeriye kaydedildi. Görüntülemek için dokunun</string>
     <string name="app_notification_title">Ekran kaydedici</string>
     <string name="auto_stop_title">Video başarıyla kaydedildi</string>
     <string name="battery_not_allowed_warning">"Pil %1$s'den düşük olduğunda kayıt yapılamaz. Pilin en az %2$s dolu olduğundan emin olun"</string>
@@ -331,6 +330,7 @@ Görüntülemek için dokunun"</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_settings">Gizlilik</string>
+    <string name="protect_oneself_when_recording">Arama kaydediliyor. Bu özelliği kullanırken sizin ve diğer kişilerin gizliliğini koruyun</string>
     <string name="quit_recording">Ekran kaydedici kapatıldı</string>
     <string name="record_time_too_short">Kaydedilen video çok kısa</string>
     <string name="recording_failure">Son kayıt başarısız oldu. Lütfen kaydı yeniden başlatın</string>

@@ -6153,7 +6153,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="multi_window_cvw_title">Yüzer pencere</string>
     <string name="multifunction_keyboard">Ek düğme</string>
     <string name="multiple_users_main_switch_keywords">izin ver, birden fazla, kullanıcı, izin ver, birçok</string>
-    <string name="multiple_users_main_switch_title">Birden çok kullanıcı kullan</string>
+    <string name="multiple_users_main_switch_title">Birden çok kullanıcı</string>
     <string name="music_equalizer">Ekolayzır</string>
     <string name="music_playback_control_cross_device_flow">Cihazlar arasında ses çalmasını aktarın</string>
     <string name="music_video_flow_across_device">Cihazlar arasında ses çalmasını kontrol edin ve aktarın</string>
@@ -7396,10 +7396,10 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="remove_credential_management_app_dialog_title">Bu uygulama kaldırılsın mı?</string>
     <string name="remove_device_admin">Bu cihaz yönetimi uygulamasını devre dışı bırak</string>
     <string name="remove_from_frequently_fragment">%s ögesi hızlı ayarlardan kaldırılsın mı?</string>
-    <string name="remove_guest_on_exit">Delete guest activity</string>
+    <string name="remove_guest_on_exit">Misafir etkinliğini sil</string>
     <string name="remove_guest_on_exit_dialog_message">Bu misafir oturumundaki uygulamalar ve veriler şimdi silinecek ve misafir modundan her çıktığınızda gelecekteki tüm misafir etkinlikleri silinecek</string>
     <string name="remove_guest_on_exit_dialog_title">Misafir etkinliği silinsin mi?</string>
-    <string name="remove_guest_on_exit_keywords">sil, misafir, etkinlik, kaldır, veri, ziyaretçi, sil</string>
+    <string name="remove_guest_on_exit_keywords">Sil, misafir, etkinlik, kaldır, veri, ziyaretçi, sil</string>
     <string name="remove_guest_on_exit_summary">Misafir modundan çıkarken tüm misafir uygulamalarını ve verilerini silin</string>
     <string name="remove_managed_profile_label">İş profilini kaldır</string>
     <string name="remove_sourceinfo_btn_txt">Kaynak bilgilerini kaldır</string>
