@@ -37,7 +37,7 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="annotation_open">Araçları göster</string>
     <string name="annotation_stow">Araçları gizle</string>
-    <string name="app_name">Ekran görüntüsü</string>
+    <string name="app_name">Ekran resmi</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="back">Geri</string>
@@ -132,14 +132,14 @@
     <string name="confirm_cancel_task_images">"%1$s'e resim gönderme iptal edilsin mi?"</string>
     <string name="copy">Kopyala</string>
     <string name="copy_dialog_confirm">Tamam</string>
-    <string name="copy_dialog_content">Ekran görüntüleri otomatik olarak panonuza eklenecek ve yapıştırılabilecektir. Panoya öğe ekleme araması yaparak bu özelliği ayarlarda kapatabilirsiniz</string>
+    <string name="copy_dialog_content">Ekran resmi otomatik olarak panonuza eklenecek ve yapıştırılabilecektir. Panoya öğe ekleme araması yaparak bu özelliği ayarlarda kapatabilirsiniz</string>
     <string name="copy_dialog_title">Dikkat</string>
     <string name="copy_success_toast">Başarıyla kopyalandı</string>
     <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin</string>
     <string name="cta_btn_agree">Kabul et</string>
     <string name="cta_btn_disagree">Reddet</string>
-    <string name="cta_main_purpose">Ekran görüntüsü düzenleyicisine hoş Geldiniz! Ekran görüntülerinizi kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz</string>
-    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran görüntülerini kaydetmek için</string>
+    <string name="cta_main_purpose">Ekran resmi düzenleyicisine hoş geldiniz! Ekran resmini kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran resmini kaydetmek içindir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -239,7 +239,7 @@
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="functions_are_being_developed">Bu özellik yakında kullanıma sunulacaktır. Bizi izlemeye devam edin</string>
-    <string name="global_main_purpose">Ekran görüntüsü düzenleyicisine hoş Geldiniz. Ekran görüntülerinizi kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması gerekir</string>
+    <string name="global_main_purpose">Ekran resmi düzenleyicisine hoş geldiniz. Ekran resmini kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması gerekir</string>
     <string name="global_pad">Tabletim</string>
     <string name="global_pc">Laptobum</string>
     <string name="global_phone">Telefonum</string>
@@ -262,17 +262,17 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo telefon</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgileri kaldırılıyor (%d/%d)</string>
-    <string name="long_screenshot_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>
+    <string name="long_screenshot_error">Ekran resmi alınamadı. Tekrar deneyin</string>
     <string name="long_screenshot_guide_text">"Kayan ekran görüntüsü
 almak için dokunun"</string>
-    <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>
+    <string name="long_screenshot_intercepted_error">Ekran resmi alınamadı. Tekrar deneyin</string>
     <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
     <string name="long_screenshot_processing">İşleniyor</string>
     <string name="long_screenshot_processing_description_accessibility">İşleniyor</string>
     <string name="long_screenshot_stop">Bitti</string>
-    <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor</string>
-    <string name="long_screenshot_top_msg_description_accessibility">Ekran görüntüsü oluşturuluyor</string>
-    <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
+    <string name="long_screenshot_top_msg">Ekran resmi oluşturuluyor</string>
+    <string name="long_screenshot_top_msg_description_accessibility">Ekran resmi oluşturuluyor</string>
+    <string name="long_screenshot_top_msg_manual">Ekran resmini kesin ve bitirmek için tuşa dokunun</string>
     <string name="main_save_error_msg">Bir hata nedeniyle değişiklikler kaydedilemedi</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -473,7 +473,7 @@ almak için dokunun"</string>
     <string name="screen_editor_shell_res_downloading">Cihaz çerçevesi indiriliyor</string>
     <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">İptal et</string>
-    <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
+    <string name="screen_save_dialog_btn_delete">Ekran resmini sil</string>
     <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>
     <string name="screen_talkback_a_little_large">Büyük</string>
     <string name="screen_talkback_a_little_small">Küçük</string>
@@ -495,11 +495,11 @@ almak için dokunun"</string>
     <string name="screenshot_edit">Düzenle</string>
     <string name="screenshot_failed_in_landscape_mode">Manzara modunda ekran görüntüleri kaydırma yapılamıyor</string>
     <string name="screenshot_feedback_txt">Geri bildirim</string>
-    <string name="screenshot_insert_failed">Ekran görüntüsü yüklenemedi. Yeni bir ekran görüntüsü alın veya resmi galeride görüntüleyin</string>
+    <string name="screenshot_insert_failed">Ekran resmi yüklenemedi. Yeni bir ekran görüntüsü alın veya resmi galeride görüntüleyin</string>
     <string name="screenshot_long_screenshot">Kaydır</string>
     <string name="screenshot_save">Kaydet</string>
     <string name="screenshot_send">Gönder</string>
-    <string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
+    <string name="screenshot_thumbnail">Ekran resmi küçük resmi</string>
 	<string name="scroll_annotation">Kaydırın ve açıklama ekleyin</string>
 	<string name="scroll_annotation_btn_quit">Çıkış ek açıklamaları</string>
 	<string name="scroll_annotation_quit_dialog_picture_msg">Çıkmadan önce ek açıklamalar kaydedilsin mi?</string>

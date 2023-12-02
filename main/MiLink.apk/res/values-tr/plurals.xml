@@ -92,4 +92,7 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">%1$d alışkanlığı hatırladım</item>
+    </plurals>
 </resources>

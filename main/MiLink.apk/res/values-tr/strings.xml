@@ -35,7 +35,7 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="answering_tel1">Tablette cevaplanıyor</string>
     <string name="answering_tel2">Telefondan aktarıldı</string>
-    <string name="app_name">Mi bağlantı servisi</string>
+    <string name="app_name">Yayınlama</string>
     <string name="app_name_vtcamera">MiShareDevice</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
@@ -128,7 +128,7 @@ bulamıyor musunuz?"</string>
     <string name="car_card_warm_default_none">-</string>
     <string name="car_crad_air_control_text">Klima</string>
     <string name="car_seat_can_not_use">Kullanılamıyor</string>
-    <string name="cast_auth_count_down">"Yansıtmaya başlamak için %1$s üzerinden gelen kodu girin (%2$d saniye)</string>
+    <string name="cast_auth_count_down">\"Yansıtmaya başlamak için %1$s üzerinden gelen kodu girin (%2$d saniye)</string>
     <string name="cast_auth_title">Kodu girin</string>
     <string name="cast_image_des">Yansıtma eğitimi</string>
     <string name="casting_tips">Yansıtılıyor</string>
@@ -299,7 +299,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Bağlı cihazlar arasında veri aktarımı içindir</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Öğeleri aktarmak ve cihazları wifi aracılığıyla bağlamak içindir</string>
     <string name="circulate_cta_premission_wlan_title">"Wifi'yi açın veya kapatın"</string>
-    <string name="circulate_cta_user_agreement">"Devam etmeden önce %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
+    <string name="circulate_cta_user_agreement">Devam etmeden önce %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
     <string name="circulate_device_type_name_mijia">Akıllı ev cihazları</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
     <string name="circulate_device_type_name_pc">Bilgisayar</string>
@@ -367,7 +367,7 @@ bulamıyor musunuz?"</string>
     <string name="circulate_more_button_content_description">Daha fazla</string>
     <string name="circulate_more_device">Diğer cihazlar</string>
     <string name="circulate_more_setting">Ek ayarlar</string>
-    <string name="circulate_open_in_tv">TV'de aç</string>
+    <string name="circulate_open_in_tv">"TV'de aç"</string>
     <string name="circulate_pad_app_continuity">"Telefonun %1$s'ı kullanılıyor"</string>
     <string name="circulate_pad_card_being_used_camera">Telefonun kamerasını tablette kullanma</string>
     <string name="circulate_pad_card_use_camera">Tabletin kamerasını kullan</string>
@@ -381,7 +381,7 @@ bulamıyor musunuz?"</string>
     <string name="circulate_pc_card_using_km">Fareyi bilgisayarla paylaşıyorum</string>
     <string name="circulate_phone_app_continuity">Tablette %1$s kullanılıyor</string>
     <string name="circulate_phone_card_being_used_camera">Telefonda tabletin kamerasını kullanma</string>
-    <string name="circulate_phone_card_use_camera">Telefonun kamerasını kullan"</string>
+    <string name="circulate_phone_card_use_camera">Telefonun kamerasını kullan\"</string>
     <string name="circulate_phone_card_use_desktop">Telefonun ana ekranını görüntüle</string>
     <string name="circulate_phone_card_using_camera">Telefonun kamerası kullanılıyor</string>
     <string name="circulate_phone_card_using_desktop">Telefonun ana ekranı görüntüleniyor</string>
@@ -433,12 +433,14 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_application_ecological">Uygulamaları birleştirin</string>
     <string name="connect_settings_base">Ara bağlantı</string>
     <string name="connect_settings_category_connection_car">Araba özellikleri</string>
+    <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_personal_device">Kişisel cihazlar</string>
     <string name="connect_settings_connect_permission">Ara bağlantı ve izinler</string>
     <string name="connect_settings_connect_privacy">Gizlilik</string>
     <string name="connect_settings_connection_service">Xiaomi ara bağlantı</string>
     <string name="connect_settings_corp_network">Ağ asistanı</string>
     <string name="connect_settings_corp_phone">Aramalar</string>
+    <string name="connect_settings_hyper_mind">HyperMind</string>
     <string name="connect_settings_nfc_share">Öğeleri NFC aracılığıyla aktarın</string>
     <string name="connect_settings_not_opened">Kapalı</string>
     <string name="connect_settings_opened">Açık</string>
@@ -450,6 +452,7 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_summary">Xiaomi hesabınızda oturum açmış yakındaki cihazları otomatik olarak keşfedin ve birden fazla cihazda çeşitli görevleri gerçekleştirmek için bunları birbirine bağlayın.&lt;a href=%1$s>Daha fazla bilgi edinin</string>
     <string name="connect_settings_summary_connection_service">Cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine izin verin</string>
     <string name="connect_settings_summary_corp_phone">Xiaomi hesabınızda oturum açmış yakındaki tabletlerde veya bilgisayarlarda aramaları yanıtlayın</string>
+    <string name="connect_settings_summary_hyper_mind">Kullanım alışkanlıklarınıza göre yakındaki cihazları ihtiyaçlarınıza göre otomatik olarak uyarlayın. Bu özellik Mi AI tarafından desteklenmektedir</string>
     <string name="connect_settings_summary_relay_app">Başka cihazdaki aynı ugulamada görevlere devam edin</string>
     <string name="connect_settings_summary_share_clipboard">Kopyaladıktan sonra %d dakika içinde metni ve görüntüleri diğer cihazlara yapıştırın</string>
     <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınızda oturum açmış yakında telefonların Ana ekranlarını görüntüleyin ve bunlarla iletişime girin</string>
@@ -570,8 +573,8 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="err_toast_msg_default">Bu işlem desteklenmiyor</string>
     <string name="err_toast_msg_mirror_and_bluetooth_support_only">Ses oynatma aktarılamıyor</string>
     <string name="err_toast_msg_mirror_support_support_only">Cihaz yalnızca ekranlar arası işbirliğini destekler ve ekran kartlarını sürükleyip bırakabilirsiniz</string>
+    <string name="err_toast_msg_not_support">Bu işlem desteklenmiyor</string>
     <string name="err_toast_msg_not_support_audio_protocol">Ses oynatma bu cihaza aktarılamıyor</string>
-    <string name="err_toast_msg_not_support_video_protocol">"Bu cihaz MIUI+'ı desteklemiyor"</string>
     <string name="err_toast_msg_retry_later">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="err_toast_msg_try_switch_network">Hem mobil cihazınızı hem de bilgisayarınızı aynı wifi ağına bağlayın</string>
     <string name="error_a11y_label">Hata: Geçersiz</string>
@@ -658,7 +661,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="global_privacy_negative">Reddet</string>
     <string name="global_privacy_positive">Kabul et</string>
     <string name="global_privacy_screencast">Kayıt veya yayın sırasında, bu özelliği sağlayan hizmet, ses, şifreler, ödeme bilgileri, fotoğraflar ve mesajlar gibi hassas bilgiler dahil olmak üzere ekranınızda görüntülenen veya cihazınızdan oynatılan her türlü hassas bilgiyi yakalayabilir.</string>
-    <string name="global_privacy_tip">"Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. <a href="%1$s">Gizlilik politikamızda</a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden Gizlilik politikasına verdiğiniz izni geri çekebilirsiniz"</string>
+    <string name="global_privacy_tip">Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. <a href="%1$s">Gizlilik politikamızda</a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden Gizlilik politikasına verdiğiniz izni geri çekebilirsiniz</string>
     <string name="google_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
     <string name="google_app_id">1:687519570831:android:be4b90f392c3a688b889fa</string>
     <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
@@ -669,6 +672,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="hang_up_alert_dialog_pos">Tamam</string>
     <string name="hang_up_alert_dialog_title">Ekran kapalıyken yansıtma başlamak üzere</string>
     <string name="hardware_controller_config">{\"online\":false,\"offline\":false,\"association_changed\":true,\"before_associate\":true,\"after_associate\":true,\"before_disassociate\":true,\"after_disassociate\":true,\"request_permission\":true}</string>
+    <string name="have_helped_you">Sana zaten yardım ettim</string>
     <string name="headset_content_description">Bu cihaza kulaklık bağlı. Etkinleştirmek için iki kez basın. Oynatmayı aktarmak için iki parmağınızla basın ve sürükleyin</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -775,12 +779,59 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">Öncelikle cihazınızın Miracast özelliğini desteklediğinden emin olun. Bazı modellerde bu özelliği Sistem > Ağlar > Çoklu Ekranlar > Kablosuz Ekran menüsünde açabilirsiniz</string>
     <string name="help_page_text_53">LeEco müşteri hizmetleri: 10109000</string>
-    <string name="help_page_text_55">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir. Miracast özelliğini nasıl açacağınızı öğrenmek için aşağıdaki bilgilere bakın
-4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
-    <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir
-4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
+    <string name="help_page_text_55">"Ağa bağlanamıyorsanız harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir. Miracast özelliğini nasıl açacağınızı öğrenmek için aşağıdaki bilgilere bakın
+4. Herhangi bir sorunla karşılaşırsanız, bu sorunu Hizmetler &amp; geri bildirim uygulamamızı kullanarak bildirebilirsiniz"</string>
+    <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız harici ekranın Miracast özelliğini desteklediğinden ve bu özelliğin etkin olduğundan emin olun. Bu özellik bazı modellerde Kablosuz Ekran, Ekran Yansıtma veya Çoklu ekranlar olarak yer alabilir
+4. Herhangi bir sorunla karşılaşırsanız, bu sorunu Hizmetler &amp; geri bildirim uygulamamızı kullanarak bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hm_always">Alışkanlık olarak kaydet</string>
+    <string name="hm_conflict_title">%1$s askıya alındı</string>
+    <string name="hm_conflict_toast">"Mijia otomasyon görevleriyle çakışıyor. Lütfen görevleri güncellemek için Mijia'ya gidin"</string>
+    <string name="hm_go_to_help">Yardımı görüntüle</string>
+    <string name="hm_go_to_login">Girişe git</string>
+    <string name="hm_go_to_open_setting">Şimdi aç</string>
+    <string name="hm_greeting_afternoon">Merhaba, iyi günler</string>
+    <string name="hm_greeting_evening">Merhaba, iyi akşamlar</string>
+    <string name="hm_greeting_late_morning">Merhaba, günaydın</string>
+    <string name="hm_greeting_morning">Merhaba, günaydın</string>
+    <string name="hm_greeting_noon">Merhaba, iyi günler</string>
+    <string name="hm_habit_info_describe">"Cihazı alışkanlıklarınıza göre çalıştırın
+Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
+    <string name="hm_habit_info_empty_describe">"Davranışlarınızı sürekli algılayın ve cihazın alışkanlıklarınıza göre çalışmasını sağlayın.
+Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
+    <string name="hm_habit_info_list_empty">Alışkanlıklarınızı öğrenme</string>
+    <string name="hm_help">Yardım</string>
+    <string name="hm_ignore">Yoksay</string>
+    <string name="hm_knew">Anladım</string>
+    <string name="hm_more">Diğer</string>
+    <string name="hm_pause_habit">Duraklatma alışkanlığı</string>
+    <string name="hm_please_login_mi_account">Lütfen önce Xiaomi hesabına giriş yapın</string>
+    <string name="hm_remember">Hatırla</string>
+    <string name="hm_resume_habit">Alışkanlığı sürdürme</string>
+    <string name="hm_setting_mode">Mod</string>
+    <string name="hm_setting_mode_subtitle">Açıldıktan sonra alışkanlıklar daha hızlı oluşturulabilir ancak güç tüketimi artacaktır</string>
+    <string name="hm_setting_mode_title">Aşırı hız deneyimi modu</string>
+    <string name="hm_setting_subtitle_off">Kapattıktan sonra öğrenilen tüm alışkanlıklar silinecek</string>
+    <string name="hm_setting_subtitle_on">Açtıktan sonra öğrenilen tüm alışkanlıklar silinecektir</string>
+    <string name="hm_setting_title_off">Hız deneyimi modunu kapatmak istiyor musunuz?</string>
+    <string name="hm_setting_title_on">Hız deneyimi modunu açmak istiyor musunuz?</string>
+    <string name="hm_setup">Kurulum</string>
+    <string name="hm_time_has_paused">Duraklatıldı</string>
+    <string name="hm_time_just_remembered">Yeni hatırladım</string>
+    <string name="hm_time_long_ago">Uzun zaman önce</string>
+    <string name="hm_time_not_executed">Henüz yürütülmedi</string>
+    <string name="hm_time_recent_week">Son hafta</string>
+    <string name="hm_time_today">Bugün</string>
+    <string name="hm_time_yesterday">Dün</string>
+    <string name="hm_toast_log_in">Lütfen önce Xiaomi hesabında oturum açın</string>
+    <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
+    <string name="hyper_mind">HyperMind</string>
+    <string name="hyper_mind_close_warning">Dikkat</string>
+    <string name="hyper_mind_close_warning_checkbox">Tekrar gösterme</string>
+    <string name="hyper_mind_close_warning_content">HyperMind kapatıldıktan sonra veri toplamayı ve kullanım alışkanlıklarınızı öğrenmeyi bırakacaktır. Halihazırda toplanmış olan verileri silmeniz gerekiyorsa <a href="%1$s">buraya dokunun</a></string>
+    <string name="hyper_mind_close_warning_ok">Tamam</string>
+    <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="invisible_mode_dialog_content">Gizli moddayken yayınlamayı kullanamazsınız. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
@@ -854,9 +905,9 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="mirror_phone_content">Ana ekran+ şimdi açılsın mı?</string>
     <string name="mirror_phone_content_remote">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
     <string name="mirror_phone_title">Ana ekranı aç+</string>
-    <string name="mirror_phone_title_remote">"Telefonda Ana ekranı+ açın"</string>
+    <string name="mirror_phone_title_remote">Telefonda Ana ekranı+ açın</string>
     <string name="mirror_remote_pad_content">"Ana ekran+'yı Ayarlar > Ara Bağlantı bölümünden açabilirsiniz"</string>
-    <string name="mirror_remote_pad_title">"Tablette Ana ekranı+ açın"</string>
+    <string name="mirror_remote_pad_title">Tablette Ana ekranı+ açın</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -1113,7 +1164,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
 %3$d. Rızanın geri çekilmesi geri dönüşü olmayan bir işlemdir. Onayınız geri çekildiğinde kararınızı yeniden gözden geçiremeyeceğinizi unutmayın"</string>
     <string name="privacy_revoke_agree_detail_prompt">Xiaomi ara bağlantı gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklama</string>
     <string name="privacy_revoke_agree_detail_title">İzninizi geri çekmeden önce Xiaomi ara bağlantı gizlilik politikası izninin geri çekilmesine ilişkin beyanını okuyun ve kabul edin</string>
-    <string name="privacy_revoke_agree_introduce">"Devam ederseniz Xiaomi ara bağlantı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanmış ve muhafaza edilmiş olan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. Ara bağlantı hizmetleri gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlandığı için onayınızı geri çekmeniz ara bağlantı hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onayınızı geri çekmeniz diğer özelliklerin ve hizmetlerin normal kullanımını etkilemeyecektir"</string>
+    <string name="privacy_revoke_agree_introduce">Devam ederseniz Xiaomi ara bağlantı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanmış ve muhafaza edilmiş olan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. Ara bağlantı hizmetleri gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlandığı için onayınızı geri çekmeniz ara bağlantı hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onayınızı geri çekmeniz diğer özelliklerin ve hizmetlerin normal kullanımını etkilemeyecektir</string>
     <string name="privacy_revoke_agree_warning_map_text">Dikkat</string>
     <string name="privacy_revoke_confirm_cancel">İptal et</string>
     <string name="privacy_revoke_confirm_message">Hizmetlerimizi gerekli kişisel bilgilerin toplanmasına dayalı olarak sunmamıza izin vermediğiniz sürece yayın özelliklerini kullanmaya devam edemezsiniz. Yine de HappyCast gizlilik politikasına verilen onay geri çekilsin mi?</string>
@@ -1136,10 +1187,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_setting_show_policy">Gizlilik politikasını görüntüle</string>
     <string name="privacy_setting_show_user_agreement">Kullanıcı sözleşmesini görüntüle</string>
     <string name="privacy_text_1">"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği telefonunuzun ekranındaki öğeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar
-Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\"\"\"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"\"\"\"HappyCast Gizlilik Politikası'nı\"\"\"\"\""</a>"\"\"\"\"\" okuyun ve kabul edin
+Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\"\"\"\"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"\"\"\"\"HappyCast Gizlilik Politikası'nı\"\"\"\"\"\""</a>"\"\"\"\"\"\" okuyun ve kabul edin
 Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:"</string>
-    <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
-Bu özelliği kullanmadan önce "<a href="%1$s">\"Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin</string>
+    <string name="privacy_text_2">"\"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
+Bu özelliği kullanmadan önce \""<a href="%1$s">\"Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin</string>
     <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder
 　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder
 　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir
@@ -1358,6 +1409,7 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="trust_device_manager">Güvenilen cihazları yönetin</string>
     <string name="trust_device_none">Burada güvenilen cihaz yok</string>
     <string name="trust_device_title">Güvenilen cihazlar</string>
+    <string name="try_multipurpose_equipment">Birden fazla cihaz kullanmayı deneyin</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>

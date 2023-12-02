@@ -620,11 +620,6 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="debug_user_firebase_config_search_hint">Arama yapılandırması</string>
     <string name="debug_youtube_file">Youtube dosyasında hata ayıklama</string>
     <string name="debug_youtube_in_release">Yayında youtube hatalarını ayıklayın</string>
-    <string name="decompress">Çıkar</string>
-    <string name="decompress_fail">Çıkartılamadı</string>
-    <string name="decompress_success">Başarıyla ayıklandı</string>
-    <string name="decompress_view">Görüntüle</string>
-    <string name="decompress_viewer_label">Arşiv yöneticisi (Tarayıcı)</string>
     <string name="decompressed_files">Çıkarılan dosyalar</string>
     <string name="deeplink_intrercept_hint">Bu açılır işlem, bir uygulamayı açmayı önerecek.</string>
     <string name="deeplink_intrercept_second_hint">İnternet sitesi bir uygulamayı açmak üzere. Bu işlem şimdilik durduruldu</string>
@@ -1736,6 +1731,10 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="news_load_failed">Tekrar denemek için dokunun</string>
     <string name="news_loading">Yükleniyor</string>
     <string name="news_native_see_all">Tam makale</string>
+    <string name="news_video_history">Geçmiş</string>
+    <string name="news_video_history_empty">Henüz burada hiçbir şey yok</string>
+    <string name="news_video_invisible_item">Bu video görüntülenemiyor</string>
+    <string name="news_video_no_more_videos">Şimdilik bu kadar</string>
     <string name="next">İleri</string>
     <string name="nf_choose_reason">Sorunu açıklayın</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -2848,6 +2847,9 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
 https://forum.miuitr.info/"</string>
     <string name="video_downloader_fail">Bu öge indirilemedi</string>
     <string name="video_downloader_retry">Tekrar deneyin</string>
+    <string name="video_feedback_description">Kullanıcı deneyiminizi geliştirmek için yukarıya girdiğiniz bilgileri topluyor ve kullanıyoruz. Kişisel bilgilerinizi nasıl topladığımız ve işlediğimiz hakkında daha fazla bilgi edinmek için Gizlilik politikamıza bakın</string>
+    <string name="video_feedback_description_title">Bu bilgiler yalnızca içerik önerileri için kullanılacaktır</string>
+    <string name="video_feedback_not_sumbit_toast">Göndermeden önce bir yanıt seçin</string>
     <string name="video_guess_you_like">Beğenebilirsin</string>
     <string name="video_play_next">Sıradaki</string>
     <string name="video_replay_btn">Tekrar oynat</string>

@@ -395,8 +395,8 @@
         <item>android.permission-group.LOCATION</item>
     </string-array>
     <string-array name="permissions_desc">
-        <item>Fotoğraflara, uygulamalara ve diğer dosyalara erişmek, bunları kaydetmek ve bunları aktarmak için</item>
-        <item>Bluetooth ve wifi kullanarak dosya aktarmak için</item>
+        <item>Fotoğraflara, uygulamalara ve diğer dosyalara erişmek, bunları kaydetmek ve bunları aktarmak içindir</item>
+        <item>Bluetooth ve wifi kullanarak dosya aktarmak içindir</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
