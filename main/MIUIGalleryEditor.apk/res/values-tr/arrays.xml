@@ -390,6 +390,16 @@
         <item>\#5B576F</item>
         <item>\#937373</item>
     </string-array>
+    <string-array name="gallery_frame_color_selector_array">
+        <item>\#B3BEC7</item>
+        <item>\#39372C</item>
+        <item>\#776D5D</item>
+        <item>\#63788B</item>
+        <item>\#737F7D</item>
+        <item>\#7D8473</item>
+        <item>\#9F7F85</item>
+        <item>\#1C1D1F</item>
+    </string-array>
     <array name="gradual_color">
         <item>#ffff6565</item>
         <item>#ffffbb55</item>

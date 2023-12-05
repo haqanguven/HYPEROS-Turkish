@@ -4,13 +4,13 @@
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içinde</item>
+        <item quantity="other">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içinde</item>
@@ -20,14 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
-        <item quantity="one">1 dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şu anda</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d AOD tema</item>
@@ -161,8 +161,8 @@
         <item quantity="one">Geçerli adım sayısı: %1$s adım</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">%1$s/%2$s adım</item>
-        <item quantity="one">%1$s/%2$s adım</item>
+        <item quantity="other">Adım hedefi: %1$s adım</item>
+        <item quantity="one">Adım hedefi: %1$s adım</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s adım</item>
