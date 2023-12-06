@@ -31,7 +31,7 @@
     <string name="add_frequent_phrases">Sık kullanılan ifadeleri ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Sık kullanılan ifadeler</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>
     <string name="chinese_day_11">"/11"</string>
@@ -203,7 +203,6 @@
     <string name="input_method_clipboard_clear_all_button">Tümünü temizle</string>
     <string name="input_method_clipboard_clear_all_phrase_des">Panonuzdaki tüm öğeler silinsin mi?</string>
     <string name="input_method_clipboard_clear_all_phrase_title">Pano temizleniyor</string>
-    <string name="input_method_clipboard_commit_failed">Bu öğe yapıştırılamıyor</string>
     <string name="input_method_clipboard_copy_success">Kopyalandı</string>
     <string name="input_method_clipboard_delete_success">Silindi</string>
     <string name="input_method_clipboard_move_cursor_guide1">İmleci hareket ettirmek için mavi alana basın ve basılı tutun</string>

@@ -296,8 +296,6 @@
     <string name="download_use_stable_version">Kararlı sürümü indir</string>
     <string name="drag_barcode_into_frame">Çerçeveyi kodu içine alacak şekilde sürükleyin</string>
     <string name="drag_crop_to_business_card">Kırpmak için hareket ettir</string>
-	<string name="dsv_ex_msg_adapter_wrong_recycler">"InfiniteScrollAdapter'ın yalnızca DiscreteScrollView ile çalışması gerekiyor"</string>
-	<string name="dsv_ex_msg_dont_set_lm">"LayoutManager'ı DiscreteScrollView.class örneğinde ayarlamamalısınız. Kitaplık özel bir tane kullanır. Yöntemi çağırmamanız yeterli"</string>
     <string name="duplicate_file_name_please_rename">Yinelenen dosya adı. Lütfen yeniden adlandırın</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
@@ -507,6 +505,7 @@
     <string name="language_entry_german">Almanca</string>
     <string name="language_entry_japanese">Japonca</string>
     <string name="language_entry_korean">Korece</string>
+    <string name="language_entry_russian">Rusça</string>
     <string name="language_entry_spanish">İspanyolca</string>
     <string name="language_translate_entry_auto">Otomatik</string>
     <string name="language_translate_entry_chinese_cn">ZH</string>
@@ -662,8 +661,6 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="multipage_mode">Çok sayfalı mod</string>
     <string name="my_document">Belgelerim</string>
     <string name="name">İsim:</string>
-    <string name="name_change">Bilgi: Adı değiştirmek için tarayın >></string>
-    <string name="name_change_text">Bilgi: Tarayın ve adını Xiaoai görünüm olarak değiştirin >></string>
     <string name="network_name">"SSID: "</string>
     <string name="network_password">"Şifre: "</string>
     <string name="new_schedule">Etkinlik oluştur</string>
@@ -686,7 +683,6 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="not_recommend_access_web_url">Yine de devam et</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="note">Açıklama:</string>
-    <string name="notice">Duyuru</string>
     <string name="now_state">"Mevcut durum: "</string>
     <string name="ocr_plant_loading">Yükleniyor</string>
     <string name="offline_translation">Çevrimdışı çeviri</string>

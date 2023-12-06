@@ -1004,7 +1004,11 @@ Başlamak için araçlar ekleyin."</string>
     <string name="pa_widget_advert_loading_dialog_message">Yükleniyor. Lütfen bekleyin</string>
     <string name="pa_widget_menu_edit">Düzenle</string>
     <string name="pa_widget_menu_edit_card_in_stack">%s düzenle</string>
-    <string name="pa_widget_menu_edit_stack">Grubu düzenle</string>
+    <string name="pa_widget_menu_edit_stack">Grubbu düzenle</string>
+    <string name="pa_widget_menu_improve_edit">Düzenle</string>
+    <string name="pa_widget_menu_improve_remove">Kaldır</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">%s kaldır</string>
+    <string name="pa_widget_menu_improve_replace">Yer değiştir</string>
     <string name="pa_widget_menu_remove">Kaldır</string>
     <string name="pa_widget_menu_remove_card_in_stack">"%s'yi kaldır"</string>
     <string name="pa_widget_menu_replace">Değiştir</string>

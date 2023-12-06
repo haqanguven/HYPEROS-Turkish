@@ -974,8 +974,6 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="safe_mode_tip_title_off_msg">Mi koruma kapalı</string>
     <string name="safe_mode_tip_title_on_msg">Mi koruma açık</string>
     <string name="safe_mode_title_text">Mi koruma</string>
-    <string name="safe_space_tip_dialog_description">%1$s Xiaomi tarafından incelenmedi ve güvenliği doğrulanamıyor. Cihaz güvenliğini ve gizliliğini korumak için aşağıdaki koruma önlemleri etkinleştirildi:</string>
-    <string name="safe_space_tip_dialog_title">Aşağıdaki korumalar sizin için etkinleştirildi</string>
     <string name="safe_version_install">Güvenlik sürümü</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
