@@ -481,6 +481,7 @@
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_ SES< /dize>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
     <string name="satellite_call_failed">Sinyal kesildi. Tekrar deneyin</string>
+    <string name="satellite_diable_earpiece">Kulaklık uydu aramalarında kullanılamıyor</string>
     <string name="satellite_dialog_button">Kayan pencere</string>
     <string name="satellite_dialog_cancel">İptal et</string>
     <string name="satellite_guide_down">"Topu mavi alana koymak için
@@ -499,6 +500,7 @@ cihazınızı yukarı eğin"</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_connected">Uyduya bağlanıldı. Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_connected_floating">Cihazınızı hareket ettirmeyin</string>
+    <string name="satellite_state_connecting">Bağlanılıyor (%d saniye)</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
