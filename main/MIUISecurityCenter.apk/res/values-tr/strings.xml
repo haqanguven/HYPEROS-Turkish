@@ -283,7 +283,7 @@
     <string name="apn_exception_summary">Operatörün erişim noktası adı ayarlarını test et</string>
     <string name="apn_exception_title">APN ayarlarını kontrol et</string>
     <string name="apn_exception_wap_summary">"WAP şimdi kararsız. NET'e geçin"</string>
-    <string name="app_behavior_about_content_no_link">Kullanıcının özel verilerinin gizliliğini korumak için Xiaomi sistemi sistem ve üçüncü taraf uygulamaların zincirleme başlatma, izin aktarma ve hassas kayıtları kayıt olarak görüntüler. Android sisteminde bu kayıtta hatalar olabilir. Bir sistem kayıt hatası bulursanız lütfen kaydın doğruluğunu düzeltmemize yardımcı olmak için hata içeriğini bize gönderin</string>
+    <string name="app_behavior_about_content_no_link">Kullanıcının özel verilerinin gizliliğini korumak için Xiaomi sistemi sistem ve üçüncü taraf uygulamaların zincir başlangıcı, izin aktarma ve hassas kayıtları kayıt olarak görüntüler. Android sisteminde bu kayıtta hatalar olabilir. Bir sistem kayıt hatası bulursanız lütfen kaydın doğruluğunu düzeltmemize yardımcı olmak için hata içeriğini bize gönderin</string>
     <string name="app_behavior_about_negative">Geri bildirim</string>
     <string name="app_behavior_about_positive">Tamam</string>
     <string name="app_behavior_about_setting">Ayarlar</string>
@@ -310,7 +310,7 @@
     <string name="app_behavior_key_audio">Ses kaydetme</string>
     <string name="app_behavior_key_camera">Fotoğraf çekme</string>
     <string name="app_behavior_key_location">Konum</string>
-    <string name="app_behavior_link_start">Zincirleme başlangıç</string>
+    <string name="app_behavior_link_start">Zincir başlangıcı</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_menu_about">Uygulama davranış kayıtları hakkında</string>
     <string name="app_behavior_no_recorder">İlgili davranış bulunamadı</string>
@@ -3180,7 +3180,7 @@ bekleniyor"</string>
     <string name="malicious_activity_too_many">Sık kullanılan ön plan</string>
     <string name="malicious_auto_start">otomatik başlatma</string>
     <string name="malicious_bg_start">Arka planda açılan pencere</string>
-    <string name="malicious_chain">Zincirleme</string>
+    <string name="malicious_chain">Zincir başlangıcı</string>
     <string name="malicious_cold_start">Soğuk başlatma</string>
     <string name="malicious_hot_start">Sıcak başlatma</string>
     <string name="malicious_keyguard_show">kilit ekranı görüntüsü</string>
@@ -4633,7 +4633,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_block_mac_summary">MAC adresinize erişim tüm uygulamalar için varsayılan olarak kısıtlanmıştır</string>
     <string name="pp_call_phone_msg">Arama geçmişi</string>
     <string name="pp_capability_approved_title">Gizlilik koruma önlemlerimiz sektörün önde gelen uzmanları tarafından test edilmiş ve onaylanmıştır</string>
-    <string name="pp_chain_start_is_prohibited">Zincir başlangıcını kısıtlayın</string>
+    <string name="pp_chain_start_is_prohibited">Zincir başlangıcı kısıtla</string>
     <string name="pp_chain_start_is_prohibited_detail">Üçüncü taraf uygulamaların birbirini başlattığı durumları kontrol edin ve bilginiz olmadan kişisel bilgilerinizi alın</string>
     <string name="pp_clipboard">Pano</string>
     <string name="pp_comprehensive_privacy_management">Kapsamlı gizlilik koruması</string>
@@ -6315,7 +6315,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_background_connection">Arka planda %s kullanamaz mı?</string>
     <string name="title_block_calls_from_cantacts">Bayan arkadaşlarından gelen aramalar mı?</string>
     <string name="title_block_calls_from_strangers">Önemli aramalar mı?</string>
-    <string name="title_chain_start">Zincir başlatmayı kısıtla</string>
+    <string name="title_chain_start">Zincir başlangıcı kısıtla</string>
     <string name="title_cleaner_cloudscan">Bulut çöp taraması</string>
     <string name="title_cloud_account">Xiaomi hesabı</string>
     <string name="title_cloud_service">Xiaomi bulut</string>
@@ -6792,7 +6792,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="wakepath_delete_all_tips">"Devam ederseniz her uygulamaya diğer uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
     <string name="wakepath_delete_app_start_all">"Devam ederseniz, %s'e başka uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
     <string name="wakepath_delete_app_start_other_app">"Devam ederseniz %2$s'yi açmak için %1$s'a tekrar izin vermeniz gerekecek. Yine de devam edilsin mi?"</string>
-    <string name="wakepath_manager_title">Zincir başlangıcını yönet</string>
+    <string name="wakepath_manager_title">Zincir başlangıcı</string>
     <string name="warn_function_no_work"><u>Kırmızı zarf geldiğinde hatırlatılamaz</u></string>
     <string name="warningcenter_action_check">Görünüm</string>
     <string name="warningcenter_alert_home">Konum</string>
