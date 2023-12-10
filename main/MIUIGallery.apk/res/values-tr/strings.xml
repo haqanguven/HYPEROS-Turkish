@@ -356,7 +356,7 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="alert_secret_album_message_new">Özel öğeleri görüntülemek için albümler sekmesinde aşağıya doğru kaydırın</string>
     <string name="alert_secret_album_title">Gizli albüm nasıl görüntülenir</string>
     <string name="alert_secret_album_title_new">Eklendi</string>
-    <string name="alert_selection_description">MIUI benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri yapacaktır</string>
+    <string name="alert_selection_description">Xiaomi benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri yapacaktır</string>
     <string name="alert_selection_title">En iyi çekimi seç</string>
     <string name="all_faces">Bu kişinin fotoğrafları</string>
     <string name="all_items_synced">Tüm albümler Xiaomi bulut alanına yedeklendi</string>
@@ -1813,7 +1813,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="gallery_uninstall_description_content">Galeri tüm bağlı cihazlarda fotoğrafları ve videoları görüntülemenize, yönetmenize ve senkronize etmenize olanak tanıyan bir sistem uygulamasıdır. Galeriyi kaldırırsanız özel yaptığınız öğeleri kaybedersiniz ve galeri öğelerini görüntüleme veya seçmeyle ilgili diğer özellikler de artık sizin için kullanılamaz. Yine de kaldırılsın mı?</string>
     <string name="gallery_uninstall_description_title">Galeri kaldırılsın mı?</string>
     <string name="gcm_defaultSenderId">184486664684</string>
-    <string name="generate_story_summary">MIUI fotoğraflarınızı analiz eder ve hatıralar oluşturur. Hatıralar oluşturmayı durdurmak için bu özelliği kapatın</string>
+    <string name="generate_story_summary">Xiaomi fotoğraflarınızı analiz eder ve hatıralar oluşturur. Hatıralar oluşturmayı durdurmak için bu özelliği kapatın</string>
     <string name="generate_story_title">Hatıralar</string>
     <string name="get_GP_app_btn_install">Yükle</string>
     <string name="get_GP_app_msg">Yedeklemeyi açmak için Google fotoğrafları yüklemeniz gerekir. Devam etmek için Google fotoğrafları yükledikten sonra bu sayfaya geri dönün</string>
@@ -1943,7 +1943,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="image_invalid_path">Geçersiz dosya yolu</string>
     <string name="image_not_found">İmaj bulunamadı</string>
     <string name="image_quota_fulfiled">Çok fazla sayıda imaj. Bazı imajları silin ve ardından yeniden deneyin</string>
-    <string name="image_selection_summary">MIUI benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri yapacaktır. Fotoğraflardan izleri kaldırmak için bu özelliği kapatın</string>
+    <string name="image_selection_summary">Xiaomi benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri yapacaktır. Fotoğraflardan izleri kaldırmak için bu özelliği kapatın</string>
     <string name="image_selection_title">En iyi fotoğrafı seç</string>
     <string name="image_transition_name">image_transition</string>
     <string name="image_with_time">%s fotoğrafı çekildi</string>
@@ -3225,7 +3225,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="search_feedback_task_request_award_failed">Ödül alınamadı. Daha sonra tekrar deneyin</string>
     <string name="search_feedback_task_requesting_award">Ödül alınıyor</string>
     <string name="search_feedback_user_notice">%s sözleşmesini okudum ve kabul ediyorum</string>
-    <string name="search_feedback_user_policy">MIUI galeri yapay zeka algoritma programı gizlilik politikası</string>
+    <string name="search_feedback_user_policy">Xiaomi galeri yapay zeka algoritma programı gizlilik politikası</string>
     <string name="search_hint">Aramak için dokunun</string>
     <string name="search_image_result_title">Arama sonuçları</string>
     <string name="search_login_now">Oturum aç</string>
@@ -4206,7 +4206,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="video_tags_enter" />
     <string name="video_with_time">Video %s tarihinde çekildi</string>
     <string name="video_with_time_and_location">%1$s tarihinde çekilen video. Konum: %2$s</string>
-    <string name="view_by_gallery_tip">MIUI galeri</string>
+    <string name="view_by_gallery_tip">Xiaomi galeri</string>
     <string name="view_face_album">Albümü görüntüle</string>
     <string name="view_more_face_desc">Daha fazla kişiyi görüntüle</string>
     <string name="vivo">vivo</string>

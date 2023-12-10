@@ -66,7 +66,7 @@ Herhangi bir sorunuz varsa bize yazın:"</string>
     <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
     <string name="barcode_description">Tarayıcı</string>
     <string name="barcode_install_back">Geri</string>
-    <string name="barcode_system_unmatch">Tarayıcıyı yüklemeden önce MIUI güncellemesini gerçekleştirin</string>
+    <string name="barcode_system_unmatch">Tarayıcıyı yüklemeden önce Xiaomi güncellemesini gerçekleştirin</string>
     <string name="barcode_to_install">Devam etmek için tarayıcı yükleyin</string>
     <string name="barcode_uninstalled">Tarayıcı kaldırıldı</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>

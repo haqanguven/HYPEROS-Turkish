@@ -401,7 +401,7 @@
     <string name="call_record_add_numbers">Numaraları ekle</string>
     <string name="call_record_auto_always">Tüm numaralar</string>
     <string name="call_record_auto_scenario_title">Şu kişilerden gelen aramaları kaydet</string>
-    <string name="call_record_auto_summary">Kayıtlar cihazınızın dahili hafızasındaki \"MIUI/sound_recorder/call_rec\" klasörüne kaydedilecektir</string>
+    <string name="call_record_auto_summary">Kayıtlar cihazınızın dahili hafızasındaki \"Xiaomi/sound_recorder/call_rec\" klasörüne kaydedilecektir</string>
     <string name="call_record_auto_title">Aramaları otomatik kaydet</string>
     <string name="call_record_auto_unknown_number">Bilinmeyen numaralar</string>
     <string name="call_record_auto_whitelist">Özel liste</string>

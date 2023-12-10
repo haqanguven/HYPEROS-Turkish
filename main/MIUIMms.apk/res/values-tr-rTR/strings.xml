@@ -297,8 +297,8 @@ Tekrar deneyin"</string>
     <string name="dialog_choice_all_correct_as_normal">Gönderilen tüm kısa mesajlar (%s)</string>
     <string name="dialog_complain_tips">Mesajları rapor edebilmek için şebekeye bağlanmasına izin verin</string>
     <string name="dialog_message_correct_as_ad">Tüm kısa mesajlar promosyon kısa mesajlarına taşınır (Doğrulama kodları hariç) (%s)</string>
-    <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin mi? Bunu yapmak için MIUI telefon numarasını yüklemelidir (%1$s), iletinin içeriği ve yakın konumlarına kendi sunucularına ilişkin bilgiler</string>
-    <string name="dialog_message_mx">Mi mesaj ücret ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Mi mesajını etkinleştirmek için giden bir mesaj gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir Mi mesajını kullanmadan önce %1$s ve %2$s kabul etmelisiniz</string>
+    <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin mi? Bunu yapmak için Xiaomi telefon numarasını yüklemelidir (%1$s), iletinin içeriği ve yakın konumlarına kendi sunucularına ilişkin bilgiler</string>
+    <string name="dialog_message_mx">Mi mesaj ücret ödemeden diğer Xiaomi kullanıcılarına mesaj göndermenizi sağlar. Mi mesajını etkinleştirmek için giden bir mesaj gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir Mi mesajını kullanmadan önce %1$s ve %2$s kabul etmelisiniz</string>
     <string name="dialog_quit">Çıkış</string>
     <string name="dialog_revoke">Geri al</string>
     <string name="dialog_sim_locked_confirm">Tamam</string>
@@ -666,8 +666,8 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_btn_enable_now">Etkinleştir</string>
     <string name="mx_count_dspt">Ücretsiz olarak %1$d mesaj ve %2$d multimedya mesajı gönderdiniz</string>
     <string name="mx_current_status">Ayarlar</string>
-    <string name="mx_dspt">Bir wifi ağına bağlı olduğunuzda diğer MIUI kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
-    <string name="mx_dspt_listview">Mesaj ücretlerinden kaçınarak diğer MIUI kullanıcılarına mesaj gönderin</string>
+    <string name="mx_dspt">Bir wifi ağına bağlı olduğunuzda diğer Xiaomi kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
+    <string name="mx_dspt_listview">Mesaj ücretlerinden kaçınarak diğer Xiaomi kullanıcılarına mesaj gönderin</string>
     <string name="mx_dspt_provision_ex2">Gizlilik politikası</string>
     <string name="mx_enable">Mi mesaj</string>
     <string name="mx_filter_message_from_stranger">Bilinmeyen numaralardan gelen Mi mesajları engelle</string>
@@ -676,7 +676,7 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_filter_message_from_stranger_summary">Bilinmeyen numaralardan gelen normal mesajları halen alabileceksiniz</string>
     <string name="mx_main_purpose">"Mi mesaj ile diğer Mi mesaj kullanıcılarına internet üzerinden ücret ödemeden mesaj göndermenizi sağlar
 Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operatörünüz sizden ücret isteyecektir"</string>
-    <string name="mx_main_purpose_short">Mi mesaj ile MIUI kullanıcılarının ücretsiz mesaj ve multimedya mesajları gönderip almalarını sağlar</string>
+    <string name="mx_main_purpose_short">Mi mesaj ile Xiaomi kullanıcılarının ücretsiz mesaj ve multimedya mesajları gönderip almalarını sağlar</string>
     <string name="mx_message">Mi mesaj</string>
     <string name="mx_msg">Mi mesaj</string>
     <string name="mx_offline">Çevrimdışı</string>
@@ -1062,8 +1062,8 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="recipients_contain_sub_sim_number">Alıcılar arasında ikinci bir Sim numarası var gibi görünüyor. Bu mesajı ikinci Sim kullanarak gönderin</string>
     <string name="recipients_over_size">Çok fazla alıcı</string>
     <string name="recommend_bar_cancel">Yoksay</string>
-    <string name="recommend_bar_message_mx">Mi mesaj ücret ödemeden diğer MIUI cihazlarına mesaj göndermenizi sağlar</string>
-    <string name="recommend_bar_message_mx_rcs">Mi mesaj diğer MIUI cihazlarına ve 5G kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar</string>
+    <string name="recommend_bar_message_mx">Mi mesaj ücret ödemeden diğer Xiaomi cihazlarına mesaj göndermenizi sağlar</string>
+    <string name="recommend_bar_message_mx_rcs">Mi mesaj diğer Xiaomi cihazlarına ve 5G kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar</string>
     <string name="recommend_bar_message_rcs">5G mesajlaşma ücret ödemeden diğer kullanıcılara mesaj göndermenizi sağlar</string>
     <string name="recommend_bar_message_smart_message">Tek seferlik şifreleri kopyalayın, paketleri takip edin, akıllı menüler kullanın ve daha fazlasını yapın</string>
     <string name="recommend_bar_ok">Aç</string>

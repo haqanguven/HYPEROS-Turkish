@@ -1220,7 +1220,7 @@ Neden: %s"</string>
     <string name="remove_blacklist">Engellemeyi kaldır</string>
     <string name="remove_blacklist_dialog_message">Bu numaradan gelen mesaj ve aramalar gösterilsin mi?</string>
     <string name="remove_blacklist_dialog_title">Bu numaranın engeli kaldırılsın mı?</string>
-    <string name="remove_duplicate">"MIUI tekrarlanan kişi kayıtlarını bulup tek kayıt altında birleştirmenize yardımcı olacaktır
+    <string name="remove_duplicate">"Xiaomi tekrarlanan kişi kayıtlarını bulup tek kayıt altında birleştirmenize yardımcı olacaktır
 
 Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE</string>

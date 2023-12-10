@@ -189,13 +189,13 @@ Tekrar deneyin"</string>
 * Uygulamalar, ana ekran düzeni ve duvar kağıtları 
 * Alarmlar, saat ve zaman ayarları 
 * Bildirim ayarları 
-* MIUI ve sistem ayarları 
+* Xiaomi ve sistem ayarları 
 Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedeklenmez"</string>
     <string name="cloud_back_up_detail_discription_china">"Cihazınız bir wifi ağına bağlandığında belirtilen öğeler Xiaomi bulut alanınıza yedeklenecektir: 
 * Uygulamalar, ana ekran düzeni ve duvar kağıtları 
 * Alarmlar, saat ve zaman ayarları 
 * Bildirim ayarları 
-* MIUI ve sistem ayarları 
+* Xiaomi ve sistem ayarları 
 Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedeklenmez"</string>
     <string name="cloud_back_up_frequence_choice_title">Zamanlı yedekleme</string>
     <string name="cloud_back_up_frequence_long">Her %d günde bir</string>
@@ -771,7 +771,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
     <string name="unselected">Seçilmedi</string>
-    <string name="unsupported_home">"MIUI'yi en son sürüme güncelle"</string>
+    <string name="unsupported_home">"Xiaomi'yi en son sürüme güncelle"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>

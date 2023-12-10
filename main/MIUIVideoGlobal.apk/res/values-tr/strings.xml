@@ -1552,7 +1552,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="phone_number">Telefon numarası</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
-    <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için MIUI sürümünü güncelleyin</string>
+    <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için Xiaomi sürümünü güncelleyin</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Oynatma listesi oluştur</string>
     <string name="play_list_save_dialog_title">Çalma listesine ekle</string>

@@ -646,9 +646,9 @@
     <string name="preference_follow_us">Bizi takip edin</string>
     <string name="preference_follow_web_summary">www.miui.com</string>
     <string name="preference_follow_web_title">Resmi internet sitesi</string>
-    <string name="preference_follow_wechat_summary">MIUI</string>
+    <string name="preference_follow_wechat_summary">Xiaomi</string>
     <string name="preference_follow_wechat_title">WeChat</string>
-    <string name="preference_follow_weibo_summary">\@MIUI</string>
+    <string name="preference_follow_weibo_summary">\@Xiaomi</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_help">Yardım &amp; geri bildirim</string>
     <string name="preference_other">Diğer</string>

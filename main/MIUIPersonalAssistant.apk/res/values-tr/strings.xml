@@ -726,7 +726,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_home_search_hint">Ara</string>
     <string name="pa_picker_home_title">Araç ekle</string>
     <string name="pa_picker_image_text_share">Paylaş</string>
-    <string name="pa_picker_image_text_share_content" formatted="false">\"#MIUI araçları# Masaüstünüzü %s MIUI araçları ile süsleyin! %S</string>
+    <string name="pa_picker_image_text_share_content" formatted="false">\"#Xiaomi araçları# Masaüstünüzü %s Xiaomi araçları ile süsleyin! %S</string>
     <string name="pa_picker_image_text_share_copy_url">Bağlantıyı kopyala</string>
     <string name="pa_picker_image_text_share_more">Dah fazla</string>
     <string name="pa_picker_image_text_share_wechat_favourite">WeChat favorileri</string>

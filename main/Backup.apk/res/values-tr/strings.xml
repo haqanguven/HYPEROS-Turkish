@@ -555,7 +555,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="material_timepicker_select_time">Zamanı seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin</string>
     <string name="midnight">Gece</string>
-    <string name="miliao_account_guide">Dilediğiniz yerden Xiaomi bulut, MIUI tema mağazası ve diğer Mi hizmetlerinde oturum açmak için Xiaomi hesabınızı kullanın</string>
+    <string name="miliao_account_guide">Dilediğiniz yerden Xiaomi bulut, Xiaomi tema mağazası ve diğer Mi hizmetlerinde oturum açmak için Xiaomi hesabınızı kullanın</string>
     <string name="miliao_account_login">Mi Talk ile oturum açın</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
@@ -674,17 +674,17 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="new_britem_other">Diğer</string>
     <string name="new_britem_pic">Fotoğraflar</string>
     <string name="new_britem_video">Videolar</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI şifrelenmiş yedeklemeleri Xiaomi hesabınızla ilişkilendirir. Bu tür yedeklemelerden öğeleri geri yüklemek için Xiaomi hesabınızda oturum açmanız gerekir</string>
+    <string name="new_confirm_enable_encrypt_content">Xiaomi şifrelenmiş yedeklemeleri Xiaomi hesabınızla ilişkilendirir. Bu tür yedeklemelerden öğeleri geri yüklemek için Xiaomi hesabınızda oturum açmanız gerekir</string>
     <string name="new_confirm_enable_encrypt_title">Şifrele</string>
     <string name="new_local_button_backup">Yedekle</string>
     <string name="new_local_button_restore">Geri yükle</string>
     <string name="new_local_click_to_jump">Ayrıntılı talimatları görüntülemek için dokunun</string>
     <string name="new_local_detail_description">"Not:
 %1$d. Veri kaybını önlemek için yedeklemeleri bilgisayarınıza kopyalayın. %2$s
-%3$d. Yedeklemeler MIUI-Backup-AllBackup klasörüne kaydedilir"</string>
+%3$d. Yedeklemeler Xiaomi-Backup-AllBackup klasörüne kaydedilir"</string>
     <string name="new_local_detail_description_global">"Not:
 %1$d. Veri kaybını önlemek için yedekleri bilgisayarınıza kopyalayın. %2$s
-%3$d. Yedeklemeler MIUI-Backup-AllBackup'a kaydedilecektir
+%3$d. Yedeklemeler Xiaomi-Backup-AllBackup'a kaydedilecektir
 %4$d. Bazı uygulamalar yedeklemeyi desteklemeyebilir"</string>
     <string name="new_local_tab_backup">Yedekle</string>
     <string name="new_local_tab_backup_pad">Yedekle</string>
@@ -694,18 +694,18 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="new_more_settings_label">Ek ayarlar</string>
     <string name="new_pc_backup_content1">"%1$d. %2$s'ı aç"</string>
     <string name="new_pc_backup_content2">%d. Tüm öğeler yedeklenene kadar bekleyin</string>
-    <string name="new_pc_backup_content3">%d. MIUI-Backup-AllBackup klasöründe yedeklemeyi bulun</string>
+    <string name="new_pc_backup_content3">%d. Xiaomi-Backup-AllBackup klasöründe yedeklemeyi bulun</string>
     <string name="new_pc_backup_content4">%d. Dosyayı bilgisayarınıza kopyalayın</string>
     <string name="new_pc_backup_restore_link">Mobil cihaz</string>
     <string name="new_pc_backup_restore_link_pad">Mobil cihaz</string>
     <string name="new_pc_backup_summary1">Öğeleri seçin ve yedekle düğmesine dokunun</string>
     <string name="new_pc_backup_summary2">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
     <string name="new_pc_backup_summary2_pad">Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
-    <string name="new_pc_backup_summary4">Not: MIUI-DCIM klasöründen fotoğrafları ve videolarıda kopyalayabilirsiniz</string>
+    <string name="new_pc_backup_summary4">Not: Xiaomi-DCIM klasöründen fotoğrafları ve videolarıda kopyalayabilirsiniz</string>
     <string name="new_pc_restore_content1">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
     <string name="new_pc_restore_content1_pad">%d. Mobil cihazınızı bir USB kablosuyla bilgisayara bağlayın</string>
-    <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın</string>
-    <string name="new_pc_restore_content2_pad">%d. Yedeklemeyi bilgisayarınızdan MIUI-Backup-AllBackup klasörüne kopyalayın</string>
+    <string name="new_pc_restore_content2">%d. Yedeklemeyi bilgisayarınızdan Xiaomi-Backup-AllBackup klasörüne kopyalayın</string>
+    <string name="new_pc_restore_content2_pad">%d. Yedeklemeyi bilgisayarınızdan Xiaomi-Backup-AllBackup klasörüne kopyalayın</string>
     <string name="new_pc_restore_content3">%1$d. %2$s dosyasını açın ve geri yüklenecek öğeleri seçin</string>
     <string name="new_pc_title">Yedekleri kopyala</string>
     <string name="new_select_file">Ses, videolar ve dosyalar</string>

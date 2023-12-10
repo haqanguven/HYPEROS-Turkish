@@ -601,7 +601,7 @@ Arttırılmış güvenlik"</string>
     <string name="menu_search">Arama</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_trans_effect">Geçiş efektleri</string>
-    <string name="mi_wallpaper">MIUI temalar</string>
+    <string name="mi_wallpaper">Xiaomi temalar</string>
     <string name="midnight">Gece</string>
     <string name="minus_one_screen">Uygulama kasası</string>
     <string name="miui_screen_config_title">Ana ekran ayarları</string>
@@ -956,7 +956,7 @@ Arttırılmış güvenlik"</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
     <string name="switch_on_button">Aç</string>
-    <string name="switch_personal_assistant_app_vault">MIUI</string>
+    <string name="switch_personal_assistant_app_vault">Xiaomi</string>
     <string name="switch_personal_assistant_google">Google</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>

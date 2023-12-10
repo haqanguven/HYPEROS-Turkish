@@ -41,7 +41,7 @@
     <string name="auto_start_warning_deny">Reddet</string>
     <string name="auto_start_warning_title">%s otomatik olarak başlatılsın mı?</string>
     <string name="autofill">Otomatik doldur</string>
-    <string name="autofill_save_message">"MIUI'nin hesaplarınızı ve şifrelerinizi kaydetmesine izin verilsin mi?"</string>
+    <string name="autofill_save_message">"Xiaomi'nin hesaplarınızı ve şifrelerinizi kaydetmesine izin verilsin mi?"</string>
     <string name="autofill_save_ok">İzin ver</string>
     <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar > Ek ayarlar > Gizlilik > Şifreleri yönet bölümünde yönetebilirsiniz</string>
     <string name="autofill_save_title">Şifreleri otomatik olarak kaydet</string>
@@ -447,7 +447,7 @@
     <string name="security_permission_failed_text">Bir hata meydana geldi. Daha sonra tekrar deneyin</string>
     <string name="security_permission_network_failed_text">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="security_permission_open_wifi_settings">Wifi ayarlarını aç</string>
-    <string name="security_permission_validate_warning">"MIUI'nin daha iyi hale gelmesine yardımcı olduğunuz için teşekkür ederiz"</string>
+    <string name="security_permission_validate_warning">"Xiaomi'nin daha iyi hale gelmesine yardımcı olduğunuz için teşekkür ederiz"</string>
     <string name="security_permission_wifi_and_data_opened_text">Wifi ve mobil veri açıldı</string>
     <string name="security_permission_xiaomi_account_missed_text">Xiaomi hesap kimliğinizi girin</string>
     <string name="security_share_text">Gizlilik koruması</string>

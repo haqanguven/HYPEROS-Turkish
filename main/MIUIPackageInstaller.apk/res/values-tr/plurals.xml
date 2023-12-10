@@ -81,23 +81,23 @@
         <item quantity="one">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin</item>
     </plurals>
     <plurals name="pure_mode_guard_day">
-        <item quantity="other">Güvenli mod %d gündür açık</item>
-        <item quantity="one">Güvenli mod %d gündür açık</item>
+        <item quantity="other">Mi koruma %d gündür açık</item>
+        <item quantity="one">Mi koruma %d gündür açık</item>
     </plurals>
     <plurals name="settings_security_mode_enable_count">
-        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
-        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
+        <item quantity="other">Mi koruma &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
+        <item quantity="one">Mi koruma &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
     </plurals>
     <plurals name="settings_security_mode_protect_count">
         <item quantity="other">&lt;font color=#0D84FF>%1$s&lt;/font> riskleri etkisiz hale getirildi</item>
         <item quantity="one">&lt;font color=#0D84FF>%1$s&lt;/font> riskleri etkisiz hale getirildi</item>
     </plurals>
     <plurals name="settings_security_mode_protect_days">
-        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
-        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
+        <item quantity="other">Mi koruma &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
+        <item quantity="one">Mi koruma &lt;font color=#0D84FF>%1$s&lt;/font> gündür açık</item>
     </plurals>
     <plurals name="settings_security_mode_title_on_msg">
-        <item quantity="other">Güvenli mod %1$s gündür açık</item>
-        <item quantity="one">Güvenli mod %1$s gündür açık</item>
+        <item quantity="other">Mi koruma %1$s gündür açık</item>
+        <item quantity="one">Mi koruma %1$s gündür açık</item>
     </plurals>
 </resources>

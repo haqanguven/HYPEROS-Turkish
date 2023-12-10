@@ -284,7 +284,7 @@ mesajları ikinci alanda göster"</string>
     <string name="dual_animation">Başlatma animasyonu</string>
     <string name="dual_animation_description">Çift uygulama başlatıldığında animasyon gösterir</string>
     <string name="dump_log">Sorunla alakalı kayıtları alın</string>
-    <string name="dump_log_summary">"Bu özellik MIUI'nin Beta sürümünde %s kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
+    <string name="dump_log_summary">"Bu özellik Xiaomi'nin Beta sürümünde %s kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
 Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="dump_log_title">Bu özellik hakkında</string>
     <string name="early_morning">Sabah</string>

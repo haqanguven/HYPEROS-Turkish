@@ -1043,7 +1043,7 @@
     <string name="metered_serious_allow">Yine de oynat</string>
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">Gece</string>
-    <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir</string>
+    <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. Xiaomi sistemini güncellemek gerekir</string>
     <string name="million_char">%sM</string>
     <string name="millions_songs">Milyonlarca şarkı</string>
     <string name="min_sleep_time">%d</string>
@@ -1656,7 +1656,7 @@ mutlu ol"</string>
     <string name="settings_search_path_main">Sistem uygulamaları/Müzik</string>
     <string name="settings_search_path_normal">Sistem uygulamaları/Müzik/Hizmet ve ayarlar</string>
     <string name="settings_search_title_notification">Müzik bildirimi</string>
-    <string name="share_append_text">MIUI tarafından</string>
+    <string name="share_append_text">Xiaomi tarafından</string>
     <string name="share_chooser_title">Paylaş</string>
     <string name="share_description">Müzikler sunar</string>
     <string name="share_end_note">Müzikler sunar</string>

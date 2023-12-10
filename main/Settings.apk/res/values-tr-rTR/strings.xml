@@ -41,7 +41,7 @@
     <string name="abc_slices_permission_request">%1$s uygulaması %2$s dilimlerini göstermek istiyor</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_ad_service_instructions">Reklam hizmetleri ve gizlilik hakkında</string>
-    <string name="about_ad_service_instructions_for_global">MIUI sistem uygulamalarında reklam hizmetleri ve gizlilik hakkında</string>
+    <string name="about_ad_service_instructions_for_global">Xiaomi sistem uygulamalarında reklam hizmetleri ve gizlilik hakkında</string>
     <string name="about_phone_device_name_warning">Telefonunuzdaki uygulamalar cihazınızın adını görür. Bluetooth cihazlarına bağlandığınızda veya bir kablosuz bağlantı noktası ayarladığınızda başka kişiler de bu adı görebilir</string>
     <string name="about_phone_enter_xiaomi_net">Daha fazla bilgi edinin</string>
     <string name="about_settings">Telefon hakkında</string>
@@ -1074,7 +1074,7 @@ Cihazınızın normal şekilde çalışması için burada listelenen uygulamalar
     <string name="backup_data_summary">Uygulama verilerini, wifi şifrelerini ve diğer ayarları Google sunucularına yedekle</string>
     <string name="backup_data_title">Verilerimi yedekle</string>
     <string name="backup_difference_content">"Yerel yedekler:
-Yerel yedeklemeler uygulama verilerini veya normalde daha fazla öğede içerebilir. Yedekleme dosyaları MIUI-backup-AllBackup'da saklanır ve yedekleme işlemi tamamlandıktan sonra bir bilgisayara kopyalanması gerekir
+Yerel yedeklemeler uygulama verilerini veya normalde daha fazla öğede içerebilir. Yedekleme dosyaları Xiaomi-backup-AllBackup'da saklanır ve yedekleme işlemi tamamlandıktan sonra bir bilgisayara kopyalanması gerekir
 
 Bulut yedekleri:
 Yedeklemeler Xiaomi bulutta saklanır ve kablosuz olarak erişilebilir. Bu yöntem yerel yedeklemelerden daha hızlı ve kolaydır ancak uygulama verilerini Xiaomi buluta yedekleyemezsiniz
@@ -1978,7 +1978,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_audio_share_switch_title">Sesi paylaş</string>
     <string name="bt_audiorepair_dialog_open_success">Başarıyla düzeltildi. Cihaz yeniden bağlanana kadar bekleyin</string>
     <string name="bt_audiorepair_dialog_openok">Düzelt</string>
-    <string name="bt_audiorepair_open_dialog_summary">MIUI Bluetooth ses kesintisine neden olan sorunları algılayacak ve düzeltecektir. Bu işlem sırasında Bluetooth yeniden başlatılacaktır. Sonuçları görene kadar bu sayfadan ayrılmayın</string>
+    <string name="bt_audiorepair_open_dialog_summary">Xiaomi Bluetooth ses kesintisine neden olan sorunları algılayacak ve düzeltecektir. Bu işlem sırasında Bluetooth yeniden başlatılacaktır. Sonuçları görene kadar bu sayfadan ayrılmayın</string>
     <string name="bt_audiorepair_open_dialog_title">Ses titremesini düzelt</string>
     <string name="bt_audiorepair_pre_title">Ses titremesini düzelt</string>
     <string name="bt_audiorepair_summary">Bağlı Bluetooth cihazlarındaki ses takılmalarını düzelt</string>
@@ -2364,8 +2364,8 @@ Bu izin açıksa uygulama, bir etiket algılandığında seçenek olarak kullan�
     <string name="close_fod_aod">Ekran kapalı iken cihazınızın kilidini parmak izinizi kullanarak açamazsınız. Her zaman açık modu da kullanılamaz. Parmak iziyle kilit açma yalnızca ekran açık durumdayken çalışır</string>
     <string name="close_hotspot_hint">Yansıtmadan önce paylaşım noktasını kapat</string>
     <string name="close_lid_display_settings_title">Katlandıktan sonra</string>
-    <string name="close_miui_optimization_title">MIUI optimizasyonu kapat</string>
-    <string name="close_optimization_message">"Bu özelliği kapatmanızdan sonra metin arayüzü, hesaplar ve MIUI'nin diğer kısımları bu işlemden etkilenebilir"</string>
+    <string name="close_miui_optimization_title">Xiaomi optimizasyonu kapat</string>
+    <string name="close_optimization_message">"Bu özelliği kapatmanızdan sonra metin arayüzü, hesaplar ve Xiaomi'nin diğer kısımları bu işlemden etkilenebilir"</string>
     <string name="close_optimization_option">Kapat</string>
     <string name="close_privacy_thumbnail_blur_title">Önizlemeler bulanıklaştırılmadı</string>
     <string name="close_sheet">Sayfayı kapat</string>
@@ -3042,14 +3042,14 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_miui_version">OS sürümü</string>
     <string name="device_miui_version_for_POCO">OS sürümü (POCO için)</string>
     <string name="device_miui_version_parameters">OS sürümü</string>
-    <string name="device_miui_version_update">MIUI güncellemesi mevcut</string>
+    <string name="device_miui_version_update">Xiaomi güncellemesi mevcut</string>
     <string name="device_name">Cihaz adı</string>
     <string name="device_name_input_error">Cihaz adı kaydedilemedi</string>
     <string name="device_name_input_hint">Adı girin</string>
     <string name="device_name_input_overlength">Karakter limitini aştınız</string>
     <string name="device_name_usage_point">Bu isim yakındaki diğer cihazlar tarafından görüntülenir</string>
     <string name="device_oaid">Cihaz kimliği</string>
-    <string name="device_oaid_desc">Gerçek tanımlayıcınız yerine MIUI üçüncü taraf uygulamalarına bir sanal kimlik sağlayacaktır (PAID). Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur</string>
+    <string name="device_oaid_desc">Gerçek tanımlayıcınız yerine Xiaomi üçüncü taraf uygulamalarına bir sanal kimlik sağlayacaktır (PAID). Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini engeller ve gizliliğinizi korur</string>
     <string name="device_oaid_title">Sanal kimlik</string>
     <string name="device_opcust_version">Özelleştirilmiş sürüm</string>
     <string name="device_picker">Bluetooth cihazı seçin</string>
@@ -3260,7 +3260,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="double_twist_for_camera_mode_title">Kamerayı çevir</string>
     <string name="doublepress_summary">Oynatmayı oynat ve duraklat</string>
     <string name="doublepress_title">Çift basma hareketi gerçekleştirin</string>
-    <string name="download_current_rom">"MIUI'nin en güncel sürümünü edinin"</string>
+    <string name="download_current_rom">"Xiaomi'nin en güncel sürümünü edinin"</string>
     <string name="downloaded_sim_category_title">İndirilen Sim</string>
     <string name="downloaded_sims_category_title">"İndirilen Sim'ler"</string>
     <string name="downloading_description">İndiriliyor</string>
@@ -3327,7 +3327,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
     <string name="dual_wifi_switching_summary">Çift bant ile wifi hız artışı için iki farklı wifi bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolur</string>
     <string name="dump_log">Sorunla alakalı kayıtları al</string>
-    <string name="dump_log_summary">"Bu özellik MIUI'nin Alfa ve Beta sürümlerinde 284 kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
+    <string name="dump_log_summary">"Bu özellik Xiaomi'nin Alfa ve Beta sürümlerinde 284 kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
 Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="dump_log_title">Bu özellik hakkında</string>
     <string name="early_morning">ÖÖ</string>
@@ -3935,7 +3935,7 @@ Daha fazla bilgi edinmek için kredi sağlayıcınızla iletişime geçin"</stri
     <string name="font_size_make_smaller_desc">Küçült</string>
     <string name="font_size_medium">Büyük</string>
     <string name="font_size_normal">Küçük</string>
-    <string name="font_size_preview">MIUI</string>
+    <string name="font_size_preview">Xiaomi</string>
     <string name="font_size_small">Daha küçük</string>
     <string name="font_size_summary">"Ana ekran, bildirim çubuğu, çevirici ve menüler için yazı tipi boyutunu değiştir
 
@@ -4393,10 +4393,10 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir
 
 Mobil
-Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya (MIUI-backup-AllBackup) kaydedin. Not: Fabrika ayarlarına sıfırlama işlemi gerçekleştirildiğinde bu tür yedeklemeler kalıcı olarak silinir. Yedekleri bilgisayarınıza kopyalamayı unutmayın
+Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya (Xiaomi-backup-AllBackup) kaydedin. Not: Fabrika ayarlarına sıfırlama işlemi gerçekleştirildiğinde bu tür yedeklemeler kalıcı olarak silinir. Yedekleri bilgisayarınıza kopyalamayı unutmayın
 
 Bilgisayar
-Bu cihazda bir yedek oluşturun ardından MIUI-backup-AllBackup adresine gidin ve yedeklemeyi USB kablosuyla bilgisayarınıza kopyalayın
+Bu cihazda bir yedek oluşturun ardından Xiaomi-backup-AllBackup adresine gidin ve yedeklemeyi USB kablosuyla bilgisayarınıza kopyalayın
 
 USB sürücüsü
 Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi bir USB sürücüsüne kaydedin
@@ -4416,10 +4416,10 @@ Mobil
 Mobil öğesine dokunarak öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin
 
 Bilgisayar
-Yedeklemeyi USB kablosu ile bilgisayarınızdan MIUI-backup-AllBackup'a kopyalayın ve mobil cihazınızdan öğeleri geri yükleyin
+Yedeklemeyi USB kablosu ile bilgisayarınızdan Xiaomi-backup-AllBackup'a kopyalayın ve mobil cihazınızdan öğeleri geri yükleyin
 
 USB sürücüsü
-Yedeklemeyi USB sürücünüzden MIUI-backup-AllBackup klasörüne kopyalayın ve devam etmek için USB sürücüsündeki öğeleri geri yükleme seçeneğini seçin
+Yedeklemeyi USB sürücünüzden Xiaomi-backup-AllBackup klasörüne kopyalayın ve devam etmek için USB sürücüsündeki öğeleri geri yükleme seçeneğini seçin
 
 Xiaomi bulut
 Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
@@ -5754,7 +5754,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miui_data_usage_menu_metered">Mobil bağlantı noktaları</string>
     <string name="miui_desktop_mode_settings">İş modu</string>
     <string name="miui_device_control_description">Uyumlu akıllı ev cihazlarını kontrol edebilmek için cihaz kontrollerini destekleyen uygulamaları gösterin</string>
-    <string name="miui_experience_optimization">MIUI optimizasyonu</string>
+    <string name="miui_experience_optimization">Xiaomi optimizasyonu</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">İptal et</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Yüz ile kilit açmayı kullanırken en iyi sonuçları elde etmek için cihazınızın ekran parlaklığını otomatik olarak ayarlamasına izin vermeyin</string>
     <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">Tamam</string>
@@ -5779,7 +5779,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_lab_feature_applied">Uygulandı</string>
     <string name="miui_lab_feature_off">Kapat</string>
     <string name="miui_lab_feature_on">Aç</string>
-    <string name="miui_lab_features">MIUI laboratuvar özellikleri</string>
+    <string name="miui_lab_features">Xiaomi laboratuvar özellikleri</string>
     <string name="miui_lab_gallery_search_desc">Gelişmiş resim arama</string>
     <string name="miui_lab_gallery_search_title">Galeride fotoğraf bul</string>
     <string name="miui_lab_gesture_desc">Gezinme için tam ekran hareketlerini kullanın</string>
@@ -5787,7 +5787,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_lab_install_drive_mode_error">Yüklenemedi. Tekrar deneyin</string>
     <string name="miui_lab_install_drive_mode_summary">Araç modu bir sistem uygulamasıdır. Kurulum için internet bağlantısı gerekmez</string>
     <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string>
-    <string name="miui_lab_settings">MIUI laboratuvar</string>
+    <string name="miui_lab_settings">Xiaomi laboratuvar</string>
     <string name="miui_lab_slogan">Öğren, araştır ve keşfet</string>
     <string name="miui_master_clear_prompt_battery_low">Pil %1$s değerinin altında olduğunda fabrika ayarlarına sıfırlama yapılamaz. Devam etmeden önce cihazınızı şarj edin.</string>
     <string name="miui_master_clear_summary">Telefon üzerindeki tüm verileri siler</string>
@@ -5797,7 +5797,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_nfc_dialog_positive">İptal et</string>
     <string name="miui_nfc_dialog_title">NFC kapatılıyor</string>
     <string name="miui_nfc_mi_pay_summary">Mi ödeme, ulaşım kartları, anahtar kartlar</string>
-    <string name="miui_optimization_disabled">MIUI optimizasyonunu kapat</string>
+    <string name="miui_optimization_disabled">Xiaomi optimizasyonunu kapat</string>
     <string name="miui_sos_around_photo_summary">Acil durum kişilerinize gönderilen kısa mesaja ön ve arka kameralardan %d fotoğraf ekleyin</string>
     <string name="miui_sos_around_photo_title">Fotoğraf ekle</string>
     <string name="miui_sos_around_voice_summary">Acil durum kişilerinize gönderilen kısa mesaja %d saniyelik bir ses kaydı ekleyin</string>
@@ -6425,8 +6425,8 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="no_screen_lock_issue_title">Bir ekran kilidi ayarlayın</string>
     <string name="no_services">Etkin hizmet yok</string>
     <string name="no_trust_agents">Kullanılabilir güven aracısı yok</string>
-    <string name="no_update_found">"MIUI'nin en güncel sürümünü kullanıyorsunuz"</string>
-    <string name="no_updates_found">"MIUI'nin en güncel sürümünü kullanıyorsunuz"</string>
+    <string name="no_update_found">"Xiaomi'nin en güncel sürümünü kullanıyorsunuz"</string>
+    <string name="no_updates_found">"Xiaomi'nin en güncel sürümünü kullanıyorsunuz"</string>
     <string name="no_updates_warning">Sisteminiz güncel durumda</string>
     <string name="no_updates_warning2">Kullanılabilir bir güncelleme olduğunda sizi bilgilendireceğiz</string>
     <string name="no_vr_listeners">Yüklü hiçbir uygulamanın sanal gerçekçilik yardımcı hizmetleri olarak çalışması istenmedi</string>
@@ -6668,7 +6668,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="open_demo_mode_warning_message">Demo modu açık olduğunda durum çubuğundaki saat durur, pil ve sinyal simgeleri tam olarak görüntülenir. Simgeleri eski haline getirmek için demo modu kapatabilir veya cihazı yeniden başlatabilirsiniz</string>
     <string name="open_game_accelerate">Oyun hızlandırıcıyı aç</string>
     <string name="open_haptic_feedback">Dokunsal geri bildirim</string>
-    <string name="open_miui_optimization_title">MIUI optimizasyonu aç</string>
+    <string name="open_miui_optimization_title">Xiaomi optimizasyonu aç</string>
     <string name="open_optimization_message">Daha hızlı ve rahat bir kullanıcı arayüzü için optimizasyonu açın</string>
     <string name="open_optimization_option">Aç</string>
     <string name="open_privacy_thumbnail_blur_title">Önizlemeler bulanıklaştırıldı</string>
@@ -7436,8 +7436,8 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="reset_bluetooth_wifi_complete_toast">Bluetooth &amp; wifi sıfırlandı</string>
     <string name="reset_bluetooth_wifi_desc">Bu tüm wifi &amp; Bluetooth ayarları. Bu işlemi geri alamazsınız</string>
     <string name="reset_bluetooth_wifi_title">Bluetooth &amp; wifi ayarlarını sıfla</string>
-    <string name="reset_confirm_directory">Not: Öğeleri geri yüklemeden önce mobil cihazınızda MIUI-Backup-AllBackup klasörünün bulunup bulunmadığını kontrol edin. Yoksa oluşturun</string>
-    <string name="reset_confirm_directory_pad">Not: Öğeleri geri yüklemeden önce mobil cihazınızda MIUI-Backup-AllBackup klasörünün bulunup bulunmadığını kontrol edin. Yoksa oluşturun</string>
+    <string name="reset_confirm_directory">Not: Öğeleri geri yüklemeden önce mobil cihazınızda Xiaomi-Backup-AllBackup klasörünün bulunup bulunmadığını kontrol edin. Yoksa oluşturun</string>
+    <string name="reset_confirm_directory_pad">Not: Öğeleri geri yüklemeden önce mobil cihazınızda Xiaomi-Backup-AllBackup klasörünün bulunup bulunmadığını kontrol edin. Yoksa oluşturun</string>
     <string name="reset_dashboard_title">Seçenekleri sıfırla</string>
     <string name="reset_default_apn_failed">Varsayılan apn sıfırlanamadı</string>
     <string name="reset_esim_desc">"Telefondaki tüm eSim'ler silinsin. eSim'lerinizi yeniden indirmek için operatörünüzle iletişim kurmanız gerekir. Bu işlem mobil hizmet planınızı iptal etmez"</string>
@@ -7480,7 +7480,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="resolution_fhd_summary" formatted="false">%d×%d (Pil tasarrufu)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (Netlik katar)</string>
-    <string name="resolution_sub_title">MIUI çözünürlüğü değiştirirken arka planda çalışan uygulamaları kapatabilir</string>
+    <string name="resolution_sub_title">Xiaomi çözünürlüğü değiştirirken arka planda çalışan uygulamaları kapatabilir</string>
     <string name="resolver_settings_label">Sırala</string>
     <string name="restore_default_apn">Varsayılan Apn ayarları geri yükleniyor</string>
     <string name="restore_default_apn_completed">Varsayılan Apn ayarlarına sıfırlama tamamlandı</string>
@@ -9666,7 +9666,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="uninstall_device_admin">Uygulamanın yüklemesini kaldır</string>
     <string name="uninstall_dlg_msg">Kaldırma işlemi uygulama verilerinin tamamını silecektir</string>
     <string name="uninstall_dlg_title">Şimdi kaldırılsın mı?</string>
-    <string name="uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak bazı MIUI bileşenlerinin düzgün çalışmasına engel olabilir. Uygulama yinede kaldırılsın mı?</string>
+    <string name="uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak bazı Xiaomi bileşenlerinin düzgün çalışmasına engel olabilir. Uygulama yinede kaldırılsın mı?</string>
     <string name="uninstall_protected_dlg_title">Sistem uygulamalarını kaldırmak</string>
     <string name="uninstall_text">Kaldır</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Karşılık gelen çift uygulamalar, uygulama verileri ile birlikte silinecektir</string>
@@ -9772,8 +9772,8 @@ Kaydedilmiş dijital parmak iziniz de bu cihazdan kaldırılacak ve telefonunuzu
     <string name="uplmn_list_setting_add_plmn">Yeni PLMN</string>
     <string name="uplmn_settings_summary">"Tercih edilen PLMN'leri öncelik sırasına göre tanımlayın"</string>
     <string name="uplmn_settings_title">Kullanıcı kontrollü PLMN</string>
-    <string name="upload_debug_log_detail">"Tanılama cihaz ve uygulama kullanım verilerini otomatik olarak Xiaomi'ye göndererek MIUI cihaz deneyiminizi iyileştirmeye yardımcı olun. Bu pil ömrünü MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır
-Göndereceğiniz veriler cihazınız ve onu nasıl kullandığınız hakkında genel bilgiler içerecektir. Veriler MIUI cihazlarını geliştirmek için kullanılacak (Örneğin: Pil seviyesi, sistem ve uygulama etkinliği ve hatalar)
+    <string name="upload_debug_log_detail">"Tanılama cihaz ve uygulama kullanım verilerini otomatik olarak Xiaomi'ye göndererek Xiaomi cihaz deneyiminizi iyileştirmeye yardımcı olun. Bu pil ömrünü Xiaomi sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır
+Göndereceğiniz veriler cihazınız ve onu nasıl kullandığınız hakkında genel bilgiler içerecektir. Veriler Xiaomi cihazlarını geliştirmek için kullanılacak (Örneğin: Pil seviyesi, sistem ve uygulama etkinliği ve hatalar)
 Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gereken bilgileri gönderme yeteneğini etkilemez"</string>
     <string name="upload_debug_log_summary">Sorunları bulmamıza ve çözmemize yarayan kullanım istatistikleri kişisel bilgilerinizi içerebilir</string>
     <string name="upload_debug_log_title">Tanı verilerini otomatik olarak gönder</string>
@@ -9948,7 +9948,7 @@ veya kulaklıklara erişmek için 3.5mm kulaklık jakı kullanın"</string>
     <string name="use_personalized_ad_service">Kişiselleştirilmiş reklam önerileri</string>
     <string name="use_personalized_ad_service_for_global">Personalize ads</string>
     <string name="use_personalized_ad_service_summary">Reklam önerileri kapatıldığında özellik açık durumdayken görüntülenen reklam miktarı ile aynı miktarda reklam görüntülenmeye devam edilir. Reklamlar kullanım alışkanlıklarınıza veya kişisel bilgilerinize göre görüntülenmez</string>
-    <string name="use_personalized_ad_service_summary_for_global">Kişiselleştirilmiş reklam önerileri kapalıyken MIUI sistem uygulamalarında özellik açıkken olduğu kadar reklam görmeye devam edeceksiniz. Bununla birlikte Xiaomi ve üçüncü taraf platformlardan gelen reklamlar kişisel tercihlerinize dayanmayacağından artık alakalı olmayacaktır</string>
+    <string name="use_personalized_ad_service_summary_for_global">Kişiselleştirilmiş reklam önerileri kapalıyken Xiaomi sistem uygulamalarında özellik açıkken olduğu kadar reklam görmeye devam edeceksiniz. Bununla birlikte Xiaomi ve üçüncü taraf platformlardan gelen reklamlar kişisel tercihlerinize dayanmayacağından artık alakalı olmayacaktır</string>
     <string name="use_privacy_password_immediate">Kullan</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sistem dilini kullan</string>
     <string name="use_system_preference">Sistem tercihini kullan (Varsayılan)</string>
@@ -10716,7 +10716,7 @@ Ağın görünürlüğü gizli yapıldığında yönlendirici ayarlarınız değ
     <string name="wifi_property">Wifi özelliği</string>
     <string name="wifi_protection_on">Açık</string>
     <string name="wifi_protection_settings_title">Wifi sonda isteklerinden koruma</string>
-    <string name="wifi_protection_tip">MIUI kişisel verilerinizi rastgele MAC adreslerinden gelen wifi sondası isteklerinden ve cihazınız wifi ağı ararken wifi sonda algılayıcılarından koruyacaktır</string>
+    <string name="wifi_protection_tip">Xiaomi kişisel verilerinizi rastgele MAC adreslerinden gelen wifi sondası isteklerinden ve cihazınız wifi ağı ararken wifi sonda algılayıcılarından koruyacaktır</string>
     <string name="wifi_quick_toggle_summary">Wifi bağlantısını aç</string>
     <string name="wifi_quick_toggle_title">Wifi</string>
     <string name="wifi_remembered">Kaydedildi</string>
@@ -10793,21 +10793,21 @@ Farklı bir wifi ağına bağlanmak için <b>Geri</b> seçeneğine dokunun"</str
 dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifi_share_connect">Bağlan</string>
     <string name="wifi_share_connected_summary">Diğer bir kullanıcı tarafından paylaşılan açık wifi ağına bağlandınız</string>
-    <string name="wifi_share_connected_title">MIUI paylaşımlı wifi</string>
+    <string name="wifi_share_connected_title">Xiaomi paylaşımlı wifi</string>
     <string name="wifi_share_current_network">Mevcut ağ</string>
     <string name="wifi_share_know">Tamam</string>
     <string name="wifi_share_list_empty">Paylaşılan ağ bulunamadı</string>
     <string name="wifi_share_login">Wifi ağını paylaş</string>
-    <string name="wifi_share_login_summary">Eğer bu ağ halka açık bir wifi ağı ise diğer MIUI kullanıcılarıyla paylaşabilirsiniz</string>
-    <string name="wifi_share_notification_summary">MIUI sizi bir halka açık wifi ağına bağladı</string>
+    <string name="wifi_share_login_summary">Eğer bu ağ halka açık bir wifi ağı ise diğer Xiaomi kullanıcılarıyla paylaşabilirsiniz</string>
+    <string name="wifi_share_notification_summary">Xiaomi sizi bir halka açık wifi ağına bağladı</string>
     <string name="wifi_share_other_network">Diğer ağlar</string>
     <string name="wifi_share_qrcode_finish">Tamam</string>
     <string name="wifi_share_qrcode_summary">Paylaşmak için yukarıdaki QR kodunu taratın</string>
     <string name="wifi_share_qrcode_title">Wifi ağını paylaş</string>
     <string name="wifi_share_show_network">Ağları görüntüle</string>
-    <string name="wifi_share_summary1">MIUI kullanıcıları halka açık wifi ağlarını birbirleriyle paylaşabilirler</string>
-    <string name="wifi_share_summary2">Başka bir MIUI kullanıcısı bir ağ paylaştığında şifre kullanmadan bu ağa doğrudan bağlanabilirsiniz</string>
-    <string name="wifi_share_summary3">Ayrıca diğer MIUI kullanıcıları ile açık wifi ağlarınızı paylaşabilirsiniz</string>
+    <string name="wifi_share_summary1">Xiaomi kullanıcıları halka açık wifi ağlarını birbirleriyle paylaşabilirler</string>
+    <string name="wifi_share_summary2">Başka bir Xiaomi kullanıcısı bir ağ paylaştığında şifre kullanmadan bu ağa doğrudan bağlanabilirsiniz</string>
+    <string name="wifi_share_summary3">Ayrıca diğer Xiaomi kullanıcıları ile açık wifi ağlarınızı paylaşabilirsiniz</string>
     <string name="wifi_share_turn_off">Kapalı</string>
     <string name="wifi_share_turn_on">Açık</string>
     <string name="wifi_share_upload">Paylaş</string>

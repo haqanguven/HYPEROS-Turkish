@@ -168,7 +168,7 @@
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="decline_incoming_call">Reddet</string>
-    <string name="default_dialer_reset_prompt">"%s kullanılırken birden fazla hata oluşmuş gibi görünüyor. MIUI'nin çeviricisini artık varsayılan telefon uygulamanız yapsın mı?"</string>
+    <string name="default_dialer_reset_prompt">"%s kullanılırken birden fazla hata oluşmuş gibi görünüyor. Xiaomi'nin çeviricisini artık varsayılan telefon uygulamanız yapsın mı?"</string>
     <string name="delete_icon_description">Engeli kaldır</string>
     <string name="developer_enhanced_call_blocking">Gelişmiş arama engelleme</string>
     <string name="developer_title">Telekom geliştirici menüsü</string>

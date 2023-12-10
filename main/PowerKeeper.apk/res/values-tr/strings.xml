@@ -115,7 +115,7 @@
     <string name="cloud_russion_addr">Rus sunucu verilerini güncelle</string>
     <string name="cloud_staging_addr">Hazırlama sunucusunun adresini güncelle</string>
     <string name="config_classify">Uygulama ayarlarına göre sırala</string>
-    <string name="config_description">MIUI uygulamaların belirli arkaplan işlemlerini belirler ve önemli arkaplan verilerini etkilemeyecek şekilde pil tasarrufu amacıyla optimize eder</string>
+    <string name="config_description">Xiaomi uygulamaların belirli arkaplan işlemlerini belirler ve önemli arkaplan verilerini etkilemeyecek şekilde pil tasarrufu amacıyla optimize eder</string>
     <string name="config_mode_title">Arka plan ayarları</string>
     <string name="config_no_restrict_description">Pil tasarrufu uygulamaların etkinliklerini kısıtlamıyor</string>
     <string name="config_no_restrict_title">Kısıtlama yok</string>
@@ -339,9 +339,9 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
     <string name="send">Gönder</string>
     <string name="show_system_app">Sistem uygulamalarını göster</string>
-    <string name="sleep_config_enhance_description">MIUI uyuduğunuzu algıladığında arkaplan uygulamalarını kapatacaktır. NFC, Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlayacak ve bildirimler için ekranı aydınlatmayacaktır</string>
-    <string name="sleep_config_enhance_description_non_nfc">MIUI uyuduğunuzu algıladığında arkaplan uygulamalarını kapatacaktır. Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlayacak ve bildirimler için ekranı aydınlatmayacaktır</string>
-    <string name="sleep_config_enhance_description_pad">Pilden tasarruf etmek için MIUI arka plan uygulamalarını kapatacaktır. Bluetooth, wifi kullanımını kısıtlayacak ve gece uyurken bildirimler için ekranı aydınlatmayacaktır</string>
+    <string name="sleep_config_enhance_description">Xiaomi uyuduğunuzu algıladığında arkaplan uygulamalarını kapatacaktır. NFC, Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlayacak ve bildirimler için ekranı aydınlatmayacaktır</string>
+    <string name="sleep_config_enhance_description_non_nfc">Xiaomi uyuduğunuzu algıladığında arkaplan uygulamalarını kapatacaktır. Bluetooth, GPS, mobil veri ve wifi kullanımını kısıtlayacak ve bildirimler için ekranı aydınlatmayacaktır</string>
+    <string name="sleep_config_enhance_description_pad">Pilden tasarruf etmek için Xiaomi arka plan uygulamalarını kapatacaktır. Bluetooth, wifi kullanımını kısıtlayacak ve gece uyurken bildirimler için ekranı aydınlatmayacaktır</string>
     <string name="sleep_config_enhance_title">Uyku modu</string>
     <string name="sleepmode_disclaimer_agree">Kabul et</string>
     <string name="sleepmode_disclaimer_cancel">İptal et</string>

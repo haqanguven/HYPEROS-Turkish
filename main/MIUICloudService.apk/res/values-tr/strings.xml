@@ -591,7 +591,7 @@
     <string name="micloud_space_duokan_detail">Duokan uygulamasıyla elektronik kitapları indirin ve organize edin</string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Xiaomi cihazınızda kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin
-İlişkili Xiaomi hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun"</string>
+İlişkili Xiaomi hesabını Xiaomi sistem hesabınız olarak kullandığınızdan emin olun"</string>
     <string name="micloud_space_soundrecorder_title">Kayıtlar</string>
     <string name="micloud_storage_detail">Ayrıntılar</string>
     <string name="micloud_storage_family_quota">Aile paylaşımı</string>
@@ -882,7 +882,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="share_sdk_invite_suggestion_list_error">Davet edilecek önerilen kişi yok</string>
     <string name="share_sdk_invite_way_contact_summary">Aynı anda birden fazla kişiyi davet edin</string>
     <string name="share_sdk_invite_way_contact_title">Mesaj ile davet et</string>
-    <string name="share_sdk_invite_way_qr_code_summary">WeChat tarayıcı veya MIUI tarayıcı kullanın</string>
+    <string name="share_sdk_invite_way_qr_code_summary">WeChat tarayıcı veya Xiaomi tarayıcı kullanın</string>
     <string name="share_sdk_invite_way_qr_code_title">QR kodu ile davet et</string>
     <string name="share_sdk_invite_way_wechat_summary">Kişi veya grupları davet edin</string>
     <string name="share_sdk_invite_way_wechat_title">WeChat ile davet et</string>
@@ -975,9 +975,9 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="sync_dspt">Senkronize et</string>
     <string name="sync_dspt_entrance_provision">Fotoğraflarınızı, notlarınızı ve diğer öğelerinizi tüm cihazlarınızda senkronize edin. Senkronize ettiğiniz şeylere herhangi bir tarayıcıdan %s adresinden erişin</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Kullanma</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"MIUI'nin sistem uygulamaları, fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi buluta ihtiyaç duyar. Xiaomi bulut kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır"</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Xiaomi'nin sistem uygulamaları, fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi buluta ihtiyaç duyar. Xiaomi bulut kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır"</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi bulutu kullanabilirsiniz. Xiaomi bulutu kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">"MIUI'nin sistem uygulamaları, fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi buluta ihtiyaç duyar. Xiaomi bulut kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır"</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">"Xiaomi'nin sistem uygulamaları, fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi buluta ihtiyaç duyar. Xiaomi bulut kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır"</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Kullan</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi bulutu kullanmıyor musunuz?</string>
     <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Verileri senkronize etmek, mobil veri bağlantısı ve wifi ağının açılmasını gerektirebilir</string>

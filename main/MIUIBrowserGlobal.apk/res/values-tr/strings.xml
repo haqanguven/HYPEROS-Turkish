@@ -183,7 +183,7 @@
     <string name="app_name_downloads">İndirilenler</string>
     <string name="app_name_market">Uygulama mağazası</string>
     <string name="app_name_midrop">ShareMe</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">Xiaomi</string>
     <string name="app_name_miuimusic">Müzik</string>
     <string name="app_name_miuiringtone">Zil sesi</string>
     <string name="app_name_miuiwallpaper">Duvar kağıtları</string>
@@ -2514,7 +2514,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="share_by_yidianzixun">[Biraz bilgi]</string>
     <string name="share_dialog_title">Paylaş</string>
     <string name="share_image_text">"IUI'de ne paylaştığıma bak"</string>
-    <string name="share_page_text">Ne paylaştığıma bak: %1$s @MIUI| %2$s</string>
+    <string name="share_page_text">Ne paylaştığıma bak: %1$s @Xiaomi| %2$s</string>
     <string name="share_slide_video_text">Ne paylaştığıma bak: %1$s</string>
     <string name="shear_plate_permission_name">Eriş veya ögeleri panoya kaydet</string>
     <string name="short_cut_name_novel">Ücretsiz kitaplar</string>

@@ -37,7 +37,7 @@
     <string name="auth_fingerprint_content_message">Parmağınızı sensöre koyun</string>
     <string name="auth_fingerprint_content_message_error">Parmak izi taranamadı. Tekrar deneyin</string>
     <string name="auth_fingerprint_title">Parmak izinizi doğrulayın</string>
-    <string name="autofill_description">MIUI şifrelerinizi şifreleyebilir ve saklayabilir. Böylece ihtiyacınız olduğunda otomatik olarak girebilirsiniz. Xiaomi şifrelenmiş şifrelerinizi okuyamaz</string>
+    <string name="autofill_description">Xiaomi şifrelerinizi şifreleyebilir ve saklayabilir. Böylece ihtiyacınız olduğunda otomatik olarak girebilirsiniz. Xiaomi şifrelenmiş şifrelerinizi okuyamaz</string>
     <string name="autofill_hint_email_address">E-posta</string>
     <string name="autofill_hint_name">Ad</string>
     <string name="autofill_hint_password">Şifre</string>
@@ -385,7 +385,7 @@
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
-    <string name="using_miui_autofill_message">Şifreleri otomatik olarak girmek için MIUI hesap bilgilerinizi ve şifrelerinizi cihazınıza kaydeder</string>
+    <string name="using_miui_autofill_message">Şifreleri otomatik olarak girmek için Xiaomi hesap bilgilerinizi ve şifrelerinizi cihazınıza kaydeder</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wednesday">Çarşamba</string>

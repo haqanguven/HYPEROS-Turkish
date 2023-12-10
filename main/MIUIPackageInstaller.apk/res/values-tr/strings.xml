@@ -495,7 +495,7 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="miui_failed_market_code_download_failed">Yükleme başarısız oldu</string>
     <string name="miui_failed_market_code_no_response">"Xiaomi App Store'dan gelen isteğe yanıt yok"</string>
     <string name="miui_failed_market_code_user_canceled">Kurulumu iptal et</string>
-    <string name="miui_failed_miui_system_incompatible">Kurulum paketi MIUI ile uyumlu değil</string>
+    <string name="miui_failed_miui_system_incompatible">Kurulum paketi Xiaomi ile uyumlu değil</string>
     <string name="miui_failed_newer_sdk">SDK sürümü henüz desteklenmiyor</string>
     <string name="miui_failed_older_sdk">SDK sürümü çok eski</string>
     <string name="miui_failed_other">Diğer</string>

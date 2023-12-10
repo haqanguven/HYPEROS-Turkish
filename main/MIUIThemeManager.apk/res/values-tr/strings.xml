@@ -693,7 +693,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
     <string name="incall_show_title">Profil videoları</string>
     <string name="incompatible_dialog_cancel">Uygulama</string>
-    <string name="incompatible_dialog_message">"Bu tema cihazınızda kurulu olan MIUI sürümü ile uyumlu değil. Bu temayı uyguladığınız takdirde MIUI'nin bazı kısımları düzgün çalışmayabilir"</string>
+    <string name="incompatible_dialog_message">"Bu tema cihazınızda kurulu olan Xiaomi sürümü ile uyumlu değil. Bu temayı uyguladığınız takdirde Xiaomi'nin bazı kısımları düzgün çalışmayabilir"</string>
     <string name="incompatible_dialog_ok">Tamam</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="install_clock">"Saat'i henüz yüklemediniz. Şimdi indirilsin mi?"</string>
@@ -807,7 +807,7 @@ Kapatmak için dokunun"</string>
     <string name="material_timepicker_pm">ÖS</string>
     <string name="material_timepicker_select_time">Zaman seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
-    <string name="mi_wallpaper">MIUI duvar kağıtları</string>
+    <string name="mi_wallpaper">Xiaomi duvar kağıtları</string>
     <string name="midnight">ÖÖ</string>
     <string name="mine_tab_not_login">"Öğeleri görüntülemek için oturum açın
 Şimdi oturum açmak için buraya dokunun"</string>
@@ -882,7 +882,7 @@ mm"</string>
     <string name="miuishare_account_login_ok">Oturum aç</string>
     <string name="miuishare_account_need_activate">"Weibo'da paylaşım yapmak için Xiaomi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Xiaomi hesabınızı etkinleştirin"</string>
     <string name="miuishare_account_need_login">"Weibo'da paylaşım yapmak için Xiaomi hesabınızla ilişkilendirilmiş bir Weibo hesabı gereklidir. Devam etmek için Xiaomi hesabınızı oturum açın"</string>
-    <string name="miuishare_app_name">MIUI paylaşım</string>
+    <string name="miuishare_app_name">Xiaomi paylaşım</string>
     <string name="miuishare_mini_program_title">Bulduğum duvar kağıdına bir göz at</string>
     <string name="miuishare_no_network">Ağa bağlanamadı</string>
     <string name="miuishare_please_retry">Bilgiler alınamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -1062,7 +1062,7 @@ mm"</string>
     <string name="online_precust_scenery">Manzara</string>
     <string name="online_search_hint">Çevrimiçi kaynakları arayın</string>
     <string name="order_list">Satın alma geçmişi</string>
-    <string name="ota_recovery_theme_dialog_message">"Önceden kullanılan temanın bazı öğeleri MIUI'nin yeni sürümüyle uyumlu olmayabilir. Uyumsuz öğeler varsayılan seçeneklerle değiştirilecek"</string>
+    <string name="ota_recovery_theme_dialog_message">"Önceden kullanılan temanın bazı öğeleri Xiaomi'nin yeni sürümüyle uyumlu olmayabilir. Uyumsuz öğeler varsayılan seçeneklerle değiştirilecek"</string>
     <string name="ota_recovery_theme_dialog_title">Orijinal temayı geri yükle</string>
     <string name="ota_recovery_theme_notity_btn">Geri yükle</string>
     <string name="ota_recovery_theme_notity_content">Güncellemeden önce kullandığınız temaya geri dönebilirsiniz</string>
@@ -1360,8 +1360,8 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_exchange_has_used">Girmiş olduğunuz kod daha önce kullanıldı</string>
     <string name="resource_exchange_hint">Hediye kodunuzu girin</string>
     <string name="resource_exchange_purchase_unkown_error">Bilinmeyen bir hata oluştu. Ödeme durumunuzu görüntülemek için http://market.xiaomi.com adresinde oturum açın</string>
-    <string name="resource_exchange_share_code_content">MIUI Tema Mağazasında %1$s teması için bir hediye kodu aldınız (%2$s). Kullanmak için %3$s seçeneğine dokunun</string>
-    <string name="resource_exchange_share_code_dlg_content">%1$s için hediye kodu: %2$s. Bu kodu diğer bir MIUI kullanıcısına gönderdiğinizde kodu göndermiş olduğunuz kullanıcı kodu bu temayı indirmek için kullanabilir</string>
+    <string name="resource_exchange_share_code_content">Xiaomi Tema Mağazasında %1$s teması için bir hediye kodu aldınız (%2$s). Kullanmak için %3$s seçeneğine dokunun</string>
+    <string name="resource_exchange_share_code_dlg_content">%1$s için hediye kodu: %2$s. Bu kodu diğer bir Xiaomi kullanıcısına gönderdiğinizde kodu göndermiş olduğunuz kullanıcı kodu bu temayı indirmek için kullanabilir</string>
     <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>
     <string name="resource_exchange_success">Tadını çıkarın! :)</string>
     <string name="resource_exchange_unavailable">Girmiş olduğunuz kod ile ilişkilendirilmiş olan tema kullanılabilir durumda değil</string>
@@ -1545,7 +1545,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="share_content_text_first_theme">Buna bir bak! %1$s teması telefonunuza tamamen yeni bir görünüm kazandırır</string>
     <string name="share_content_text_first_wallpaper">Buna bir bak! %1$s duvar kağıdı telefonunuza tamamen yeni bir görünüm kazandırır</string>
     <string name="share_content_text_second">" %1$s'da kendi stilinizi bulun"</string>
-    <string name="share_content_topic">\#MIUI kişiselleştirme#</string>
+    <string name="share_content_topic">\#Xiaomi kişiselleştirme#</string>
     <string name="share_copy_theme_url">Tema bağlantısını kopyala</string>
     <string name="share_copy_url_success">Kopyalandı</string>
     <string name="share_copy_wallpaper_url">Duvar kağıdı bağlantısını kopyala</string>
@@ -1991,7 +1991,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_subject_version">Mi</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Ayarlar</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Uygula</string>
-    <string name="warning_miui_optimization_closed_dialog_message">MIUI optimizasyonunu açmamışsınız gibi görünüyor. Bu olmadan bu tema uygulandığında düzgün çalışmaz. Yine de uygulayabilir veya ayarlarda MIUI optimizasyonunu açabilirsiniz</string>
+    <string name="warning_miui_optimization_closed_dialog_message">Xiaomi optimizasyonunu açmamışsınız gibi görünüyor. Bu olmadan bu tema uygulandığında düzgün çalışmaz. Yine de uygulayabilir veya ayarlarda Xiaomi optimizasyonunu açabilirsiniz</string>
     <string name="warning_miui_optimization_closed_dialog_title">Dikkat</string>
     <string name="warning_subscribe_wallpaper_group_content">Ana ekran slayt gösterisini açtınız. %1$s ana ekranınıza uygulanacak</string>
     <string name="weather_no_data">Hava durumu verisi yok</string>

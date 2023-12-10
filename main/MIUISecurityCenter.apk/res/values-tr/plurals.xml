@@ -4,13 +4,13 @@
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içerisinde</item>
+        <item quantity="other">%d saat içerisinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içerisinde</item>
@@ -20,14 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içerisinde</item>
-        <item quantity="one">1 dakika içerisinde</item>
+        <item quantity="one">%d dakika içerisinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d oyun eklendi</item>
@@ -45,22 +45,6 @@
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
     </plurals>
-    <plurals name="app_behavior_desc_allow">
-        <item quantity="other">%1$s-%2$s sırasında %3$d kez izin verildi</item>
-        <item quantity="one">%1$s-%2$s sırasında %3$d kez izin verildi</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">%1$s için %2$d kez izin verildi</item>
-        <item quantity="one">%1$s için %2$d kez izin verildi</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">%1$s-%2$s sırasında %3$d kez reddedildi</item>
-        <item quantity="one">%1$s-%2$s sırasında %3$d kez reddedildi</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">%1$s %2$d kez reddedildi</item>
-        <item quantity="one">%1$s %2$d kez reddedildi</item>
-    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verilir</item>
         <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verilir</item>
@@ -73,45 +57,9 @@
         <item quantity="other">%2$s tarihine kadar %1$d dakika kullanıldı</item>
         <item quantity="one">%2$s tarihine kadar %1$d dakika kullanıldı</item>
     </plurals>
-    <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">%1$s-%2$s sırasında boş iletiler %3$d kez döndürüldü</item>
-        <item quantity="one">%1$s-%2$s sırasında boş iletiler %3$d kez döndürüldü</item>
-    </plurals>
-    <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">%1$s konumunda %2$d boş ileti döndürdü</item>
-        <item quantity="one">%1$s konumunda %2$d boş ileti döndürdü</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">%1$1s dahil olmak üzere %2$d uygulama ses kaydediyor</item>
-        <item quantity="one">%1$1s dahil olmak üzere %2$d uygulama ses kaydediyor</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">%1$1s dahil olmak üzere %2$d uygulama fotoğraf çekiyor</item>
-        <item quantity="one">%1$1s dahil olmak üzere %2$d uygulama fotoğraf çekiyor</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">%1$1s dahil olmak üzere %2$d uygulama konumunuza erişiyor</item>
-        <item quantity="one">%1$1s dahil olmak üzere %2$d uygulama konumunuza erişiyor</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">%1$d uygulamanın hassas davranış bildirimleri kapalı</item>
-        <item quantity="one">%1$d uygulamanın hassas davranış bildirimleri kapalı</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">%1$d uygulamanın hassas davranış bildirimleri açık</item>
-        <item quantity="one">%1$d uygulamanın hassas davranış bildirimleri açık</item>
-    </plurals>
     <plurals name="app_behavior_record_close_content_text">
         <item quantity="other">Uygulama davranış kayıtları bu cihazda %d gün boyunca depolanır. Bu özelliği kapatırsanız yeni kayıtlar artık görünmeyecek ve eskileri silinecektir. Yine de kapatılsın mı?</item>
         <item quantity="one">Uygulama davranış kayıtları bu cihazda %d gün boyunca depolanır. Bu özelliği kapatırsanız yeni kayıtlar artık görünmeyecek ve eskileri silinecektir. Yine de kapatılsın mı?</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s %2$d uygulama başlattı</item>
-        <item quantity="one">%1$1s %2$d uygulama başlattı</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple_single">
-        <item quantity="other">Bu uygulama %1$d başka uygulama başlattı</item>
-        <item quantity="one">Bu uygulama %1$d başka uygulama başlattı</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d izine izin verildi</item>
@@ -146,8 +94,8 @@
         <item quantity="one">%d yıl önce kullanıldı</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz</item>
-        <item quantity="one">+ %1$s uygulamaya, uygulama kilidi ayarlayabilirsiniz</item>
+        <item quantity="other">Uygulama kilidini %1$s uygulamayla kullanabilirsiniz</item>
+        <item quantity="one">Uygulama kilidini %1$s uygulamayla kullanabilirsiniz</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>

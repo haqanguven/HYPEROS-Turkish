@@ -489,7 +489,7 @@
     <string name="intelligent_recognition">Akıllı tanıma</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
     <string name="jingdong">JD</string>
-    <string name="keywords_search_code">Tarayıcı;Tarama;QR kodu;QR;Tanıma;Barkod;Barkod;Ürün;Ürünler;Alipay;WeChat;QR kodunu nasıl tarar;Barkod nasıl taranır;Nasıl taranır;MIUI tarayıcı</string>
+    <string name="keywords_search_code">Tarayıcı;Tarama;QR kodu;QR;Tanıma;Barkod;Barkod;Ürün;Ürünler;Alipay;WeChat;QR kodunu nasıl tarar;Barkod nasıl taranır;Nasıl taranır;Xiaomi tarayıcı</string>
     <string name="keywords_search_document">Tarayıcı;Belgeyi tara;Belgeleri tara;OCR;Metni tara;Tara</string>
     <string name="keywords_search_namecard">Tarayıcı;Kartvizit;Kartvizit;Tarama;Tarama kartları;Kart;Kartlar;Rehber;İletişim.</string>
     <string name="keywords_search_study">Tarayıcı;Sorunlar;Sorunları çöz;Ödev;Okul;Fizik;Kimya;Matematik;Matematik;İngilizce;Tarih;Çince</string>
@@ -524,7 +524,7 @@
     <string name="location_permissions_text">Taramayı normal şekilde kullanmak için konum izninin etkinleştirilmesi gerekmektedir. Etkinleştirmek için ayarlar düğmesini tıklayın</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="logout_service">İzni geri al</string>
-    <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için MIUI'yi en yeni sürümüne güncelleyin"</string>
+    <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Xiaomi'yi en yeni sürümüne güncelleyin"</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="mi_pay">Mi ödeme</string>
     <string name="midnight">Gece</string>
@@ -586,7 +586,7 @@
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>
     <string name="monitor_low_android">Android sürümü çok düşük</string>
-    <string name="monitor_low_miui">MIUI sürümü çok düşük</string>
+    <string name="monitor_low_miui">Xiaomi sürümü çok düşük</string>
     <string name="monitor_result_option_delete">Videoyu sil</string>
     <string name="monitor_result_option_rename">Adını değiştir</string>
     <string name="monitor_result_switch_text">Kayıt sonucu</string>

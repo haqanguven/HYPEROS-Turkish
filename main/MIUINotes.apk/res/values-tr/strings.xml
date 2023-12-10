@@ -198,7 +198,7 @@
     <string name="date_time_picker_has_not_set_alarm">Alarm kurulu değil</string>
     <string name="date_time_picker_has_set_alarm">Alarm başarıyla kuruldu</string>
     <string name="db_downgrade_clear_button">Uygulama verilerini temizle</string>
-    <string name="db_downgrade_clear_date_reminder">Farklı bir MIUI sürümüne geçmek notlar uygulamasının uygulama verilerinin silinmesini gerektirir. Bu işlemi yapmadan önce notlarınızı Xiaomi bulut alanınıza yedeklemiş olduğunuzdan emin olun</string>
+    <string name="db_downgrade_clear_date_reminder">Farklı bir Xiaomi sürümüne geçmek notlar uygulamasının uygulama verilerinin silinmesini gerektirir. Bu işlemi yapmadan önce notlarınızı Xiaomi bulut alanınıza yedeklemiş olduğunuzdan emin olun</string>
     <string name="default_folder_name">Adsız klasör</string>
     <string name="default_update_documents">Bir güncelleme mevcut. Şimdi güncellensin mi?</string>
     <string name="delete_folder_dialog_tile">Klasörü sil</string>

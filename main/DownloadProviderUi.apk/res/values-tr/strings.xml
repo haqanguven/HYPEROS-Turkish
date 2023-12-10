@@ -161,7 +161,7 @@
     <string name="download">İndirilenler</string>
     <string name="downloadCount">İndirilenler</string>
     <string name="download_complete">İndirilenler</string>
-    <string name="download_description_content">İndirmeler indirme görevlerinin ilerlemesini görüntüleme ve yeni indirme görevleri oluşturma gibi işlevler sağlayan bir MIUI sistem uygulamasıdır. Kaldırma indirme görevi ilerleme görünümünün ve diğer işlevlerin normal kullanımını etkileyecektir</string>
+    <string name="download_description_content">İndirmeler indirme görevlerinin ilerlemesini görüntüleme ve yeni indirme görevleri oluşturma gibi işlevler sağlayan bir Xiaomi sistem uygulamasıdır. Kaldırma indirme görevi ilerleme görünümünün ve diğer işlevlerin normal kullanımını etkileyecektir</string>
     <string name="download_description_title">İndirmeler kaldırılsın mı?</string>
     <string name="download_detail">Detaylar</string>
     <string name="download_error">İndirilemedi</string>

@@ -81,7 +81,7 @@ Orijinal ödeme yöntemi yoluyla geri ödeme alacaksınız"</string>
     <string name="alert_msg_card_status_negative">Kart durumu mevcut değil</string>
     <string name="alert_msg_card_status_start_date_invalid">Bu kartın veriliş tarihi geçersiz. Yardım almak için müşteri hizmetleriyle iletişime geçin</string>
     <string name="alert_msg_has_unsolved_order">Önceki siparişiniz işlenemedi. Tekrar deneyin</string>
-    <string name="alert_msg_miui_version_restricted">Önce MIUI sürümünü güncelleyin</string>
+    <string name="alert_msg_miui_version_restricted">Önce Xiaomi sürümünü güncelleyin</string>
     <string name="alert_msg_need_issue">Görünüşe göre bu kartı eklememişsiniz. Önce bu kartı ekleyin</string>
     <string name="alert_msg_no_stock">Bu kart için çok fazla kişi başvuruyor. Kartı mümkün olan en kısa sürede kullanıma sunacağız</string>
     <string name="alert_msg_pay_duplicate">Bu sipariş için zaten ödeme yaptınız. Mükerrer ödeme yapmayın</string>

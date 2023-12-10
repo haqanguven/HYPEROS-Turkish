@@ -248,14 +248,14 @@ programımıza katılın"</string>
     <string name="face_distance_detect_title">Ekran mesafesi algılama</string>
     <string name="fastboot_locked_answer_1">"Fastboot Mi cihazlarına yazılım yüklemenin geleneksel yoludur. Cihaz Fastboot modunda olduğunda cihazda depolanan verilerin tamamına kolayca erişilebilir ve doğrudan silinebilir. Fastboot'u cihazı kaybetmeniz durumunda verilerinizin güvende kalması için ve aynı zamanda Cihazı bul hizmetlerinin güvenirliliğinden emin olmak için kilitliyoruz"</string>
     <string name="fastboot_locked_answer_2">Fastboot cihazınızı kaybetmeniz durumunda cihazınızda kayıtlı verilerin güvende olduğunu garanti altına alır. Fastboot kilidini açarsanız cihazınızı Cihazı bul özelliğini kullanarak uzaktan kilitleyemez ve cihazınızda kayıtlı verileri silemezsiniz. Bu nedenlerden dolayı cihazınızın Fastboot kilidini açmanızı önermiyoruz</string>
-    <string name="fastboot_locked_answer_3">MIUI resmi internet sitesinde bulunan kilit açma aracını kullanmalısınız. Cihaz kilidini açmak için cihazın size ait olduğundan emin olmamız gerekir. Xiaomi hesabınız ile oturum açmanızı ve Cihazı bul özelliğini açmanızı istememizin nedeni budur</string>
+    <string name="fastboot_locked_answer_3">Xiaomi resmi internet sitesinde bulunan kilit açma aracını kullanmalısınız. Cihaz kilidini açmak için cihazın size ait olduğundan emin olmamız gerekir. Xiaomi hesabınız ile oturum açmanızı ve Cihazı bul özelliğini açmanızı istememizin nedeni budur</string>
     <string name="fastboot_locked_question_1">Fastboot neden kilitli olmalı?</string>
     <string name="fastboot_locked_question_2">Fastboot kilidini açmanın herhangi bir tehlikesi var mıdır?</string>
     <string name="fastboot_locked_question_3">Tehlikelerin farkındayım fakat yinede cihaz kilidini açmak istiyorum. Ne yapmalıyım?</string>
     <string name="fastboot_status_locked_info">Fastboot kilidi bu cihazda açık değil</string>
     <string name="fastboot_status_locked_summary">Root erişimi alınamıyor</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">Kilit açma yazılımını edinmek için MIUI resmi internet sitesine gidin</string>
+    <string name="fastboot_unlock_web_title">Kilit açma yazılımını edinmek için Xiaomi resmi internet sitesine gidin</string>
     <string name="fingerprint_not_remind">Tekrar sorma</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>

@@ -56,7 +56,7 @@
     <string name="app_name_downloadedrom">Paketler</string>
     <string name="app_name_downloads">İndirilenler</string>
     <string name="app_name_market">Uygulama mağazası</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">Xiaomi</string>
     <string name="app_name_miuimusic">Müzikler</string>
     <string name="app_name_miuiringtone">Zil sesi</string>
     <string name="app_name_miuiwallpaper">Duvar kağıtları</string>
@@ -345,7 +345,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="entry_storage_usb">USB cihazı</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
-    <string name="error_contains_sharer_path">MIUI/Gallery/cloud/sharer klasöründe bulunan dosyalar şifrelenemiyor. Dosyaları başka bir dizine taşıyın ve yeniden deneyin</string>
+    <string name="error_contains_sharer_path">Xiaomi/Gallery/cloud/sharer klasöründe bulunan dosyalar şifrelenemiyor. Dosyaları başka bir dizine taşıyın ve yeniden deneyin</string>
     <string name="error_create_dir">Klasör oluşturulamadı</string>
     <string name="error_create_file">Dosya oluşturulamadı</string>
     <string name="error_delete_failed">Dosya silinemedi</string>
@@ -1127,7 +1127,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="usb_label">USB</string>
     <string name="use">Kullan</string>
     <string name="use_mobile_data_update_summary">Mi sürücüden indirilen dosyalardaki değişiklikleri otomatik olarak senkronize etmek için mobil veriyi kullanın</string>
-    <string name="use_mobile_data_update_title">Senkronize etmek için mobil veriyi kullan</string>
+    <string name="use_mobile_data_update_title">Mobil veri ile senkronize et</string>
     <string name="use_to_all">Tümüne uygula</string>
     <string name="used">Kullanılan</string>
     <string name="user_guide_continue_use">Tamam</string>
