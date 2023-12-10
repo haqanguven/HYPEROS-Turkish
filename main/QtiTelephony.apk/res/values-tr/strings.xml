@@ -44,7 +44,7 @@
     <string name="primary_card_selection_dialog_title">Birincil kart Seçimi</string>
     <string name="progress_dialog_title">Cihaz yapılandırma anahtarını gerçekleştirme</string>
     <string name="search_menu_title">Ara</string>
-    <string name="secure_mode_status_bar_icon_description">Güvenli mod</string>
+    <string name="secure_mode_status_bar_icon_description">Mi koruma</string>
     <string name="shared_preference_file_key">com.qti.phone.shared_preferences</string>
     <string name="sim_card_number_title">Sim %1$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>

@@ -332,7 +332,7 @@
     <string name="callFailed_requested_facility_not_subscribed">İstenen tesis abone edilmedi</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Kaynaklar kullanılamıyor. Belirtilmemiş</string>
     <string name="callFailed_resp_to_status_enquiry">Durum denetimine yanıt</string>
-    <string name="callFailed_secure_mode">Güvenli modda acil olmayan bir arama yapılamıyor</string>
+    <string name="callFailed_secure_mode">Mi korumada acil olmayan bir arama yapılamıyor</string>
     <string name="callFailed_semantically_incorrect_message">Semantik olarak yanlış mesaj</string>
     <string name="callFailed_server_error">Sunucu hatası. Daha sonra tekrar deneyin</string>
     <string name="callFailed_server_unreachable">Sunucuya ulaşılamıyor</string>

@@ -7568,7 +7568,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="rx_link_speed">%1$d Mb/saniye</string>
     <string name="rx_link_speed_label">Bağlantı hızını al:</string>
     <string name="rx_wifi_speed">Bağlantı alma hızı</string>
-    <string name="safe_install_mode_settings">Güvenli mod</string>
+    <string name="safe_install_mode_settings">Mi koruma</string>
     <string name="safety_and_regulatory_info">Güvenlik ve mevzuat kılavuzu</string>
     <string name="safety_center_summary">Uygulama güvenliği, cihaz kilidi, izinler</string>
     <string name="safety_center_title">Güvenlik &amp; gizlilik</string>

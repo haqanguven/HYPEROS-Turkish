@@ -4850,7 +4850,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="privacy_app_behavior_title">Uygulama davranışı geçmişi</string>
     <string name="privacy_app_permission_manage_summary">Yüklü uygulamaların izinlerini yönet</string>
     <string name="privacy_app_permission_manage_title">İzinleri yönet</string>
-    <string name="privacy_apps">Gizli uygulamalar</string>
+    <string name="privacy_apps">Uygulamaları gizle</string>
     <string name="privacy_apps_add">Ekle</string>
     <string name="privacy_apps_button_know">Tamam</string>
     <string name="privacy_apps_close">Kapat</string>
@@ -6418,7 +6418,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_result_typeface">Yazı boyutu &amp; yazı tipi ağırlığı</string>
     <string name="title_result_wlan">Wifi</string>
     <string name="title_result_zen_mode">Rahatsız etme modu</string>
-    <string name="title_safe_mode">Güvenli modu aç</string>
+    <string name="title_safe_mode">Mi korumayı aç</string>
     <string name="title_show_notification">Bildirim çubuğu aracı</string>
     <string name="title_system_auto_download">Güncellemeler otomatik olarak indirilecektir</string>
     <string name="title_telecom_operator">Otomatik ayarla</string>

@@ -1665,7 +1665,7 @@ izin isteğinde bulunuldu"</string>
     <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
     <string name="reason_unknown">Bilinmiyor</string>
     <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir</string>
-    <string name="reboot_safemode_title">Güvenli modda yeniden aç</string>
+    <string name="reboot_safemode_title">Mi korumayı yeniden aç</string>
     <string name="reboot_to_reset_message">Yeniden başlatılıyor</string>
     <string name="reboot_to_reset_title">Fabrika verilerine sıfırla</string>
     <string name="reboot_to_update_package">Güncelleme paketi işleniyor</string>
@@ -1744,7 +1744,7 @@ izin isteğinde bulunuldu"</string>
     <string name="roamingText8">Dolaşım - Özel ortak</string>
     <string name="roamingText9">Dolaşım - Tam hizmet işlevselliği</string>
     <string name="roamingTextSearching">Hizmet aranıyor</string>
-    <string name="safeMode">Güvenli mod</string>
+    <string name="safeMode">Mi koruma</string>
     <string name="safe_media_volume_warning">"Ses seviyesi önerilen düzeyin üzerine yükseltilsin mi?
 
 Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir"</string>

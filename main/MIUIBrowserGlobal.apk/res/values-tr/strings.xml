@@ -1650,7 +1650,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Bu site güvenli bir bağlantı sunamıyor. %s0 desteklenmeyen bir protokol kullanıyor</string>
     <string name="mw_miuichromium_error_page_problem_server_fault">%s0 şu anda bu talebi yerine getiremiyor</string>
     <string name="mw_miuichromium_error_page_reload">Yenile</string>
-    <string name="mw_miuichromium_error_page_safe_network">Güvenli mod</string>
+    <string name="mw_miuichromium_error_page_safe_network">Mi koruma</string>
     <string name="mw_miuichromium_error_page_server_error">Çok fazla sayıda cihaz bağlanmaya çalışıyor</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Cihazınıza yüklemiş olduğunuz vekil sunucu uygulamalarının ayarlarını kontrol edin</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">İnternet bağlantınızı kontrol edin</string>
