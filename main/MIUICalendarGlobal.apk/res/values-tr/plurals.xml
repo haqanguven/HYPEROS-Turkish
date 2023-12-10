@@ -149,8 +149,8 @@
         <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">Gün %1$d (beklenen)</item>
-        <item quantity="one">Gün %1$d (beklenen)</item>
+        <item quantity="other">Gün %1$d (Beklenen)</item>
+        <item quantity="one">Gün %1$d (Beklenen)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
         <item quantity="other">Gün %1$d</item>
@@ -249,8 +249,8 @@
         <item quantity="one">Bugün için planlanan %d etkinlik</item>
     </plurals>
     <plurals name="travel_eta_advice">
-        <item quantity="other">%1$s için %2$s dakika sürüş.</item>
-        <item quantity="one">%1$s için %2$s dakika sürüş.</item>
+        <item quantity="other">%1$s için %2$s dakika sürüş</item>
+        <item quantity="one">%1$s için %2$s dakika sürüş</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">%d hafta</item>

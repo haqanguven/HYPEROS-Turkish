@@ -335,18 +335,18 @@
         <item>@string/earthly_branches_hai</item>
     </string-array>
     <string-array name="english_complete_months">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
     </string-array>
     <string-array name="entryvalues_settings_debug">
         <item>Yok</item>
@@ -397,10 +397,10 @@
         <item>21/5 - 21/6</item>
     </string-array>
     <string-array name="global_criket_match">
-        <item>International</item>
+        <item>Uluslararası</item>
         <item>IPL</item>
-        <item>Domestic</item>
-        <item>T20 Leagues</item>
+        <item>Yerel</item>
+        <item>T20 ligleri</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
