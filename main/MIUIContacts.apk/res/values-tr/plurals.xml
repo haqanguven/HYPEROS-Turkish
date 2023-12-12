@@ -4,13 +4,13 @@
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içinde</item>
+        <item quantity="other">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içinde</item>
@@ -20,30 +20,18 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
-        <item quantity="one">1 dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şu anda</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika Önce</item>
-        <item quantity="one">1 dakika Önce</item>
+        <item quantity="one">%d dakika Önce</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d kişi silinsin mi?</item>
         <item quantity="one">%1$d kişi silinsin mi?</item>
-    </plurals>
-    <plurals name="bh_day">
-        <item quantity="other">" gün"</item>
-        <item quantity="one">" gün"</item>
-    </plurals>
-    <plurals name="bh_hour">
-        <item quantity="other">" saat"</item>
-        <item quantity="one">" saat"</item>
-    </plurals>
-    <plurals name="bh_minute">
-        <item quantity="other">" dakika"</item>
-        <item quantity="one">" dakika"</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">%1$d kişiyi sil</item>
@@ -150,7 +138,7 @@
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d kişi</item>
-        <item quantity="one">1 kişi</item>
+        <item quantity="one">%d kişi</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d kişi kısmen yinelenen veri içeriyor</item>
@@ -199,7 +187,7 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">%d bulundu</item>
-        <item quantity="one">1 bulundu</item>
+        <item quantity="one">%d bulundu</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">En fazla %1$d adet seçebilirsiniz. Tamamı seçilemiyor</item>

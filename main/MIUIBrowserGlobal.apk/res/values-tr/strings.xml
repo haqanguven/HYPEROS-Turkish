@@ -294,6 +294,9 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="browserFrameFormResubmitLabel" />
     <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfada halen gönderilmemiş veriler bulunmaktadır. Veriyi yeniden gönderdiğinizde önceki işlemler tekrarlanacaktır (Örneğin: Arama veya satın alma işlemleri)</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
+    <string name="browser_slide_video_history">En son</string>
+    <string name="browser_slide_video_like">Beğendim</string>
+    <string name="browser_slide_video_my">Profil</string>
     <string name="browser_wallpaper">Duvar kağıtları</string>
     <string name="browser_wallpaper_activity">Promosyonlar</string>
     <string name="browser_wallpaper_application">Uygula</string>

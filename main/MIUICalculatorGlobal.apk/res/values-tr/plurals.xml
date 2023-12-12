@@ -4,13 +4,13 @@
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içinde</item>
+        <item quantity="other">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içinde</item>
@@ -20,26 +20,18 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
-        <item quantity="one">1 dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Hemen</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d gün</item>
-        <item quantity="one">%d gün</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d ay</item>
-        <item quantity="one">%d ay</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">yıl</item>
-        <item quantity="one">yıl</item>
+    <plurals name="delete_msg">
+        <item quantity="other">%d öğe şimdi silinsin mi?</item>
+        <item quantity="one">%d öğe şimdi silinsin mi?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d öğe</item>
@@ -64,10 +56,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Hemen</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">Ayrıntılı ger ödeme (%d yıl)</item>
-        <item quantity="one">Ayrıntılı ger ödeme (%d yıl)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Ayrıntılı ger ödeme (%d yıl), CNY</item>
         <item quantity="one">Ayrıntılı ger ödeme (%d yıl), CNY</item>
@@ -84,6 +72,10 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d ay</item>
         <item quantity="one">%d ay</item>
@@ -91,5 +83,29 @@
     <plurals name="tenure_years">
         <item quantity="other">%d yıl</item>
         <item quantity="one">%d yıl</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">Bayt</item>
+        <item quantity="one">Bayt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">Gigabayt</item>
+        <item quantity="one">Gigabayt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">Kilobayt</item>
+        <item quantity="one">Kilobayt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">Megabayt</item>
+        <item quantity="one">Megabayt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">Petabayt</item>
+        <item quantity="one">Petabayt</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">Terabayt</item>
+        <item quantity="one">Terabayt</item>
     </plurals>
 </resources>

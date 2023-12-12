@@ -420,6 +420,7 @@ bulamıyor musunuz?"</string>
     <string name="close">Kapat</string>
     <string name="close_auxiliary_wifi_hint">Yansıtabilmek için wifi hızını arttır özelliğini kapatın</string>
     <string name="close_auxiliary_wifi_hint_china">Yayın yapabilmek için wifi hızını artır seçeneğini kapatın</string>
+    <string name="close_dp_casting_hint">Kabloyu çıkarıp tekrar deneyin</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
     <string name="close_hotspot_hint_DFS">"Ögeleri bir TV'ye aktarmak için öncelikle bağlantı noktasını kapatın"</string>
     <string name="close_invisible_mode_dialog_cancel">İptal et</string>
@@ -509,6 +510,7 @@ bulamıyor musunuz?"</string>
     <string name="dialog_can_not_find_device">Yakınlarda cihaz bulunamadı</string>
     <string name="dialog_cancel">İptal et</string>
     <string name="dialog_cancle">İptal et</string>
+    <string name="dialog_close">Kapat</string>
     <string name="dialog_confirm">Onayla</string>
     <string name="dialog_connect_fail">Bağlanılamadı</string>
     <string name="dialog_connect_retry">Tekrar denemek için dokunun</string>
@@ -539,7 +541,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="dialog_scan_message_china">"1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın
 
 2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi için yardımı görüntüleyin"</string>
-    <string name="dialog_scanning_device">Yakınlardaki cihazlar aranıyor</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Yayın yapabilmek için çift bantlı wifi hız artırma seçeneğini kapatın. Bu özellik şimdi kapatılsın mı?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">Yayın yapabilmek için çift bantlı wifi hız artırma seçeneğini kapatın. Bu özellik şimdi kapatılsın mı?</string>
+    <string name="dialog_scanning_close_tethering">Yayın yapabilmek için etkin bağlantı noktasını kapatın. Bağlantı noktası şimdi kapatılsın mı?</string>
+     <string name="dialog_scanning_device">Yakındaki cihazlar aranıyor</string>
     <string name="dialog_scanning_precondition">Kablosuz ekranı kullanmak için telefonunuzdaki wifi veya Bluetooth bağlantısını açın</string>
     <string name="dialog_scanning_precondition_new_china">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
     <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
@@ -549,6 +554,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="disconnect">Yansıtmayı durdur</string>
     <string name="distributed_hardware_info_provider_authority">content://com.xiaomi.vtcamera.dist.camerainfoprovider</string>
     <string name="distributed_hardware_info_version">1.1.1</string>
+    <string name="dp_casting_start_hint">Kabloyla bağlı. Oyuncu seçimi sona erdi</string>
     <string name="dual_wifi_warning_china">Çift wifi ağını kapatın ve tekrar deneyin</string>
     <string name="dual_wifi_warning_global">Çift wifi ağını kapatın ve tekrar deneyin</string>
     <string name="early_morning">Sabah</string>
@@ -673,6 +679,9 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="hang_up_alert_dialog_title">Ekran kapalıyken yansıtma başlamak üzere</string>
     <string name="hardware_controller_config">{\"online\":false,\"offline\":false,\"association_changed\":true,\"before_associate\":true,\"after_associate\":true,\"before_disassociate\":true,\"after_disassociate\":true,\"request_permission\":true}</string>
     <string name="have_helped_you">Sana zaten yardım ettim</string>
+    <string name="head_toast_connecting">Bağlanıyor</string>
+    <string name="head_toast_fail">Bağlanılamad</string>
+    <string name="head_toast_success">Başarıyla bağlanıldı</string>
     <string name="headset_content_description">Bu cihaza kulaklık bağlı. Etkinleştirmek için iki kez basın. Oynatmayı aktarmak için iki parmağınızla basın ve sürükleyin</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -791,18 +800,12 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="hm_go_to_help">Yardımı görüntüle</string>
     <string name="hm_go_to_login">Girişe git</string>
     <string name="hm_go_to_open_setting">Şimdi aç</string>
-    <string name="hm_greeting_afternoon">Merhaba, iyi günler</string>
-    <string name="hm_greeting_evening">Merhaba, iyi akşamlar</string>
-    <string name="hm_greeting_late_morning">Merhaba, günaydın</string>
-    <string name="hm_greeting_morning">Merhaba, günaydın</string>
-    <string name="hm_greeting_noon">Merhaba, iyi günler</string>
     <string name="hm_habit_info_describe">"Cihazı alışkanlıklarınıza göre çalıştırın
 Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
     <string name="hm_habit_info_empty_describe">"Davranışlarınızı sürekli algılayın ve cihazın alışkanlıklarınıza göre çalışmasını sağlayın.
 Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
     <string name="hm_habit_info_list_empty">Alışkanlıklarınızı öğrenme</string>
     <string name="hm_help">Yardım</string>
-    <string name="hm_ignore">Yoksay</string>
     <string name="hm_knew">Anladım</string>
     <string name="hm_more">Diğer</string>
     <string name="hm_pause_habit">Duraklatma alışkanlığı</string>
@@ -860,7 +863,7 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_24h_suffix">%1$s saat</string>
     <string name="material_hour_selection">Saat seçin</string>
-    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
     <string name="material_minute_selection">Dakikayı seçin</string>
     <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
@@ -901,7 +904,10 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="miplay_mini_card_no_song_subtitle">Oynatma yok</string>
     <string name="miplay_mini_card_no_song_title">Mobil müzik</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımına uğradı. Lütfen daha sonra tekrar deneyin</string>
-    <string name="miplay_song_title_empty">Şarkı yok</string>
+    <string name="miplay_song_title_empty">Burada öğe yok</string>
+    <string name="miplay_statusbar_connect_failure">Bağlantı başarısız oldu</string>
+    <string name="miplay_statusbar_connect_loading">Bağlanıyor</string>
+    <string name="miplay_statusbar_connect_successful">Bağlantı başarılı oldu</string>
     <string name="mirror_phone_content">Ana ekran+ şimdi açılsın mı?</string>
     <string name="mirror_phone_content_remote">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
     <string name="mirror_phone_title">Ana ekranı aç+</string>
@@ -1289,6 +1295,7 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="sever_stream_control_btn_preview">Önizleme</string>
     <string name="sever_stream_control_btn_resume">Devam et</string>
     <string name="sever_stream_push_state_idle">Önizleme bu cihazda kapalı</string>
+    <string name="sever_stream_push_state_idle2">Önizleme kapalı</string>
     <string name="sever_stream_push_state_pause">Duraklatıldı</string>
     <string name="sever_stream_push_state_pushing">Kamera akışı paylaşılıyor</string>
     <string name="share_desktop_with_car">Ana ekranı arabayla paylaş</string>

@@ -1011,8 +1011,8 @@ mm"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -1030,7 +1030,7 @@ mm"</string>
     <string name="need_to_open_permission">Gerekli izinler</string>
     <string name="need_to_open_storage_permission_desc">Temalardaki öğeleri kullanabilmek ve indirebilmek için önce uygulamanın depolama alanına erişmesine izin verin</string>
     <string name="network_exception">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="new_resource_price_unit"> Mi</string>
+    <string name="new_resource_price_unit">Mi</string>
     <string name="night">ÖS</string>
     <string name="no_cta_agreed">"GetApps'in CTA izinleri yok"</string>
     <string name="no_data">Ağa bağlanılamıyor</string>

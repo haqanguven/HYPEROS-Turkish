@@ -1135,6 +1135,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="stylus_connect_fail_not_open_gps">Bağlanılamadı. Konum hizmetlerini açın ve tekrar deneyin</string>
     <string name="stylus_connecting">Bağlanılıyor</string>
     <string name="stylus_default_percent">100</string>
+    <string name="stylus_dislocation_summary">Kalemi buraya takın</string>
     <string name="stylus_focus_welcome">Xiaomi Focus kalem ile tanışın</string>
     <string name="stylus_function_and_action">Özellikler</string>
     <string name="stylus_function_summary">Özellikler</string>
@@ -1330,10 +1331,10 @@ ikinci alan parmak izi kullanın"</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
     <string name="turn_on_torch">El fenerini aç</string>
-    <string name="tutorial_incall_duration">17:25</string>
-    <string name="tutorial_incall_phone_num">182123*****</string>
+    <string name="tutorial_incall_duration">5:36</string>
+    <string name="tutorial_incall_phone_num">1953638****</string>
     <string name="tutorial_lock_date">5/06</string>
-    <string name="tutorial_lock_time">3:58</string>
+    <string name="tutorial_lock_time">5:36</string>
     <string name="tutorial_music_singer">Sarah Proctor</string>
     <string name="tutorial_music_song_title_next">The Breaks(Joey Pecoraro Remix)</string>
     <string name="tutorial_music_song_title_pre">Yalıtılmış rüya</string>
