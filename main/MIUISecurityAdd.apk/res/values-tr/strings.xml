@@ -309,10 +309,10 @@ programımıza katılın"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Ücretsiz Ağ hız artırımı</string>
-    <string name="free_send_net_booster_busniess">Ücretsiz Xunlei hız artırımı alın</string>
+    <string name="free_send_net_booster">Ücretsiz ağ hız arttırımı</string>
+    <string name="free_send_net_booster_busniess">Ücretsiz Xunlei hız arttırımı alın</string>
     <string name="free_send_net_booster_busniess_tip">Almak için dokunun</string>
-    <string name="free_send_net_booster_tip">Ücretsiz ağ hız artırımı ile akıcı oyun deneyiminin tadını çıkartın</string>
+    <string name="free_send_net_booster_tip">Ücretsiz ağ hız arttırımı ile akıcı oyun deneyiminin tadını çıkartın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
@@ -424,6 +424,9 @@ programımıza katılın"</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcıı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap Kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">gizlilik politikasını.&lt;/a>" okudum ve kabul ediyorum</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
+    <string name="gtb_dialog_privacy_voice_message">Xunyou oyun sesi değiştiriciyi kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap kimliğinizi toplayacaktır</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Xunyou oyun sesi değiştirici &lt;a href=\"%1$s\">Gizlilik politikasını&lt;/a>'nı okudum ve kabul ettim"</Data> </string>
+    <string name="gtb_dialog_privacy_voice_title">Xunyou oyun sesi değiştirici</string>
     <string name="guide_desc_1">Ebeveynler bebek kullanımını tamamen kavrar ve yönetir</string>
     <string name="guide_desc_2">"Öne çıkan özel çocuk uygulaması
 Büyüme eşliğinde güvenli ve kalitelidir"</string>
