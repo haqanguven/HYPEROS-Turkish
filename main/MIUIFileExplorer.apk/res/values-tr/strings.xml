@@ -269,6 +269,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="decompress_destination_error">Dosyalar bu konuma çıkartılamıyor</string>
     <string name="decompress_encrypted_rar_not_supported">Şifreli rar dosyaları desteklenmemektedir</string>
     <string name="decompress_fail">Çıkartılamadı</string>
+    <string name="decompress_fail_contains_special_characters">Sıkıştırılamıyor. Sıkıştırılmış dosyaların adları özel karakterler içeremez</string>
     <string name="decompress_input_password">Şifreyi girin</string>
     <string name="decompress_password_error">Girmiş olduğunuz şifre hatalı</string>
     <string name="decompress_success">Çıkartma işlemi tamamlandı</string>
@@ -763,6 +764,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="operation_decompressing">Çıkartılıyor</string>
     <string name="operation_del_fav">Favorilerden kaldırılıyor</string>
     <string name="operation_delete">Sil</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM bir galeri klasörüdür. Bu klasörü silerseniz içindeki tüm öğeler de galeriden kalıcı olarak silinir. Bu klasör yine de silinsin mi?</string>
     <string name="operation_delete_confirm_message">Silinsin mi?</string>
     <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir
 "</string>

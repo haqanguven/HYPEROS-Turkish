@@ -344,6 +344,25 @@
         <item>\#F4AFFF</item>
         <item>\#EC46EF</item>
     </string-array>
+    <string-array name="doodle_color_selector_array_talkback">
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_red</item>
+        <item>@string/color_light_red</item>
+        <item>@string/color_orange</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_earthy_yellow</item>
+        <item>@string/color_light_green</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_bluish_blue</item>
+        <item>@string/color_baby_blue</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_indigo_blue</item>
+        <item>@string/color_purple</item>
+        <item>@string/color_light_pink</item>
+        <item>@string/color_deep_pink</item>
+    </string-array>
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
         <item>@string/earthly_branches_chou</item>
@@ -389,6 +408,34 @@
         <item>\#5C687F</item>
         <item>\#5B576F</item>
         <item>\#937373</item>
+    </string-array>
+    <string-array name="frame_color_selector_array_talkback">
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_gray</item>
+        <item>@string/color_orange</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_light_green</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_bluish_blue</item>
+        <item>@string/color_baby_blue</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_purple</item>
+        <item>@string/color_pink</item>
+        <item>@string/color_earthy_yellow</item>
+        <item>@string/color_light_cyan</item>
+        <item>@string/color_indigo_blue</item>
+        <item>@string/color_lilac</item>
+        <item>@string/color_light_pink</item>
+        <item>@string/color_dark_brown</item>
+        <item>@string/color_light_brown</item>
+        <item>@string/color_dark_yellow</item>
+        <item>@string/color_dark_green</item>
+        <item>@string/color_dark_cyan</item>
+        <item>@string/color_dark_blue</item>
+        <item>@string/color_dark_purple</item>
+        <item>@string/color_dusky_pink</item>
     </string-array>
     <string-array name="gallery_frame_color_selector_array">
         <item>\#B3BEC7</item>
