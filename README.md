@@ -1,2 +1,2 @@
-# MIUITR Team
+# MIUITR Forum Team
 # https://forum.miuitr.info/
