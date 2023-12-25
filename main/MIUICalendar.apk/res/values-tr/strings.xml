@@ -915,6 +915,10 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="mtrl_slider_range_content_description">%1$s - %2$s</string>
+    <string name="n_day_before">Önceki</string>
+    <string name="n_day_later">Sonraki</string>
+    <string name="n_week_first">İlk</string>
+    <string name="n_week_last">Son</string>
     <string name="national_day">Ulusal gün</string>
     <string name="national_day_tradition">Ulusal gün</string>
     <string name="near_agenda_view">Yaklaşan etkinlikler</string>

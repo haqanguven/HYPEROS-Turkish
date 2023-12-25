@@ -469,10 +469,10 @@ Otomatik güncellemeleri GetApps > Ayarlar > Otomatik güncellemeler bölümünd
 Göndereceğiniz veriler cihazınız ve onu nasıl kullandığınız hakkında genel bilgiler içerecektir. Veriler Xiaomi cihazlarını iyileştirmek için kullanılacaktır
 Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gereken bilgileri gönderme yeteneğini etkilemez
 Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</string>
-    <string name="other_settings_upload_debug_log_summary">Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır</string>
+    <string name="other_settings_upload_debug_log_summary">"Topladığımız veriler sistemdeki problemleri konumlandırmakta ve analiz edilmekte kullanılacak olup kişisel verilerinizi içerebilir. Hiçbir veri kimliğinizi tanımlamak için kullanılmayacaktır. "</string>
     <string name="other_settings_upload_debug_log_title">Tanı verilerini otomatik olarak gönder</string>
     <string name="other_settings_user_experience">Kullanıcı deneyimi geliştirme programı</string>
-    <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek cihaz ve ürünlerimizi geliştirmemize yardımcı olun</string>
+    <string name="other_settings_user_experience_summary">"Anonim kullanım verileri göndererek cihaz ve ürünlerimizi geliştirmemize yardımcı olun. "</string>
     <string name="other_settings_user_experience_summary_index">Detaylar</string>
     <string name="permission_MIUIDaemon_introduction">Xiaomi arka plan programı ekranı hasar gördüğünde cihazınızdan veri aktarmanıza izin verir</string>
     <string name="permission_access_calendar">Takvime erişim</string>

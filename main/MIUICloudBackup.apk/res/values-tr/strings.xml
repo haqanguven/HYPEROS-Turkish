@@ -38,6 +38,7 @@
     <string name="as_new_device">Eski ana ekran ve ayarlarını geri yükle</string>
     <string name="as_new_device_summary">Eski Xiaomi bulut yedeklemelerini sil</string>
     <string name="authentication_failed">Hesap doğrulanamadı</string>
+    <string name="auto_backup_failed">Otomatik olarak yedeklenemedi</string>
     <string name="back_up_task_in_process">Yedekleniyor</string>
     <string name="back_up_task_unfinished">Yedekleme işlemi tamamlanmadı</string>
     <string name="backing_up_to_micloud">Yedekleniyor</string>
@@ -594,7 +595,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_header_msg">"WeChat verilerini geri yüklemeden önce bu cihazda WeChat'in kurulu olmadığından emin olun. Veriler geri yüklenirken WeChat'i açmayın veya kullanmayın"</string>
     <string name="restore_header_title">Toplam boyut: %s</string>
     <string name="restore_header_title2">Toplam yedekleme: %s</string>
-    <string name="restore_header_title_backup_time">Time</string>
+    <string name="restore_header_title_backup_time">Zaman</string>
     <string name="restore_home_screen_apps">Öğeleri geri yükle</string>
     <string name="restore_home_screen_apps_options">Veriyi geri yükle</string>
     <string name="restore_network_pause">Mobil veriyi kurtarmak için duraklatıldı. Devam etmek için dokunun</string>

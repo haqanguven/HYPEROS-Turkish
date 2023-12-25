@@ -874,7 +874,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="pm">ÖS</string>
     <string name="port_range">Bağlantı noktası 1024-65535 aralığında olmalıdır</string>
     <string name="positive_order">İleri</string>
-    <string name="pre_privacy_recall">İznin geri çekilmesi</string>
+    <string name="pre_privacy_recall">İzni geri al</string>
     <string name="pref_permission_allowed">Onayla</string>
     <string name="pref_permission_manage_key_storage">Cihazdaki fotoğraflara ve dosyalara erişin</string>
     <string name="pref_permission_not_allowed">Onaylama</string>
@@ -888,8 +888,8 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="privacy_recall_confirm_description">Devam ederseniz dosyaların Gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe uygulanabilir yasalar ve yönetmeliklerin gerektirdiği gibi belirli bir süre içinde silinecektir</string>
     <string name="privacy_recall_confirm_reminder_card_summary" formatted="false"><font color="#F22424"><font color="#F22424">&lt;font color=\"#F22424\">&lt;font color=#F22424>Aşağıdaki ögeler iznin geri çekil</font>m</font>"esinden sonra kalıcı &lt;/font>\"olarak silinecektir:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Belgeler, gizli dosyalar ve silinen ögeler dahil ancak bunlarla sınırlı olmamak üzere Mi sürücü'daki tüm ögeler.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Cihaz izinleri, ayarlar ve önbelleğe alınan diğer içerikler.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi sürücü yükleme ve indirme geçmişi\""</string>
     <string name="privacy_recall_success">İzin başarıyla geri çekildi</string>
-    <string name="privacy_recall_title">İznin geri çekilmesi</string>
-    <string name="privacy_recalling">İzin geri çekiliyor…</string>
+    <string name="privacy_recall_title">İzni geri al</string>
+    <string name="privacy_recalling">İzin geri alınıyor</string>
     <string name="private_files">Gizli</string>
     <string name="private_folder">Gizli klasörler</string>
     <string name="private_folder_no_file_hints">Gizli dosya yok</string>
@@ -907,7 +907,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="recent_file_sort_by_date">Tarih</string>
     <string name="recent_file_sort_type">Sırala</string>
     <string name="recent_hide_camera_and_screenshots">Galeri öğelerini gösterme</string>
-    <string name="recent_hide_cloud_drive_files">Mi sürücü dosyalarını son kullanılanlarda gösterme</string>
+    <string name="recent_hide_cloud_drive_files">Mi sürücü öğelerini gösterme</string>
     <string name="refresh_success">Yenileme tamamlandı</string>
     <string name="reinstall_midriver_message">Şimdi tekrar yüklensin mi?</string>
     <string name="release_enter_private">Özel klasörü açmak için serbest bırakın</string>

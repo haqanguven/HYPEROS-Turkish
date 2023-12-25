@@ -909,8 +909,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="beauty_fc_fill_lamp">Işık doldurma</string>
     <string name="beauty_fc_fill_lamp_new">Ön ışık doldurma</string>
     <string name="beauty_fc_light">Işık doldurma parlaklığı</string>
-    <string name="beauty_fc_video_call">Görüntülü aramalar için güzelleştirin</string>
-    <string name="beauty_fc_video_call_summary">WeChat görüntülü görüşmeleri sırasında güzelleştirme seçeneklerini gösterir</string>
+    <string name="beauty_fc_video_call">Görüntülü aramalar için güzelleştir</string>
+    <string name="beauty_fc_video_call_summary">Görüntülü aramalar sırasında güzelleştirme seçeneklerini gösterir</string>
     <string name="beauty_fun_filter">Güzelleştirme</string>
     <string name="beauty_fun_front_light">Ön ışık doldurma</string>
     <string name="beauty_fun_light">Işık doldurma</string>

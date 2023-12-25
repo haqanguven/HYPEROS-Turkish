@@ -393,6 +393,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
     <string name="follow_apps_settings">Uygulama ayarlarına göre</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
+    <string name="footer_global_fps">"
+%1$d. Performans modunu açtığınızda yenileme hızı sistemin maksimum %2$d Hz'sine değiştirilecektir. Yüksek yenileme hızına sahip uygulama ayarları geçici olarak kullanılamayacak"</string>
     <string name="footer_max_fps" formatted="false">"
 %D. Yenileme hızı desteklenen uygulamalar ve oyunlar için %s Hz'e kadar ayarlanabilir"</string>
     <string name="force_rest">Oturum aralarını kullanın</string>
@@ -680,7 +682,9 @@ ikinci alanda oluşturulmaz"</string>
     <string name="scarlet_macaw">Amerika papağanı</string>
     <string name="scarlet_macaw_info">Amerika papağanı uzun kuyruklu, genellikle renkli yeni dünya papağanlarıdır</string>
     <string name="screen_cancel">İptal et</string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">Aç</string>
+    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">Sabit oran kullanımı daha az enerji tüketir</string>
     <string name="screen_fps_summary_smooth">Bazı uygulamalar fotoğraf kalitesini yükseltmek için otomatik olarak yenileme hızını arttırır</string>
     <string name="screen_fps_title">Yenileme hızı</string>
@@ -708,8 +712,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="shortcut_created">Kısayol oluşturuldu</string>
     <string name="silent_ringtone_hint">Ses şimdi susturuldu. Sesi açın ve tekrar deneyin</string>
     <string name="silver_pheasant">Gümüş sülün</string>
-    <string name="sim_slot_1"> (Sim 1)</string>
-    <string name="sim_slot_2"> (Sim 2)</string>
+    <string name="sim_slot_1">" (Sim 1)"</string>
+    <string name="sim_slot_2">" (Sim 2)"</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

@@ -182,6 +182,7 @@
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="default_noti_quota_full_title">Bulut depolama alanı dolu</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="detect_sim_card">Sim kartı ara</string>
     <string name="device_activation_card_cannot_get_yet">Bilgi alınamadı. 3-5 gün içinde tekrar deneyin</string>
     <string name="device_activation_card_description">İlk aktivasyon bir cihaz ağa bağlandığında kaydedilir. Normalde ilk etkinleştirmenin kaydedilmesi biraz zaman alır. Bu nedenle ağa bağlandıktan sonra etkinleştirme durumunu kontrol etmeden önce 3-5 gün beklemek daha iyidir. Cihaz aktivasyonu uzatılmış garantimizin geçerlilik süresini belirlemede ana faktördür. Daha fazla ayrıntı için iade, değişim ve onarım politikamıza bakın: %1$s. Herhangi bir sorunuz varsa müşteri destek hattımızı aramaktan çekinmeyin: 400-100-5678</string>
@@ -330,6 +331,11 @@
 	<string name="gallery_service_termination_announcement_title">"Galeri öğeleri artık Xiaomi bulut ile senkronize edilemez. Bulutla senkronize ettiğiniz fotoğrafları ve videoları Google fotoğraflara aktarmanızı veya senkronize edilen fotoğrafları indirmek için i.mi.com'u ziyaret etmenizi ve videoları cihazınıza yükleyin. Aktarım ve indirme hizmetleri %s tarihine kadar mevcut olacak ve bu tarihte Xiaomi bulut hesabınızla senkronize edilen tüm galeri öğeleri kalıcı olarak silinecek"</string>
 	<string name="gallery_service_termination_btn_continue">Devam</string>
 	<string name="gallery_service_termination_more_info">Daha fazla bilgi: %s</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:075d2c0ae502da8696ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -790,6 +796,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="privacy_runtime_perm_sms_desc">Mesajları eşitlemek içindir</string>
     <string name="privacy_runtime_perm_sms_title">Mesajlara erişim</string>
     <string name="privacy_settings">Gizlilik</string>
+    <string name="project_id">micloud-43705</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">İleri</string>
     <string name="provision_skip_underline">Atla</string>

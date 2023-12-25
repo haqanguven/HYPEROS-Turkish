@@ -1299,7 +1299,7 @@ Uygulamalar:
     <string name="bear_mismatch">Ağ uyumsuzluğu nedeniyle operatör gizlenecek</string>
     <string name="bearer">Taşıyıcı</string>
     <string name="beauty_camera">Görüntülü aramalar için güzelleştir</string>
-    <string name="beauty_camera_summary">WeChat video görüşmeleri için güzelleştiri kullan</string>
+    <string name="beauty_camera_summary">Görüntülü aramalar sırasında güzelleştirme seçeneklerini gösterir</string>
     <string name="beauty_camera_switch">Güzelleştir</string>
     <string name="beauty_fc_assistant">Ön kamera asistanı</string>
     <string name="billing_cycle">Veri uyarısı ve sınırı</string>

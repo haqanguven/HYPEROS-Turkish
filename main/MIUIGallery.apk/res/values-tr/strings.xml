@@ -151,8 +151,11 @@
     <string name="ai_confirm_delete_image_title">AI görseli silinsin mi?</string>
     <string name="ai_continue_create_btn">Devam et</string>
     <string name="ai_continue_update_image_btn">Devam et</string>
+    <string name="ai_continue_upload_photo">Devam et</string>
     <string name="ai_create_ai_image">Yapay zeka görüntüsü oluştur</string>
     <string name="ai_create_image_deal_file_text">Bekleme süresi hesaplanıyor</string>
+    <string name="ai_create_image_fail_by_illegal_photo">"Yüklediğiniz fotoğrafların topluluk standartlarımızı ihlal ettiği anlaşılıyor.
+AI görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
     <string name="ai_create_image_fail">Sunucu hatası nedeniyle AI görüntüsü oluşturulamadı. Tekrar deneyin</string>
     <string name="ai_create_image_photo_tip">Yapay zeka görüntüsü oluşturulduktan sonra fotoğraflar sunucularımızdan silinecek</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
@@ -170,12 +173,21 @@
     <string name="ai_creation_save_failed_msg">"Kaydedilemedi. Tekrar deneyin</string>
     <string name="ai_creation_save_success_msg">Başarıyla kaydedildi</string>
     <string name="ai_creation_wait_message">Oluşturuluyor | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">İizn ver</string>
+    <string name="ai_cta_dialog_message">Yapay zeka portreleri oluşturabilmek için galerinin internete bağlanmasına izin verin</string>
+    <string name="ai_cta_dialog_title">Gerekli izinler</string>
+    <string name="ai_cta_refuse_btn">Hayır</string>
     <string name="ai_deal_file_tip">Bu sayfadan ayrılmayın</string>
     <string name="ai_deal_file_title">Fotoğraflar işleniyor</string>
     <string name="ai_deal_tile_text">Gerekli süre hesaplanıyor</string>
     <string name="ai_delete_image_fail">Silinemedi. Tekrar deneyin</string>
     <string name="ai_delete_image_progress_message">Siliniyor</string>
     <string name="ai_delete_image_success">AI görüntüsü başarıyla silindi</string>
+    <string name="ai_download_filter_photo_so_confirm_btn">İndir</string>
+    <string name="ai_download_filter_photo_so_downloading">Eklenti indiriliyor</string>
+    <string name="ai_download_filter_photo_so_message">Tüm AI portre özelliklerini kullanabilmek için önce eklentiyi indirin</string>
+    <string name="ai_download_filter_photo_so_title">Eklentiyi indir</string>
+    <string name="ai_download_filter_so_fail_toast">Eklenti indirilemedi. Tekrar deneyin</string>
     <string name="ai_enhance_bar_default">HD görüntü oluştur</string>
     <string name="ai_enhance_bar_failed">HD görüntü oluşturulamadı</string>
     <string name="ai_ensure_exit_select_message">Bir dahaki sefere fotoğrafları tekrar seçmeniz gerekecek</string>
@@ -187,6 +199,7 @@
     <string name="ai_free_creation_button">Oluştur</string>
     <string name="ai_free_creation_container_msg">Örneğin: Sahilde yürüyüş</string>
     <string name="ai_free_creation_container_title">Açıklamayı girin</string>
+    <string name="ai_free_creation_illegal_text_toast">Bu metin topluluk standartlarımızı ihlal ediyor. Mesajınızı yeniden yazın</string>
     <string name="ai_free_creation_random_button">Rastgele</string>
     <string name="ai_free_creation_text_container_tips">Görüntü büyük bir model tarafından oluşturuldu ve etkisi kararsız. Bunu optimize etmek için çok çalışıyoruz</string>
     <string name="ai_free_creation_text_count_exceed_limit">Girdiğiniz metin çok uzun</string>
@@ -208,7 +221,6 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_image_over_limit_button_cancel">Anladım</string>
     <string name="ai_image_over_limit_button_create">Devam et</string>
     <string name="ai_image_over_limit_title">Yapay zeka görüntüsü oluşturulamıyor</string>
-    <string name="ai_image_privacy_detail">%1$s Yapay zeka görüntü sözleşmesini okudum ve kabul ettim</string >
     <string name="ai_image_privacy_message">" "<Data>" Yapay zeka portrelerine hoş geldiniz!&lt;br/>Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor:&lt;br/>1. Yapay zeka portreleri oluşturmak için, &lt;b>insanların fotoğraflarını&lt;/b> sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onların &lt;b>yüzleri&lt;/b> hakkındaki bilgileri toplayacağız ve işleyeceğiz. &lt;br/>2. &lt;b>Kişilerin fotoğraflarını&lt;/b> yüklediğinizde, karşılık gelen albümlerdeki &lt;b>adlarını ve profil fotoğraflarını&lt;/b> senkronize edeceğiz ve bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz .&lt;br/>3. Metne dayalı AI görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız &lt;b>açıklamayı&lt;/b> toplayacağız.&lt;br/>Yalnızca aşağıdaki kişisel bilgileri topluyoruz: kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gereklidir. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi &lt;a href=\"%1$s\">Yapay Zeka Portreleri Gizlilik Politikası&lt;/a>'nda öğrenebilirsiniz. &lt;br/>&lt;a href=\"%2$s\">AI Portraits Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%3$s\">AI Portraits Gizlilik Politikası&lt;nı okuyup kabul edin ;/a> devam etmeden önce. "</Data>" "</string>
     <string name="ai_input_name_hint">Ad girin</string>
     <string name="ai_loading">Yükleniyor</string>
@@ -224,11 +236,14 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_preview_failed_retry_button">Tekrar deneyin</string>
     <string name="ai_privacy_tip_1">Kimlik fotoğrafı</string>
     <string name="ai_privacy_tip_2">Doğum günü portresi</string>
-    <string name="ai_privacy_tip_3">Sıradan çekim</string>
     <string name="ai_privacy_tip_input">Metin açıklaması</string>
     <string name="ai_privacy_title">Gizlilik bildirimi</string>
     <string name="ai_re_create_image">Tekrar deneyin</string>
     <string name="ai_ready_to_have_try">Başlat</string>
+    <string name="ai_recreate_image_cancel_text_btn">Devam et</string>
+    <string name="ai_recreate_image_confirm_text_btn">Seç</string>
+    <string name="ai_recreate_image_dialog_msg">Fotoğraf yüklemeye devam edebilir veya yenilerini seçebilirsiniz</string>
+    <string name="ai_recreate_image_dialog_title">"%s'in fotoğrafları yüklenmedi"</string>
     <string name="ai_refuse_update_toast">Bu AI görüntüsünü güncelleyebilmek için yeni fotoğraflar seçin</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d en iyi fotoğraf otomatik olarak seçilecek</string>
     <string name="ai_select_people_title">Yapay zeka görüntüsünü oluşturacak kişiyi seçin</string>
@@ -246,11 +261,9 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="ai_select_photo_manual">Manuel olarak seç</string>
     <string name="ai_select_photo_need_select_manual">Yeterli fotoğraf yok. Daha fazlasını ekleyin</string>
     <string name="ai_select_photo_next_step">Sonraki</string>
+    <string name="ai_select_photo_no_result_toast">Bu fotoğraflara dayalı olarak yapay zeka görüntüsü oluşturulamıyor. Bunun yerine başka fotoğraflar seçin</string>
     <string name="ai_select_photo_over_time_toast">En iyi çekimler otomatik olarak seçildi. Daha fazla fotoğrafı manuel olarak ekleyin</string>
-    <string name="ai_select_photo_right_guide_angel">Birden fazla açı</string>
-    <string name="ai_select_photo_right_guide_expression">Değişken yüz ifadeleri</string>
     <string name="ai_select_photo_right_guide_face">Öne bakan</string>
-    <string name="ai_select_photo_right_guide_light">Yeterli aydınlatma</string>
     <string name="ai_select_photo_right_guide_multi_bg">Çeşitli arka planlar</string>
     <string name="ai_select_photo_right_guide_multi_clothes">Farklı kıyafetler</string>
     <string name="ai_select_photo_right_guide_title">Doğru</string>
@@ -317,7 +330,8 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="album_rubbish_clear_all_item_description">Çöp kutusunu temizle</string>
     <string name="album_rubbish_page_title">Gereksiz albümler</string>
     <string name="album_rubbish_tip_title">Gereksiz albümler</string>
-    <string name="album_scanner">Albüm tarama</string>
+    <string name="album_scanner">Barkod okuyucu</string>
+    <string name="album_scanner_china">Barkod okuyucu</string>
     <string name="album_screen_record">Ekran kayıtları</string>
     <string name="album_screen_recorder">Ekran kaydedici</string>
     <string name="album_screenshot_and_screen_recorder_name">Ekran görüntüleri ve ekran kayıtları</string>
@@ -537,6 +551,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="btn_sure">Tamam</string>
     <string name="burst_image_download_item_title" formatted="false">Orijinali indir (%s|%s)</string>
 	<string name="burst_photo_enter">Çek</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Fotoğraf %d</string>
     <string name="burst_preview_title">Çoklu çekim</string>
     <string name="burst_save_all">Tümünü kaydet</string>
 	<string name="burst_save_choice_title">%2$d kişiden %1$d seçildi</string>

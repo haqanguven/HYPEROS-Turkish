@@ -1254,7 +1254,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="list_menu_rename_file">Yeniden adlandır</string>
     <string name="list_menu_rename_result_fail">Yeniden adlandırılamadı</string>
     <string name="list_menu_rename_result_repeat">Bu isimde bir dosya zaten mevcut</string>
-    <string name="load_more">Daha fazla görüntüle</string>
+    <string name="load_failure">Yüklenemedi</string>
+    <string name="load_more">Daha fazla</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_tips">Yenilemek için aşağı doğru çekin</string>
     <string name="local_apps">Yerel uygulamalar</string>
@@ -2853,6 +2854,7 @@ https://forum.miuitr.info/"</string>
     <string name="video_feedback_description">Kullanıcı deneyiminizi geliştirmek için yukarıya girdiğiniz bilgileri topluyor ve kullanıyoruz. Kişisel bilgilerinizi nasıl topladığımız ve işlediğimiz hakkında daha fazla bilgi edinmek için Gizlilik politikamıza bakın</string>
     <string name="video_feedback_description_title">Bu bilgiler yalnızca içerik önerileri için kullanılacaktır</string>
     <string name="video_feedback_not_sumbit_toast">Göndermeden önce bir yanıt seçin</string>
+    <string name="video_feedback_thanks">Geri bildirim için teşekkürler</string>
     <string name="video_guess_you_like">Beğenebilirsin</string>
     <string name="video_play_next">Sıradaki</string>
     <string name="video_replay_btn">Tekrar oynat</string>
@@ -2925,6 +2927,7 @@ https://forum.miuitr.info/"</string>
     <string name="web_ad_clear_dialog_confirm">Sil</string>
     <string name="web_ad_clear_dialog_msg">%s gelen reklam etiketleri şimdi silinsin mi?</string>
     <string name="web_ad_clear_dialog_title">Reklam etiketini sil</string>
+    <string name="web_app_center">Mini uygulamalar</string>
     <string name="web_enhance_dialog_cancel">İptal et</string>
     <string name="web_enhance_dialog_confirm">Tamam</string>
     <string name="web_enhance_dialog_msg">%s sitesindeki reklamları engelleme şimdi başlatılsın mı?</string>
