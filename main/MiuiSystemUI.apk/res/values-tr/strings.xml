@@ -542,7 +542,7 @@ Cihaz uygulamanız, hangi cihazların bu şekilde kontrol edilebileceğini belir
     <string name="csd_button_lower_volume">Sesi azalt</string>
     <string name="csd_lowered_title">Ses düzeyi daha güvenli düzeye indirildi</string>
     <string name="csd_system_lowered_text">Kulaklık sesi önerilenden daha uzun süre yüksek kaldı</string>
-    <string name="dark_mode_power_save_alert_dialog_confirm">Anladım</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Tamam</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Sistem optimizasyonunu kapatıp pil tasarrufunu açarsanız karanlık mod otomatik olarak açılacaktır
 Karanlık modunu kapatmak için Ayarlar > Geliştirici seçenekleri > Sistem optimizasyonunu aç bölümünden pil tasarrufunu kapatın veya sistem optimizasyonunu açın"</string>
      <string name="dark_mode_power_save_alert_dialog_title">Karanlık mod</string>

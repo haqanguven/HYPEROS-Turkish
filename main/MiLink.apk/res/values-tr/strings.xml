@@ -463,7 +463,7 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_user_agreement">Kullanıcı sözleşmesi</string>
     <string name="connect_settings_withdraw_consent">İznin geri çekilmesi</string>
     <string name="connection_failed">Kamera bağlanılamadı</string>
-    <string name="console_guide_btn_got_it">Anladım</string>
+    <string name="console_guide_btn_got_it">Tamam</string>
     <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
     <string name="console_guide_subtitle_private">Kayan bildirimleri, gelen aramaları ve diğer özel ögeleri harici ekranlarda gösterme</string>
     <string name="console_guide_subtitle_small_window">Telefonunuzdaki diğer özellikleri kullanabilmek için yansıtılan pencereyi küçültün</string>
@@ -806,7 +806,7 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
 Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
     <string name="hm_habit_info_list_empty">Alışkanlıklarınızı öğrenme</string>
     <string name="hm_help">Yardım</string>
-    <string name="hm_knew">Anladım</string>
+    <string name="hm_knew">Tamam</string>
     <string name="hm_more">Diğer</string>
     <string name="hm_pause_habit">Duraklatma alışkanlığı</string>
     <string name="hm_please_login_mi_account">Lütfen önce Xiaomi hesabına giriş yapın</string>

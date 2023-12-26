@@ -286,7 +286,7 @@ Ayrıntılar için ayarları kontrol edin"</string>
     <string name="fast_connect_same_account_content">Bluetooth cihazları Mi hesabınızla senkronize edilebilir ve diğer cihazlarla eşleştirmeye gerek kalmadan bağlanabilir</string>
     <string name="fast_connect_same_accout_devices_connecting">Xiaomi bulut aracılığıyla bağlanılıyor</string>
     <string name="fast_connect_same_accout_devices_title">"%1$s cihazını diğer cihazlara bağladınız"</string>
-    <string name="fast_connect_same_accout_ok">Anladım</string>
+    <string name="fast_connect_same_accout_ok">Tamam</string>
     <string name="fast_connect_sound_normalizer_content">"Sesli aramalarda daha iyi ses.
 Daha hızlı bağlantı protokolü"</string>
     <string name="fast_connect_wbs_name">Mi kablosuz şarj hoparlörü</string>

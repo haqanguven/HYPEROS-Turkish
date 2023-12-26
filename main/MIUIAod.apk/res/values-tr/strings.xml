@@ -418,7 +418,7 @@ EE"</string>
     <string name="kg_doodle_secondary_label">Arka plan</string>
     <string name="kg_edit_cancel_dialog_content">Tüm değişiklikler şimdi yok sayılsın mı?</string>
     <string name="kg_edit_cancel_dialog_title">Değişiklikler yok sayılsın mı?</string>
-    <string name="kg_effects_tip_button">Anladım</string>
+    <string name="kg_effects_tip_button">Tamam</string>
     <string name="kg_effects_tip_desc">Alan derinliği filtrelerle birleştirilemez. Birini kullanmak diğerinin yerini alacaktır</string>
     <string name="kg_effects_tip_not_support">Dinamik duvar kağıtlarına efekt uygulanmıyor</string>
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">Üçüncü taraf duvar kağıtları efektleri desteklemiyor</string>

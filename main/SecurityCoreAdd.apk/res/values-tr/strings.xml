@@ -529,7 +529,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="kddi_long_press_power_guide_assistant_message">Google asistanı uyandırmak için %s saniye güç düğmesini basılı tutun</string>
     <string name="kddi_long_press_power_guide_assistant_title">Google asistanı uyandır</string>
-    <string name="kddi_long_press_power_guide_know">Anladım</string>
+    <string name="kddi_long_press_power_guide_know">Tamam</string>
     <string name="kddi_long_press_power_guide_settings">Ayarlar</string>
     <string name="kddi_long_press_power_guide_shutdown_message">Cihazınızı yeniden başlatmak veya kapatmak için Güç ve ses seviyesi düğmelerine aynı anda basın</string>
     <string name="kddi_long_press_power_guide_shutdown_title">Cihazı yeniden başlatın veya kapatın</string>

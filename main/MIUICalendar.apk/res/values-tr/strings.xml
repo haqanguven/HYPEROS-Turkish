@@ -1040,7 +1040,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Bu numaraya çok fazla doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
     <string name="passport_google_login_btn_content_description">Google ile oturum açın</string>
     <string name="passport_help">Yardım</string>
-    <string name="passport_i_know">Anladım</string>
+    <string name="passport_i_know">Tamam</string>
     <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başla</string>
     <string name="passport_input_captcha_hint">Kodu girin</string>
     <string name="passport_input_email_address_notice">Hesabınızı doğrulamak için bu e-postayı kullanacağız</string>

@@ -363,7 +363,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="miui_dnd_mode_off">Rahatsız etme kapalı</string>
     <string name="miui_dnd_mode_on">Rahatsız etme açık</string>
     <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
-    <string name="miui_guide_dialog_button_positive_text">Anladım</string>
+    <string name="miui_guide_dialog_button_positive_text">Tamam</string>
     <string name="miui_guide_dialog_message">Medya sesleri sessiz modda çalınmaya devam edecek. Bunu ayarlardan değiştirebilirsiniz</string>
     <string name="miui_ringer_count_down">Geri sayım</string>
     <string name="miui_ringer_count_down_time">%s</string>

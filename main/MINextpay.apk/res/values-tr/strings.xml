@@ -56,7 +56,7 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul ediyorum</string>
     <string name="alert_account_success">Başarılı oldu</string>
-    <string name="alert_button_roger">Anladım</string>
+    <string name="alert_button_roger">Tamam</string>
     <string name="alert_cannot_receive_card">" (%1$s)'yi geçtiğiniz ve alıcıya devam edemeyeceğiniz algılandı"</string>
     <string name="alert_card_exit_retry_msg">Bu sayfayı kapatıp tekrar deneyin</string>
     <string name="alert_card_has_issued_title">Bir şeyler ters gitti</string>
@@ -289,7 +289,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="card_recharge_success_sub">%1$s eklendi</string>
     <string name="card_recharge_supproted_city">Desteklenen şehirler</string>
     <string name="card_recharge_tips">Kullandığınız Xiaomi hesabının bu kartı etkinleştiren hesap olmadığı anlaşılıyor. Bu hatalara ve başarısız işlemlere neden olabilir. Bu karttaki bakiyeyi kullanmanızı, kartınızı kaldırmanızı öneririz. Mevcut Xiaomi hesabınızla benzer başka bir kartı etkinleştirin. Yine de yükleme yapılsın mı?</string>
-    <string name="card_recharge_tips_confirm">Anladım</string>
+    <string name="card_recharge_tips_confirm">Tamam</string>
     <string name="card_recharge_tips_title">Dikkat</string>
     <string name="card_recharge_transfer_in_balance_item_left_text">Kart bakiyesi</string>
     <string name="card_recharge_transfer_in_fee_item_text">Transfer ücreti</string>

@@ -222,7 +222,7 @@
     <string name="help">Yardımı görüntüle</string>
     <string name="help_content">İhtiyacınız olan cihazı bulamıyorsanız diğer kişiden Mi paylaşımı açmasını isteyin</string>
     <string name="high_temperature_brightness_toast">Daha yüksek ekran parlaklığı cihazı ısıtacak ve daha fazla güç tüketecektir</string>
-    <string name="hovermode_text_confirm">Anladım</string>
+    <string name="hovermode_text_confirm">Tamam</string>
     <string name="hovermode_text_doubleclick">Duraklatmak veya oynatmak için iki kez dokunun</string>
     <string name="hovermode_text_drag">Yakınlaştırmak için kaydırın</string>
     <string name="hovermode_text_help">Yardım</string>

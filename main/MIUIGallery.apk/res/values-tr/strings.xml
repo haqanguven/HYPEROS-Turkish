@@ -206,7 +206,7 @@ AI görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
     <string name="ai_free_creation_text_illage">Bu açıklama topluluk standartlarımızı ihlal ediyor</string>
     <string name="ai_free_theme_subtitle">Açıklamalara dayalıdır</string>
     <string name="ai_free_theme_title">Metin tabanlı</string>
-    <string name="ai_get_it_btn">Anladım</string>
+    <string name="ai_get_it_btn">Tamam</string>
     <string name="ai_go_to_select_photo">Fotoğraf seç</string>
     <string name="ai_has_image_tip">Yapay zeka görüntüsü oluşturuldu</string>
     <string name="ai_have_a_think_btn">İptal et</string>
@@ -218,7 +218,7 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_image_manager_re_create_tip">Yapay zeka görüntünüzü güncellemek için fotoğraf ekleyin veya silin</string>
     <string name="ai_image_manager_title">Yapay zeka görüntüsünü yönet</string>
     <string name="ai_image_not_creatable">Yapay zeka görseli şu anda güncelleniyor. İşlem tamamlandıktan sonra tekrar deneyin</string>
-    <string name="ai_image_over_limit_button_cancel">Anladım</string>
+    <string name="ai_image_over_limit_button_cancel">Tamam</string>
     <string name="ai_image_over_limit_button_create">Devam et</string>
     <string name="ai_image_over_limit_title">Yapay zeka görüntüsü oluşturulamıyor</string>
     <string name="ai_image_privacy_message">" "<Data>" Yapay zeka portrelerine hoş geldiniz!&lt;br/>Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor:&lt;br/>1. Yapay zeka portreleri oluşturmak için, &lt;b>insanların fotoğraflarını&lt;/b> sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onların &lt;b>yüzleri&lt;/b> hakkındaki bilgileri toplayacağız ve işleyeceğiz. &lt;br/>2. &lt;b>Kişilerin fotoğraflarını&lt;/b> yüklediğinizde, karşılık gelen albümlerdeki &lt;b>adlarını ve profil fotoğraflarını&lt;/b> senkronize edeceğiz ve bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz .&lt;br/>3. Metne dayalı AI görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız &lt;b>açıklamayı&lt;/b> toplayacağız.&lt;br/>Yalnızca aşağıdaki kişisel bilgileri topluyoruz: kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gereklidir. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi &lt;a href=\"%1$s\">Yapay Zeka Portreleri Gizlilik Politikası&lt;/a>'nda öğrenebilirsiniz. &lt;br/>&lt;a href=\"%2$s\">AI Portraits Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%3$s\">AI Portraits Gizlilik Politikası&lt;nı okuyup kabul edin ;/a> devam etmeden önce. "</Data>" "</string>

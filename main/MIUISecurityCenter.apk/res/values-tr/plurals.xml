@@ -1034,9 +1034,13 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%s dakika ekran süresi eklemek için açın</item>
         <item quantity="one">%s dakika ekran süresi eklemek için açın</item>
     </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Tamam (%d)</item>
+        <item quantity="one">Tamam (%d)</item>
+    </plurals>
     <plurals name="power_off_warning_button_ok_time">
-        <item quantity="other">Anladım (%d saniye)</item>
-        <item quantity="one">Anladım (%d saniye)</item>
+        <item quantity="other">Tamam (%d saniye)</item>
+        <item quantity="one">Tamam (%d saniye)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</item>

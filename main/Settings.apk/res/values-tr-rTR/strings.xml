@@ -1541,7 +1541,7 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_device_blacklist_tital">Bluetooth engelleme listesi</string>
     <string name="bluetooth_device_button_accept">Tamam</string>
     <string name="bluetooth_device_button_accept_permission">Kabul ediyorum</string>
-    <string name="bluetooth_device_button_audio_share_success">Anladım</string>
+    <string name="bluetooth_device_button_audio_share_success">Tamam</string>
     <string name="bluetooth_device_button_cancel">İptal et</string>
     <string name="bluetooth_device_button_enable_audio_share">Paylaş</string>
     <string name="bluetooth_device_button_reject_permission">Kabul etmiyorum</string>

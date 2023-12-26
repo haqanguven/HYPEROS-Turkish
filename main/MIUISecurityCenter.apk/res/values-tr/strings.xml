@@ -4529,7 +4529,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_optimize_save_on_lockscreen">Cihaz kilitliyken güç tasarrufu yapın</string>
     <string name="power_optimize_set_lockscreen_time_holder">%s saniye işlem yapılmadığında cihazı kilitle</string>
     <string name="power_phone">Sesli arama</string>
-    <string name="power_port_damp_dialog_btn">Anladım</string>
+    <string name="power_port_damp_dialog_btn">Tamam</string>
     <string name="power_port_damp_notify_msg">Güvenliği sağlamak ve pilin zarar görmesini önlemek için şarj etmeden önce bağlantı noktasını kurulayın</string>
     <string name="power_port_damp_notify_title">Şarj bağlantı noktası ıslak</string>
     <string name="power_rank_surface_flinger">İşleniyor</string>
