@@ -561,9 +561,9 @@ Tarayıcı geçmişinizi temizlemek için tarayıcının ayarlarını kullanın"
     <string name="more">More</string>
     <string name="more_tabs">Daha fazla</string>
     <string name="morning">Morning</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="network_unavailable">Ağa bağlanılamadı</string>
-    <string name="new_cta_agree_desc">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
+    <string name="new_cta_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin</string>
     <string name="new_cta_declaration_location">Doğru hava durumu bilgileri, ilgili yerel hizmetler ve çevrimiçi mağazaları sunmak için</string>
     <string name="new_cta_declaration_read_contacts">Kişileri aramak için</string>
     <string name="new_cta_main_purpose">Cihazınızda ve çevrimiçi öğeleri aramak için</string>

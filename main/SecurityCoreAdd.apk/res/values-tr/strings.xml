@@ -2,10 +2,10 @@
 <resources>
     <string name="Active">Etkin</string>
     <string name="PassWordGuard">İkinci alan şifresi</string>
-    <string name="PrivacyContactDes1">"Kişiler özel hale getirilir
-Mesajlar yalnızca ikinci alanda görüntülenir"</string>
-    <string name="PrivacyContactDes2">"Bu özelliği ilk alanda özel mesajları kullandıysanız
-ikinci alana otomatik olarak eklenir"</string>
+    <string name="PrivacyContactDes1">"Kişiler gizli hale gelecek.
+Mesajlar yalnızca ikinci alanda görünecektir"</string>
+    <string name="PrivacyContactDes2">"Birinci alanda özel mesaj kullandıysanız
+bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -365,6 +365,7 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="fingerprint_double_tap">Parmak izi sensörüne çift dokunun</string>
     <string name="fingerprint_number_upper_limit">Çok fazla başarısız kilit açma denemesi</string>
     <string name="fingerprint_removal_failed">Parmak izi silinemedi</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Yalnızca iç ekranda desteklenir</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>

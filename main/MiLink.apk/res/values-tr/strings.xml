@@ -461,7 +461,7 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_summary_share_notification_pad">Xiaomi Hesabınızda oturum açmıl yakındaki telefonlardan bildirimler alın</string>
     <string name="connect_settings_summary_share_notification_phone">Bu cihaz kilitlendiğinde kullanımda olan yakındaki tabletlerde veya bilgisayarlarda bildirimleri göster</string>
     <string name="connect_settings_user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="connect_settings_withdraw_consent">İznin geri çekilmesi</string>
+    <string name="connect_settings_withdraw_consent">İzini geri al</string>
     <string name="connection_failed">Kamera bağlanılamadı</string>
     <string name="console_guide_btn_got_it">Tamam</string>
     <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
@@ -1169,15 +1169,15 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
 %2$d. Onayınızı geri çekmenizin ardından, hâlihazırda toplanmış ve saklanmış olan kişisel bilgiler, aksi gerekmedikçe geçerli yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. Ara bağlantı hizmetleri, gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlandığı için, onayınızı geri çekmeniz, ara bağlantı hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onayınızı geri çekmeniz diğer özelliklerin ve hizmetlerin normal kullanımını etkilemeyecektir
 %3$d. Rızanın geri çekilmesi geri dönüşü olmayan bir işlemdir. Onayınız geri çekildiğinde kararınızı yeniden gözden geçiremeyeceğinizi unutmayın"</string>
     <string name="privacy_revoke_agree_detail_prompt">Xiaomi ara bağlantı gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklama</string>
-    <string name="privacy_revoke_agree_detail_title">İzninizi geri çekmeden önce Xiaomi ara bağlantı gizlilik politikası izninin geri çekilmesine ilişkin beyanını okuyun ve kabul edin</string>
-    <string name="privacy_revoke_agree_introduce">Devam ederseniz Xiaomi ara bağlantı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanmış ve muhafaza edilmiş olan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. Ara bağlantı hizmetleri gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlandığı için onayınızı geri çekmeniz ara bağlantı hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onayınızı geri çekmeniz diğer özelliklerin ve hizmetlerin normal kullanımını etkilemeyecektir</string>
+    <string name="privacy_revoke_agree_detail_title">İzninizi geri almadan önce Xiaomi ara bağlantı gizlilik politikası izninin geri alınmasına ilişkin beyanını okuyun ve kabul edin</string>
+    <string name="privacy_revoke_agree_introduce">Xiaomi ara bağlantı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanmış ve muhafaza edilmiş olan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve düzenlemelere uygun olarak belirli bir süre içinde silinecektir. Ara bağlantı hizmetleri gerekli kişisel bilgilerin toplanmasına dayalı olarak sağlandığı için onayınızı geri çekmeniz ara bağlantı hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Onayınızı geri çekmeniz diğer özelliklerin ve hizmetlerin normal kullanımını etkilemeyecektir</string>
     <string name="privacy_revoke_agree_warning_map_text">Dikkat</string>
     <string name="privacy_revoke_confirm_cancel">İptal et</string>
     <string name="privacy_revoke_confirm_message">Hizmetlerimizi gerekli kişisel bilgilerin toplanmasına dayalı olarak sunmamıza izin vermediğiniz sürece yayın özelliklerini kullanmaya devam edemezsiniz. Yine de HappyCast gizlilik politikasına verilen onay geri çekilsin mi?</string>
     <string name="privacy_revoke_confirm_sure">Tamam</string>
     <string name="privacy_revoke_confirm_title">Hizmetleri kullanamıyorum</string>
     <string name="privacy_revoke_dialog_agree">Kabul et</string>
-    <string name="privacy_revoke_dialog_message">Devam ederseniz HappyCast gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. HappyCast hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan onayınızı geri çekmeniz HappyCast hizmetlerini kabul etmeyi reddetmeniz anlamına gelecektir. İzin şimdi geri çekilsin mi?</string>
+    <string name="privacy_revoke_dialog_message">HappyCast gizlilik politikasına verdiğiniz izini geri alacaksınız. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. HappyCast hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan onayınızı geri çekmeniz HappyCast hizmetlerini kabul etmeyi reddetmeniz anlamına gelecektir. İzin şimdi geri çekilsin mi?</string>
     <string name="privacy_revoke_dialog_revoke">Geri al</string>
     <string name="privacy_revoke_dialog_title">İzni geri al</string>
     <string name="privacy_revoke_succeed">Onay başarıyla geri alındı</string>

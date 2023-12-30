@@ -642,7 +642,7 @@ aç"</string>
     <string name="privacy_grant_or_revoke_settings">Yetki verme &amp; alma</string>
     <string name="privacy_grant_success">Yetki başarıyla verildi</string>
     <string name="privacy_policy">Gizlilik politikası</string>
-    <string name="privacy_policy_msg">&lt;Data>This app contains the following features:&lt;br/>• Weather info specific to your location&lt;br/>• Weather forecasts&lt;br/>• Weather warnings&lt;br/>&lt;br/>Weather needs to collect necessary personal information to provide you with basic services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a> before using Weather. You can withdraw your consent to the Privacy Policy of Weather in the Settings at any time.&lt;/Data></string>
+    <string name="privacy_policy_msg">Bu uygulama aşağıdaki özellikleri içerir: • Bulunduğunuz yere özel hava durumu bilgileri • Hava durumu tahminleri • Hava durumu uyarıları. Hava durumu size temel hizmetleri sunabilmesi için gerekli kişisel bilgileri toplaması gerekir. Topladığımız bilgileri nasıl kullandığımızı %1$s Gizlilik politikamızdan öğrenebilirsiniz. Hava durumunu kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %3$s Gizlilik politikamızı okuyup kabul edin. Hava durumu gizlilik politikasına verdiğiniz izni istediğiniz zaman ayarlardan geri çekebilirsiniz</string>
     <string name="privacy_revoke_failed">Yetki geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="privacy_revoke_success">Yetki başarıyla geri alındı</string>
     <string name="privacy_settings">Gizlilik politikası</string>

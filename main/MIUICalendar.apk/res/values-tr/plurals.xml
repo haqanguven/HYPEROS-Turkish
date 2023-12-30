@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d gün önce</item>
-        <item quantity="one">1 gün önce</item>
+        <item quantity="other">Etkinlikten %d gün önce</item>
+        <item quantity="one">Etkinlikten %d gün önce</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d gün sonra</item>
@@ -22,27 +22,27 @@
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d saat önce</item>
-        <item quantity="one">1 saat önce</item>
+        <item quantity="one">%d saat önce</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="other">Etkinlikten %d dakika önce</item>
+        <item quantity="one">Etkinlikten %d dakika önce</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d hafta önce</item>
-        <item quantity="one">%d hafta önce</item>
+        <item quantity="other">Etkinlikten %d hafta önce</item>
+        <item quantity="one">Etkinlikten %d hafta önce</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içinde</item>
+        <item quantity="other">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içinde</item>
@@ -52,14 +52,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içinde</item>
-        <item quantity="one">1 dakika içinde</item>
+        <item quantity="one">%d dakika içinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şu anda</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="after_num_minutes">
         <item quantity="other">%d dakika içinde</item>
@@ -70,12 +70,12 @@
         <item quantity="one">%1$s gün</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Yıl dönümü: %1$s beri %2$d yıl 3 gün içerisinde</item>
-        <item quantity="one">Yıl dönümü: %1$s beri %2$d yıl 3 gün içerisinde</item>
+        <item quantity="other">"Yıl dönümü: %2$s'den bu yana %3$d yıl %1$d gün sonra"</item>
+        <item quantity="one">"Yıl dönümü: %2$s'den bu yana %3$d yıl %1$d gün sonra"</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">Yıl dönümü: %1$s beri %2$d yıl</item>
-        <item quantity="one">Yıl dönümü: %1$s beri %2$d yıl</item>
+        <item quantity="other">"Yıl dönümü: %1$s'dan bu yana %2$d yıl"</item>
+        <item quantity="one">"Yıl dönümü: %1$s'dan bu yana %2$d yıl"</item>
     </plurals>
     <plurals name="anniversary_year">
         <item quantity="other">%1$s yıl</item>
@@ -158,7 +158,7 @@
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildirim</item>
@@ -167,6 +167,14 @@
     <plurals name="n_attendees">
         <item quantity="other">%d davet</item>
         <item quantity="one">%d davet</item>
+    </plurals>
+    <plurals name="n_day_before">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="n_day_later">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">%d gün içinde</item>
     </plurals>
     <plurals name="n_weeks">
         <item quantity="other">%d</item>
@@ -201,8 +209,8 @@
         <item quantity="one">Bir sonraki hatırlatıcı %1$d dakika içinde</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">her %1$s %2$s</item>
-        <item quantity="one">her %1$s %2$s</item>
+        <item quantity="other">"%2$s'da her %1$s'de bir"</item>
+        <item quantity="one">"%2$s'da her %1$s'de bir"</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
         <item quantity="other">%1$d gün</item>
