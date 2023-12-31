@@ -125,6 +125,7 @@
     <string name="app_permission_use_group_storage">Depolama</string>
     <string name="app_permission_use_group_storage_desc">Cihaza kaydedilmiş şarkıları bulmak ve çalmak için</string>
     <string name="app_resident_push_switch">Kalıcı bildirimlere izin ver</string>
+    <string name="app_third_privacy">Üçüncü taraf gizlilik politikaları</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_for_the_following_permissions">Bu uygulama aşağıdaki izinleri ister:</string>
     <string name="apply_permissions_greater_than_pie">Bu izinleri Ayarlar > Uygulamalar > İzinler > İzinler > Dosyalar ve medya > Müzik menüsünde verebilirsiniz</string>
@@ -576,7 +577,7 @@
     <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="error_not_support">Desteklenmiyor</string>
-    <string name="evening">ÖS</string>
+    <string name="evening">Öğleden sonra</string>
     <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
     <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırak</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -954,6 +955,7 @@
     <string name="loading_hint">Yükleniyor</string>
     <string name="loading_reached_the_bottom">Şimdilik bu kadar</string>
     <string name="loading_text">Yükleniyor</string>
+    <string name="local_ad_title">Tanıtım</string>
     <string name="local_download_download">İndir</string>
     <string name="local_download_hint">İndirmeden önce wifi ağını açın</string>
     <string name="local_download_item">Ücretsiz indirin</string>
@@ -1893,6 +1895,7 @@ mutlu ol"</string>
     <string name="toast_will_play_list_when_ad_pause">Oynatma listesi reklamlardan sonra oynatılmaya başlanacak</string>
     <string name="toast_will_play_song_when_ad_pause">Bu şarkı reklamlardan sonra oynatılmaya başlanacak</string>
     <string name="today">Bugün</string>
+    <string name="today_hot_playlist">Bugünün en iyi çalma listesi</string>
     <string name="tomorrow">Yarın</string>
     <string name="top_chart_title">Grafikler</string>
     <string name="track_play_history_after_login">Oynatma geçmişini görüntülemek için oturum açın</string>
