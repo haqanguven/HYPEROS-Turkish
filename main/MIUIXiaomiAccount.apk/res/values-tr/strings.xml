@@ -31,6 +31,7 @@
     <string name="about_mi_account">Xiaomi hesabı hakkında</string>
     <string name="accept">İzin ver</string>
     <string name="account_and_password">Şifre</string>
+    <string name="account_auth_failed_message">"Xiaomi hesabı %1$s'ın oturum açma kimlik bilgilerinin süresi doldu. Tekrar deneyin"</string>
     <string name="account_bind_devices">Cihazlar</string>
     <string name="account_bind_secure_email_title">E-posta adresi ekle</string>
     <string name="account_bind_secure_phone_title">Telefon numarası ekle</string>
@@ -217,7 +218,8 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="default_error_message">Geçersiz giriş</string>
-    <string name="default_popup_window_title">Pop-up Pencere</string>
+    <string name="default_popup_window_title">Açılır pencere</string>
+    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="delete_bank_card_message">Oturumu kapatmanızdan sonra banka kartınız güvenlik nedeniyle silinecektir</string>
     <string name="delete_bank_card_title">Banka kartınız siliniyor</string>
     <string name="delete_device_btn">Kaldır</string>
@@ -263,9 +265,27 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Facebook ile giriş yap</string>
+    <string name="facets_path">[{\"include\": \"https://account.xiaomi.com/.well-known/assetlinks.json\"}]</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Xiaomi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="family_service">Aile hizmetleri</string>
     <string name="family_service_not_open">Üyeleri davet et</string>
+    <string name="fido2_client_for_fingerprint_auth">Parmak iziyle doğrulamak için dokunun</string>
+    <string name="fido2_close_fingerprint_auth">Kapatılıyor</string>
+    <string name="fido2_close_fingerprint_auth_desc">Parmak izi doğrulaması şimdi kapatılsın mı?</string>
+    <string name="fido2_err_already_registered">Bu hesap bu özelliği zaten etkinleştirmiş</string>
+    <string name="fido2_err_def">Bir hata oluştu. Bir veya iki dakika bekleyip tekrar deneyin</string>
+    <string name="fido2_err_not_regisetered">Bu hesap henüz bu özelliği etkinleştirmedi</string>
+    <string name="fido2_err_not_support">Bu özellik bu cihazda desteklenmiyor</string>
+    <string name="fido2_err_security">Güvenlik riskleri algılandı. Bu özellik kullanılamıyor</string>
+    <string name="fido2_err_service_ Exception">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyip tekrar deneyin</string>
+    <string name="fido2_err_timeout">İstek zaman aşımına uğradı. Bir veya iki dakika bekleyip tekrar deneyin</string>
+    <string name="fido2_fingerprint_auth">Parmak izi doğrulaması</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Xiaomi hesabınızda oturum açmak ve kimliğinizi doğrulamak için parmak izinizi kullanın. &lt;a href=>Daha fazla bilgi&lt;/a></Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">Cihazınızın parmak izi değişti. Parmak izi doğrulamayı açabilmek için hesabınızı tekrar doğrulayın</string>
+    <string name="fido2_fingerprint_verify">Parmak izi doğrulaması</string>
+    <string name="fido2_psw_changed_and_afresh_register">Şifreniz değişti. Parmak izinizi tekrar doğrulayın</string>
+    <string name="fido2_setting_ps_notify">Parmak izi doğrulamayı kullanabilmek için bir hesap şifresi ayarlamanız gerekecek. Bunu Ayarlar > Xiaomi hesabı > Hesap güvenliği > Şifre bölümünden yapabilirsiniz</string>
+    <string name="fido2_verify_fingerprint">Parmak izini doğrula</string>
     <string name="find_device">Cihazı bul</string>
     <string name="find_device_access_denied">Durum alınamıyor. Erişim engellendi</string>
     <string name="find_device_account_error">Hesap hatasından dolayı durum alınamıyor</string>
@@ -351,13 +371,19 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
+    <string name="gcm_defaultSenderId">630236635882</string>
     <string name="get_back_password">Şifreyi sıfırla</string>
     <string name="get_back_pwd">Şifre sıfırlama</string>
     <string name="get_identity_auth_url_failed">Kimlik doğrulanamadı</string>
     <string name="get_phone_bind_exceed_limit">Bir telefon numarasıyla 3 Xiaomi hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
-    <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve ardından yeniden deneyin</string>
+    <string name="get_phone_verifycode_exceed_limit">Bu numaraya daha fazla doğrulama kodu gönderilemiyor</string>
+    <string name="go_to_setting">Ayarlar</string>
     <string name="google">Google</string>
+    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
+    <string name="google_app_id">1:630236635882:android:04e152f122e4397796ed93</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
     <string name="google_login">Google ile giriş yap</string>
+    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="has_no_new_version">Güncel</string>
     <string name="health_action_activate">Etkinleştir</string>
     <string name="health_action_install">Yükle</string>
@@ -387,6 +413,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="indeterminate">Ne işaretli ne de işaretli değil</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
     <string name="input_new_pwd">Yeni şifre</string>
+    <string name="input_ps">Şifre girin</string>
     <string name="io_error_title">Ağınızı doğrulayın</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="just_a_second">Yükleniyor</string>
@@ -405,6 +432,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="login_notification_button_text">Oturum aç</string>
     <string name="login_notification_desc">Bulut hizmetlerinin, aile depolama alanının ve daha fazlasının keyfini çıkarın</string>
     <string name="login_notification_title">Xiaomi hesabınızda oturum açın</string>
+    <string name="login_or_register_by_other_way">Başka bir yöntem kullan</string>
     <string name="login_with_other">Daha fazla seçenek</string>
     <string name="logout_account">Oturumu kapat</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>
@@ -546,8 +574,8 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
@@ -923,6 +951,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="privacy_policy_reject_confirm_title">Xiaomi hesabını kullanamıyorum</string>
     <string name="privacy_policy_update_msg">Xiaomi hesabı gizlilik politikası güncellendi:&lt;br/>%1$s&lt;br/>Yeni sürüm &lt;a href=%2$s>&lt;u>gizlilik politikasını &lt;/u>&lt;/a> okuyun ve kabul edin</string>
     <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
+    <string name="project_id">micloud-43705</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
@@ -941,6 +970,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="recycle_phone_notification_msg">Telefon numaranız geri dönüştürülmüş gibi görünüyor. Güncellemek için dokunun</string>
     <string name="recycle_phone_notification_title">Xiaomi hesabı güvenlik riski</string>
     <string name="removing_account">Oturum kapatılıyor</string>
+    <string name="reopen">Aç</string>
     <string name="request_open_permission">Gerekli izinler</string>
     <string name="request_use_camera_message">Xiaomi hesabının telefonunuzun kamerasına erişmesine izin verilsin mi?</string>
     <string name="request_use_camera_title">Kameraya erişim</string>
@@ -981,6 +1011,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="send">Gönder</string>
     <string name="service_error">Servis hatası</string>
     <string name="set_success">Başarıyla değiştirildi</string>
+    <string name="setting_ps">Şifre ayarları</string>
     <string name="sign_in">Oturum açma</string>
     <string name="sim_card">Sim kart</string>
     <string name="sim_changed_notification_msg">Kurtarma telefonunuzu güncellemek ve hesabınızı daha güvenli tutmak için dokunun</string>

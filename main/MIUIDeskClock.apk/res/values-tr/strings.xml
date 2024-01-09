@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s erteleme</string>
     <string name="alarm_permanent_alert">Çalıyor</string>
     <string name="alarm_repeat">Tekrar</string>
+    <string name="alarm_repeat_self_define">Özelleştir</string>
     <string name="alarm_repeat_self_define_button">Özelleştir</string>
     <string name="alarm_ringtone_picker">Alarmlar</string>
     <string name="alarm_set_new">Alarm %d dakikadan daha kısa sürede çalacak</string>
@@ -61,15 +62,15 @@
     <string name="app_name">Saat</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auto_silence_entries1">Asla</string>
-    <string name="auto_silence_entries2">%d dakika</string>
-    <string name="auto_silence_entries3">%d dakika</string>
-    <string name="auto_silence_entries4">%d dakika</string>
-    <string name="auto_silence_entries5">%d dakika</string>
-    <string name="auto_silence_entries6">%d dakika</string>
-    <string name="auto_silence_entries7">%d dakika</string>
-    <string name="auto_silence_entries8">%d dakika</string>
+    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> dakika</string>
+    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> dakika</string>
     <string name="auto_silence_summary">Alarmların ve zamanlayıcıların susturulacağı süreyi ayarlayın</string>
-    <string name="auto_silence_title">Otomatik susturma</string>
+    <string name="auto_silence_title">Otomatik sustur</string>
     <string name="back">Çıkış</string>
     <string name="bedtime">Uyku zamanı</string>
     <string name="bedtime_analysis_more">Daha fazla veri</string>
@@ -539,7 +540,7 @@
     <string name="open_notification_permission_remind">Alarmları kapatabilmek için bildirimlere izin verin</string>
     <string name="open_sleep_record">Aç</string>
     <string name="other_settings">Ek ayarlar</string>
-    <string name="password_toggle_content_description">Show password</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -555,6 +556,7 @@
     <string name="privacy_policy_title">Gizlilik politikası</string>
     <string name="privacy_settings_title">Gizlilik</string>
     <string name="query_privacy_policy">Gizlilik politikasını görüntüle</string>
+    <string name="read_device_internal_storage">Depolamaya erişim</string>
     <string name="read_external_storage_permission_desc">Özel zil sesleri ayarlamak için</string>
     <string name="read_internal_storage">Depolama alanına erişme</string>
     <string name="remark_hint">Etiket girin</string>

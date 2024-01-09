@@ -1254,6 +1254,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d virüs temizlendi</item>
         <item quantity="one">%d virüs temizlendi</item>
     </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virüs veya riskli uygulama</item>
+        <item quantity="one">%d virüs veya riskli uygulama</item>
+    </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>

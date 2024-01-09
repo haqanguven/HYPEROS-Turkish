@@ -146,7 +146,7 @@
     <string name="close_invisible_mode_dialog_title">Gizlisin</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
-    <string name="control_center_notification_switch_guide">Kontrol merkezi ve Bildirim çubuğu arasında geçiş yapmak için kaydırın</string>
+    <string name="control_center_notification_switch_guide">Kontrol merkezi ve bildirim çubuğu arasında geçiş yapmak için kaydırın</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="controls_add_device_guide">Burada henüz cihaz yok</string>
     <string name="controls_click_to_add_device">Cihaz ekle</string>
@@ -507,8 +507,8 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
