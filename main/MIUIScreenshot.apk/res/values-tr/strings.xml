@@ -499,6 +499,7 @@ almak için dokunun"</string>
     <string name="screenshot_long_screenshot">Kaydır</string>
     <string name="screenshot_save">Kaydet</string>
     <string name="screenshot_send">Gönder</string>
+    <string name="screenshot_succeed">Ekran resmi başarıyla alındı</string>
     <string name="screenshot_thumbnail">Ekran resmi küçük resmi</string>
 	<string name="scroll_annotation">Kaydırın ve açıklama ekleyin</string>
 	<string name="scroll_annotation_btn_quit">Çıkış ek açıklamaları</string>
