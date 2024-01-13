@@ -369,7 +369,10 @@ bulamıyor musunuz?"</string>
     <string name="circulate_more_setting">Ek ayarlar</string>
     <string name="circulate_open_in_tv">"TV'de aç"</string>
     <string name="circulate_pad_app_continuity">"Telefonun %1$s'ı kullanılıyor"</string>
-    <string name="circulate_pad_card_being_used_camera">Telefonun kamerasını tablette kullanma</string>
+    <string name="circulate_pad_card_being_used_camera">Telefonun kamerasını tablette kullan</string>
+    <string name="circulate_pad_card_being_used_cellular">Tablet mobil veri kullanıyor</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Tabletle paylaşılan wifi sinyali</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Tabletle paylaşılan wifi sinyali</string>
     <string name="circulate_pad_card_use_camera">Tabletin kamerasını kullan</string>
     <string name="circulate_pad_card_use_desktop">Ana ekranı tablette paylaşma</string>
     <string name="circulate_pad_card_using_camera">Tabletin kamerasını kullanma</string>
@@ -382,10 +385,14 @@ bulamıyor musunuz?"</string>
     <string name="circulate_phone_app_continuity">Tablette %1$s kullanılıyor</string>
     <string name="circulate_phone_card_being_used_camera">Telefonda tabletin kamerasını kullanma</string>
     <string name="circulate_phone_card_use_camera">Telefonun kamerasını kullan\"</string>
+    <string name="circulate_phone_card_use_cellular">Telefonun mobil verilerini kullan</string>
     <string name="circulate_phone_card_use_desktop">Telefonun ana ekranını görüntüle</string>
     <string name="circulate_phone_card_using_camera">Telefonun kamerası kullanılıyor</string>
+    <string name="circulate_phone_card_using_cellular">Telefonun mobil verileri kullanılıyor</string>
+    <string name="circulate_phone_card_using_cellular_wifi">Telefonun wifi sinyalini kullan</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">Telefonun wifi sinyalini kullan</string>
     <string name="circulate_phone_card_using_desktop">Telefonun ana ekranı görüntüleniyor</string>
-    <string name="circulate_public_device_title_format">%2$s/%1$s</string>
+    <string name="circulate_public_device_title_format">"%1$s'nin %2$s'si"</string>
     <string name="circulate_ringfind_button_hint_play">Sesi oynat</string>
     <string name="circulate_ringfind_button_hint_stop">Durdur</string>
     <string name="circulate_ringfind_error_hint_ringing">Cihaz zaten çalıyor</string>
@@ -454,6 +461,7 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_category_connection_car">Araba özellikleri</string>
     <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_personal_device">Kişisel cihazlar</string>
+    <string name="connect_settings_communication_sharing">Kablosuz bağlantı noktası</string>
     <string name="connect_settings_connect_permission">Ara bağlantı ve izinler</string>
     <string name="connect_settings_connect_privacy">Gizlilik</string>
     <string name="connect_settings_connection_service">Xiaomi ara bağlantı</string>
@@ -700,7 +708,6 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="hang_up_alert_dialog_pos">Tamam</string>
     <string name="hang_up_alert_dialog_title">Ekran kapalıyken yansıtma başlamak üzere</string>
     <string name="hardware_controller_config">{\"online\":false,\"offline\":false,\"association_changed\":true,\"before_associate\":true,\"after_associate\":true,\"before_disassociate\":true,\"after_disassociate\":true,\"request_permission\":true}</string>
-    <string name="have_helped_you">Sana zaten yardım ettim</string>
     <string name="head_toast_connecting">Bağlanıyor</string>
     <string name="head_toast_fail">Bağlanılamad</string>
     <string name="head_toast_success">Başarıyla bağlanıldı</string>
@@ -933,7 +940,7 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="mirror_phone_content">Ana ekran+ şimdi açılsın mı?</string>
     <string name="mirror_phone_content_remote">"Ayarlar > Bağlantı menüsünde Ana ekran+'ı açabilirsiniz"</string>
     <string name="mirror_phone_title">Ana ekranı aç+</string>
-    <string name="mirror_phone_title_remote">Telefonda Ana ekranı+ açın</string>
+    <string name="mirror_phone_title_remote">Telefonda ana ekranı+ açın</string>
     <string name="mirror_remote_pad_content">"Ana ekran+'yı Ayarlar > Ara Bağlantı bölümünden açabilirsiniz"</string>
     <string name="mirror_remote_pad_title">Tablette Ana ekranı+ açın</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -1471,8 +1478,8 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="upgrade_ver_can_upgrade_1to2s">"Sürüm %1$s'den %2$s'ye güncelle"</string>
     <string name="upgrade_ver_can_upgrade_to1">Güncelle: sürüm %1$d</string>
     <string name="upgrade_ver_latest">Mevcut sürüm güncel</string>
-    <string name="upgrade_ver_latest1">Mevcut sürüm (%1$d) güncel</string>
-    <string name="upgrade_ver_latest1s">Mevcut sürüm (%1$s) güncel</string>
+    <string name="upgrade_ver_latest1">Mevcut sürüm güncel (%1$d)</string>
+    <string name="upgrade_ver_latest1s">Mevcut sürüm güncel (%1$s)</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="watch_more_setting">Daha fazla seçenek</string>

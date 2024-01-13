@@ -91,7 +91,6 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
     <string name="agree_and_continue">Kabul et</string>
-    <string name="agree_label">Kabul et</string>
     <string name="ai_animation_music_text">AI film müziği</string>
     <string name="ai_music_save_cancel">İptal et</string>
     <string name="ai_music_save_dialog_title">Kaydet</string>
@@ -143,7 +142,6 @@
     <string name="btn_playlist_play_all">Oynat</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_choose">Seçimi kaldır</string>
-    <string name="cancel_label">X</string>
     <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>
     <string name="cast_ad_label">Reklam</string>
     <string name="cast_casting_to_device">%1s cihazına yayınlanıyor</string>
@@ -273,6 +271,7 @@
     <string name="chromecast_playing">Bu videoyu Chromecast ile izliyorsunuz</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="click_to_open_ad">Daha fazlasını öğrenmek için dokunun</string>
     <string name="click_to_open_pip">Resim içinde resime geçmek için dokunun</string>
     <string name="click_to_play_video_push_context">Videoyu oynatmak için dokunun</string>
     <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
@@ -362,12 +361,12 @@
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="day">gün</string>
     <string name="default_localization_key">Sistem</string>
-    <string name="default_message_body">Mesaj gövdesi</string>
-    <string name="default_title">Başlık</string>
-    <string name="default_upgrade_hint">"Selam
-Videolar güncelleme için hazır
-Yeni havalı özelliklerimizi kontrol etmek için uygulamayı şimdi güncelleyin
-Videolar ekibi"</string>
+    <string name="default_upgrade_hint">"Merhaba,
+Videolar uygulaması güncellemeye hazır
+Yeni harika özelliklerimize göz atmak için uygulamayı şimdi güncelleyin
+
+
+Hakan GÜVEN"</string>
     <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
     <string name="define_roundedimageview" />
     <string name="description">Tanım</string>
@@ -966,6 +965,8 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_subtitle_input_keyword_text">Arama kelimeleri</string>
     <string name="local_tip_act_for_android_u">Düzenle</string>
     <string name="local_tip_info_for_android_u">Videoların yalnızca bazı videoları görüntülemesine izin verdiniz</string>
+    <string name="local_tip_info_for_no_audio">Cihazınıza kaydedilen ses dosyalarına erişilemiyor. Önce gerekli izinleri verin</string>
+    <string name="local_tip_info_for_no_video">Cihazınıza kayıtlı videolara erişilemiyor. Önce gerekli izinleri verin</string>
     <string name="local_video_create_a_new_playlist">Yeni oynatma listesi</string>
     <string name="local_video_date">Tarih</string>
     <string name="local_video_dialog_default">Varsayılan</string>
@@ -1689,6 +1690,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Öncelikle resim içinde resim özelliğini kullanmak için videolara izin verin</string>
     <string name="popup_window_home_tip">Çevrimiçi videoları indirin</string>
+    <string name="popup_window_small_tag_tip">Bir kategorideki tüm videoları görüntülemek için bir etikete dokunun</string>
     <string name="pre_ad">·AD</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_agree_subtitle">Gizlilik politikasına onay vermek videoların tüm özelliklerini kullanmanıza olanak tanır</string>
@@ -1725,7 +1727,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="recommend_slide_to_more">Daha fazlası için kaydırın</string>
     <string name="recommend_switch_alert">Bu bölümü silmek için videoda ayarlara gidin</string>
     <string name="recommend_to_you">Sizin için önerilen</string>
-    <string name="reject_all_label">Tümünü reddet</string>
     <string name="reload_sub_title">Tekrar denemek için dokunun</string>
     <string name="reload_title">Ağa bağlanamadı</string>
     <string name="remaining_space">Kullanılabilir: %s</string>
@@ -1797,6 +1798,8 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="settings_inline_auto_play_wify">"Yalnızca wifi'de otomatik oynat"</string>
     <string name="settings_inline_title">Sayfayı otomatik oynatmayı başlat</string>
     <string name="settings_manager_hidden_folder">Gizli videoları yönet</string>
+    <string name="shake_or_click_to_open_ad">Daha fazlasını öğrenmek için sallayın veya dokunun</string>
+    <string name="shake_to_open_ad">Daha fazlasını öğrenmek için sallayın</string>
     <string name="share">Paylaş</string>
     <string name="share_text_before_link">Videolarda ücretsiz harika videolar izleyin ve indirin</string>
     <string name="share_ugc_content">%1$s bir göz atın! #%2$s (%3$s)</string>
@@ -1813,7 +1816,9 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="sign_in_title">Xiaomi hesabında oturum aç</string>
     <string name="skip_ad">Atla</string>
     <string name="slid_fail_message">Video kaydedilemedi</string>
+    <string name="slide_or_click_to_open_ad">Daha fazlasını öğrenmek için kaydırın veya dokunun</string>
     <string name="slide_save_message">Video oluşturuluyor</string>
+    <string name="slide_to_open_ad">Daha fazlasını öğrenmek için kaydırın</string>
     <string name="small_video_load_more_hint">Daha fazla video oynatmak için yukarı kaydırın</string>
     <string name="small_video_tab_expose_hint">Seveceğiniz kısa videoları keşfedin</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>

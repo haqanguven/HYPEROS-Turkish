@@ -47,6 +47,7 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Xiaomi bulut hizmeti</string>
     <string name="bad_authentication">Geçersiz hesap veya şifre</string>
+    <string name="browser_sync_settings_preference">Otomatik olarak senkronize et</string>
     <string name="btn_return">Geri</string>
     <string name="btn_revoke_permission">İzni geri çek</string>
     <string name="button_agree">Kabul et</string>
