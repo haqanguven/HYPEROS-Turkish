@@ -11291,7 +11291,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
 	<string name="infinite_scroll_title">Sonsuz kaydırma</string>
-	<string name="application_titles_title">Uygulama başlıkları görünümü</string>
+	<string name="application_titles_title">Uygulama isimleri</string>
 	<string name="folder_layout_title">Klasör düzeni</string>
 	<string name="folder_blur_title">Klasör bulanıklık efekti</string>
 	<string name="folder_close_title">Klasörleri otomatik kapat</string>

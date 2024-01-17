@@ -48,7 +48,6 @@
     <string name="cal_copy">Kopyala</string>
     <string name="cal_paste">Yapıştır</string>
     <string name="cal_result_format">= %s</string>
-    <string name="cal_result_format_in_pad">=%s</string>
     <string name="cal_text_copied">Metin kopyalandı</string>
     <string name="cancel">İptal et</string>
     <string name="card_individual_income_tax">Kişisel gelir vergisi (CNY)</string>
@@ -415,7 +414,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_edit">Edit</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -548,7 +547,7 @@
     <string name="preference_use_voice_summary">Hesaplamalar sırasında konuşma çıktısını kullanmak için açın</string>
     <string name="preference_use_voice_title">Konuşma çıktısı</string>
     <string name="preference_user_feedback_title">Geri bildirim</string>
-    <string name="preference_view_privacy_title">Gizlilik Politikasını görüntüle</string>
+    <string name="preference_view_privacy_title">Gizlilik politikasını görüntüle</string>
     <string name="privacy_dialog_title">Gizlilik</string>
     <string name="privacy_revoke_error">Geri çekilemedi. Tekrar deneyin</string>
     <string name="privacy_revoke_progress">Geri çekiliyor</string>
@@ -573,7 +572,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="secondFunctionDesc">İkinci işleve geç</string>
     <string name="send">Gönder</string>
-    <string name="settingsDesc">ayarlar</string>
+    <string name="settingsDesc">Ayarlar</string>
     <string name="sinDesc">sinüs</string>
     <string name="solar_term_autumn_begins">Sonbahar başlangıcı</string>
     <string name="solar_term_autumn_equinox">Sonbahar sonu</string>
@@ -707,7 +706,7 @@
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
     <string name="turn_on_location_permission_prompt">Konum izinleri kapalı</string>
-    <string name="uninstall_warning_content">Hesaplayıcı, bir sistem uygulamasıdır. Kaldırdıktan sonra, para birimlerini ve ölçü birimlerini çevirmek, kredi geri ödemelerini hesaplamak ve diğer özellikleri kullanmak gibi temel işlevleri kullanamayacaksınız.</string>
+    <string name="uninstall_warning_content">Hesaplayıcı bir sistem uygulamasıdır. Kaldırdıktan sonra para birimlerini ve ölçü birimlerini çevirmek, kredi geri ödemelerini hesaplamak ve diğer özellikleri kullanmak gibi temel işlevleri kullanamayacaksınız</string>
     <string name="uninstall_warning_title">Hesaplayıcı kaldırılsın mı?</string>
     <string name="unit_data_default_area_0">sq.m</string>
     <string name="unit_data_default_area_1">sq.cm</string>

@@ -635,8 +635,8 @@
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
@@ -732,7 +732,7 @@
     <string name="pc_todo_fast_create_hint">Metin girin ve bitmemiş bir görev eklemek için girişe basın</string>
     <string name="pc_todo_set_remind_time_hint">Zamanı ayarla</string>
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>
-    <string name="permission_data_shared_desc">Notes üçüncü taraf veri paylaşım bildirimi</string>
+    <string name="permission_data_shared_desc">Üçüncü taraf veri paylaşım bildirimi</string>
     <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek içindir</string>
     <string name="permission_intro_microphone">Sesli notları kaydetmek içindir</string>
     <string name="permission_intro_phone">Aramalar sırasında alınan notları işaretlemek içindir</string>
@@ -969,6 +969,7 @@
     <string name="time_picker_dialog_title">Saati ayarla</string>
     <string name="time_picker_label_hour">Saat</string>
     <string name="time_picker_label_minute">Dakika</string>
+    <string name="to_view_alarm_content">Görüntülemek için dokunun</string>
     <string name="toast_cancel_to_insert_image">Resim eklenemedi</string>
     <string name="toast_excerpt_end">Alıntı başarıyla oluşturuldu</string>
     <string name="toast_excerpt_no_content">Alıntı yok</string>
