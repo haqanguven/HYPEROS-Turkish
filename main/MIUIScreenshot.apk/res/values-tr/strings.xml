@@ -262,7 +262,11 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo telefon</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan özel bilgileri kaldırılıyor (%d/%d)</string>
-    <string name="long_screenshot_error">Ekran resmi alınamadı. Tekrar deneyin</string>
+    <string name="long_screenshot_content_auto">Ekran görüntüsü alınıyor</string>
+    <string name="long_screenshot_content_loading">Yükleniyor</string>
+    <string name="long_screenshot_content_manual">Ekran görüntüsünün uç noktasını manuel olarak ayarlayın ve ardından bittiye dokunun</string>
+    <string name="long_screenshot_done">Bitti</string>
+    <string name="long_screenshot_error">Bir hata oluştu. Tekrar deneyin</string>
     <string name="long_screenshot_guide_text">"Kayan ekran görüntüsü
 almak için dokunun"</string>
     <string name="long_screenshot_intercepted_error">Ekran resmi alınamadı. Tekrar deneyin</string>
@@ -270,6 +274,7 @@ almak için dokunun"</string>
     <string name="long_screenshot_processing">İşleniyor</string>
     <string name="long_screenshot_processing_description_accessibility">İşleniyor</string>
     <string name="long_screenshot_stop">Bitti</string>
+    <string name="long_screenshot_title">Ekran görüntüsü kaydırılıyor</string>
     <string name="long_screenshot_top_msg">Ekran resmi oluşturuluyor</string>
     <string name="long_screenshot_top_msg_description_accessibility">Ekran resmi oluşturuluyor</string>
     <string name="long_screenshot_top_msg_manual">Ekran resmini kesin ve bitirmek için tuşa dokunun</string>

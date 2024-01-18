@@ -484,16 +484,16 @@
     <string name="pm">ÖS</string>
     <string name="preference_clear_data">Verileri temizle</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="preference_enable_earpiece_summary">Harici oynatma için alıcı hoparlörünü kullan</string>
-    <string name="preference_enable_earpiece_title">Sesi oynatmak için alıcı kullan</string>
+    <string name="preference_enable_earpiece_summary">Kulaklık hoparlörünü kullanarak sesi oynat</string>
+    <string name="preference_enable_earpiece_title">Kulaklık modu</string>
     <string name="preference_led_indicator">Kilit ekranı bildirimleri</string>
-    <string name="preference_led_indicator_prompt">Kayıt sırasında durum çubuğu kısayolunu göster ve bildirim ışığını yakıp söndür</string>
-    <string name="preference_record_desktop_indicator_summary">Kaydedici arka planda çalışırken ana ekranda mavi bir gösterge gösterin</string>
+    <string name="preference_led_indicator_prompt">Kayıt yaparken kilit ekranında mavi bir gösterge göster ve ışığı yakıp söndür</string>
+    <string name="preference_record_desktop_indicator_summary">Kayıt yaparken ana ekranda mavi bir gösterge göster</string>
     <string name="preference_record_desktop_indicator_title">Ana ekran göstergesi</string>
     <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
     <string name="preference_scenes">Kayıt türü</string>
     <string name="preference_silent_mode">Kayıt esnasında zil sesini kapat</string>
-    <string name="preference_status_bar_indicator_prompt">Kayıt sırasında durum çubuğu kısayolunu göster</string>
+    <string name="preference_status_bar_indicator_prompt">Kayıt yaparken kilit ekranında mavi bir gösterge göster</string>
     <string name="preference_tip_rename">Kayıtları otomatik olarak adlandır</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="progress">Oynatma ilerleme çubuğu</string>
@@ -716,6 +716,7 @@
     <string name="toast_enter_silent_mode">Kayıt yapılıyor. Sessiz mod açık.</string>
     <string name="toast_exit_silent_mode">Kayıt tamamlandı. Sessiz mod kapalı.</string>
     <string name="toast_max_record_time">%1$s, %2$s dakika civarı kayıt yapabilir</string>
+    <string name="toast_stop">Kayıt tamamlandı</string>
     <string name="toast_uninstall_fileexplorer">Dosya Yöneticisi yüklü değil</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
@@ -741,7 +742,7 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
-    <string name="wifi_recommended_body" formatted="false">Bu dosyayı (%s) indirmek için mobil veri bağlantınızı kullanmanız, veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız, operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz. İndirme işlemini bir Wi-Fi ağına bağlanılana kadar bekletmek için %s dokunun.</string>
+    <string name="wifi_recommended_body" formatted="false">Bu dosyayı (%s) indirmek için mobil veri bağlantınızı kullanmanız, veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız, operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz. İndirme işlemini bir Wi-Fi ağına bağlanılana kadar bekletmek için %s dokunun</string>
     <string name="wifi_recommended_title">Veri kullanımı uyarısı</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
