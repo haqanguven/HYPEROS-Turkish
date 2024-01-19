@@ -484,7 +484,7 @@
     <string name="pm">ÖS</string>
     <string name="preference_clear_data">Verileri temizle</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="preference_enable_earpiece_summary">Kulaklık hoparlörünü kullanarak sesi oynat</string>
+    <string name="preference_enable_earpiece_summary">Kulaklık hoparlörünü kullanarak sesi oynatın</string>
     <string name="preference_enable_earpiece_title">Kulaklık modu</string>
     <string name="preference_led_indicator">Kilit ekranı bildirimleri</string>
     <string name="preference_led_indicator_prompt">Kayıt yaparken kilit ekranında mavi bir gösterge göster ve ışığı yakıp söndür</string>
