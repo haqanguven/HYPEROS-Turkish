@@ -3168,6 +3168,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="display_cutout_emulation">Ekran girintisi simule et</string>
     <string name="display_cutout_emulation_keywords">Ekran kesimi ve çentik</string>
     <string name="display_dashboard_summary">Duvar kağıdı, uyku ve yazı tipi boyutu</string>
+    <string name="display_notification_icon_0">Kapalı</string>
+    <string name="display_notification_icon_1">%d simge</string>
+    <string name="display_notification_icon_3">%d simge</string>
     <string name="display_prompt_confirm">Tamam</string>
     <string name="display_settings">Ekran</string>
     <string name="display_settings_new">Ekran &amp; parlaklık</string>
@@ -3175,6 +3178,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="display_vr_pref_low_persistence">Bulanıklığı azalt (Önerilen)</string>
     <string name="display_vr_pref_off">Titremeyi azalt</string>
     <string name="display_vr_pref_title">Sanal gerçekçilik hizmeti</string>
+    <string name="display_white_balance_summary" />
     <string name="display_white_balance_title">Beyaz dengeyi göster</string>
     <string name="diy_suppression_summary">Yanlışlıkla dokunmanın yok sayılacağı kenarlara yakın alanın boyutunu ayarlayın</string>
     <string name="diy_suppression_title">Özel</string>
@@ -3184,6 +3188,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dlg_remove_locales_error_message">Tercih edilen en az dil bırakın</string>
     <string name="dlg_remove_locales_error_title">Tüm diller kaldırılamaz</string>
     <string name="dlg_remove_locales_message">Metin bir başka dilde görüntülenecek</string>
+    <string name="dlg_remove_locales_title">{count, plural, =1 {Seçilen dil kaldırılsın mı?} other {Seçilen diller kaldırılsın mı?} }</string>
     <string name="dndm_alarm_content">Sesler</string>
     <string name="dndm_alarm_content_all">Tümüne izin ver</string>
     <string name="dndm_alarm_content_call">Aramalar</string>
@@ -9487,6 +9492,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="title_quick_control_all_devices">Yakındaki cihazlar için kontroller</string>
     <string name="title_regional_pref_footer">Bir uygulama bölgesel tercihleri desteklemiyorsa uygulama varsayılan yerel ayarlarını kullanır</string>
     <string name="title_show_notification_icon">Bildirim simgeleri</string>
+    <string name="title_show_notification_icon_count">Bildirim simgeleri</string>
     <string name="title_smart_device_control">Akıllı cihaz kontrolleri</string>
     <string name="title_special_features_health_global">Kalp atış hızı</string>
     <string name="title_unavailable_locale">%s kullanılamıyor</string>

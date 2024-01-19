@@ -472,6 +472,11 @@ Güvenli ve daha güvenli"</string>
     <string name="lucky_result_title">Kırmızı zarflar</string>
     <string name="main_toolbar_purchase">Bakiye yükle</string>
     <string name="midnight">Gece</string>
+    <string name="migrate_btn_installed">Çocuk alanının yeni sürümüne gidin</string>
+    <string name="migrate_btn_uninstalled">Yükseltmeye git</string>
+    <string name="migrate_dialog_message_installed">Çocuk alanı yalnızca ayarlar yeniden açıldıktan sonra kullanılabilen yeni kullanım süresi kontrolü ve diğer işlevlerle en son sürüme yükseltildi</string>
+    <string name="migrate_dialog_message_uninstalled">Çocuk alanı yeni kullanım süresi kontrolü ve diğer işlevler ekledi. Yeni özellikleri deneyimlemek için lütfen en son sürüme yükseltin</string>
+    <string name="migrate_dialog_title">Yükseltme hatırlatıcısı</string>
     <string name="min_10">10</string>
     <string name="min_20">20</string>
     <string name="min_30">30</string>
