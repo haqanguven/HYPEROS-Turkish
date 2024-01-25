@@ -81,8 +81,8 @@
     <string name="audio_create_will_cancel_state">İptal etmek için bırakın</string>
     <string name="audio_dialog_mode_meeting">Toplantı modu (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">Hayır</string>
-	<string name="audio_dialog_mode_meeting_recognize_close">Ses tanıma kapalı</string>
-	<string name="audio_dialog_mode_meeting_recognize_fail">Ses tanıma tamamlanamadı</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Ses tanıma kapalı</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">Ses tanıma tamamlanamadı</string>
     <string name="audio_dialog_mode_meeting_sum">Toplantı modu 4 farklı kişinin sesini tanımanıza olanak tanır. Beta sürümünde bazı tanıma hataları oluşabilir</string>
     <string name="audio_dialog_mode_meeting_use">Başlat</string>
     <string name="audio_toast_file_invalid">Ses dosyası geçersiz</string>
@@ -169,7 +169,7 @@
     <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
-	<string name="clip_resource_deleted">Bu öğe artık mevcut değil</string>
+    <string name="clip_resource_deleted">Bu öğe artık mevcut değil</string>
     <string name="close">Kapat</string>
     <string name="cloud_trash_bin_title">Xiaomi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
@@ -698,7 +698,7 @@
     <string name="pad_note_create_hint">Not oluşturmak için tuşa dokunun</string>
     <string name="pad_note_list_not_text_stub">Metin yok</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-	<string name="paste_unsupported_data">Bu içerik yapıştırılamıyor</string>
+    <string name="paste_unsupported_data">Bu içerik yapıştırılamıyor</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -1069,6 +1069,7 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="view_all_notes">Tümünü görüntüle</string>
+    <string name="warn_cannot_add_more_content">Bu not maksimum uzunluğuna ulaştı. Eklediğiniz içerik kaydedilmeyecek</string>
     <string name="warn_cannot_add_new_bullet">Not çok uzun olduğundan yeni madde işaretli liste eklenemiyor</string>
     <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
     <string name="warn_cannot_add_new_content">Not çok uzun olduğu için yeni içerik eklenemiyor</string>

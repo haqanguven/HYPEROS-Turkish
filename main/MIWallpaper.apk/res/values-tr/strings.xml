@@ -267,7 +267,7 @@ Krater"</string>
     <string name="mars_view_height_3">268.0 km</string>
     <string name="mars_view_height_4">283.8 km</string>
     <string name="mi_wallpaper_loading">Yükleniyor</string>
-    <string name="mi_wallpaper_title">Duvar kağıdı</string>
+    <string name="mi_wallpaper_title">Mi duvar kağıdı</string>
     <string name="midnight">Gece</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pzt</string>
@@ -308,6 +308,10 @@ Krater"</string>
     <string name="month_september">Eylül</string>
     <string name="month_september_short">Eyl</string>
     <string name="month_september_shortest">Eyl</string>
+    <string name="moon_id">moon</string>
+    <string name="moon_summary">İnsanlığın uzay araştırmalarına doğru küçük bir adımı</string>
+    <string name="moon_super_wallpaper_label">Ay</string>
+    <string name="moon_title">Ay</string>
     <string name="morning">Sabah</string>
     <string name="night">Akşam</string>
     <string name="noon">Gün ortası</string>
