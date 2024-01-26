@@ -69,7 +69,7 @@
     <string name="chart_power_bmw">Güç</string>
     <string name="chart_series_bmw">Dizi</string>
     <string name="chart_unsupport_bmw">Bu grafik çizilemiyor</string>
-    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="doc_scan_save_to_album">Galeriye kaydedildi</string>
     <string name="documentmanager_addPic_failed">Resim yerleştirilemedi</string>
@@ -228,10 +228,12 @@
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
     <string name="privacy_protecte">https://www.wps.com/privacy/privacyprotect/</string>
     <string name="projection_fail">Yayınlanamadı. Harici monitörünüzü kontrol edin ve tekrar deneyin</string>
+    <string name="public_2pic">Görüntüye aktar</string>
     <string name="public_ack">Biliyorum</string>
     <string name="public_amazon_autosave_finished">Belge otomatik olarak kaydedildi</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Geçersiz belge. İşlem tamamlanamıyor</string>
+    <string name="public_banner_action_button">Kullan</string>
     <string name="public_bookmark">Yer işareti</string>
     <string name="public_bottombar_mark">Yer işareti</string>
     <string name="public_cancel">İptal et</string>
@@ -273,8 +275,9 @@
     <string name="public_et_filter_search_empty">Lütfen arama içeriğini girin</string>
     <string name="public_exit_phonemode">Mobil görünümden çık</string>
     <string name="public_exit_play">Çıkış</string>
+    <string name="public_export_pdf">"PDF'ye aktar"</string>
     <string name="public_feedback">Geri bildirim</string>
-    <string name="public_fileNotExist">Dosya artık yok. Dosya diğer programlar tarafından yeniden adlandırılmış, taşınmış, temizlenmiş veya silinmiş olabilir</string>
+    <string name="public_fileNotExist">Dosya artık mevcut değil. Dosya başka programlar tarafından yeniden adlandırılabilir, taşınabilir, temizlenebilir veya silinebilir</string>
     <string name="public_file_cant_write_tips">Dosya geçerli dizine kaydedilemiyor. Yeni bir dosya olarak bir başka dizine kaydetmek istiyor musunuz?</string>
     <string name="public_file_download">Dosya yükleniyor</string>
     <string name="public_find_replaceall">Tümünü değiştir</string>
@@ -334,6 +337,8 @@
     <string name="public_other_app">Başka bir uygulamada aç</string>
     <string name="public_outline">İçerik</string>
     <string name="public_paste">Yapıştır</string>
+    <string name="public_pdf2word">"PDF'den Word'e"</string>
+    <string name="public_pdfFillForm">Formu doldur</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Düzenli</string>
     <string name="public_pdf_converter_open_tip">Bu belge açılsın mı?</string>
@@ -353,6 +358,7 @@
     <string name="public_picture_savefail">Resim bozuk ve kaydedilemiyor</string>
     <string name="public_play">Oynat</string>
     <string name="public_ppt_label">Mi sunum Görüntüleyici</string>
+    <string name="public_privacy_policy">Gizlilik sözleşmesi</string>
 	<string name="public_privacy_update">Bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yollarımızı tam olarak anlamak için devam etmeden önce %s Gizlilik politikamızın yeni sürümünü okuyun ve kabul edin</string>
     <string name="public_re_licensing">Yetkilendirme ver</string>
     <string name="public_readOnlyMode">Salt okunur</string>
@@ -390,8 +396,13 @@
     <string name="public_sensor_ratation_port_tip">Dikey yönlendirme</string>
     <string name="public_service_disable_error_tips">İlişkili hizmet devre dışı bırakıldığından bu özellik kullanılamıyor</string>
     <string name="public_share">Paylaş</string>
+    <string name="public_share_change_to_pdf">PDF olarak gönder</string>
+    <string name="public_share_change_to_pic">Resim olarak gönder</string>
+    <string name="public_share_change_to_word">Word olarak gönder</string>
+    <string name="public_share_doc">Dosya olarak gönder</string>
     <string name="public_share_no_network">Ağa bağlanılamadı</string>
     <string name="public_share_retry">Tekrar dene</string>
+    <string name="public_share_title">Gönderme yöntemi</string>
     <string name="public_share_to_tv">"TV'ye yansıt"</string>
     <string name="public_shareplay_connect_fail">Ağ bağlantınızı kontrol edin</string>
     <string name="public_shareplay_connection">Bağlanıyor</string>
@@ -414,6 +425,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Belge diğer uygulamalar tarafından silindi ve WPS bulut belgesi tarafından kurtarıldı</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Son düzenlenen içerik kaydedilmedi ve WPS bulut belgesi tarafından kurtarıldı</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Belgeyi güvenli şekilde kaydedin</string>
+    <string name="public_writer2pic">Salt görüntü dosyasına aktar</string>
     <string name="public_writer_font_enlarge">Yazı tipi boyutunu büyüt</string>
     <string name="public_writer_font_narrow">Yazı tipi boyutunu küçült</string>
     <string name="public_writer_label">Mi metin görüntüleyici</string>
@@ -447,7 +459,7 @@
     <string name="ss_toolbar_sheets_unhided">Tüm çalışma sayfaları</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">2.2.1</string>
+    <string name="wps_lite_app_version">3.6.4</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi belge</string>
     <string name="writer_characters">Karakter (Boşluklar hariç)</string>
     <string name="writer_characters_with_spaces">Karakter (Boşluklar dahil)</string>

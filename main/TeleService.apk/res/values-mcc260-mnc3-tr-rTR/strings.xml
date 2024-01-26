@@ -28,7 +28,7 @@ Lütfen verilerimizi bulun: Orange Polska S.A., adres: Aleje Jerozolimskie 160, 
 
 Wifi arama kullanımı mobil operatörünüzün sağladığı hizmet tarifelerine göre derecelendirilir. Ayrıntılar www.orange.pl/wificalling'de
 
-Acil Durum Numaralarına yapılan aramaların örn. 112 mobil ağ üzerinden yönlendirilecek. Mobil kapsama alanı olmaması durumunda, Acil Durum Çağrıları Wifi arama hizmeti aracılığıyla yönlendirilebilir. Bu gibi durumlarda mobil operatörünüz konum bilgilerinizi tam olarak belirleyemeyebilir ve bu nedenle çağrınızı, gerçek konumunuza en yakın olmayan Acil Durum Merkezine yönlendirebilir"</string>
+Acil Durum Numaralarına yapılan aramaların örn. 112 mobil ağ üzerinden yönlendirilecek. Mobil kapsama alanı olmaması durumunda acil durum aramaları Wifi arama hizmeti aracılığıyla yönlendirilebilir. Bu gibi durumlarda mobil operatörünüz konum bilgilerinizi tam olarak belirleyemeyebilir ve bu nedenle çağrınızı, gerçek konumunuza en yakın olmayan acil durum merkezine yönlendirebilir"</string>
     <string name="wifi_call_help_title">Wifi arama - yardım</string>
     <string name="wifi_call_notification_message">"Wifi arama mobil kapsama alanı dışında olsanız bile, mevcut herhangi bir Wifi ağında internet bağlantısı üzerinden sesli arama yapma ve alma olanağı sağlayan hizmettir. Bildirim çubuğundaki Wifi arama simgesi, tüm aramalarınızın Wifi aramayı kullandığını gösterir.
 

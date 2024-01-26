@@ -3390,7 +3390,7 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="emergency_gesture_switchbar_title">Acil yardım özelliğini kullan</string>
     <string name="emergency_info_summary">%1$s için bilgi ve kişiler</string>
     <string name="emergency_info_title">Acil durum bilgileri</string>
-    <string name="emergency_settings_preference_title">Güvenlik ve acil durum</string>
+    <string name="emergency_settings_preference_title">Acil durum</string>
     <string name="emergency_sos_title">Acil durum araması</string>
     <string name="emergency_tone_alert">Tonlar</string>
     <string name="emergency_tone_silent">Sessiz</string>

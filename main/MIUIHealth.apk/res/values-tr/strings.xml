@@ -1707,8 +1707,8 @@ Cihazınızda (%1$s) sadece desteklenen dosya türleri görüntüleniyor."</stri
     <string name="device_settings_song_list_setting_remove_dialog_title">Şimdi sil?</string>
     <string name="device_settings_song_remove_from_song_list">Çalma listesini kaldır</string>
     <string name="device_settings_song_setting_remove_dialog_des">\"%1$s\" adlı çalma listesini sil\"?</string>
-    <string name="device_settings_sos_contact_battery_tips_desc" formatted="false">"Pil tasarrufu amacıyla, Acil Durum çağrısı yapıldıktan sonra 10 dakika içinde kimse yanıt vermezse sistem çok pil tüketen özellikleri (örneğin, tüm gün nabız, kandaki oksijen ve stres izlenmesi, Gelişmiş uyku izleme, egzersiz tanıma ve müzik çalma) kapatacak.
- Acil Durum çağrısı tamamlandıktan sonra %50'den fazla pil kalmışsa ilgili özellikler otomatik olarak açılacak. Aksi durumda bir sonraki şarj %50'ye ulaştığında sistem yukarıdaki özellikleri açacak."</string>
+    <string name="device_settings_sos_contact_battery_tips_desc" formatted="false">"Pil tasarrufu amacıyla acil durum araması yapıldıktan sonra 10 dakika içinde kimse yanıt vermezse sistem çok pil tüketen özellikleri (örneğin, tüm gün nabız, kandaki oksijen ve stres izlenmesi, Gelişmiş uyku izleme, egzersiz tanıma ve müzik çalma) kapatacak.
+ Acil durum araması tamamlandıktan sonra %50'den fazla pil kalmışsa ilgili özellikler otomatik olarak açılacak. Aksi durumda bir sonraki şarj %50'ye ulaştığında sistem yukarıdaki özellikleri açacak."</string>
     <string name="device_settings_sos_contact_battery_tips_title">Pil tasarrufu</string>
     <string name="device_settings_sos_contact_delete_desc">En az bir acil durum kişisi ekleyin</string>
     <string name="device_settings_sos_contact_empty">Henüz bir acil durum kişisi belirlemediniz.</string>
@@ -1721,15 +1721,15 @@ En fazla 3 acil durum kişisi ekleyebilirsiniz."</string>
     <string name="device_settings_sos_contact_set_manual">Manuel ekle</string>
     <string name="device_settings_sos_contact_set_manual_title">Acil durum kişisi ekle</string>
     <string name="device_settings_sos_contact_set_title">Acil durum kişileri</string>
-    <string name="device_settings_sos_contact_sync_desc">"Mi Fitness acil durum kişilerini sistemin Acil Durum Çağrısı ile senkronize et?
+    <string name="device_settings_sos_contact_sync_desc">"Mi Fitness acil durum kişilerini sistemin Acil durum araması ile senkronize et?
 Bir özellikte acil durum kişi bilgisi değişiklikleri otomatik olarak diğeriyle senkronize edilecektir."</string>
     <string name="device_settings_sos_contact_sync_title">Acil durum kişilerini senkronize et</string>
     <string name="device_settings_sos_contact_tips13">"1. Bu özelliğin normal çalışması için Bluetooth'u açın ve giyilebilir cihazınızı telefonunuza bağlı tutun.
-2. Cihaz tüm düşmeleri algılamayabilir. Ayrıca, diğer yüksek etkili aktiviteleri düşme olarak algılayabilir ve bir Acil Durum çağrısı başlatabilir.
+2. Cihaz tüm düşmeleri algılamayabilir. Ayrıca, diğer yüksek etkili aktiviteleri düşme olarak algılayabilir ve bir Acil Durum araması başlatabilir.
 3. Cihaz bir düşme algıladıktan sonra sistem, 60 saniye içinde herhangi bir işlem yapmazsanız Acil Durum çağrısını otomatik olarak başlatacaktır."</string>
-    <string name="device_settings_sos_contact_tips4">4. Acil tıbbi personele yardımcı olmak amacıyla Acil Durum çağrısı başlatıldığında medikal kart bilgileri cihazda görüntülenecek.</string>
+    <string name="device_settings_sos_contact_tips4">4. Acil tıbbi personele yardımcı olmak amacıyla Acil Durum araması başlatıldığında medikal kart bilgileri cihazda görüntülenecek.</string>
     <string name="device_settings_sos_contact_tips4_clickable">Medikal kart bilgilerinizi ekleyin ></string>
-    <string name="device_settings_sos_contact_tips5">5. Acil Durum çağrısı başlatıldığında çok fazla pil tüketen özellikler pil ömründen tasarruf etmek için otomatik olarak kapatılacak.</string>
+    <string name="device_settings_sos_contact_tips5">5. Acil durum araması başlatıldığında çok fazla pil tüketen özellikler pil ömründen tasarruf etmek için otomatik olarak kapatılacak.</string>
     <string name="device_settings_sos_contact_tips5_clickable">Ayrıntıları görüntüle></string>
     <string name="device_settings_sos_contact_tips_120_cost">*Calling 120 may incur costs from the responding emergency medical provider</string>
     <string name="device_settings_sos_contact_tips_message_cost">*Giden aramalar ve konum bilgilerini içeren kısa mesajlar için ücret ödeyebilirsiniz. Ücretler hakkında bilgi almak için operatörünüz ile iletişime geçin.</string>

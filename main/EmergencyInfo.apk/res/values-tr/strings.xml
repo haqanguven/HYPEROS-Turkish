@@ -975,8 +975,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_none">None</string>
-    <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
+    <string name="wifitrackerlib_wifi_security_none">Hiçbiri</string>
+    <string name="wifitrackerlib_wifi_security_owe">Gelişmiş açık</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
     <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
@@ -990,11 +990,11 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifitrackerlib_wifi_security_wep">WEP</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
-    <string name="wifitrackerlib_wifi_standard_11ac">Wi‑Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wifi 5</string>
     <string name="wifitrackerlib_wifi_standard_11ad">WiGig</string>
-    <string name="wifitrackerlib_wifi_standard_11ax">Wi‑Fi 6</string>
-    <string name="wifitrackerlib_wifi_standard_11be">Wi‑Fi 7</string>
-    <string name="wifitrackerlib_wifi_standard_11n">Wi‑Fi 4</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wifi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wifi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wifi 4</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Eski</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Bilinmiyor</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sınırsız</string>
