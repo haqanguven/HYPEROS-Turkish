@@ -1294,4 +1294,19 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
+    <string-array name="launcher_gesture_entries">
+        <item>Ekranı kapat</item>
+        <item>Güç menüsü</item>
+        <item>Son uygulamalar</item>
+        <item>Telefon</item>
+        <item>Ses modu: Ses veya Titreşim</item>
+        <item>Bildirim paneli</item>
+        <item>Wifi</item>
+        <item>Bluetooth</item>
+        <item>Mobil veri</item>
+        <item>Hafızayı temizle</item>
+        <item>Tek el modu</item>
+        <item>Uygulamayı çalıştır</item>
+        <item>Kapalı</item>
+    </string-array>
 </resources>
