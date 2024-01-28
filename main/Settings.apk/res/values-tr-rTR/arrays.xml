@@ -1300,9 +1300,6 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Telefon</item>
         <item>Ses veya titreşim</item>
         <item>Bildirim paneli</item>
-        <item>Wifi</item>
-        <item>Bluetooth</item>
-        <item>Mobil veri</item>
         <item>Kapalı</item>
     </string-array>
 </resources>
