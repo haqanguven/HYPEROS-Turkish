@@ -485,11 +485,19 @@
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_ SES< /dize>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
     <string name="satellite_call_failed">Sinyal kesildi. Tekrar deneyin</string>
+    <string name="satellite_debug_antenna">Anten</string>
+    <string name="satellite_debug_azimuth">Azimut</string>
+    <string name="satellite_debug_compass">Pusula</string>
+    <string name="satellite_debug_evevation">Evvevation</string>
+    <string name="satellite_debug_rssi">Rssi sinyal gücü</string>
+    <string name="satellite_debug_satellite">Uydu</string>
     <string name="satellite_diable_earpiece">Kulaklık uydu aramalarında kullanılamıyor</string>
     <string name="satellite_dialog_button">Kayan pencere</string>
     <string name="satellite_dialog_cancel">İptal et</string>
+    <string name="satellite_guide_azimuth">Uydu simgesi mavi alana gelinceye kadar hareket edin</string>
     <string name="satellite_guide_down">"Topu mavi alana koymak için
 cihazınızı aşağı doğru eğin"</string>
+    <string name="satellite_guide_elevation">Uydu simgesi mavi dairenin içine gelinceye kadar hareket edin</string>
     <string name="satellite_guide_found">Uydu bulundu</string>
     <string name="satellite_guide_left">"Uydu simgesini mavi alana yerleştirmek için
 cihazınızı sola eğin"</string>
@@ -500,6 +508,7 @@ cihazınızı sağa eğin"</string>
     <string name="satellite_guide_up">"Topu mavi alana koymak için
 cihazınızı yukarı eğin"</string>
     <string name="satellite_incall_tip">Hoparlör açık</string>
+    <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_auto_exit">Çık (%d saniye)</string>
