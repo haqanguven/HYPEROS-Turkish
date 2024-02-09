@@ -447,6 +447,30 @@
         <item>\#9F7F85</item>
         <item>\#1C1D1F</item>
     </string-array>
+    <string-array name="gallery_frame_loong_year_tips">
+        <item>Ejderha Yılında iyi şanslar ve en iyi dileklerimle</item>
+        <item>Ejderhanın Yürüyüşü ve Gelecek</item>
+        <item>Uğurlu ejderha başını kaldırır ve iyi şans getirir</item>
+        <item>Ejderha tüm dünyada süzülüyor ve zenginlik yayılıyor</item>
+        <item>Ejderhanın Kutlu Yılı, mutluluk ve sağlık</item>
+        <item>Ejderha süzülüyor ve kaplan zıplıyor ve her yıl fazlasıyla yeterli oluyor</item>
+        <item>Havai fişekler her yıl güvenlidir</item>
+        <item>Ejderhaların müreffeh çağı baharı karşılıyor</item>
+        <item>Ejderha dokuz göğün üzerinden atlayarak adım adım yükseliyor</item>
+        <item>Ejderha dünyayı dolaşıyor ve gelecek parlak</item>
+    </string-array>
+    <string-array name="gallery_frame_loong_year_tips_for_rv">
+        <item>Ejderha Yılında iyi şanslar ve en iyi dileklerimle</item>
+        <item>Ejderhanın Yürüyüşü ve Gelecek</item>
+        <item>Uğurlu ejderha başını kaldırır ve iyi şans getirir</item>
+        <item>Ejderha tüm dünyada süzülüyor ve zenginlik yayılıyor</item>
+        <item>Ejderhanın Kutlu Yılı, mutluluk ve sağlık</item>
+        <item>Ejderha süzülüyor ve kaplan zıplıyor ve her yıl fazlasıyla yeterli oluyor</item>
+        <item>Havai fişekler her yıl güvenlidir</item>
+        <item>Ejderhaların müreffeh çağı baharı karşılıyor</item>
+        <item>Ejderha dokuz göğün üzerinden atlayarak adım adım yükseliyor</item>
+        <item>Ejderha dünyayı dolaşıyor ve gelecek parlak</item>
+    </string-array>
     <array name="gradual_color">
         <item>#ffff6565</item>
         <item>#ffffbb55</item>
