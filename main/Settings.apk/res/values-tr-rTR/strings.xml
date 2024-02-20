@@ -9663,7 +9663,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="tx_link_speed">%1$d Mb/saniye</string>
     <string name="tx_link_speed_label">İletim bağlantı hızı:</string>
     <string name="tx_wifi_speed">İletim bağlantı hızı</string>
-    <string name="ucar_screen_projection_title">Araba ile</string>
+    <string name="ucar_screen_projection_title">Araç modu</string>
     <string name="unadapt_embedded">Paralel pencereler kullanılamıyor</string>
     <string name="under_keyguard">Ekranı kapat</string>
     <string name="unimportant">Önemsiz</string>

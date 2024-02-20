@@ -542,7 +542,10 @@
         <item>Aşırı kirli</item>
         <item>Endeksin üzerinde</item>
     </string-array>
-    <array name="primary_devices" />
+    <string-array name="primary_devices">
+        <item>sweet_k6a</item>
+        <item>sweet</item>
+    </string-array>
     <array name="primary_platforms" />
     <string-array name="realtime_humidity_status">
         <item>Kuru</item>

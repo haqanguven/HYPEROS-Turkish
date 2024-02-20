@@ -6405,7 +6405,7 @@ If your device can't read the card, try adjusting its position."</string>
     <string name="passport_account_none_bind_info">None</string>
     <string name="passport_account_none_user_name">None</string>
     <string name="passport_account_secure_info_pref_title">Account info</string>
-    <string name="passport_account_security_info_pref_title">Security info</string>
+    <string name="passport_account_security_info_pref_title">Güvenlik bilgisi</string>
     <string name="passport_account_user_avatar">Profile photo</string>
     <string name="passport_account_user_avatar_from_album">Gallery</string>
     <string name="passport_account_user_avatar_from_camera">Camera</string>
@@ -8680,7 +8680,7 @@ Bilgilerinizi paylaşmak istemiyorsanız bu özelliği kapatabilirsiniz"</string
     <string name="widget_tb_sleep_segment_info">Uykuya daldı: %1$s. Uyanma: %2$s</string>
     <string name="widget_tb_sleep_summary">Uyku: %1$s. Hedef: %2$s</string>
     <string name="wifi_password">Password</string>
-    <string name="wifi_security">Security</string>
+    <string name="wifi_security">Güvenlik</string>
     <string name="wifi_security_eap">EAP</string>
     <string name="wifi_security_none">None</string>
     <string name="wifi_security_owe">OWE</string>

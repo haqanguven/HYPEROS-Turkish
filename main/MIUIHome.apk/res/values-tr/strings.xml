@@ -833,6 +833,7 @@ Arttırılmış güvenlik"</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
     <string name="recent_menu_item_worldcirculate">Uygulama akışı</string>
     <string name="recent_menu_item_worldcirculate_disable">Uygulama aktarılamıyor</string>
+    <string name="recent_pin_text">Sabitle</string>
     <string name="recents_app_info_button_label">Uygulama bilgisi</string>
     <string name="recents_config_title">Son işlem ayarları</string>
     <string name="recents_dimiss_task">Temizle</string>
@@ -961,6 +962,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
+    <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
@@ -1066,5 +1068,4 @@ Arttırılmış güvenlik"</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yesterday">Dün</string>
-	<string name="double_tap_to_lock_title">Çift tıkla kilitle</string>
 </resources>
