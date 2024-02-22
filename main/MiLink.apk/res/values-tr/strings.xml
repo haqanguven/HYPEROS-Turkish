@@ -482,9 +482,9 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_summary_hyper_mind">Kullanım alışkanlıklarınıza göre yakındaki cihazları ihtiyaçlarınıza göre otomatik olarak uyarlayın. Bu özellik Mi AI tarafından desteklenmektedir</string>
     <string name="connect_settings_summary_relay_app">Başka cihazdaki aynı ugulamada görevlere devam edin</string>
     <string name="connect_settings_summary_share_clipboard">Kopyaladıktan sonra %d dakika içinde metni ve görüntüleri diğer cihazlara yapıştırın</string>
-    <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınızda oturum açmış yakında telefonların Ana ekranlarını görüntüleyin ve bunlarla iletişime girin</string>
-    <string name="connect_settings_summary_share_launcher_phone">Yakındaki tabletlerin ve bilgisayarların bu cihazın Ana ekranını görüntülemesine ve bu ekranla iletişime girmesine izin verin</string>
-    <string name="connect_settings_summary_share_notification_pad">Xiaomi Hesabınızda oturum açmıl yakındaki telefonlardan bildirimler alın</string>
+    <string name="connect_settings_summary_share_launcher_pad">Xiaomi hesabınızda oturum açmış yakında telefonların ana ekranlarını görüntüleyin ve bunlarla iletişime girin</string>
+    <string name="connect_settings_summary_share_launcher_phone">Yakındaki tabletlerin ve bilgisayarların bu cihazın ana ekranını görüntülemesine ve bu ekranla iletişime girmesine izin verin</string>
+    <string name="connect_settings_summary_share_notification_pad">Xiaomi hesabınızda oturum açmış yakındaki telefonlardan bildirimler alın</string>
     <string name="connect_settings_summary_share_notification_phone">Bu cihaz kilitlendiğinde kullanımda olan yakındaki tabletlerde veya bilgisayarlarda bildirimleri göster</string>
     <string name="connect_settings_user_agreement">Kullanıcı sözleşmesi</string>
     <string name="connect_settings_withdraw_consent">İzini geri al</string>

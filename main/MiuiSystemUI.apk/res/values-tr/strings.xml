@@ -868,7 +868,7 @@ Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
     <string name="input_lockscreen_pin_hint_text">Pin kodunuzu girin</string>
     <string name="input_password_after_boot_msg">Cihaz kilidini açmak için şifrenizi girin</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Arama sırasında alan değiştirilemiyor</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">İş istasyonu modunda alanlar arasında geçiş yapılamıyor</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">Masaüstü modunda alanlar arasında geçiş yapılamıyor</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">Hazırda bekletme modunda ikinci alan kullanılamıyor</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">Düşük pil nedeniyle ikinci alan kullanılamıyor</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Aile bekçisi açıkken boşluklar arasında geçiş yapamıyorum</string>

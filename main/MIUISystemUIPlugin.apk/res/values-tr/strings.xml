@@ -514,7 +514,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
-    <string name="multi_desktop_mode">İş istasyonu</string>
+    <string name="multi_desktop_mode">Masaüstü modu</string>
     <string name="night">Akşam</string>
     <string name="no_avaliable_application">Kullanılabilir uygulama yok</string>
     <string name="noon">Gün ortası</string>

@@ -297,9 +297,9 @@ ardından taşımak için sürükleyin"</string>
     <string name="midnight">Gece</string>
     <string name="miui_bubbles_notification">Konuşma baloncukları</string>
     <string name="miui_bubbles_notification_status_opened">Aç</string>
-    <string name="miui_desktop_mode_settings">Çalışma masası modu</string>
-    <string name="miui_desktop_mode_settings_title">Çalışma masası modu</string>
-    <string name="miui_desktop_mode_video_description">Kontrol merkezi anahtarı aracılığıyla modları hızlı bir şekilde değiştirebilirsiniz. Büyük ekran moduna girdikten sonra genel uygulama çubuğu simgesine tıklayın; uygulama küçük bir pencerede açılacaktır</string>
+    <string name="miui_desktop_mode_settings">Masaüstü modu</string>
+    <string name="miui_desktop_mode_settings_title">Masaüstü modu</string>
+    <string name="miui_desktop_mode_video_description">Kontrol merkezi anahtarı aracılığıyla modları hızlı bir şekilde değiştirebilirsiniz. Büyük ekran moduna girdikten sonra genel uygulama çubuğu simgesine tıklayın ve uygulama küçük bir pencerede açılacaktır</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
