@@ -5395,7 +5395,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="managed_profile_contact_search_summary">Arayanların ve kişilerin kimliğini belirlemek için kuruluşunuz tarafından yapılan kişi aramalarına izin verin</string>
     <string name="managed_profile_contact_search_title">Kişi arama</string>
     <string name="managed_profile_location_category">İş profili</string>
-    <string name="managed_profile_location_switch_lockdown">Şirket yöneticisi tarafından kapatıldı</string>
+    <string name="managed_profile_location_switch_lockdown">İşletme yöneticisi tarafından kapatıldı</string>
     <string name="managed_profile_location_switch_title">İş profili konumu</string>
     <string name="managed_profile_not_available_label">İş profili henüz kullanılamıyor</string>
     <string name="managed_profile_settings_footer">İş uygulamaları kapalıyken duraklatılır ve bunlara erişilemez veya size bildirim gönderilemez</string>
@@ -11002,7 +11002,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="work_ringtone_title">İş telefonu zil sesi</string>
     <string name="work_sim_title">"İş Sim'i"</string>
     <string name="work_sound_permission_dialog_button_text_known">Tamam</string>
-    <string name="work_sound_permission_dialog_message">İşletme modunda Temaları kullanamazsınız. Erişim izni almak için yöneticinizle iletişime geçin</string>
+    <string name="work_sound_permission_dialog_message">İşletme modunda temaları kullanamazsınız. Erişim izni almak için yöneticinizle iletişime geçin</string>
     <string name="work_sound_permission_dialog_title">İşletme modu kısıtlamaları</string>
     <string name="work_sound_same_as_personal">Kişisel profille aynı</string>
     <string name="work_space_delete">İş alanını sil</string>

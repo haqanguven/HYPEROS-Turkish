@@ -1239,15 +1239,15 @@ EEE"</string>
     <string name="monitoring_button_view_policies">Politikaları görüntüle</string>
     <string name="monitoring_description_ca_certificate">Bu cihazda bir sertifika yetkilisi yüklü. Güvenli ağınız izleniyor veya değiştirilmiş olabilir</string>
     <string name="monitoring_description_managed_device_named_vpn">Bu cihaz internete %1$s üzerinden bağlı. E-postalar ve tarama verileri de dahil olmak üzere ağ etkinliğiniz bluetooth yöneticiniz tarafından görülebilir</string>
-    <string name="monitoring_description_managed_profile_ca_certificate">Şirketiniz iş profilinize bir sertifika yetkilisi yükledi. Güvenli ağınız izleniyor veya değiştirilmiş olabilir</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">İşletmeniz iş profilinize bir sertifika yetkilisi yükledi. Güvenli ağınız izleniyor veya değiştirilmiş olabilir</string>
     <string name="monitoring_description_managed_profile_named_vpn">İş profiliniz ağ etkinliğinizi, e-postalarınız, uygulamalarınız ve ziyaret ettiğiniz internet siteleri ile beraber izleyebilen %1$s ağına bağlandı</string>
     <string name="monitoring_description_managed_profile_network_logging">Your admin has turned on network logging, which monitors traffic in your work profile but not in your personal profile.</string>
-    <string name="monitoring_description_management">"Cihazınız şirketiniz tarafından yönetiliyor
+    <string name="monitoring_description_management">"Cihazınız işletmeniz tarafından yönetiliyor
 
 Yöneticiniz ayarlarınızı, kurumsal erişimleri, cihazınızdaki ve cihazınızla ilgili verileri ve cihazınızın konum verilerini izleyebilir ve yönetebilir
 
 Daha fazla bilgi için yöneticinizle iletişime geçin"</string>
-    <string name="monitoring_description_management_ca_certificate">Şirketiniz bu cihaza bir sertifika yetkilisi yükledi. Güvenli ağınız izleniyor veya değiştirilmiş olabilir</string>
+    <string name="monitoring_description_management_ca_certificate">İşletmeniz bu cihaza bir sertifika yetkilisi yükledi. Güvenli ağınız izleniyor veya değiştirilmiş olabilir</string>
     <string name="monitoring_description_management_network_logging">Yöneticiniz cihazınızın internet trafiğini izleyen ağ günlüğü özelliğini etkinleştirdi</string>
     <string name="monitoring_description_named_management">"Cihazınız %1$s tarafından yönetiliyor
 
@@ -1585,13 +1585,13 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_dark_mode_secondary_label_until">%s tarihine kadar</string>
     <string name="quick_settings_dark_mode_secondary_label_until_bedtime_ends">Uyku saati bitene kadar</string>
     <string name="quick_settings_dark_mode_secondary_label_until_sunrise">Gün doğumuna kadar</string>
-    <string name="quick_settings_disclosure_managed_profile_monitoring">Şirketiniz iş profilinizde ağınızı izleyebilir</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">İşletmeniz iş profilinizde ağınızı izleyebilir</string>
     <string name="quick_settings_disclosure_managed_profile_named_vpn">İş profili %1$s ağına bağlandı</string>
     <string name="quick_settings_disclosure_managed_profile_network_activity">İş profili ağ etkinliğini BT yöneticiniz görebilir</string>
-    <string name="quick_settings_disclosure_management">Cihaz şirketiniz tarafından yönetiliyor</string>
-    <string name="quick_settings_disclosure_management_monitoring">Bu cihazı şirketiniz yönetiyor ve ağ trafiğini izleyebilir</string>
-    <string name="quick_settings_disclosure_management_named_vpn">Cihaz şirketiniz tarafından yönetiliyor ve %1$s ağına bağlandı</string>
-    <string name="quick_settings_disclosure_management_vpns">Cihaz şirketiniz tarafından yönetiliyor ve VPN ağlarına bağlandı</string>
+    <string name="quick_settings_disclosure_management">Cihaz işletmeniz tarafından yönetiliyor</string>
+    <string name="quick_settings_disclosure_management_monitoring">Bu cihazı işletmeniz yönetiyor ve ağ trafiğini izleyebilir</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Cihaz işletmeniz tarafından yönetiliyor ve %1$s ağına bağlandı</string>
+    <string name="quick_settings_disclosure_management_vpns">Cihaz işletmeniz tarafından yönetiliyor ve VPN ağlarına bağlandı</string>
     <string name="quick_settings_disclosure_monitoring">Ağ izleniyor olabilir</string>
     <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s iş profilinizde ağınızı izleyebilir</string>
     <string name="quick_settings_disclosure_named_management">Cihaz %1$s tarafından yönetiliyor</string>
