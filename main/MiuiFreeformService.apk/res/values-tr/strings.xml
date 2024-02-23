@@ -113,8 +113,8 @@
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="desktop_btn_cancel">İptal et</string>
-    <string name="desktop_btn_continue">Çalışma tezgahı moduna girin</string>
-    <string name="desktop_mode_guide_summary">Masaüstü modunda uygulamalar küçük pencerelerde açılacak ve global uygulama çubuğu aracılığıyla birden fazla pencere aynı anda açılabilecek</string>
+    <string name="desktop_btn_continue">Devam et</string>
+    <string name="desktop_mode_guide_summary">Masaüstü modunda uygulamalar küçük pencerelerde açılacak ve uygulama çubuğu aracılığıyla birden fazla pencere aynı anda açılabilecek</string>
     <string name="desktop_mode_guide_title">Masaüstü modu</string>
     <string name="dock_location_left">Sol</string>
     <string name="dock_location_right">Sağ</string>
