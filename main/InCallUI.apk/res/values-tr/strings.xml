@@ -265,6 +265,10 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
+    <string name="flip_expand_conference_call_text">Konferans görüşmesini yönetmek için ekranı açın</string>
+    <string name="flip_expand_suport_videocall_text">Görüntülü görüşme seçenekleri için ekranı açın</string>
+    <string name="flip_expand_switch_call_text">Çok kanallı aramaya geçmek için ekranı açın</string>
+    <string name="flip_video_incoming_call_label">Görüntülü görüşme</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -489,15 +493,20 @@
     <string name="satellite_debug_azimuth">Azimut</string>
     <string name="satellite_debug_compass">Pusula</string>
     <string name="satellite_debug_evevation">Evvevation</string>
-    <string name="satellite_debug_rssi">Rssi sinyal gücü</string>
     <string name="satellite_debug_satellite">Uydu</string>
     <string name="satellite_diable_earpiece">Kulaklık uydu aramalarında kullanılamıyor</string>
     <string name="satellite_dialog_button">Kayan pencere</string>
     <string name="satellite_dialog_cancel">İptal et</string>
-    <string name="satellite_guide_azimuth">Uydu simgesi mavi alana gelinceye kadar hareket edin</string>
-    <string name="satellite_guide_down">"Topu mavi alana koymak için
+    <string name="satellite_guide_azimuth">Uydu tarama alanına gelene kadar hareket edin</string>
+    <string name="satellite_guide_azimuth_floating">Tarama alanına girin</string>
+    <string name="satellite_guide_azimuth_in">Uydu tarama alanında</string>
+    <string name="satellite_guide_azimuth_in_floating">Uydu tarama alanında</string>
+    <string name="satellite_guide_azimuth_leave">Uydu tarama alanından ayrıldı</string>
+    <string name="satellite_guide_azimuth_leave_floating">Daha da uzaklaş</string>
+    <string name="satellite_guide_down">"Uydu simgesini mavi alana koymak için
 cihazınızı aşağı doğru eğin"</string>
     <string name="satellite_guide_elevation">Uydu simgesi mavi dairenin içine gelinceye kadar hareket edin</string>
+    <string name="satellite_guide_elevation_floating">Daireyi uyduya yerleştirin</string>
     <string name="satellite_guide_found">Uydu bulundu</string>
     <string name="satellite_guide_left">"Uydu simgesini mavi alana yerleştirmek için
 cihazınızı sola eğin"</string>
@@ -505,16 +514,19 @@ cihazınızı sola eğin"</string>
 cihazınızı sağa eğin"</string>
     <string name="satellite_guide_searching">Uydu aranıyor</string>
     <string name="satellite_guide_searching_floating">Aranıyor</string>
-    <string name="satellite_guide_up">"Topu mavi alana koymak için
+    <string name="satellite_guide_signal">Daha iyi bir sinyal için cihazınızı hafifçe yukarı aşağı hareket ettirin</string>
+    <string name="satellite_guide_up">"Uydu simgesini mavi alana koymak için
 cihazınızı yukarı eğin"</string>
     <string name="satellite_incall_tip">Hoparlör açık</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_auto_exit">Çık (%d saniye)</string>
-    <string name="satellite_state_connected">Uyduya bağlanıldı. Cihazınızı hareket ettirmeyin</string>
+    <string name="satellite_state_connected">"Uyduya bağlı
+Cihazı bu konumda tutun"</string>
     <string name="satellite_state_connected_floating">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_connecting">Bağlanılıyor (%d saniye)</string>
+    <string name="satellite_state_connecting_floating">Bağlanılıyor (%d saniye)</string>
     <string name="satellite_state_retry">Denemeye devam et</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
@@ -534,11 +546,11 @@ cihazınızı yukarı eğin"</string>
     <string name="select_voice_call_sim">Sim kart seçin</string>
     <string name="send">Gönder</string>
     <string name="separate_from_conference">Aramaları ayır</string>
-    <string name="sim1_description">Sim1</string>
-    <string name="sim1_heduohao_card">Sub1</string>
-    <string name="sim2_description">Sim2</string>
-    <string name="sim2_heduohao_card">Sub2</string>
-    <string name="sim3_heduohao_card">Sub3</string>
+    <string name="sim1_description">Sim %d</string>
+    <string name="sim1_heduohao_card">Sub %d</string>
+    <string name="sim2_description">Sim %d</string>
+    <string name="sim2_heduohao_card">Sub %d</string>
+    <string name="sim3_heduohao_card">Sub %d</string>
     <string name="sip_call_not_support_record">İnternet aramaları kayıt edilemiyor</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>

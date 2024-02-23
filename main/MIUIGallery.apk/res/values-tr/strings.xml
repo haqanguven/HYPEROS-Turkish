@@ -2212,6 +2212,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mark_people_ignore_info_message">Kişilerin fotoğraflarını gruplara eklemek için basılı tutun</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="media_type_burst_photo">Patlama</string>
+    <string name="media_type_cinematic">Film modu</string>
     <string name="media_type_clone_photo">Klonlar</string>
     <string name="media_type_doc_photo">Belgeler</string>
     <string name="media_type_fast_motion_video">Hızlı çekim</string>
