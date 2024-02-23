@@ -5757,7 +5757,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miui_bubbles_notification_status_opened">Açık</string>
     <string name="miui_cta_privacy">Gizlilik testi modunu aç</string>
     <string name="miui_data_usage_menu_metered">Mobil bağlantı noktaları</string>
-    <string name="miui_desktop_mode_settings">İş modu</string>
+    <string name="miui_desktop_mode_settings">Masaüstü modu</string>
     <string name="miui_device_control_description">Uyumlu akıllı ev cihazlarını kontrol edebilmek için cihaz kontrollerini destekleyen uygulamaları gösterin</string>
     <string name="miui_experience_optimization">Xiaomi optimizasyonu</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">İptal et</string>
