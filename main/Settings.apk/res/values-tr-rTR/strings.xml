@@ -7712,32 +7712,23 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Okuma modunu kullanan uygulamaların listesini otomatik olarak güncelle</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Otomatik güncelle</string>
     <string name="screen_paper_texture">Doku</string>
-    <string name="screen_pinning_description">"Bu ayar açık olduğunda ekran sabitlemeyi kullanarak geçerli ekranı sabitleme kaldırılıncaya kadar görünümde tutabilirsiniz
+    <string name="screen_pinning_description">Sabitlenen uygulamalar diğer uygulamaları açabilir ve kişisel bilgilerinize erişebilir</string>
+    <string name="screen_pinning_dialog_message">"Sabitlenen uygulamaların yapabilecekleri şunlardır:
 
-Ekran sabitlemeyi kullanmak için:
+• Kişisel bilgilerinize erişme
+(Örneğin: Kişiler ve e-postalar)
+• Diğer uygulamaları açın
 
-1. Ekran sabitlemenin açık olduğundan emin olun
-
-2. Genel bakışı açın
-
-3. Yukarıda uygulama simgesine ardından sabitlemeye dokunun"</string>
-    <string name="screen_pinning_dialog_message">"Uygulama sabitlendiğinde: 
-  
-•Kişisel verilere erişilebilir 
-(K>işiler ve e-posta içeriği gibi) 
-•Sabitlenmiş uygulama diğer uygulamaları açabilir
-
-Yalnızca güvendiğiniz kişilerle uygulama sabitleme özelliğini kullanın"</string>
-    <string name="screen_pinning_guest_user_description">"Uygulama sabitleme işlemi siz sabitlemesini kaldırıncaya kadar mevcut uygulamayı görünümde tutar. Bu özellik, Örneğin: Güvenilir bir arkadaşınızın belirli bir oyunu oynamasına izin vermek için kullanılabilir
-  
-Bir uygulama sabitlendiğinde, sabitlenmiş uygulama diğer uygulamaları açabilir ve kişisel verilere erişilebilir
+Bu cihazı başkalarıyla paylaşırken bu özelliği dikkatli kullanın"</string>
+    <string name="screen_pinning_guest_user_description">"Bir uygulama sabitlendiğinde sabitlenen uygulama diğer uygulamaları açabilir ve kişisel verilere erişilebilir
 
 Cihazınızı birisiyle güvenli bir şekilde paylaşmak istiyorsanız bunun yerine misafir kullanıcı kullanmayı deneyin
 
 Uygulama sabitlemeyi kullanmak için:
-1.Uygulama sabitlemeyi açın
-2.Genel bakış'ı açın
-3.Ekranın üst kısmındaki uygulama simgesine ve ardından sabitleye dokunun"</string>
+1. Uygulama sabitlemeyi açın
+2. Genel bakışı açın
+3. Ekranın üst kısmındaki uygulama simgesine ve ardından sabitleye dokunun"</string>
+    <string name="screen_pinning_summary">Sabitlenen uygulamalar siz sabitlemeyi kaldırana kadar son kullanılanlarda kalacaktır</string>
     <string name="screen_pinning_switch_off_text">Kapalı</string>
     <string name="screen_pinning_switch_on_text">Açık</string>
     <string name="screen_pinning_title">Ekran sabitleme</string>
