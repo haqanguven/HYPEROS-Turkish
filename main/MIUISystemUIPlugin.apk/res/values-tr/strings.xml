@@ -240,7 +240,7 @@
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
     <string name="event_track_content_type_audio">Ses</string>
-    <string name="event_track_content_type_video">Video</string>
+    <string name="event_track_content_type_empty">Boş</string>
     <string name="event_track_content_type_video">video</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
@@ -346,6 +346,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi kulaklık kullanıcıları: şarj kutusunu açın veya %ds süreyle kutu düğmesini basılı tutun
 Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıklarınızı sıfırlayın ve ardından bağlanın"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Sesi paylaşmak için kulaklık ekleyin</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Ses paylaşımı tamamlandı</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Sesi paylaşmak için kulaklık ekleyin</string>
     <string name="miplay_bluetooth_share_subTitle_text">Cihaz sesini başka bir kişiyle paylaşma</string>
     <string name="miplay_bluetooth_share_title_text">Sesi paylaş</string>
     <string name="miplay_detail_divider_title">Hoparlörler</string>

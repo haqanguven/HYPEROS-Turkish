@@ -295,7 +295,6 @@
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
     <string name="com.crashlytics.android.build_id">026175d77db24925833cc93f43736876</string>
-    <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
     <string name="com_permission_desc">Videolar cihazınızdaki videolara erişemiyor. Ayarlar menüsünde erişime izin verin</string>
     <string name="com_permission_title">İzin gerekli</string>
     <string name="comment_model_add_comment">Yorum ekle</string>
@@ -1788,6 +1787,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="sending">Gönderiliyor</string>
     <string name="service_error">Sunucu hatası</string>
     <string name="set_success">Başarıyla değiştirildi</string>
+    <string name="setting_privacy_title">Şartlar ve koşullar</string>
     <string name="settings_inline_auto_play">Her zaman otomatik oynat</string>
     <string name="settings_inline_auto_play_close">Otomatik oynatma kapalı</string>
     <string name="settings_inline_auto_play_tip_close_forever">Her zaman kapalı</string>
@@ -1806,7 +1806,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="share_ugc_join">Katıl</string>
     <string name="share_ugc_waitting">Bağlantı adresi oluşturuluyor</string>
     <string name="shorts_assemble_ad_recommend">Önerilen</string>
-    <string name="show_options_label">Seçenekleri göster</string>
     <string name="show_the_location">Bildirim türleri</string>
     <string name="sign_in">Oturum açılıyor</string>
     <string name="sign_in_google_account">Google ile oturum açın</string>
@@ -1820,6 +1819,10 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="slide_save_message">Video oluşturuluyor</string>
     <string name="slide_to_open_ad">Daha fazlasını öğrenmek için kaydırın</string>
     <string name="small_video_load_more_hint">Daha fazla video oynatmak için yukarı kaydırın</string>
+    <string name="small_video_report">Rapor</string>
+    <string name="small_video_report_dialog_title">Bir neden seçin</string>
+    <string name="small_video_report_submit">Gönder</string>
+    <string name="small_video_report_success">Geri bildiriminiz için teşekkür ederiz</string>
     <string name="small_video_tab_expose_hint">Seveceğiniz kısa videoları keşfedin</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
