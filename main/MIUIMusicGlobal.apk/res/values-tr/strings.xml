@@ -1784,12 +1784,12 @@ mutlu ol"</string>
     <string name="snow_ui_equalizer_preset_normal">Normal</string>
     <string name="snow_ui_equalizer_preset_pop">Pop</string>
     <string name="snow_ui_equalizer_preset_rock">Rock</string>
-    <string name="snow_ui_recommended_sound_effects">Önerilen ön ayarlar</string>
+    <string name="snow_ui_recommended_sound_effects">Ön ayarlar</string>
     <string name="snow_ui_resetting">Sıfırla</string>
-    <string name="snow_ui_sound_effect_adjustment">Manuel ayarla</string>
+    <string name="snow_ui_sound_effect_adjustment">Ekolayzer</string>
     <string name="snow_ui_sound_enhancement">Sesi geliştir</string>
     <string name="snow_ui_title_equalizer">Ekolayzer</string>
-    <string name="snow_ui_toast_equalizer_not_enabled">Ekolayzır kapalı</string>
+    <string name="snow_ui_toast_equalizer_not_enabled">Ekolayzer kapalı</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
     <string name="solar_term_clear_and_bright">Açık ve parlak</string>

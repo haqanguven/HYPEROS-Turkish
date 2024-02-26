@@ -1869,7 +1869,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="unable_connect_network">Ağa bağlanılamadı</string>
     <string name="uninstall_theme">Temalar ana ekrandan kaldırılsın mı?</string>
     <string name="uninstall_theme_description">Temalar bir sistem uygulamasıdır. Duvar kağıtları ve çoklu kişiselleştirme seçenekleri sunar. Ana ekran kısayolunu kaldırdıktan sonra ayarlar aracılığıyla temaları kullanmaya devam edebilirsiniz</string>
-    <string name="up_to_the_end">Şimdilik bu kadar. Daha sonra geri gelin</string>
+    <string name="up_to_the_end">Şimdilik bu kadar</string>
     <string name="update">Güncelle</string>
     <string name="update_btn">Şimdi güncelle</string>
     <string name="update_check">Güncelleştirmeleri kontrol et</string>

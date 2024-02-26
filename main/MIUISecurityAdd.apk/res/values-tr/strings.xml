@@ -749,6 +749,7 @@ Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
+    <string name="super_power_satellite_endurance_time">≈%1$s %2$s için uydu araması yapılabilir</string>
     <string name="superpower_app_add">Ekle</string>
     <string name="superpower_app_contact">Kişiler</string>
     <string name="superpower_app_delete">Sil</string>

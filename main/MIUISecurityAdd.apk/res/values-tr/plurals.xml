@@ -84,4 +84,12 @@
         <item quantity="other">%s dakika ekran kaldı</item>
         <item quantity="one">%s dakika ekran kaldı</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
+    </plurals>
 </resources>
