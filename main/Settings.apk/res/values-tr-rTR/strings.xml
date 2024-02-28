@@ -11294,4 +11294,5 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
 	<string name="folder_blur_title">Klasör bulanıklık efekti</string>
 	<string name="folder_close_title">Klasörleri otomatik kapat</string>
 	<string name="classic_widget_title">Klasik araçlar</string>
+	<string name="search_box_title">Alt arama kutusu</string>
 </resources>

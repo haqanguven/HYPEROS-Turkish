@@ -497,6 +497,7 @@
     <string name="satellite_diable_earpiece">Kulaklık uydu aramalarında kullanılamıyor</string>
     <string name="satellite_dialog_button">Kayan pencere</string>
     <string name="satellite_dialog_cancel">İptal et</string>
+    <string name="satellite_get_gps_timeout">Konum bilgisi alınamıyor. Açık alanda kalın ve sinyali engelleyen nesnelerden kaçının</string>
     <string name="satellite_guide_azimuth">Uydu tarama alanına gelene kadar hareket edin</string>
     <string name="satellite_guide_azimuth_floating">Tarama alanına girin</string>
     <string name="satellite_guide_azimuth_in">Uydu tarama alanında</string>
@@ -518,16 +519,23 @@ cihazınızı sağa eğin"</string>
     <string name="satellite_guide_up">"Uydu simgesini mavi alana koymak için
 cihazınızı yukarı eğin"</string>
     <string name="satellite_incall_tip">Hoparlör açık</string>
+    <string name="satellite_latitude_longitude">"Mevcut konum: "</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_auto_exit">Çık (%d saniye)</string>
     <string name="satellite_state_connected">"Uyduya bağlı
 Cihazı bu konumda tutun"</string>
+    <string name="satellite_state_connected_exp">"Uydu başarıyla yerleştirildi
+Uydu özellikli bir Sim kart takın ve tekrar deneyin"</string>
+    <string name="satellite_state_connected_exp_floating">Uydu başarıyla yerleştirildi</string>
     <string name="satellite_state_connected_floating">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_connecting">Bağlanılıyor (%d saniye)</string>
     <string name="satellite_state_connecting_floating">Bağlanılıyor (%d saniye)</string>
-    <string name="satellite_state_retry">Denemeye devam et</string>
+    <string name="satellite_state_gps_noti_content">Konum bilgileriniz kullanılıyor</string>
+    <string name="satellite_state_gps_noti_title">Uydu iletişimleri</string>
+    <string name="satellite_state_occlusion_prompt">Sinyali engelleyebilecek binalardan veya ağaçlardan kaçının</string>
+    <string name="satellite_state_retry">Denemeye devam edin</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
