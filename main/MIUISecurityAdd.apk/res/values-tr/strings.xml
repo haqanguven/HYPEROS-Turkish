@@ -318,8 +318,13 @@ programımıza katılın"</string>
     <string name="friday_shortest">Cum</string>
     <string name="function_not_support">Bu özellik desteklenmiyor</string>
     <string name="game_booster">Oyun hız arttırıcı</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Reddet</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Kabul et</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Oyun hızlandırıcı gizlilik politikası: %1$s</Data></string>
+    <string name="gamebooster_confirm_dialog_title">Gizlilik politikamızı kabul edin</string>
     <string name="gamebooster_dialog_recover">Yenile</string>
     <string name="gamebooster_dialog_start_booster">Başlat</string>
+    <string name="gamebooster_dialog_start_booster_new">Hızlandır</string>
     <string name="gamebooster_network_dialog_message">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message_pad">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
@@ -381,7 +386,7 @@ programımıza katılın"</string>
     <string name="gb_gpu_dialog_message">Geçerli GPU ayarları %s üzerinde uygulanmaktadır. Ayarları uygulamak için oyunu yeniden başlatın</string>
     <string name="gb_gpu_dialog_titile">GPU ayarları</string>
     <string name="gb_gpu_pannel_touch_ctl_dialog_message">Dokunmatik kontroller güncellendi. Artık ilgili özellikleri oyun oynarken Oyun kısayolları > Gelişmiş dokunmatik kontroller bölümünde bulabilirsiniz</string>
-    <string name="gb_gpu_dialog_titile">GPU ayarları</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_title">yeni dokunma kontrolleri</string>
     <string name="gb_gpu_rader_graph">Fotoğraf kalitesi</string>
     <string name="gb_gpu_rader_maxfps">En yüksek kare hızı</string>
     <string name="gb_gpu_rader_remain">Performans</string>
@@ -408,9 +413,9 @@ programımıza katılın"</string>
     <string name="gb_pannel_control_mode_normal">Varsayılan</string>
     <string name="gb_pannel_control_mode_picture">Resim önceliği</string>
     <string name="gb_pannel_control_mode_power_saving">Güç tasarrufu</string>
-	<string name="gb_web_panel_failure_retry">Öğeler yüklenemedi. Tekrar deneyin</string>
-	<string name="gb_web_panel_game_loading">Yükleniyor</string>
-	<string name="gb_web_panel_network_exception">Bir ağ hatası nedeniyle şu anda oyun önerilemiyor. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="gb_web_panel_failure_retry">Öğeler yüklenemedi. Tekrar deneyin</string>
+    <string name="gb_web_panel_game_loading">Yükleniyor</string>
+    <string name="gb_web_panel_network_exception">Bir ağ hatası nedeniyle şu anda oyun önerilemiyor. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="gb_webwindow_schemedialog_accept">Aç</string>
     <string name="gb_webwindow_schemedialog_cancel">İptal et</string>
     <string name="gb_webwindow_schemedialog_title">Oyunlar şimdi açılsın mı?</string>
@@ -423,6 +428,7 @@ programımıza katılın"</string>
     <string name="google_storage_bucket">securityadd-adf33.appspot.com</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcıı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap Kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">gizlilik politikasını.&lt;/a>" okudum ve kabul ediyorum</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Oyun hızlandırıcı %1$s Gizlilik politikasını okudum ve kabul ediyorum</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
     <string name="gtb_dialog_privacy_voice_message">Xunyou oyun sesi değiştiriciyi kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Xunyou oyun sesi değiştirici &lt;a href=\"%1$s\">Gizlilik politikasını&lt;/a>'nı okudum ve kabul ettim"</Data> </string>
@@ -594,6 +600,8 @@ Güvenli ve daha güvenli"</string>
     <string name="net_booster_expire_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification_tip">Ağ hız artırımı oturumu yakında sona erecek. Oturum yenilensin mi?</string>
+    <string name="net_free_booster_new_user_tip">Ücretsiz bir oyun hızlandırıcı alın ve bir Xiaomi telefonu kazanmak için katılın</string>
+    <string name="net_free_booster_new_user_title">Yeni kullanıcı hediyesi</string>
     <string name="net_retry_btn_text">Tekrar dene</string>
     <string name="net_switch_to_owner_space_text">Ana alana geri dön</string>
     <string name="net_unavailable_tip">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
@@ -657,18 +665,18 @@ Güvenli ve daha güvenli"</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pc_activity_title">Pili optimize et</string>
-	<string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
+    <string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
 	<string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve hazırda bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
 	<string name="pc_entered_extreme_mode_summary2">Cihazınızın pili bitmek üzere. Hazırda bekletme modunda arka planda çalışan uygulamalardan herhangi bir bildirim almazsınız</string>
-	<string name="pc_extreme_exit_and_power_off">Çıkış</string>
-	<string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
-	<string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
-	<string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın pili bitmiş. Hazırda bekletme modundan çıkarsanız cihazınız kapanacaktır</string>
-	<string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
-	<string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
-	<string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
-	<string name="pc_going_to_exit_extreme_mode">Hazırda Bekletme modundan çıkılıyor</string>
-	<string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
+    <string name="pc_extreme_exit_and_power_off">Çıkış</string>
+    <string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
+    <string name="pc_extreme_mode_exit_risk_title">Dikkat</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">Cihazınızın pili bitmiş. Hazırda bekletme modundan çıkarsanız cihazınız kapanacaktır</string>
+    <string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
+    <string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
+    <string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
+    <string name="pc_going_to_exit_extreme_mode">Hazırda Bekletme modundan çıkılıyor</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
     <string name="permission_control">İzin yönetimi</string>
     <string name="playing">Oynat</string>
     <string name="pm">ÖS</string>

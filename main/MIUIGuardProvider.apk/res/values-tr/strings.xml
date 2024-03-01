@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AVL">AVL</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesMi">Xiaomi</string>
+    <string name="DesQAX">Qianshin</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Xiaomi</string>
+    <string name="QAX">Qianshin</string>
+    <string name="Tencent">Tencent</string>
     <string name="app_name">Sistem güvenlik bileşenleri</string>
     <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
     <string name="avl_dialog_policy">Gizlilik politikası</string>

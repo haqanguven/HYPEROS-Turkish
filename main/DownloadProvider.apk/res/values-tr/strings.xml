@@ -28,10 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">İndirme yöneticisi</string>
-    <string name="app_name">İndirme yöneticisi</string>
     <string name="auto_restart_under_wifi">Wifi bu dosyayı otomatik olarak indirecektir</string>
     <string name="button_cancel_download">İptal et</string>
     <string name="button_download_now">Şimdi indir</string>
@@ -273,6 +273,7 @@
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
+    <string name="miuix_appcompat_edit">Düzenle</string>
     <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
@@ -367,7 +368,6 @@
     <string name="permlab_downloadManager">İndirme yöneticisine erişin</string>
     <string name="permlab_downloadManagerAdvanced">Gelişmiş indirme yöneticisi işlevleri.</string>
     <string name="permlab_downloadWithoutNotification">dosyaları bildirimde bulunmadan indirme</string>
-    <string name="permlab_seeAllExternal">USB belleğe yapln tüm indr göster</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>

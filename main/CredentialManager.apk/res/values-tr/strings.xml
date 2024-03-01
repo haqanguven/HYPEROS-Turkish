@@ -85,7 +85,7 @@
     <string name="get_dialog_heading_from_another_device">Başka bir cihazdan</string>
     <string name="get_dialog_heading_locked_password_managers">Kilitli şifre yöneticileri</string>
     <string name="get_dialog_heading_manage_sign_ins">Oturum açma işlemlerini yönetin</string>
-    <string name="get_dialog_option_headline_use_a_ Different_device">Farklı bir cihaz kullan</string>
+    <string name="get_dialog_option_headline_use_a_different_device">Farklı bir cihaz kullan</string>
     <string name="get_dialog_sign_in_type_username_separator">" • "</string>
     <string name="get_dialog_title_choose_option_for">%1$s için bir seçenek seçilsin mi?</string>
     <string name="get_dialog_title_choose_passkey_for">%1$s için kayıtlı bir şifre seçin</string>
