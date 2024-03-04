@@ -1394,7 +1394,7 @@ daireyi hareket ettirin"</string>
     <string name="photo_editor_crop_auto_tips">Otomatik olarak kırpıldı</string>
     <string name="photo_editor_crop_outpaint_auto_name">Otomatik</string>
     <string name="photo_editor_crop_outpaint_free_name">Özel</string>
-    <string name="photo_editor_crop_outpaint_guide_desc">"Tamamen yeni AI genişletmesini deneyin
+    <string name="photo_editor_crop_outpaint_guide_desc">"Tamamen yeni yapay zeka genişletmesini deneyin
 Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın karar vermesine izin verin"</string>
     <string name="photo_editor_crop_outpaint_name">Yapay zeka genişletme</string>
     <string name="photo_editor_crop_outpaint_process_again">Tekrar dene</string>
@@ -1464,21 +1464,21 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
-    <string name="photo_editor_navigator_tab_title_ai">AI</string>
+    <string name="photo_editor_navigator_tab_title_ai">Yapay zeka</string>
     <string name="photo_editor_navigator_tab_title_basic">Temel</string>
     <string name="photo_editor_navigator_tab_title_beauty">Güzelleştir</string>
     <string name="photo_editor_perspective">Perspektif</string>
     <string name="photo_editor_perspective_crop">Kırp</string>
     <string name="photo_editor_perspective_distortion">Deforme et</string>
-    <string name="photo_editor_perspective_free">Ücretsiz düzenle</string>
+    <string name="photo_editor_perspective_free">Düzenle</string>
     <string name="photo_editor_perspective_horizontal">Yatay</string>
     <string name="photo_editor_perspective_vertical">Dikey</string>
     <string name="photo_editor_picture_quality">Kalite</string>
     <string name="photo_editor_privacy_cancel">Kabul etmiyorum</string>
     <string name="photo_editor_privacy_confirm">Kabul ediyorum</string>
     <string name="photo_editor_privacy_tip_below">* Algoritmik rastgeleleştirme nedeniyle konunun tamamen görüntülendiği görselleri kullanırken en iyi sonuçları alırsınız</string>
-    <string name="photo_editor_privacy_tip_outpaint">AI genişletmeyi kullanmadan önce %1$s AI genişletme gizlilik politikasını ve %2$s AI genişletme kullanıcı sözleşmesini okuyup kabul edin</string>
-    <string name="photo_editor_privacy_tip_rmpro">AI silgi 2.0 pro özelliklerini kullanmadan önce %1$s AI silgi 2.0 Pro özellikleri gizlilik politikasını ve %2$s AI silgi 2.0 Pro özellikleri kullanıcı sözleşmesini okuyup kabul edin</string>
+    <string name="photo_editor_privacy_tip_outpaint">Yapay zeka genişletmeyi kullanmadan önce %1$s yapay zeka genişletme gizlilik politikasını ve %2$s yapay zeka genişletme kullanıcı sözleşmesini okuyup kabul edin</string>
+    <string name="photo_editor_privacy_tip_rmpro">Yapay zeka silgi 2.0 pro özelliklerini kullanmadan önce %1$s yapay zeka silgi 2.0 Pro özellikleri gizlilik politikasını ve %2$s yapay zeka silgi 2.0 Pro özellikleri kullanıcı sözleşmesini okuyup kabul edin</string>
     <string name="photo_editor_privacy_title">Dikkat</string>
     <string name="photo_editor_quality">Kalite</string>
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
@@ -1488,11 +1488,11 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_remover2_desc_type_line">Silmek için bir çizginin üzerine çizin</string>
     <string name="photo_editor_remover2_desc_type_people">Silmek için bir kişiye dokunun</string>
     <string name="photo_editor_remover2_desc_type_things">Kaldırmak istediğiniz nesneleri daire içine alın</string>
-    <string name="photo_editor_remover2_download_failed">AI silgi 2.0 indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="photo_editor_remover2_download_failed">Yapay zeka silgi 2.0 indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_remover2_download_failed_msg">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="photo_editor_remover2_download_finish">AI silgi 2.0 başarıyla indirildi</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. AI silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_title">"AI silgi 2.0'ı indirin"</string>
+    <string name="photo_editor_remover2_download_finish">Yapay zeka silgi 2.0 başarıyla indirildi</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. Yapay zeka silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_title">"Yapay zeka silgi 2.0'ı indirin"</string>
     <string name="photo_editor_remover2_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Öğeleri şimdi indirmek ek ücretlere neden olabilir. Yine de indirilsin mi?</string>
     <string name="photo_editor_remover2_download_with_metered_network_title">Ücretli ağ</string>
     <string name="photo_editor_remover2_edit_type_food_shadow">Yiyecek gölgeleri</string>
@@ -1509,7 +1509,7 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_remover2_shadow_toast_no_shadow">Silinecek gölgeler algılanamadı</string>
     <string name="photo_editor_remover2_tip_type_deshadow">Gölgeleri kaldır</string>
     <string name="photo_editor_remover2_toast_no_things">Silinecek nesneler algılanamadı</string>
-    <string name="photo_editor_remover_pro_desc">"AI sil 2.0 profesyonel özellikleri artık daha da güçlü
+    <string name="photo_editor_remover_pro_desc">"Yapay zeka silgi 2.0 profesyonel özellikleri artık daha da güçlü
 Kullanmak için Pro'ya dokunun"</string>
     <string name="photo_editor_remover_pro_inpainting">Siliniyor</string>
     <string name="photo_editor_remover_pro_select_all_people">Tümünü seç</string>
