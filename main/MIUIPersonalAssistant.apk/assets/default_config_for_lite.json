@@ -17,11 +17,11 @@
     "serviceKey": "steps"
   },
   {
-    "productId": "f45ca1ae-5574-45d5-98da-f3601d07fab1",
+    "productId": "02a70a03370A7021342DB08C06",
     "tag": "",
-    "resource": "f45ca1ae-5574-45d5-98da-f3601d07fab1.zip",
+    "resource": "maml_battery_2x2.zip",
     "spanX": 2,
     "spanY": 2,
-    "serviceKey": "security"
+    "serviceKey": "battery"
   }
 ]

@@ -357,7 +357,7 @@
     <string name="public_permission_storage_disallow_msg">Yetkilendirmeyi iptal ettikten sonra belgelerle çalışamazsınız</string>
     <string name="public_picture_savefail">Resim bozuk ve kaydedilemiyor</string>
     <string name="public_play">Oynat</string>
-    <string name="public_ppt_label">Mi sunum Görüntüleyici</string>
+    <string name="public_ppt_label">Mi sunum görüntüleyici</string>
     <string name="public_privacy_policy">Gizlilik sözleşmesi</string>
 	<string name="public_privacy_update">Bir kullanıcı olarak haklarınızı ve verilerinizi kullanma yollarımızı tam olarak anlamak için devam etmeden önce %s Gizlilik politikamızın yeni sürümünü okuyun ve kabul edin</string>
     <string name="public_re_licensing">Yetkilendirme ver</string>
@@ -389,7 +389,7 @@
     <string name="public_secre_dialog_positive">Kabul et</string>
     <string name="public_secre_dialog_tips_agree">Kullanıcı sözleşmesi ve Gizlilik politikası koşullarını kabul ederseniz servislerimizi kullanmaya başlayabilirsiniz</string>
     <string name="public_secre_dialog_tips_small">Hoş geldiniz. Bu uygulamayı cihazınızdaki belgeleri görüntülemek için kullanabilirsiniz</string>
-    <string name="public_secre_dialog_title">Gizlilik ifadesi</string>
+    <string name="public_secre_dialog_title">Gizlilik sözleşmesi</string>
     <string name="public_selectAll">Tümünü seç</string>
     <string name="public_selectText">Seç</string>
     <string name="public_sensor_ratation_land_tip">Yatay yönlendirme</string>

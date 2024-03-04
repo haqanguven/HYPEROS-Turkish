@@ -424,6 +424,8 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
     <string name="function_not_support">Bu cihazda desteklenmiyor</string>
+    <string name="gesture_disabled">Kapalı</string>
+    <string name="gesture_enable">Açık</string>
     <string name="gesture_function_dialog_message">%1$s, %2$s için kullanılır. %3$s ile değiştirilsin mi?</string>
     <string name="gesture_hint_call">Arama yanıtlanıyor</string>
     <string name="gesture_hint_endcall">Arama sonlandırılıyor</string>
@@ -482,7 +484,7 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="guide_media_play_pause">Video ve sesi oynatın ve duraklatın</string>
     <string name="guide_media_process">Oynatma ilerlemesini ayarlayın</string>
     <string name="guide_media_volume">Medya ses düzeyini ayarlayın</string>
-    <string name="guide_meida_next_previous">Switch between songs</string>
+    <string name="guide_meida_next_previous">Şarkılar arasında geçiş yap</string>
     <string name="guide_page_up_down">Sayfaları çevir</string>
     <string name="guide_phone_call_endcall">Tablete aktarılan aramaları yanıtlama ve sonlandırma</string>
     <string name="guide_pwd_detail_title">"Verilerinizi koruma altına alın

@@ -137,26 +137,26 @@
     <string name="ai_agree_privacy_btn">Kabul et</string>
     <string name="ai_album_creating_image_tip">Yapay zeka görüntüsü oluşturuluyor</string>
     <string name="ai_album_open_switch_button_title">Fotoğrafları analiz etmeye başla</string>
-    <string name="ai_album_requesting_title">AI algoritması hala fotoğraflarınızı işliyor. Daha sonra gelin</string>
+    <string name="ai_album_requesting_title">Yapay zeka algoritması hala fotoğraflarınızı işliyor. Daha sonra gelin</string>
     <string name="ai_album_setting_key_word">Fotoğrafları ara</string>
-    <string name="ai_album_setting_sub_title">AI algoritmasının fotoğraflarınızdaki kişileri, yerleri ve nesneleri tanımasını sağlayın. Böylece onları daha hızlı bulabilirsiniz</string>
+    <string name="ai_album_setting_sub_title">Yapay zeka algoritmasının fotoğraflarınızdaki kişileri, yerleri ve nesneleri tanımasını sağlayın. Böylece onları daha hızlı bulabilirsiniz</string>
     <string name="ai_album_setting_title">Fotoğraflardaki nesneleri tanımla</string>
     <string name="ai_cancel">İptal et</string>
     <string name="ai_cancel_image_message">Şimdi durursanız yüklenen fotoğraflar kaydedilmeyecek</string>
-    <string name="ai_cancel_image_title">Bu AI görüntüsünün oluşturulması durdurulsun mu?</string>
+    <string name="ai_cancel_image_title">Bu yapay zeka görüntüsünün oluşturulması durdurulsun mu?</string>
     <string name="ai_confirm">Tamam</string>
     <string name="ai_confirm_cancel_image_btn">Durdur</string>
     <string name="ai_confirm_create_image">Yapay zeka görüntüsü oluştur</string>
     <string name="ai_confirm_delete_image_message">Bu resmi sildikten sonra bu görsele dayalı olarak yeni fotoğraflar oluşturamayacaksınız</string>
-    <string name="ai_confirm_delete_image_title">AI görseli silinsin mi?</string>
+    <string name="ai_confirm_delete_image_title">Yapay zeka görseli silinsin mi?</string>
     <string name="ai_continue_create_btn">Devam et</string>
     <string name="ai_continue_update_image_btn">Devam et</string>
     <string name="ai_continue_upload_photo">Devam et</string>
     <string name="ai_create_ai_image">Yapay zeka görüntüsü oluştur</string>
     <string name="ai_create_image_deal_file_text">Bekleme süresi hesaplanıyor</string>
     <string name="ai_create_image_fail_by_illegal_photo">"Yüklediğiniz fotoğrafların topluluk standartlarımızı ihlal ettiği anlaşılıyor.
-AI görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
-    <string name="ai_create_image_fail">Sunucu hatası nedeniyle AI görüntüsü oluşturulamadı. Tekrar deneyin</string>
+Yapay zeka görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
+    <string name="ai_create_image_fail">Sunucu hatası nedeniyle yapay zeka görüntüsü oluşturulamadı. Tekrar deneyin</string>
     <string name="ai_create_image_photo_tip">Yapay zeka görüntüsü oluşturulduktan sonra fotoğraflar sunucularımızdan silinecek</string>
     <string name="ai_create_image_queue_time">%1$s | %2$s</string>
     <string name="ai_create_image_tip">Yapay zeka görüntüsü oluşturulduktan sonra fotoğraflar sunucularımızdan silinecek</string>
@@ -183,17 +183,17 @@ AI görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
     <string name="ai_deal_tile_text">Gerekli süre hesaplanıyor</string>
     <string name="ai_delete_image_fail">Silinemedi. Tekrar deneyin</string>
     <string name="ai_delete_image_progress_message">Siliniyor</string>
-    <string name="ai_delete_image_success">AI görüntüsü başarıyla silindi</string>
+    <string name="ai_delete_image_success">Yapay zeka görüntüsü başarıyla silindi</string>
     <string name="ai_download_filter_photo_so_confirm_btn">İndir</string>
     <string name="ai_download_filter_photo_so_downloading">Eklenti indiriliyor</string>
-    <string name="ai_download_filter_photo_so_message">Tüm AI portre özelliklerini kullanabilmek için önce eklentiyi indirin</string>
+    <string name="ai_download_filter_photo_so_message">Tüm yapay zeka portre özelliklerini kullanabilmek için önce eklentiyi indirin</string>
     <string name="ai_download_filter_photo_so_title">Eklentiyi indir</string>
     <string name="ai_download_filter_so_fail_toast">Eklenti indirilemedi. Tekrar deneyin</string>
     <string name="ai_enhance_bar_default">HD görüntü oluştur</string>
     <string name="ai_enhance_bar_failed">HD görüntü oluşturulamadı</string>
     <string name="ai_ensure_exit_select_message">Bir dahaki sefere fotoğrafları tekrar seçmeniz gerekecek</string>
     <string name="ai_ensure_exit_select_title">Şimdi çıkılsın mı?</string>
-    <string name="ai_entrance_description">İnsanların fotoğraflarına dayalı bir yapay zeka görüntüsü oluşturun ve portrelerini oluşturun</string>
+    <string name="ai_entrance_description">İnsanların fotoğraflarına dayalı bir yapay zeka görüntüsü ve portrelerini oluşturun</string>
     <string name="ai_entrance_title">Yapay zeka portresi</string>
     <string name="ai_exit">Çıkış</string>
     <string name="ai_filter_album_tag">Yetersiz fotoğrafı olan kişiler filtrelendi</string>
@@ -213,13 +213,13 @@ AI görüntüsünü farklı fotoğraflarla oluşturmayı deneyin"</string>
     <string name="ai_have_a_think_btn">İptal et</string>
     <string name="ai_illegal_photo_tip">"Seçtiğiniz fotoğrafların topluluk standartlarımızı ihlal ettiği anlaşılıyor
 Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
-    <string name="ai_image_count_limit_msg">Bugün daha fazla AI görüntüsü oluşturulamıyor. Yarın tekrar gelin</string>
+    <string name="ai_image_count_limit_msg">Bugün daha fazla yapay zeka görüntüsü oluşturulamıyor. Yarın tekrar gelin</string>
     <string name="ai_image_creating_failed_msg">%s için resim oluşturulamadı</string>
     <string name="ai_image_creating_msg">%s için resim oluşturuluyor</string>
     <string name="ai_image_creation_over_limit_title">Daha fazla portre oluşturulamıyor</string>
-    <string name="ai_image_invalid">"%s'in AI görüntüsü başarıyla silindi"</string>
-    <string name="ai_image_invalid_in_update">"%s'in AI görüntüsü şimdi güncelleniyor. Güncellenene kadar bekleyin ve tekrar deneyin"</string>
-    <string name="ai_image_manager_empty_msg">"Bu hizmetin eski sürümlerinde AI görüntüleri oluşturmak için kullanılan fotoğraflar başka bir cihazda görüntülenemiyor"</string>
+    <string name="ai_image_invalid">"%s'in yapay zeka görüntüsü başarıyla silindi"</string>
+    <string name="ai_image_invalid_in_update">"%s'in yapay zeka görüntüsü şimdi güncelleniyor. Güncellenene kadar bekleyin ve tekrar deneyin"</string>
+    <string name="ai_image_manager_empty_msg">"Bu hizmetin eski sürümlerinde yapay zeka görüntüleri oluşturmak için kullanılan fotoğraflar başka bir cihazda görüntülenemiyor"</string>
     <string name="ai_image_manager_empty_msg_net">Burada fotoğraf yok</string>
     <string name="ai_image_manager_re_create_tip">Yapay zeka görüntünüzü güncellemek için fotoğraf ekleyin veya silin</string>
     <string name="ai_image_manager_title">Yapay zeka görüntüsünü yönet</string>
@@ -227,13 +227,13 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_image_over_limit_button_cancel">Tamam</string>
     <string name="ai_image_over_limit_button_create">Devam et</string>
     <string name="ai_image_over_limit_title">Yapay zeka görüntüsü oluşturulamıyor</string>
-    <string name="ai_image_over_limit_title_update">AI görüntüleri şu anda güncellenemiyor</string>
-    <string name="ai_image_privacy_message">" "<Data>" Yapay zeka portrelerine hoş geldiniz!&lt;br/>Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor:&lt;br/>1. Yapay zeka portreleri oluşturmak için, &lt;b>insanların fotoğraflarını&lt;/b> sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onların &lt;b>yüzleri&lt;/b> hakkındaki bilgileri toplayacağız ve işleyeceğiz. &lt;br/>2. &lt;b>Kişilerin fotoğraflarını&lt;/b> yüklediğinizde, karşılık gelen albümlerdeki &lt;b>adlarını ve profil fotoğraflarını&lt;/b> senkronize edeceğiz ve bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz .&lt;br/>3. Metne dayalı AI görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız &lt;b>açıklamayı&lt;/b> toplayacağız.&lt;br/>Yalnızca aşağıdaki kişisel bilgileri topluyoruz: kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gereklidir. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi &lt;a href=\"%1$s\">Yapay Zeka Portreleri Gizlilik Politikası&lt;/a>'nda öğrenebilirsiniz. &lt;br/>&lt;a href=\"%2$s\">AI Portraits Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%3$s\">AI Portraits Gizlilik Politikası&lt;nı okuyup kabul edin ;/a> devam etmeden önce. "</Data>" "</string>
+    <string name="ai_image_over_limit_title_update">Yapay zeka görüntüleri şu anda güncellenemiyor</string>
+    <string name="ai_image_privacy_message">" "<Data>" Yapay zeka portrelerine hoş geldiniz!&lt;br/>Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor:&lt;br/>1. Yapay zeka portreleri oluşturmak için, &lt;b>insanların fotoğraflarını&lt;/b> sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onların &lt;b>yüzleri&lt;/b> hakkındaki bilgileri toplayacağız ve işleyeceğiz. &lt;br/>2. &lt;b>Kişilerin fotoğraflarını&lt;/b> yüklediğinizde, karşılık gelen albümlerdeki &lt;b>adlarını ve profil fotoğraflarını&lt;/b> senkronize edeceğiz ve bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz .&lt;br/>3. Metne dayalı yapay zeka görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız &lt;b>açıklamayı&lt;/b> toplayacağız.&lt;br/>Yalnızca aşağıdaki kişisel bilgileri topluyoruz: kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gereklidir. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi &lt;a href=\"%1$s\">Yapay Zeka Portreleri Gizlilik Politikası&lt;/a>'nda öğrenebilirsiniz. &lt;br/>&lt;a href=\"%2$s\">Yapay zeka portleri kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%3$s\">Yapay zeka portleri gizlilik politikası&lt;nı okuyup kabul edin ;/a> devam etmeden önce. "</Data>" "</string>
     <string name="ai_input_name_hint">Ad girin</string>
     <string name="ai_loading">Yükleniyor</string>
     <string name="ai_multi_window_tip">Bu sayfa Bölünmüş ekranda görüntülenemez</string>
     <string name="ai_network_failed">Ağa bağlanılamadı. Bir iki dakika bekleyip tekrar deneyin</string>
-    <string name="ai_new_name_title">Bu AI görüntüsüne bir ad verin</string>
+    <string name="ai_new_name_title">Bu yapay zeka görüntüsüne bir ad verin</string>
     <string name="ai_no_access_message">Görünüşe göre artık bir Beta test kullanıcısı değilsiniz. Yapay zekayı kullanarak portreler oluşturmaya başlamak için Xiaomi topluluğuna başvurun</string>
     <string name="ai_no_access_title">Beta test kullanıcısı izinleri gerekli</string>
     <string name="ai_no_net_toast">Ağa bağlanılamadı. Tekrar deneyin</string>
@@ -251,7 +251,7 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_recreate_image_confirm_text_btn">Seç</string>
     <string name="ai_recreate_image_dialog_msg">Fotoğraf yüklemeye devam edebilir veya yenilerini seçebilirsiniz</string>
     <string name="ai_recreate_image_dialog_title">"%s'in fotoğrafları yüklenmedi"</string>
-    <string name="ai_refuse_update_toast">Bu AI görüntüsünü güncelleyebilmek için yeni fotoğraflar seçin</string>
+    <string name="ai_refuse_update_toast">Bu yapay zeka görüntüsünü güncelleyebilmek için yeni fotoğraflar seçin</string>
     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d en iyi fotoğraf otomatik olarak seçilecek</string>
     <string name="ai_select_people_title">Yapay zeka görüntüsünü oluşturacak kişiyi seçin</string>
     <string name="ai_select_photo_complete_description" formatted="false">"%1d–%2d yüz veya yarım vücut çekimini seçin
@@ -282,8 +282,8 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="ai_update_full_description">Artık güncellenemiyor. Gelecek ay tekrar gelin</string>
     <string name="ai_update_image">Yapay zeka resmini güncelle</string>
     <string name="ai_update_image_confirm_message">Seçilen fotoğrafa göre güncellenen resim oluşturulacak</string>
-    <string name="ai_update_image_confirm_title">AI görseli güncellensin mi?</string>
-    <string name="ai_update_warn_message">Bir AI görüntüsünün ayda yalnızca bir kez güncellenebileceğini unutmayın. Yine de devam edilsin mi?</string>
+    <string name="ai_update_image_confirm_title">Yapay zeka görseli güncellensin mi?</string>
+    <string name="ai_update_warn_message">Bir yapay zeka görüntüsünün ayda yalnızca bir kez güncellenebileceğini unutmayın. Yine de devam edilsin mi?</string>
     <string name="ai_use_photo_tip">Kullanılan fotoğraflar</string>
     <string name="album_ai_creative">Yapay zeka portreleri</string>
     <string name="album_ai_description">İnsanlar, yerler, nesneler</string>
@@ -2495,7 +2495,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="ocr_abnormal_pic_format">Metin tanınamadı. Bu resim biçimi desteklenmiyor</string>
     <string name="ocr_abnormal_pic_too_large">Metin tanınamadı. Bu görüntü çok büyük</string>
     <string name="ocr_abnormal_pic_too_long">Metin tanınamadı. Bu resim çok uzun</string>
-    <string name="ocr_aiasst_version">"Önce Mi AI'yi güncelleyin"</string>
+    <string name="ocr_aiasst_version">Önce Mi yapay zekayı güncelleyin</string>
     <string name="ocr_cancelled">Metin tanımadı iptal edildi</string>
     <string name="ocr_copy">Kopyala</string>
     <string name="ocr_entrance">Metin tanıma</string>
@@ -2815,11 +2815,11 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
     <string name="photo_editor_remove_watermark_on">Filigran ekle</string>
     <string name="photo_editor_remover">Sil</string>
-    <string name="photo_editor_remover2_download_failed">AI silgi 2.0 indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="photo_editor_remover2_download_failed">Yapay zeka silgi 2.0 indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="photo_editor_remover2_download_failed_msg">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
-    <string name="photo_editor_remover2_download_finish">AI silgi 2.0 başarıyla indirildi</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. AI silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_title">"AI silgi 2.0'ı indirin"</string>
+    <string name="photo_editor_remover2_download_finish">Yapay zeka silgi 2.0 başarıyla indirildi</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. Yapay zeka silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_title">"Yapay zeka silgi 2.0'ı indirin"</string>
     <string name="photo_editor_remover2_edit_type_free">Daire</string>
     <string name="photo_editor_remover2_edit_type_line">Çizgi</string>
     <string name="photo_editor_remover2_edit_type_people">İnsanlar</string>
@@ -3152,7 +3152,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="rog_phone">ROG</string>
     <string name="rubbish_album_move_to_other_album_success">Bu öğeleri şimdi diğer albümler içinde görüntüleyebilirsiniz</string>
     <string name="rubbish_nomedia_manager_button_text">.nomedia dosyalarıyla albümleri yönet</string>
-    <string name="run_clip">AI arama grafiği vektör algoritmasını yürütün</string>
+    <string name="run_clip">Yapay zeka arama grafiği vektör algoritmasını yürütün</string>
     <string name="runtime_permission_ungranted">Kapalı galeri talep edilen izinler yok</string>
     <string name="saf_hyper_link_text">İzinleri yönet</string>
     <string name="saf_operation_guide_1">"Galerinin verilerinizi koruyabilmesi ve yönetebilmesi için izninize ihtiyacı var. "</string>
@@ -3236,7 +3236,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="search_error_and_retry">Bir hata oluştu. Yeniden denemek için dokunun</string>
     <string name="search_failed_mark_feedback_false_negative">Eklenemedi</string>
     <string name="search_failed_mark_feedback_false_positive">Kaldırılamadı</string>
-    <string name="search_feedback_contribute">AI algoritma veritabanına fotoğraf ekle</string>
+    <string name="search_feedback_contribute">Yapay zeka algoritma veritabanına fotoğraf ekle</string>
     <string name="search_feedback_false_negative_text">Fotoğraflar %s hedefine eklensin mi?</string>
     <string name="search_feedback_false_negative_title">Seçili öğeler %s</string>
     <string name="search_feedback_false_positive_text">Fotoğraflar %s konumundan kaldırılsın mı?</string>
@@ -3574,20 +3574,20 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="solar_valentines_day_title">Sevgililer günü</string>
     <string name="sort">Sırala</string>
     <string name="sort_and_showmode">Sırala ve görüntüle</string>
-    <string name="special_type_8k">AI 8K</string>
-    <string name="special_type_ai_audio">AI ses</string>
-    <string name="special_type_eye_repair">AI kullanarak sabit kapalı gözler</string>
+    <string name="special_type_8k">Yapay zeka 8K</string>
+    <string name="special_type_ai_audio">Yapay zeka ses</string>
+    <string name="special_type_eye_repair">Yapay zeka kullanarak sabit kapalı gözler</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_hdr10">HDR</string>
     <string name="special_type_heif">HEIF</string>
     <string name="special_type_log">LOG</string>
-    <string name="special_type_night_beauty">AI düşük ışıklı portre</string>
-    <string name="special_type_night_mode">AI gece modu</string>
-    <string name="special_type_portrait">AI ışık boyamalı portre</string>
+    <string name="special_type_night_beauty">Yapay zeka düşük ışıklı portre</string>
+    <string name="special_type_night_mode">Yapay zeka gece modu</string>
+    <string name="special_type_portrait">Yapay zeka ışık boyamalı portre</string>
     <string name="special_type_raw">RAW</string>
     <string name="special_type_real_8k">8K</string>
     <string name="special_type_ultra_raw">Ultra RAW</string>
-    <string name="special_type_wide_angle">AI ultra geniş açı</string>
+    <string name="special_type_wide_angle">Yapay zeka ultra geniş açı</string>
     <string name="start_debug">Galeri hata ayıklama</string>
     <string name="start_to_use_face_albumset">Kişilere göre sırala</string>
     <string name="status_bar_notification_info_overflow">999+</string>
