@@ -268,7 +268,7 @@
         <item>ÇB</item>
     </string-array>
     <string-array name="miui_home_branch_region">
-        <item>IN</item>
+        <item>TR</item>
     </string-array>
     <string-array name="miui_lite_fancy_icon_app">
         <item>com.android.calendar</item>
@@ -479,13 +479,13 @@
         <item>Negatif bir ekran</item>
     </string-array>
     <string-array name="widget_component_delete_way">
-        <item>shortcut删除</item>
-        <item>顶部删除</item>
-        <item>APP卸载</item>
-        <item>shortcut更换</item>
-        <item>PUSH下线</item>
-        <item>鉴权失败</item>
-        <item>其他</item>
+        <item>Kısayolu sil</item>
+        <item>Üst kısmı kaldır</item>
+        <item>Uygulamayı kaldır</item>
+        <item>Kısayolu değiştir</item>
+        <item>Çevrimdışına it</item>
+        <item>Başarısız oldu</item>
+        <item>Diğer</item>
     </string-array>
     <string-array name="widget_component_source">
         <item>Varsayılan düzen</item>

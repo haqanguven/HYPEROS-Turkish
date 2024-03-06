@@ -443,7 +443,7 @@
     <string name="folder_picker_options_tab_text">Boyut</string>
     <string name="folder_picker_sliding_button_tab_text">Uygulamala önerileri</string>
     <string name="folder_picker_tab_text">Klasör</string>
-    <string name="free_style_apps_title">Uygulama seçin</string>
+    <string name="free_style_title">Mi alan</string>
     <string name="free_style_unavailable_message">Mi alan artık bu sürümde desteklenmemektedir. Yine de bu temayı kullanmaya devam edebilirsiniz</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
@@ -491,8 +491,8 @@
     <string name="home_gesture_notification_and_control_center">Bildirim gölgesi ve kontrol merkezi</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
     <string name="home_indicator">bottom_point</string>
-	<string name="home_pull_down_content">Bu cihazda ve çevrimiçi olarak öğe aramak için ana ekranda aşağı kaydırın</string>
-	<string name="home_pull_down_content_tips">Tercihlerinizi Ayarlar > Ana ekran > Ana ekranda aşağı kaydırın bölümünden değiştirebilirsiniz. Yukarı kaydırma hareketine ilişkin tercihleriniz değişmeden kalacaktır</string>
+    <string name="home_pull_down_content">Bu cihazda ve çevrimiçi olarak öğe aramak için ana ekranda aşağı kaydırın</string>
+    <string name="home_pull_down_content_tips">Tercihlerinizi Ayarlar > Ana ekran > Ana ekranda aşağı kaydırın bölümünden değiştirebilirsiniz. Yukarı kaydırma hareketine ilişkin tercihleriniz değişmeden kalacaktır</string>
     <string name="home_pull_down_know">Tamam</string>
     <string name="home_screen">Ana ekran</string>
     <string name="home_slide_up_action">Ana ekranda yukarı kaydırma</string>
@@ -758,11 +758,11 @@ Arttırılmış güvenlik"</string>
     <string name="navigation_type_virtual_key">Tuşlar</string>
     <string name="network_error">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="new_default_folder_title_tools">Sistem uygulamaları</string>
-    <string name="new_feature_title">Yenilikler</string>
+    <string name="new_default_folder_title_tools_path">com.miui.home:string/new_default_folder_title_tools</string>
     <string name="new_feature_title">Yenilikler</string>
     <string name="new_open_personal_assistant_settings_simplified">Uygulama kasası</string>
     <string name="new_privacy_thumbnail_blur_summary">Son kullanılanlarda uygulama önizlemelerini bulanıklaştırın</string>
-    <string name="new_feature_title">Yenilikler</string>
+    <string name="new_recents_config_title">Diğer</string>
     <string name="night">Akşam</string>
     <string name="no_space_toast">Yeterli boş alan yok</string>
     <string name="no_space_toast_fold">Burada yeterli alan yok</string>
@@ -960,6 +960,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_personal_assistant_app_vault">Xiaomi</string>
     <string name="switch_personal_assistant_google">Google</string>
     <string name="switch_personal_assistant_none">Hiçbiri</string>
+    <string name="switch_personal_assistant_summary">Google keşfeti açmak için ana ekranda sağa doğru kaydırın</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
