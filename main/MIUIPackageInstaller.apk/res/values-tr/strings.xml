@@ -53,7 +53,6 @@
     <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamayı yükleyerek kullanımından kaynaklanabilecek telefonunuzdaki herhangi bir hasardan veya veri kaybından sorumlu olduğunuzu kabul etmiş olursunuz</string>
     <string name="app_already_on_the_app_store">Uygulama mağazası mevcut</string>
     <string name="app_crash_test_text">Paket yükleyici gücü kapatıldı</string>
-    <string name="app_data_independent_storage">Kullanıcı gizlilik verilerini korumak için veriler uygulamalar arasında bağımsız olarak depolanır</string>
     <string name="app_data_safe_inside">Uygulama veri kasası dahili testi</string>
     <string name="app_description_picture">Uygulama tanıtım resmi</string>
     <string name="app_detail_change_log">Yenilikler</string>
@@ -209,9 +208,6 @@
     <string name="close_mi_protected_second_tip_dialog_ok">Onayla ve açık tut</string>
     <string name="close_mi_protected_second_tip_dialog_title">Doğrulama yöntemini değiştirmek istiyor musunuz?</string>
     <string name="close_safe_mode">Kapat</string>
-    <string name="closed_beta">Kapalı beta</string>
-    <string name="closed_beta_dialog_description">Uygulama veri kasası özel verilerinizin güvenliğini korur ve kötü amaçlı uygulamaların diğer uygulama verilerini okumasını veya alışverişini engeller. Uygulamalar yalnızca kendileri tarafından oluşturulan dosyaları ve verileri okuyabilir</string>
-    <string name="closed_beta_dialog_title">Uygulama veri kasası beta kapatılsın mı?</string>
     <string name="comment_count_wan">%1$s milyon yorum</string>
     <string name="confirm_install">Yetkili kurulum</string>
     <string name="copy">Kopyala</string>
@@ -444,7 +440,6 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="learn_bundle_app_install">Paket kurulumunu anla</string>
     <string name="learn_enhance_safe_guard">Gelişmiş koruma hakkında bilgi edinin</string>
     <string name="learn_more">Daha fazla bilgi</string>
-    <string name="learn_more_text">Daha fazla bilgi</string>
     <string name="let_me_think_again">Tekrar düşüneyim</string>
     <string name="lock_finger">Yüklemek için parmak izini doğrulayın</string>
     <string name="lock_screen_authrioze_subtitle_password">Kilit ekranı şifre yetkilendirmesi</string>
@@ -630,8 +625,8 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
-    <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_announce_current_range_selection">Başlangıç tarihi seçimi: %1$s – Bitiş tarihi seçimi: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Mevcut seçim: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">none</string>
     <string name="mtrl_picker_cancel">İptal et</string>
     <string name="mtrl_picker_confirm">Tamam</string>
@@ -927,8 +922,9 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="permission_name_write_calendar">Takvime yazın</string>
     <string name="permission_name_write_external_storage">Telefon belleğine yazın</string>
     <string name="permission_num">%1$s</string>
-    <string name="please_input_install_app_name">Lütfen yüklemeniz gereken uygulamanın adını girin</string>
-    <string name="please_input_phone_password">Lütfen doğrulamak için cihaz kilit ekranı şifresini girin</string>
+    <string name="please_input_install_app_name">Uygulama adını girin</string>
+    <string name="please_input_phone_password">Kilit ekranı şifresini girin</string>
+    <string name="please_input_phone_password_short">Kilit ekranı şifresini girin</string>
     <string name="pm">ÖS</string>
     <string name="pref_ads">Öneriler</string>
     <string name="pref_key_about_privacy_title">Gizlilik politikası</string>
@@ -1179,7 +1175,6 @@ güvenilirlik ve güvenlik"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
-    <string name="sure">Tamam</string>
     <string name="sure_close_enhance_safe_guard">Gelişmiş korumayı kapatmak istediğinizden emin misiniz?</string>
     <string name="sure_close_enhance_safe_guard_des">Cep telefonunuzun güvenliğini korumak için gelişmiş koruma, Xiaomi uygulama mağazası güvenlik denetimini geçemeyen uygulamaları filtreleyebilir ve yaptığınız her kurulumu koruyabilir</string>
     <string name="sure_install">Yüklediğinizden emin misiniz?</string>
@@ -1265,7 +1260,6 @@ güvenilirlik ve güvenlik"</string>
     <string name="unlock_failed">Dahili hata</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">Kayıt politikasını anlayın</string>
     <string name="unrecorded_app_dialog_tips_help">Bu uygulamaya güveniyorsanız bu kuruluma izin vermek için lütfen sağ üst köşedeki \"[MENU] > Tek kurulum yetkilendirmesi\" seçeneğine gidin</string>
-    <string name="unrecorded_app_dialog_tips_msg_default">Bu uygulama politika gerekliliklerine uygun şekilde kaydedilmedi. İlgi alanlarınız ihlal edilirse bu uygulamanın geliştiricisiyle iletişime geçemeyebilirsiniz</string>
     <string name="unrecorded_app_dialog_tips_title_default">Yüksek riskli uygulamalar bulundu</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">Kayıt politikasını anlayın</string>
     <string name="unrecorded_app_tips_des_1_default">İlgili politika gereklilikleri uyarınca kayıtlı olmayan uygulamalar sahtecilik riski altındadır ve bunların indirilip kurulması önerilmez. Bu uygulama Xiaomi güvenlik denetimi ve uygulama kaydı tarafından doğrulanmamıştır</string>
