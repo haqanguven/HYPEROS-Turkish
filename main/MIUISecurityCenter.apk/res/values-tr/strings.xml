@@ -399,6 +399,9 @@
     <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
     <string name="app_manager_data_size">Kullanıcı verisi</string>
     <string name="app_manager_default_cleared">Temizlendi</string>
+    <string name="app_manager_default_close_summary">Varsayılan ayarlanmadı</string>
+    <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz</string>
+    <string name="app_manager_default_open_title">Varsayılanları temizle</string>
     <string name="app_manager_defaults_setting">Varsayılan uygulamalar</string>
     <string name="app_manager_details_electric_title">Pil</string>
     <string name="app_manager_details_storage_title">Depolama</string>
@@ -2192,6 +2195,7 @@ gönüllüsü"</string>
     <string name="fod_finger_notice_title">Parmağınızı ekranın üzerine yerleştirin</string>
     <string name="fod_finger_windows_tips">Parmak izinizi doğrulayın</string>
     <string name="fod_tips_split_screen_more_than_half">Şifre girin</string>
+    <string name="fold_application_mode_name">Uygulama düzenleri</string>
     <string name="forbid_autobright_summary">Oyun oynarken ekran parlaklığı aynı kalır</string>
     <string name="forbid_autobright_title">Sabit ekran parlaklığı</string>
     <string name="foreground_traffic">Ön plan %s</string>
@@ -2270,7 +2274,7 @@ gönüllüsü"</string>
     <string name="game_manual_record_setting_setting">Bu özellik hakkında</string>
     <string name="game_manual_record_setting_title">Anahtar anlar</string>
     <string name="game_more_improve">Pil ve bant genişliği tasarrufu amacıyla arka plan etkinliklerini ve indirme hızını kısıtlar</string>
-    <string name="game_ Performance_wild_mode">Üst düzey mod</string>
+    <string name="game_performance_wild_mode">Üst düzey mod</string>
     <string name="game_performance_wild_mode_tips">"Cihaz performansını artırmak için açın
 (Cihazınız ısınacak ve daha fazla güç tüketecektir)"</string>
     <string name="game_setting">Oyun ayarları</string>
@@ -2298,6 +2302,8 @@ gönüllüsü"</string>
     <string name="gamebox_display_4">Parlaklık &amp; doygunluk</string>
     <string name="gamebox_display_set">"Görsel geliştirme: "</string>
     <string name="gamebox_dnd">Rahatsız etme</string>
+    <string name="gamebox_filter_alpha_tip">Şeffaflık</string>
+    <string name="gamebox_filter_dark_conter">Skeç</string>
     <string name="gamebox_func_antimsg_close">Kayan bildirimlere şimdi izin veriliyor</string>
     <string name="gamebox_func_antimsg_open">Kayan bildirimler şimdi kısıtlandı</string>
     <string name="gamebox_func_immersion_close">Sürükleyici mod şimdi kapalı</string>
@@ -2317,6 +2323,7 @@ gönüllüsü"</string>
     <string name="gamebox_macro">Kombinasyonlar</string>
     <string name="gamebox_manual_record">Kayıt</string>
     <string name="gamebox_mem_clean">Belleği temizle</string>
+    <string name="gamebox_mem_filter">Oyun filtreleri</string>
     <string name="gamebox_milink">Yayınla</string>
     <string name="gamebox_positive_button_text">Tamam (%1$d saniye)</string>
     <string name="gamebox_qq_not_find">"QQ'yu yükleyin ve tekrar deneyin"</string>
@@ -2733,9 +2740,9 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="group_clipboard">Pano</string>
     <string name="group_connect_device">Ara bağlantı</string>
     <string name="group_file">Dosyalar ve belgeler</string>
-    <string name="group_have_hongbao">Kırmızı zarf: %2$d (%1$s)</string>
+    <string name="group_file_less_t">Dosyalara ve medyaya erişme</string>
+    <string name="group_have_hongbao">İşlemler: %1$s-%2$d kırmızı zarf</string>
     <string name="group_head_data_ai_clipboard">Pano koruması</string>
-    <string name="group_head_data_ai_clipboard_desc">Sistemin uygulamaların panodaki öğelere erişip erişemeyeceğine karar vermesine izin ver</string>
     <string name="group_head_data_camera_desc">Tüm uygulamaların kamera erişimini kısıtlamak için kapatın</string>
     <string name="group_head_data_clipboard_desc">Tüm uygulamaların pano erişimini kısıtlamak için kapatın</string>
     <string name="group_head_data_location_desc">Tüm uygulamaların konum erişimini kısıtlamak için kapatın</string>
@@ -4026,15 +4033,15 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_suggest_open_fast_charge">%dW hızlı şarjı açın</string>
     <string name="pc_temperature_too_high">Cihaz aşırı ısındı</string>
     <string name="pc_timely_charge_summary">"Pil %1$s'nin altında. Pil seviyesi düşükken cihazın aşırı ısınması durumunda bu durum pile zarar verebilir"</string>
-    <string name="pc_timely_charge_title">Cihazınızı şarj edin</string>
+    <string name="pc_timely_charging_title">Cihazınızı şarj edin</string>
     <string name="pc_to_phone_install">USB üzerinden %s yüklemesi engellendi</string>
     <string name="pc_toady_charge_time_title">Günlük şarj sayısı</string>
     <string name="pc_wait_device_cools_down">Bu özelliği kullanabilmek için cihazınızın soğumasını bekleyin</string>
     <string name="pc_wireless_charge_adjust_position_summary">Kablosuz şarj cihazına takın</string>
     <string name="pc_wireless_charge_adjust_position_title">Cihazınızı daha hızlı şarj edin</string>
-    <string name="pc_wireless_charge_special_stand_summary1">Cihazınızı kablosuz şarj cihazınızla birlikte gelen standa kurun</string>
-    <string name="pc_wireless_charge_special_stand_summary2">En iyi şarj performansı için cihazınızı kablosuz şarj cihazınızla birlikte gelen standa takın</string>
-    <string name="pc_wireless_charge_special_stand_title">Verilen şarj standını kullanın</string>
+    <string name="pc_wireless_charging_special_stand_summary1">Cihazınızı kablosuz şarj cihazınızla birlikte gelen standa kurun</string>
+    <string name="pc_wireless_charging_special_stand_summary2">En iyi şarj performansı için cihazınızı kablosuz şarj cihazınızla birlikte gelen standa takın</string>
+    <string name="pc_wireless_charging_special_stand_title">Verilen şarj standını kullanın</string>
     <string name="pc_wireless_handle_connected">Cihaz bağlandı</string>
     <string name="pc_wireless_handle_title">Kablosuz kamera tutma yeri</string>
     <string name="pc_work_in_save_mode">Pil tasarrufu</string>
@@ -4321,8 +4328,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="popular_action_net_assistant_summary">Kullanım</string>
     <string name="popular_action_net_assistant_title">Trafiği izleyin</string>
     <string name="popular_action_net_assistant_title_global">Ağ bağlantı hızını izleyin</string>
-    <string name="popular_action_video_box_summary">Sohbet ederken</string>
-    <string name="popular_action_video_box_title">Videoyu izle</string>
+    <string name="popular_action_video_clean_summary">Telefonunuzda yer açın</string>
+    <string name="popular_action_video_clean_title">Video önemsizlerini temizleyin</string>
     <string name="popular_action_video_clean_title_global">Yer açmak için video önbelleğini temizleyin</string>
     <string name="power_5g_popups_content">5G ağları yüksek bağlantı hızı ve daha düşük gecikme sağlar</string>
     <string name="power_5g_popups_title">5G ağlarını kullanın</string>
@@ -6792,6 +6799,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_wait_network_dialog_message">"Telefonunuz artık wifi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_ai_subtitle">Alt yazılar</string>
+    <string name="vtb_ai_subtitle_intl">AI altyazıları</string>
     <string name="vtb_func_desc">Bu özellik hakkında</string>
     <string name="vtb_func_display_style_desc0">AI videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir vede bunları dinamik olarak geliştirebilir</string>
     <string name="vtb_func_display_style_desc1">Seçilen efektler HDR videolara uygulanmaz</string>
