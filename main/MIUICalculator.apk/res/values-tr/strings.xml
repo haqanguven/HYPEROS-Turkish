@@ -32,7 +32,6 @@
     <string name="age">Yaş</string>
     <string name="allow">Kabul et</string>
     <string name="am">ÖÖ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Hesaplayıcı</string>
     <string name="baby_care">Bebek bakımı</string>
     <string name="base_rate">Temel faiz oranı</string>
@@ -812,6 +811,7 @@
     <string name="unit_data_display_currency_lrd">Liberya doları</string>
     <string name="unit_data_display_currency_lyd">Libya Dinarı</string>
     <string name="unit_data_display_currency_mad">Fas dirhemi</string>
+    <string name="unit_data_display_currency_mdl">Moldovan leu</string>
     <string name="unit_data_display_currency_mmk">Burma kyatı</string>
     <string name="unit_data_display_currency_mnt">Moğolistan Tugriki</string>
     <string name="unit_data_display_currency_mop">Macau patakası</string>

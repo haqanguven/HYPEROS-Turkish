@@ -1672,8 +1672,8 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_message_access_dialog_title">Mesajlara erişme izin verilsin mi?</string>
     <string name="bluetooth_message_access_notification_content">Güvenilmeyen cihaz mesajlarınıza erişmek istiyor. Ayrıntılar için dokunun</string>
     <string name="bluetooth_message_move_out_of_blacklist">Şimdi %1$s engellemesini kaldırılsın mı?</string>
-    <string name="bluetooth_mi_fast_connect">Mi bağlantı</string>
-    <string name="bluetooth_mi_fast_connect_summary">Yakındaki bluetooth cihazlarına bağlanın</string>
+    <string name="bluetooth_mi_fast_connect">Uyumlu cihazları eşleştir</string>
+    <string name="bluetooth_mi_fast_connect_summary">Kulaklıkları, hoparlörleri ve diğer uyumlu cihazlara hızlı bir şekilde bağlanın</string>
     <string name="bluetooth_middle_name">Durum</string>
     <string name="bluetooth_move_out_of_blacklist">Cihazın engellemesini kaldır</string>
     <string name="bluetooth_multuple_devices_mac_address">"Cihazın Bluetooth adresi:
