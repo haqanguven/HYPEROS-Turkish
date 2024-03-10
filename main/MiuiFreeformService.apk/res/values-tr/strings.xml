@@ -234,7 +234,7 @@ Bu özellik yalnızca sistem navigasyonu hareketlere ayarlandığında çalış�
     <string name="freeform_guide_tip_pin_up">Kayan bir pencerede açmak için içeri doğru sürükleyin</string>
     <string name="freeform_guide_tip_sidebar">"Basılı tutun
 ardından taşımak için sürükleyin"</string>
-    <string name="freeform_guide_tip_sideck">Yuvayı göstermek için dışarı doğru kaydırın</string>
+    <string name="freeform_guide_tip_sidedock">Yuvayı göstermek için dışarı doğru kaydırın</string>
     <string name="freeform_guide_tip_split">Bölünmüş ekrana geçmek için yana sürükleyin</string>
     <string name="freeform_guide_tip_window_top">Pencereyi simge durumuna küçültmek için pencerenin üst kısmını basılı tutun ardından hızla ekranın kenarına sürükleyin</string>
     <string name="freeform_guide_to_sidehide_settings_summary">Uygulamayı gizlemek için hızlıca ekranın kenarına sürükleyin</string>

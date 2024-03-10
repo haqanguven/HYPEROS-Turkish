@@ -112,7 +112,6 @@
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="decline">Reddet</string>
-    <string name="dlg_ok">Tamam</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -308,6 +307,7 @@
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_p2p_enter_pin_message">"Gerekli Pin'i yazın:"</string>
     <string name="wifi_p2p_from_message">Kime:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {# saniye içinde kabul edin} other {# saniye içinde kabul edin} }</string>
     <string name="wifi_p2p_invitation_sent_title">Davet gönderildi</string>
     <string name="wifi_p2p_invitation_to_connect_title">Bağlantıya davet et</string>
     <string name="wifi_p2p_show_pin_message">Pin:</string>

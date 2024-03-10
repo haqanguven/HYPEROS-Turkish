@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Xiaomi bulut senkronizasyonu</string>
-	<string name="error_data_in_transfer">Senkronizasyon %s saat içinde tamamlanacak</string>
+    <string name="app_name">Xiaomi bulut senkronizasyonu</string>
+    <string name="error_data_in_transfer">Senkronizasyon %s saat içinde tamamlanacak</string>
 	<string name="error_forbidden">Xiaomi hesabınızla ilgili sorunlar nedeniyle senkronizasyon devre dışı bırakıldı</string>
-	<string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı</string>
-	<string name="error_title">Senkronize edilemedi</string>
-	<string name="error_unauthorized">Çok fazla oturum açma girişimi nedeniyle senkronizasyon devre dışı bırakıldı</string>
-	<string name="micloud_downloading_clipboard_message_from_web">Pano: Bilgisayarınızdan bir mesaj alındı</string>
-	<string name="micloud_send_message_desc">Mi mesaj gönderiliyor</string>
+    <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı</string>
+    <string name="error_title">Senkronize edilemedi</string>
+    <string name="error_unauthorized">Çok fazla oturum açma girişimi nedeniyle senkronizasyon devre dışı bırakıldı</string>
+    <string name="micloud_downloading_clipboard_message_from_web">Pano: Bilgisayarınızdan bir mesaj alındı</string>
+    <string name="micloud_send_message_desc">Mi mesaj gönderiliyor</string>
 </resources>

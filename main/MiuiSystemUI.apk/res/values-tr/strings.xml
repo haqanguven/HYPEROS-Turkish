@@ -116,6 +116,7 @@
 Ayarları görüntüle"</string>
     <string name="accessibility_floating_button_undo">Geri al</string>
     <string name="accessibility_floating_button_undo_message_label_text">%s kısayolu kaldırıldı</string>
+    <string name="accessibility_floating_button_undo_message_number_text">{count, plural, =1 {# kısayol kaldırıldı} other {# kısayol kaldırıldı} }</string>
     <string name="accessibility_home">Ana ekran</string>
     <string name="accessibility_ime_switch_button">Giriş yöntemini değiştir tuşu</string>
     <string name="accessibility_key">Özel navigasyon düğmesi</string>
@@ -226,7 +227,7 @@ Ayarları görüntüle"</string>
     <string name="activate_usb_title">"USB'yi etkinleştir"</string>
     <string name="add">Ekle</string>
     <string name="add_guest_failed">Yeni konuk oluşturulamadı</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="air_quality_index_abbreviation">HKE</string>
     <string name="airplane_mode">Uçak modu</string>
     <string name="alarm_template">"%1$s'de"</string>
@@ -261,7 +262,7 @@ Ayarları görüntüle"</string>
     <string name="battery_saver_confirmation_ok">Aç</string>
     <string name="battery_saver_confirmation_title">Pil tasarrufu açılsın mı?</string>
     <string name="battery_saver_confirmation_title_generic">Pil tasarrufu hakkında</string>
-    <string name="battery_saver_dismiss_action">No thanks</string>
+    <string name="battery_saver_dismiss_action">Hayır</string>
     <string name="battery_saver_start_action">Pil tasarrufunu aç</string>
     <string name="battery_state_unknown_notification_text">Daha fazla bilgi için dokunun</string>
     <string name="battery_state_unknown_notification_title">Pil ölçeriniz okumada sorunlu</string>
@@ -508,6 +509,7 @@ Yeniden takmak için dokunun"</string>
     <string name="controls_menu_add_another_app">Uygulama ekle</string>
     <string name="controls_menu_edit">Kontrolleri düzenle</string>
     <string name="controls_menu_remove">Uygulamayı kaldır</string>
+    <string name="controls_number_of_favorites">{count, plural, =1 {# kontrol eklendi} other {# kontrol eklendi} }</string>
     <string name="controls_open_app">Uygulamayı aç</string>
     <string name="controls_panel_authorization">%s burada hangi kontrollerin ve içeriğin gösterileceğini seçebilir</string>
     <string name="controls_panel_authorization_title">%s eklensin mi?</string>

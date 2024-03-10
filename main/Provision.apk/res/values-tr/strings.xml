@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="access_calendar">Takvime erişim</string>
     <string name="access_non_personal_data">Cihazınızdan kişisel olmayan verilere erişim ve kullanım iznini geri çekerseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılır ve toplanan veriler geçerli yasa ve yönetmeliklerde belirtilen süre içinde silinir</string>
     <string name="accessibility_enabled">Erişilebilirlik etkinleştirildi</string>
     <string name="actionbar_button_up_description">Geri</string>

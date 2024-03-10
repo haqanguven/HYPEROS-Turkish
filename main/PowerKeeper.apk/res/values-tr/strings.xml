@@ -106,10 +106,10 @@
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="clear_temperature">Bitiş sıcaklığı</string>
-    <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="cloud_addr_info">Bulut bilgileri</string>
+    <string name="cloud_allow_change_addr">Otomatik bulut senkronizasyon durumunu değiştir</string>
     <string name="cloud_china_addr">Çin sunucusu verilerini güncelle</string>
     <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
     <string name="cloud_russion_addr">Rus sunucu verilerini güncelle</string>
@@ -312,7 +312,7 @@ Pil tasarrufu özelliği önemli uygulamaları özel olarak ele alır ve işlem 
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
-    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="night">Akşam</string>
     <string name="nonui_mode_config_description">Sistem cihazınızı kullanmadığınızı algıladığında pilden tasarruf etmek için bildirimler ekranı aydınlatmayı, LED ışığını, parmak izi sensörünü ve dokunmatik kontrolleri kapatır</string>
     <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
     <string name="noon">Öğlen</string>
