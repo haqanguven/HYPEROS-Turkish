@@ -399,8 +399,8 @@
     <string name="permdesc_bluetoothShareManager">Uygulamaya BluetoothShare yöneticisine erişme ve bunu dosyaları aktarmak için kullanma izni verir</string>
     <string name="permdesc_bluetoothWhitelist">Uygulamaya bir Bluetooth cihazını geçici olarak onaylananlar listesine ekleme izni verir. Böylece izin verilen cihaz kullanıcının onayı olmadan bu cihaza dosya gönderebilir</string>
     <string name="permdesc_handoverStatus">"Teslimat aktarma durum bilgisini Bluetooth'dan almaya izin verir"</string>
-    <string name="permlab_bluetoothShareManager">İndirme yöneticisine erişin</string>
-    <string name="permlab_bluetoothWhitelist">Bluetooth cihazı erişimine izin ver</string>
+    <string name="permlab_bluetoothAcceptlist">Bluetooth cihaz erişimini kabul listesi</string>
+    <string name="permlab_bluetoothShareManager">İndirme yöneticisine erişim</string>
     <string name="permlab_handoverStatus">Bluetooth teslimat aktarım yayınlarını al</string>
     <string name="phonebook_advance_feature_support">Telefon rehberi gelişmiş özelliği desteklenir</string>
     <string name="pm">ÖS</string>

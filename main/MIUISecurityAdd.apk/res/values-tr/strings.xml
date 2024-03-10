@@ -230,7 +230,7 @@
     <string name="ew_detail_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_detail_receive_warn_time_message">%s saniye</string>
     <string name="ew_detail_receive_warn_time_title">Başlangıçtan önceki zaman</string>
-	<string name="ew_monitor_slogan">"Deprem izleme
+    <string name="ew_monitor_slogan">"Deprem izleme
 programımıza katılın"</string>
     <string name="ew_save_title">Kaydet</string>
     <string name="ew_share_logo_title">Deprem uyarısı</string>

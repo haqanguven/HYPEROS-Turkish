@@ -312,8 +312,8 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="morning">ÖÖ</string>
     <string name="night">ÖS</string>
     <string name="noon">ÖS</string>
-    <string name="not_set">Ayarlanmadı</string>
     <string name="open_wifi_settings">Wifi ayarlarını aç</string>
+    <string name="open_wifi_settings_china">Wifi ayarlarını aç</string>
     <string name="passport_checking_vcode">Şifre kontrol ediliyor</string>
     <string name="passport_error_empty_vcode">Doğrulama kodunu girin</string>
     <string name="passport_notification_need_unlock_again">Yeniden kilit açmayı deneyin</string>

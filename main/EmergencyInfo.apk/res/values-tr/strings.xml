@@ -249,12 +249,12 @@ Oynatma kalitesi"</string>
     <string name="bluetooth_talkback_input_peripheral">Çevresel giriş</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bminus">B-</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
     <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
-    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
     <string name="bplus">B+</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI gizli günlüğü</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm Bluetooth HCI paketlerini alır</string>
@@ -376,12 +376,12 @@ Oynatma kalitesi"</string>
     <string name="dob">(%1$s)</string>
     <string name="done">Bitti</string>
     <string name="edit_info">Acil durum bilgilerini güncelle</string>
-    <string name="emergency_action_subtitle">Preparing a call to %1$s</string>
-    <string name="emergency_action_title">Emergency SOS</string>
+    <string name="emergency_action_subtitle">"%1$s'a arama hazırlanıyor"</string>
+    <string name="emergency_action_title">Acil yardım</string>
     <string name="emergency_contacts_title">Acil durumda iletişim kurulacak kişiler</string>
-    <string name="emergency_info_footer">"Adding medical information and emergency contacts can help first responders in an emergency.
+    <string name="emergency_info_footer">"Tıbbi bilgilerin ve acil durumda iletişime geçilecek kişilerin eklenmesi acil durumlarda ilk müdahale ekiplerine yardımcı olabilir
 
-Anyone can read this information from your lock screen, and dial your contacts by tapping their names, without unlocking your phone."</string>
+Herkes bu bilgiyi kilit ekranınızdan okuyabilir ve telefonunuzun kilidini açmadan kişilerinizi adlarına dokunarak arayabilir"</string>
     <string name="enable_adb">USB hata ayıklama</string>
     <string name="enable_adb_summary">USB bağlandığında hata ayıklama modunu açar</string>
     <string name="enable_adb_wireless">Kablosuz hata ayıklama</string>
@@ -414,7 +414,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="failed_attempts_now_wiping_user">Çok fazla başarısız deneme. Bu kullanıcı silinecek</string>
     <string name="failed_to_open_app_settings_toast">%1$s ayarları açılamadı</string>
     <string name="fallback_emergency_number">112</string>
-    <string name="font_scale_percentage">%1$d %%</string>
+    <string name="font_scale_percentage">%%%1$d</string>
     <string name="force_allow_on_external">Uygulamaları harici depolama alanına kayıt yapmaya zorla</string>
     <string name="force_allow_on_external_summary">Herhangi bir uygulamayı harici depolama alanına yazılmaya tezahür değerlerinden bağımsız olarak uygun hale getirir</string>
     <string name="force_msaa">4x MSAA zorla</string>
@@ -533,7 +533,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="media_transfer_wired_usb_device_name">Kablolu kulaklık</string>
     <string name="medical_conditions">Tıbbi notlar</string>
     <string name="medical_conditions_hint">Örneğin: Astım</string>
-    <string name="medical_info_title">Medical information</string>
+    <string name="medical_info_title">Tıbbi bilgi</string>
     <string name="medications">İlaçlar</string>
     <string name="medications_hint">Örneğin: Aspirin</string>
     <string name="mobile_data_always_on">Mobil veri her zaman etkin</string>
@@ -695,8 +695,8 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="select_webview_provider_toast_text">Bu seçenek artık geçerli değil. Yeniden deneyin</string>
     <string name="settings_label">Ayarlar</string>
     <string name="settings_package">com.android.settings</string>
-    <string name="settings_suggestion_body">Let first responders see your information</string>
-    <string name="settings_suggestion_title">Add emergency information</string>
+    <string name="settings_suggestion_body">İlk müdahale ekiplerinin bilgilerinizi görmesine izin verin</string>
+    <string name="settings_suggestion_title">Acil durum bilgileri ekleyin</string>
     <string name="settingslib_category_personal">Kişisel</string>
     <string name="settingslib_category_work">İş</string>
     <string name="settingslib_config_headlineFontFamily" />
@@ -721,7 +721,7 @@ Anyone can read this information from your lock screen, and dial your contacts b
     <string name="show_touches">Dokunmalar</string>
     <string name="show_touches_summary">Dokunmalar için görsel geri bildirim görüntülenir</string>
     <string name="simulate_color_space">Renk alanını simule et</string>
-    <string name="slider_seek_bar_content_description">Slide with two fingers to activate</string>
+    <string name="slider_seek_bar_content_description">Etkinleştirmek için iki parmağınızla kaydırın</string>
     <string name="speed_label_fast">Hızlı</string>
     <string name="speed_label_okay">Tamam</string>
     <string name="speed_label_slow">Yavaş</string>
@@ -888,8 +888,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
-    <string name="wifi_security_none">None</string>
-    <string name="wifi_security_none_owe">None/Enhanced Open</string>
+    <string name="wifi_security_none">Hiçbiri</string>
+    <string name="wifi_security_none_owe">Hiçbiri/Geliştirilmiş açık</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
@@ -900,7 +900,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
-    <string name="wifi_security_short_none_owe">None/OWE</string>
+    <string name="wifi_security_short_none_owe">Hiçbiri/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
     <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
@@ -918,7 +918,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_status_mac_randomized">MAC rastgeleleştirildi</string>
     <string name="wifi_status_no_internet">İnternet yok</string>
     <string name="wifi_status_sign_in_required">Oturum açmanız gerekmektedir</string>
-    <string name="wifi_tether_connected_summary">{count, plural, =0 {0 device connected} =1 {1 device connected} other {# devices connected} }</string>
+    <string name="wifi_tether_connected_summary">{count, plural, =0 {0 cihaz bağlı} =1 {1 cihaz bağlı} other {# cihaz bağlı} }</string>
     <string name="wifi_unmetered_label">Ölçüsüz</string>
     <string name="wifi_verbose_logging">Wifi ayrıntılı günlüğü</string>
     <string name="wifi_verbose_logging_summary">Wifi kayıt seviyesini artırır ve wifi ağ listesindeki tüm SSIDler için RSSI görüntüler</string>

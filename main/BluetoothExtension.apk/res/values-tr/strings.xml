@@ -120,6 +120,11 @@
     <string name="bt_plugin_update_loading_dialog">Yükleniyor</string>
     <string name="bt_plugin_update_notification_updating">Bluetooth güncellemesi</string>
     <string name="cancel">İptal et</string>
+    <string name="celluar_tether_disconect_title">Bağlantı Kesildi</string>
+    <string name="celluar_tether_name">Kablosuz bağlantı</string>
+    <string name="celluar_tether_prompt">"Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
+    <string name="celluar_tether_prompt_china">"Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
+    <string name="celluar_tether_prompt_confirm">Tamam</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>
     <string name="chinese_day_11">"/11"</string>
@@ -224,6 +229,7 @@
     <string name="easy_tether_auto_connect_close">Kapat</string>
     <string name="easy_tether_auto_connect_open">Aç</string>
     <string name="easy_tether_auto_connect_summary">Mobil erişim noktasını otomatik olarak açın ve yakındaki aynı hesaba sahip cihazların internet erişimine ihtiyacı olduğunda bağlanın</string>
+    <string name="easy_tether_auto_connect_summary_v2">Mobil hücreyi veya erişim noktasını otomatik olarak açın ve aynı hesaba sahip yakındaki cihazlar internet erişimine ihtiyaç duyduğunda bağlanın</string>
     <string name="easy_tether_cancel">İptal et</string>
     <string name="easy_tether_confirm">Onayla</string>
     <string name="easy_tether_connect_method_automatic">Otomatik bağlantı</string>
@@ -239,8 +245,10 @@
     <string name="easy_tether_device_type_vela_watch">Vela izle</string>
     <string name="easy_tether_next_auto_connect">Bir dahaki sefere otomatik olarak bağlanılsın mı?</string>
     <string name="easy_tether_statusbar_auto_connected_title">%1$s erişim noktasına bağlandı</string>
+    <string name="easy_tether_statusbar_auto_connected_title_v2">Hücreye bağlandı: %1$s</string>
     <string name="easy_tether_statusbar_connect_fail_title">Bağlantı başarısız oldu</string>
     <string name="easy_tether_statusbar_connect_title">%1$s erişim noktasını etkinleştir</string>
+    <string name="easy_tether_statusbar_connect_title_v2">Hücreye bağlan: %1$s</string>
     <string name="easy_tether_statusbar_connecting_title">Bağlanıyor</string>
     <string name="easy_tether_statusbar_dialog_connected_title">Bağlandı</string>
     <string name="empty" />
@@ -414,7 +422,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="installer_downloaded">Tamamen indir</string>
     <string name="installer_downloading">İndiriliyor</string>
     <string name="installer_error_access_denied">Mevcut cihaz koşullarında yüklemeye izin verilmiyor</string>
-    <string name="installer_error_intained_with_existing_session">İstek mevcut</string>
+    <string name="installer_error_incompatible_with_existing_session">Talep mevcut</string>
     <string name="installer_error_internal_error">Dahili hata</string>
     <string name="installer_error_invalid_request">Yükleme isteği geçersiz</string>
     <string name="installer_error_module_unavailable">İstenen modül kullanılamıyor</string>
@@ -425,7 +433,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="installer_pending">Bekleniyor</string>
     <string name="instructions">Bir eylemi gerçekleştirmek için bir düğmeye basın</string>
     <string name="lea_disable_successously">Kulaklık bağlantısı ve ses iletimi için artık normal Bluetooth kullanılıyor</string>
-    <string name="lea_enable_successously">LE Audio artık kulaklık bağlantısı ve ses iletimi için kullanılıyor</string>
+    <string name="lea_enable_successfully">LE Audio artık kulaklık bağlantısı ve ses iletimi için kullanılıyor</string>
     <string name="load_all_features_deferred">Ertelenen tüm özellikleri yükle</string>
     <string name="load_assets">Varlıkları göster</string>
     <string name="load_feature_hello">Merhaba özelliğini başlat</string>
@@ -457,7 +465,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi tuşuna çift tıklayın</string>
     <string name="mi_key_summary_take_photo">Fotoğraf çekmek için Mi tuşuna tıklayın</string>
     <string name="mi_key_take_photo">Fotoğraf çek</string>
-    <string name="gece yarısı">Gece</string>
+    <string name="midnight">Gece</string>
     <string name="miheadset_notification_Box">Kılıf</string>
     <string name="miheadset_notification_Disconnect">Bağlantıyı kes</string>
     <string name="miheadset_notification_LeftEar">Sol</string>
@@ -467,7 +475,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="mihome_app_update">Şimdi güncelle</string>
     <string name="mihome_download_tips">Mi ev uygulamasını yükleyin, oturum açın ve telefonunuzu cihaza yakın tutun</string>
     <string name="mihome_download_title">Mi ev uygulamasını yükle</string>
-    <string name="mihome_ignore">İptal</string>
+    <string name="mihome_ignore">İptal et</string>
     <string name="mihome_ignore_tips">Bu cihazı görmezden gelirseniz onu Mi ev uygulamasına manuel olarak eklemeniz gerekir</string>
     <string name="mihome_ignore_title">Bu cihaz yoksayılsın mı?</string>
     <string name="mihome_update_tips">Mi ev uygulamasını güncelleyin ve ardından telefonunuzu cihaza yakın tutun</string>

@@ -70,7 +70,7 @@
     <string name="date_picker_switch_to_day_selection">Bir yıl seçmek için kaydırın veya gün seçme moduna geri dönmek için dokunun</string>
     <string name="date_picker_switch_to_input_mode">Metin giriş moduna geç</string>
     <string name="date_picker_switch_to_next_month">Gelecek aya değiştir</string>
-    <string name="date_picker_switch_to_precious_month">Önceki aya değiştir</string>
+    <string name="date_picker_switch_to_previous_month">Önceki aya değiştir</string>
     <string name="date_picker_switch_to_year_selection">Yıl seçmeye geçin</string>
     <string name="date_picker_title">Tarih seçin</string>
     <string name="date_picker_today_description">Bugün</string>
@@ -125,7 +125,7 @@
     <string name="passkeys">Parolalar</string>
     <string name="password">Şifre</string>
     <string name="passwordless_teknoloji_detail">"Parolalar, şifrelere bağlı kalmadan oturum açmanıza olanak tanır. Kimliğinizi doğrulamak ve bir şifre anahtarı oluşturmak için parmak izinizi, yüz tanımanızı, PIN'inizi veya kaydırma düzeninizi kullanmanız yeterlidir"</string>
-    <string name="passwordless_teknoloji_title">Şifresiz teknoloji</string>
+    <string name="passwordless_technology_title">Şifresiz teknoloji</string>
     <string name="passwords">Şifreler</string>
     <string name="public_key_cryptography_detail">FIDO ittifak (Google, Apple, Microsoft ve daha fazlasını içerir) ve W3C standartlarını temel alan geçiş anahtarları kriptografik anahtar çiftlerini kullanır. Şifreler için kullandığımız kullanıcı adı ve karakter dizisinden farklı olarak bir uygulama veya internet sitesi için özel-genel anahtar çifti oluşturulur. Özel anahtar cihazınızda veya şifre yöneticinizde güvenli bir şekilde saklanır ve kimliğinizi doğrular. Genel anahtar uygulama veya web sitesi sunucusuyla paylaşılır. İlgili tuşlarla anında kaydolabilir ve oturum açabilirsiniz"</string>
     <string name="public_key_cryptography_title">Genel anahtar şifrelemesi</string>
