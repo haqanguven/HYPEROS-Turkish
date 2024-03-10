@@ -2127,7 +2127,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="calls_sms_unavailable">kullanılamıyor</string>
     <string name="calls_sms_wfc_summary">Kablosuz ağ üzerinden telefon edin ve gelen aramaları yanıtlayın</string>
     <string name="camera_flash_notification_title">Kamera flaşı</string>
-    <string name="camera_front">Ön %s</string>
+    <string name="camera_front">"Ön: %s"</string>
     <string name="camera_gesture_desc">Bileğinizi iki kez bükerek kamera uygulamasını açın</string>
     <string name="camera_gesture_title">Kamera için iki kez bükün</string>
     <string name="camera_key_action_app_title">Uygulama aç</string>
@@ -2143,7 +2143,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="camera_key_action_title">Mi tuş</string>
     <string name="camera_key_action_toggle_title">Geçişi tetikle</string>
     <string name="camera_laser_sensor_switch">Kamera lazer sensörü</string>
-    <string name="camera_rear">Arka %s</string>
+    <string name="camera_rear">"Arka: %s"</string>
     <string name="camera_toggle_title">Kamera erişimi</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_action">İptal et</string>
