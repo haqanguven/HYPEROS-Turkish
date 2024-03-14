@@ -399,9 +399,6 @@
     <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
     <string name="app_manager_data_size">Kullanıcı verisi</string>
     <string name="app_manager_default_cleared">Temizlendi</string>
-    <string name="app_manager_default_close_summary">Varsayılan ayarlanmadı</string>
-    <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz</string>
-    <string name="app_manager_default_open_title">Varsayılanları temizle</string>
     <string name="app_manager_defaults_setting">Varsayılan uygulamalar</string>
     <string name="app_manager_details_electric_title">Pil</string>
     <string name="app_manager_details_storage_title">Depolama</string>
@@ -2195,7 +2192,6 @@ gönüllüsü"</string>
     <string name="fod_finger_notice_title">Parmağınızı ekranın üzerine yerleştirin</string>
     <string name="fod_finger_windows_tips">Parmak izinizi doğrulayın</string>
     <string name="fod_tips_split_screen_more_than_half">Şifre girin</string>
-    <string name="fold_application_mode_name">Uygulama düzenleri</string>
     <string name="forbid_autobright_summary">Oyun oynarken ekran parlaklığı aynı kalır</string>
     <string name="forbid_autobright_title">Sabit ekran parlaklığı</string>
     <string name="foreground_traffic">Ön plan %s</string>
@@ -2302,8 +2298,6 @@ gönüllüsü"</string>
     <string name="gamebox_display_4">Parlaklık &amp; doygunluk</string>
     <string name="gamebox_display_set">"Görsel geliştirme: "</string>
     <string name="gamebox_dnd">Rahatsız etme</string>
-    <string name="gamebox_filter_alpha_tip">Şeffaflık</string>
-    <string name="gamebox_filter_dark_conter">Skeç</string>
     <string name="gamebox_func_antimsg_close">Kayan bildirimlere şimdi izin veriliyor</string>
     <string name="gamebox_func_antimsg_open">Kayan bildirimler şimdi kısıtlandı</string>
     <string name="gamebox_func_immersion_close">Sürükleyici mod şimdi kapalı</string>
@@ -2323,7 +2317,6 @@ gönüllüsü"</string>
     <string name="gamebox_macro">Kombinasyonlar</string>
     <string name="gamebox_manual_record">Kayıt</string>
     <string name="gamebox_mem_clean">Belleği temizle</string>
-    <string name="gamebox_mem_filter">Oyun filtreleri</string>
     <string name="gamebox_milink">Yayınla</string>
     <string name="gamebox_positive_button_text">Tamam (%1$d saniye)</string>
     <string name="gamebox_qq_not_find">"QQ'yu yükleyin ve tekrar deneyin"</string>

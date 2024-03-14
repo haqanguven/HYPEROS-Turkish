@@ -35,8 +35,9 @@
     <string name="ai_mode_auto">Otomatik</string>
     <string name="ai_mode_manual">El ile</string>
     <string name="ai_mode_subtitles">Altyazılar</string>
-    <string name="am">ÖÖ</string>
+    <string name="align_satellite_model_exit">Çıkış</string>
     <string name="align_satellite_model_use">Başlat</string>
+    <string name="align_satellite_model_use_exp">Bitti</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="antifraud_center">Dolandırıcılığa karşı uyarı platformu</string>
@@ -451,18 +452,18 @@
     <string name="onscreenEndCallText">Bitir</string>
     <string name="onscreen_add_call_text">Arama ekle</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
-    <string name="onscreen_audio_mode_conference">Konferans</string>
-    <string name="onscreen_audio_mode_handset">Eller serbest</string>
-    <string name="onscreen_audio_mode_headset">Kulaklık</string>
+    <string name="onscreen_audio_mode_handset">Kulaklık</string>
+    <string name="onscreen_audio_mode_headset">Kulaklıklar</string>
+    <string name="onscreen_audio_mode_mirror">Tablet</string>
     <string name="onscreen_audio_mode_speaker">Hoparlör</string>
     <string name="onscreen_call_record">Kayıt</string>
     <string name="onscreen_change_to_video">Görüntülü ara</string>
     <string name="onscreen_change_to_voice">Sesli ara</string>
     <string name="onscreen_close_preview_camera">Kamerayı kapat</string>
-	<string name="onscreen_collapsed">Daralt</string>
-	<string name="onscreen_collapsed_dialpad">Tuş takımını göster</string>
-	<string name="onscreen_expand">Daha fazla</string>
-	<string name="onscreen_expand_dialpad">Tuş takımını gizle</string>
+    <string name="onscreen_collapsed">Daralt</string>
+    <string name="onscreen_collapsed_dialpad">Tuş takımını göster</string>
+    <string name="onscreen_expand">Daha fazla</string>
+    <string name="onscreen_expand_dialpad">Tuş takımını gizle</string>
     <string name="onscreen_hold_text">Beklemeye al</string>
     <string name="onscreen_merge_calls_text">Aramaları birleştir</string>
     <string name="onscreen_message_text">Mesajlar</string>
@@ -497,6 +498,7 @@
     <string name="satellite_diable_earpiece">Kulaklık uydu aramalarında kullanılamıyor</string>
     <string name="satellite_dialog_button">Kayan pencere</string>
     <string name="satellite_dialog_cancel">İptal et</string>
+    <string name="satellite_dialog_cancel_exp">İptal et</string>
     <string name="satellite_get_gps_timeout">Konum bilgisi alınamıyor. Açık alanda kalın ve sinyali engelleyen nesnelerden kaçının</string>
     <string name="satellite_guide_azimuth">Uydu tarama alanına gelene kadar hareket edin</string>
     <string name="satellite_guide_azimuth_floating">Tarama alanına girin</string>
@@ -526,8 +528,7 @@ cihazınızı yukarı eğin"</string>
     <string name="satellite_state_auto_exit">Çık (%d saniye)</string>
     <string name="satellite_state_connected">"Uyduya bağlı
 Cihazı bu konumda tutun"</string>
-    <string name="satellite_state_connected_exp">"Uydu başarıyla yerleştirildi
-Uydu özellikli bir Sim kart takın ve tekrar deneyin"</string>
+    <string name="satellite_state_connected_exp">Uydu başarıyla yerleştirildi</string>
     <string name="satellite_state_connected_exp_floating">Uydu başarıyla yerleştirildi</string>
     <string name="satellite_state_connected_floating">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_connecting">Bağlanılıyor (%d saniye)</string>

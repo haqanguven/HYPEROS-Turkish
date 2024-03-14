@@ -130,6 +130,7 @@ Tekrar deneyin"</string>
     <string name="cannot_send_message_reason">Mesajınızın geçerli bir alıcısı yok</string>
     <string name="cannot_send_mms">Uydu iletişimleri multimedyayı desteklemiyor</string>
     <string name="carry_current_location">Geçerli konumu ekle</string>
+    <string name="carry_vital_signs">Hayati belirtileri dahil et</string>
     <string name="change_duration_activity">Süreyi değiştir</string>
     <string name="chatbot_list_title">5G mesajlaşma</string>
     <string name="chatbot_main_title">Mini uygulamalar</string>
@@ -1140,7 +1141,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="satellite_location_privacy_title">Konuma erişim</string>
     <string name="satellite_message_notification_contact_end">(Uydu aracılığıyla gönderme)</string>
     <string name="satellite_sms_notification">Bu mesaj Tiantong uydu servisleri tarafından gönderildi. Gönderenin yardımınıza ihtiyacı olabilir</string>
-     <string name="saturday">Cumartesi</string>
+    <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
     <string name="save">Kaydet</string>
@@ -1450,6 +1451,26 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="video_compressing">Video sıkıştırılıyor</string>
     <string name="view">Görüntüle</string>
     <string name="view_message_details">Ayrıntıları görüntüle</string>
+    <string name="vital_signs_cta_body">"Yaşamsal belirti verileri (kalp atış hızı, SpO₂ ve tıbbi kart bilgileri dahil) Mi Fitness'tan alınmıştır. Aşağıdaki işaretleme, bu verilere erişmemizi ve bunları kullanmamızı kabul ettiğinizi gösterir.
+Mesaj uzunluğunu kontrol etmek için her tıbbi kart öğesinin yalnızca ilk 50 karakteri tutulacaktır."</string>
+    <string name="vital_signs_cta_title">Hayati belirtiler</string>
+    <string name="vital_signs_data_allergy">Alerjiler: %s</string>
+    <string name="vital_signs_data_disease">Kronik koşullar: %s</string>
+    <string name="vital_signs_data_high_bpm">Yüksek HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm_multi">Son saatte birden çok kez yüksek HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">Düşük HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">"Son saatte birçok kez HR'yi düşürdük. En yeni: %1$d–%2$d BPM (%3$s–%4$s)"</string>
+    <string name="vital_signs_data_low_spo2">Düşük SpO₂. En yeni: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2_multi">SpO₂ son saatte birçok kez düşüktü. En yeni: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_medical">Tedaviler: %s</string>
+    <string name="vital_signs_toast_exception">Hayati belirti verileri alınamadı</string>
+    <string name="vital_signs_toast_health_app_low">"Yaşamsal belirti verilerini alabilmek için Mi Fitness'ı güncelleyin"</string>
+    <string name="vital_signs_toast_health_app_no_install">Hayati belirti verilerini alabilmek için Mi Fitness'ı yükleyin</string>
+    <string name="vital_signs_toast_no_bpm_spo2">Kalp atış hızı ve SpO₂ verileri alınamadı</string>
+    <string name="vital_signs_toast_no_data">Hayati belirtiler verileri alınamadı</string>
+    <string name="vital_signs_wait_body">Verilere erişiliyor. Bu bir dakika sürebilir</string>
+    <string name="vital_signs_wait_skip">Atla</string>
+    <string name="vital_signs_wait_title">Hayati belirtiler verileri</string>
     <string name="voice_report_anytime">Her zaman</string>
     <string name="voice_report_off">Kapalı</string>
     <string name="voice_report_wiredon">Kulaklık ile</string>

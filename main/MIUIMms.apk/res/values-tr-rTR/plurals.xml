@@ -157,4 +157,12 @@
         <item quantity="other">%d alıcı</item>
         <item quantity="one">%d alıcı</item>
     </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Kalp atış hızı: %1$d BPM (%2$s)</item>
+        <item quantity="one">Kalp atış hızı: %1$d BPM (%2$s)</item>
+    </plurals>
+    <plurals name="vital_signs_data_spo2">
+        <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
+        <item quantity="one">SpO₂: %1$d%% (%2$s)</item>
+    </plurals>
 </resources>

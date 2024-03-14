@@ -49,7 +49,7 @@
     <string name="answering_ends_other_video_call">Cevapladığınızda %1$s görüntülü görüşmeniz sona erecek</string>
     <string name="anti_fraud_notification_msg">Telekom dolandırıcılığını önlemek için bu aramaya geri dönün</string>
     <string name="anti_fraud_notification_title">Dolandırıcılığa karşı uyarı</string>
-    <string name="app_name">Telekom</string>
+    <string name="back">Geri</string>
     <string name="block_button">Engelle</string>
     <string name="block_number">Numara ekle</string>
     <string name="blocked_numbers">Engelli numaralar</string>
