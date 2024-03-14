@@ -54,9 +54,13 @@
     <string name="ai_button_single_press_desc">Mi AI kısayollarını görüntülemek için AI düğmesine basın</string>
     <string name="ai_button_title">AI düğmesi</string>
     <string name="album_introduction">Galeri cihazınızdaki fotoğrafları ve videoları yönetmenizi, optimize etmenizi, düzenlemenizi ve ayrıca bunları Xiaomi bulut ile senkronize etmenizi sağlar</string>
+    <string name="am">ÖÖ</string>
     <string name="app_name">Kurulum</string>
+    <string name="application_extension_service">Uygulama genişletme hizmetleri</string>
+    <string name="application_extension_service_introduction">Uygulama uzantısı hizmetleri size oturum açma ve doğrulama özellikleri sağlayacaktır. Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere ihtiyacı vardır:</string>
     <string name="application_package_introduction">Bu uygulama üçüncü taraf uygulamaları yüklemenizi, yüklemeden önce bunları taramanızı ve ardından önerilerde bulunmanızı sağlar</string>
     <string name="application_permissions">Uygulama izinleri</string>
+    <string name="aquire_device_info">Cihaz bilgilerine erişme</string>
     <string name="authority_introduction">İzin yöneticisi bu cihazdaki uygulama izinlerini yönetmenize olanak tanıyan temel bir hizmettir</string>
     <string name="back">Geri</string>
     <string name="backup_introduction">Cihazınızdaki öğeleri yedeklemek ve geri yüklemek için bu uygulamayı kullanabilirsiniz</string>
@@ -65,6 +69,7 @@
     <string name="boot_video_replay">Tekrar oynat</string>
     <string name="boot_video_skip">Atla</string>
     <string name="calculator_introduction">Hesaplamaları yapmak, birimleri ve para birimlerini dönüştürmek ve ipotek ödemelerinizi tahmin etmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="calendar_storage">Takvim depolama</string>
     <string name="camera_application_introduction">Fotoğraf ve video çekmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için kamerayı kullanabilirsiniz</string>
     <string name="carousel_cookies_content">Duvar kağıdı döngüsünde resimlere ve hikayelere dokunduğunuzda bunların tam sürümleri tarayıcınızda açılır. Güvenilir üçüncü taraf içerik sağlayıcımız daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz %1$s Çerez politikasında açıklandığı gibi tarayıcınıza çerez yerleştireceklerdir. Çerezleri reddederseniz duvar kağıdı döngüsü çalışmaya devam eder ancak içeriği ve önerileri sizinle alakalı olmayabilir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
@@ -75,36 +80,36 @@
     <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
     <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. Xiaomi sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini wifi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
     <string name="check_box_label">Bu özelliği açarak %1$s Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
-    <string name="chinese_day_1">"/1"</string>
-    <string name="chinese_day_10">"/10"</string>
-    <string name="chinese_day_11">"/11"</string>
-    <string name="chinese_day_12">"/12"</string>
-    <string name="chinese_day_13">"/13"</string>
-    <string name="chinese_day_14">"/14"</string>
-    <string name="chinese_day_15">"/15"</string>
-    <string name="chinese_day_16">"/16"</string>
-    <string name="chinese_day_17">"/17"</string>
-    <string name="chinese_day_18">"/18"</string>
-    <string name="chinese_day_19">"/19"</string>
-    <string name="chinese_day_2">"/2"</string>
-    <string name="chinese_day_20">"/20"</string>
-    <string name="chinese_day_21">"/21"</string>
-    <string name="chinese_day_22">"/22"</string>
-    <string name="chinese_day_23">"/23"</string>
-    <string name="chinese_day_24">"/24"</string>
-    <string name="chinese_day_25">"/25"</string>
-    <string name="chinese_day_26">"/26"</string>
-    <string name="chinese_day_27">"/27"</string>
-    <string name="chinese_day_28">"/28"</string>
-    <string name="chinese_day_29">"/29"</string>
-    <string name="chinese_day_3">"/3"</string>
-    <string name="chinese_day_30">"/30"</string>
-    <string name="chinese_day_4">"/4"</string>
-    <string name="chinese_day_5">"/5"</string>
-    <string name="chinese_day_6">"/6"</string>
-    <string name="chinese_day_7">"/7"</string>
-    <string name="chinese_day_8">"/8"</string>
-    <string name="chinese_day_9">"/9"</string>
+    <string name="chinese_day_1">/1</string>
+    <string name="chinese_day_10">/10</string>
+    <string name="chinese_day_11">/11</string>
+    <string name="chinese_day_12">/12</string>
+    <string name="chinese_day_13">/13</string>
+    <string name="chinese_day_14">/14</string>
+    <string name="chinese_day_15">/15</string>
+    <string name="chinese_day_16">/16</string>
+    <string name="chinese_day_17">/17</string>
+    <string name="chinese_day_18">/18</string>
+    <string name="chinese_day_19">/19</string>
+    <string name="chinese_day_2">/2</string>
+    <string name="chinese_day_20">/20</string>
+    <string name="chinese_day_21">/21</string>
+    <string name="chinese_day_22">/22</string>
+    <string name="chinese_day_23">/23</string>
+    <string name="chinese_day_24">/24</string>
+    <string name="chinese_day_25">/25</string>
+    <string name="chinese_day_26">/26</string>
+    <string name="chinese_day_27">/27</string>
+    <string name="chinese_day_28">/28</string>
+    <string name="chinese_day_29">/29</string>
+    <string name="chinese_day_3">/3</string>
+    <string name="chinese_day_30">/30</string>
+    <string name="chinese_day_4">/4</string>
+    <string name="chinese_day_5">/5</string>
+    <string name="chinese_day_6">/6</string>
+    <string name="chinese_day_7">/7</string>
+    <string name="chinese_day_8">/8</string>
+    <string name="chinese_day_9">/9</string>
     <string name="chinese_day_elementary">Gün</string>
     <string name="chinese_digit_eight">Sekiz</string>
     <string name="chinese_digit_five">Beş</string>
@@ -175,6 +180,7 @@
     <string name="diagnose_report">Sistem sorunlarını bulma, analiz etme ve kullanıcı deneyimini geliştirmek için tanılama verileri gönderin. Bu veriler kişisel bilgileri içerebilir (Örneğin: IP, konum vb.)</string>
     <string name="disageement_abnormal_download">Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu hizmeti kullanamazsınız</string>
     <string name="disagree">İptal et</string>
+    <string name="disagree_unable_serve">Yukarıdaki izinleri kabul etmiyorsanız bu hizmeti kullanamazsınız</string>
     <string name="disagreement_abnormal_running">Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu uygulamayı kullanamazsınız. Bu uygulamayı kullanmamayı veya bu gibi durumlarda ayarlardaki izinleri kısıtlamamayı seçebilirsiniz</string>
     <string name="disagreement_abnormal_running_fast_pairing">Bu tür izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız. Bu gibi durumlarda ayarlarda izinleri kısıtlamayı seçebilirsiniz</string>
     <string name="disagreement_application_not_working_properly">Bu izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız</string>
@@ -188,7 +194,8 @@
     <string name="disagreement_location_service_abnormal">Bu izinleri vermeyi kabul etmezseniz konum hizmetlerini kullanamazsınız. Konum servislerini istediğiniz zaman Ayarlar > Gizlilik korumasından açabilir veya kapatabilirsiniz</string>
     <string name="disagreement_mi_account_abnormal">Bu izinleri vermeyi kabul etmezseniz Xiaomi hesabı hizmetlerini kullanamazsınız. Xiaomi hesabı hizmetlerini istediğiniz zaman Ayarlar > Xiaomi hesabından açabilir veya kapatabilirsiniz</string>
     <string name="disagreement_service_not_working_properly">Bu izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız</string>
-    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_settings">Bu izinleri vermeyi kabul etmezseniz bu hizmet normal şekilde çalışamayacaktır</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Bu izinleri vermemeyi seçerseniz hizmet normal şekilde çalışamayacaktır</string>
     <string name="disagreement_terminate_bluetooth">"Bu izinleri vermek istemiyorsanız bluetooth'u kullanamazsınız. Ayarlardan bluetooth'u açıp kapatabilir ve bluetooth cihazları ekleyebilirsiniz"</string>
     <string name="disagreement_terminate_miuidaemon">İzinleri yalnızca ekranı hasar gördüğünde cihazınızdan veri aktarmaya başladığınızda kullanacağız. Bu izinleri vermeyi kabul etmezseniz bu uygulamayı kullanamazsınız</string>
     <string name="disagreement_terminate_service">Bu tür izinleri vermeyi kabul etmiyor veya kişisel bilgilerinizi paylaşıp yüklüyorsanız bu uygulamayı kullanamazsınız. Bu gibi durumlarda ayarlardaki izinleri kaldırmayı, oturumu kapatmayı veya kısıtlamayı seçebilirsiniz</string>
@@ -217,10 +224,13 @@
     <string name="fast_pairing_introduction">Mi bağlantı cihazınızın yakındaki Bluetooth cihazlarına bağlanmasına izin verir. Yakındaki cihazları bulabilmek için Mi bağlantının internete bağlanmasına izin verin</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="font_hint_large">Varsayılan</string>
     <string name="font_hint_normal">Büyüt</string>
@@ -229,7 +239,8 @@
     <string name="font_use_case_text_example">Vücut</string>
     <string name="font_use_case_title_example">Başlık</string>
     <string name="framework_introduction">Mi hizmet çerçevesi, Xiaomi hesabı, Mi itme servisi, Mi istatistikleri ve Xiaomi BI kullanmanıza izin verir</string>
-    <string name="framwork_base_service">Size bu hizmetleri sağlamak için Mi hizmet çerçeveleri internete bağlanmalı, telefon numaranıza, IMEI ve IMSI’ye erişmeli ve cihazınızın itme bildirimleri almasına izin vermelidir</string>
+    <string name="framwork_base_service">"Size bu hizmetleri sağlamak için Mi hizmet çerçeveleri internete bağlanmalı, telefon numaranıza, IMEI ve IMSI’ye erişmeli
+ve cihazınızın itme bildirimleri almasına izin vermelidir"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -258,6 +269,8 @@
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
     <string name="intent_filter_verification_service">Amaç filtresi doğrulama hizmeti</string>
     <string name="interconnection_communication_introduction">Xiaomi internet iletişim hizmetleri diğer Xiaomi cihazlarını keşfetmenize, bağlamanıza ve iletişim kurmanıza olanak tanır</string>
+    <string name="interconnection_service_global_item_title">Xiaomi ara bağlantı</string>
+    <string name="interconnection_service_global_label">Xiaomi ara bağlantı cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesini sağlar. Bu anahtarı açarak Xiaomi ara bağlantının %1$s Gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="interconnection_service_summary_china">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine olanak tanır. Bu hizmetler arasında Mi akıllı oynatıcı, yayınlama, uygulama aktarımı, ana ekran+, paylaşılan pano, cihazlar arası görüntü yakalama, ağ yardımı, paylaşılan klavyeler ve fareler, paylaşılan kamera ve Mi akıllı ses yer alır. Normal çalışabilmek için Xiaomi ara bağlantı hizmetleri internete bağlanmanız ve aşağıdaki izinleri istemeniz gerekir:
 Mi akıllı oynatma ve yayınlama:
 Bluetooth'u açın veya kapatın
@@ -320,6 +333,7 @@ Cihazda depolanan fotoğraflara, videolara ve seslere erişme
 Aktarılan içeriği göndermek ve almak içindir
 Bu izinleri vermeyi kabul etmezseniz bu hizmetleri kullanamazsınız
 Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize göre farklılık gösterebilir. Daha fazla bilgiyi %s adresinde bulabilirsiniz"</string>
+    <string name="interconnection_service_summary_global">"Xiaomi Interconnectivity features may vary depending on device model and system version. Visit the system's official website to learn more."</string>
     <string name="interconnection_service_title">Xiaomi ara bağlantı hizmetleri</string>
     <string name="item_contents_wwarning">Cihazınız kaybolursa ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_facerecognition">Yüz kilidi</string>
@@ -334,12 +348,13 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="language_settings">Dilinizi seçin</string>
     <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
     <string name="locale_picker_title">Bölgenizi seçin</string>
-    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">Yasaya uygun olarak mobil taşıyıcılar, güvenlik ve acil kurtarma amaçlarını gözeten acil kurtarma kurumlarının gereksinimlerine uymak için mobil cihazların konum bilgilerini elde edebilir</string>
     <string name="location_introduction">Konum tabanlı servisler size en yakın ürünleri ve hizmetleri bulur</string>
     <string name="location_introduction_qcom">Konum hizmetleri konuma özel hizmetler sağlamak için konumlandırmayı kullanır. Konum servisleri cihazınız tarafından kullanıldığında QCC modülü konumlandırma işlemini hızlandırmak için ağa bağlanacaktır</string>
     <string name="location_location">Acil kurtarma ekipleri talep üzerine mevcut konumunuzu alabilir</string>
     <string name="lockscreen_introduction">Duvar kağıdı döngüsü duvar kağıdı ile kilit ekranınıza günlük olarak gönderilen taze görüntüleri almanızı sağlar</string>
+    <string name="media_storage_devices">Medya depolama aygıtları</string>
+    <string name="media_storage_introduction">Bu hizmet uygulamaların fotoğraflara, videolara, seslere ve dosyalara erişmesine ve bunları kaydetmesine olanak tanır</string>
     <string name="message_introduction">Mesaj göndermek ve almak için bu uygulamayı kullanabilirsiniz</string>
     <string name="mi_account_introduction">Xiaomi hesabı kayıt olmanıza, oturum açmanıza ve sistem hesaplarını yönetmenize olanak tanır</string>
     <string name="midnight">Gece</string>
@@ -438,7 +453,6 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="noon">Öğlen</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="note_introduction">Bu uygulama notları oluşturmanıza, görüntülemenize ve düzenlemenize olanak sağlar</string>
-    <string name="official_website_real">www.miui.com</string>
     <string name="other_settings">Ek ayarlar</string>
     <string name="other_settings_ad_dialog_agree">Aç</string>
     <string name="other_settings_ad_dialog_content">Bu özelliği kapattıktan sonra artık kişiselleştirilmiş reklamlar almayacaksınız. Yine de ilgi alanlarınızla alakalı olmayan reklamlar alacaksınız. Kişiselleştirilmiş reklamlar hakkında daha fazla bilgiyi Xiaomi gizlilik politikasında öğrenebilirsiniz. Yine de kişiselleştirilmiş reklamlar kapatılsın mı?</string>
@@ -449,7 +463,7 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="other_settings_alarm_assistance">Acil durum konumu</string>
     <string name="other_settings_alarm_assistance_privacy">Gizlilik politikası</string>
-    <string name="other_settings_alarm_assistance_summary">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. "<a href="% Bu özelliği kullanmadan önce 1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> inceleyin</string>
+    <string name="other_settings_alarm_assistance_summary" formatted="false">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. <a href="%">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> inceleyin"</string>
     <string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">Xiaomi güncellemeleri yüklemek için en iyi zamanı seçer</string>
@@ -481,6 +495,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_account">Cihazınızdaki hesaplara erişin:</string>
     <string name="permission_account_introduction">Xiaomi hesabı ile giriş yapmak içindir</string>
     <string name="permission_application_package_introduction">Kurulum paketlerini ayrıştırma ve tarama ve depolamaya erişmek içindir</string>
+    <string name="permission_application_scope_description">"We only use these permissions when performing security verification, and won't use them for any other purpose."</string>
     <string name="permission_authority_describe">Bu cihazda yüklü uygulamaların listesine erişin</string>
     <string name="permission_authority_describe_applist_summary">Uygulama izinlerini yönetmek içindir</string>
     <string name="permission_backup">Depolama alanına erişme</string>
@@ -525,7 +540,9 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_login_introduction">Oturum açmak ve sistem hesaplarını yönetmek içindir</string>
     <string name="permission_make_a_call">Arama yapma</string>
     <string name="permission_make_a_call_fast_application_summary">Hızlı uygulamaların arama yapmasına izin vermek içindir</string>
+    <string name="permission_media_storage_summary">Uygulamaların dosyalara erişirken gizlilikle ilgili izinleri nasıl kullandığını kontrol etmek içindir</string>
     <string name="permission_message_introduction">Engellenen kişilere mesaj göndermek içindir</string>
+    <string name="permission_not_agree_service_not_working">Yukarıda belirtilen gerekli izinleri kabul etmiyorsanız bu hizmeti kullanamazsınız</string>
     <string name="permission_number">Telefon numarasına erişim</string>
     <string name="permission_number_introduction">Araç sistemleri ve Bluetooth kulaklıklarla Bluetooth bağlantısı kurmak içindir</string>
     <string name="permission_phone_imei_device">"Cihazları tanımlamak ve IMEI'ye erişmek içindir"</string>
@@ -574,6 +591,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_recording_introduction">Video kaydederken ses kaydetmek içindir</string>
     <string name="permission_screen_shoot_introduction">Ekran kayıtlarına erişmek ve kaydetmek içindir</string>
     <string name="permission_send_message">Mesaj gönder</string>
+    <string name="permission_sms_verification_code_login">Hızlı oturum açma için mesaj doğrulaması sağlamak içindir</string>
     <string name="permission_uniquely_identifiable_information">Bu cihazın benzersiz tanımlayıcılarına erişin</string>
     <string name="permission_uniquely_identifiable_information_summary">Diğer cihazları keşfetmek, bağlanmak ve onlarla iletişim kurmak için MAC adresine ve ÜCRETLİ cihaza erişin</string>
     <string name="permission_use_bluetooth">"Bluetooth'u kullan"</string>
@@ -613,12 +631,14 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="privacy_refuse">Katılmıyorum</string>
     <string name="privacy_title">Şartlar &amp; gizlilik politikası</string>
     <string name="protect_persoanl_info_statement">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
+    <string name="provide_date_management_service">Bu hizmet tarihi kontrol etmenize ve etkinlikleri yönetmenize olanak tanır</string>
     <string name="provision_back">Geri</string>
     <string name="provision_inputmethod_policy_description">Seçili klavyenin %1$s gizlilik politikasını görüntüleyin</string>
     <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
-    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier sistem süreçlerini yöneten bir hizmettir</string>
+    <string name="read_application_info">Uygulama bilgilerine erişme</string>
+    <string name="read_sms_and_mms">Mesaj ve multimedyaya erişme</string>
     <string name="recommend_font">MiSans</string>
     <string name="recommended_font_mark">Önerilen</string>
     <string name="recorder_introduction">Ses kaydı yapmak ve kayıtları buluta yedeklemek için bu uygulamayı kullanabilirsiniz</string>
@@ -633,6 +653,9 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="require_network_and_authority_statement">Normal çalışabilmesi için bu hizmetin internete bağlanması ve aşağıdaki izinlere ihtiyacı vardır:</string>
     <string name="require_network_authority_statement">Size temel hizmetleri sunmamıza izin verme, kişisel bilgilerinizi toplamamız için internete bağlanmanız ve aşağıdaki izinleri vermeniz gerekir:</string>
     <string name="require_network_authority_statement_dual">Normal çalışabilmesi için bu hizmetin internete bağlanması ve aşağıdaki izinlere ihtiyacı vardır:</string>
+    <string name="require_statement">Temel hizmetleri sağlamak için aşağıdaki izinlere ihtiyacımız var:</string>
+    <string name="safe_open_service">Güvenli açık hizmetler</string>
+    <string name="safe_open_service_introduction">Güvenli açık hizmetler geliştiricilere yardımcı olur ve kullanıcıları ve gizliliklerini korumak için sistem düzeyinde güvenlik özellikleri sağlar</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -740,7 +763,7 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="sunday_shortest">P</string>
     <string name="switch_network">Ağ geçişi</string>
     <string name="system_navigation_mode">Sistem gezinme modu</string>
-    <string name="system_update_statement">"Sistem güncellemesi yapabilmek için cihazın IMEI'sini, cihazın IMSI'sini, cihaz tanımlayıcılarını , Xiaomi hesabını, cihaz üreticisini, cihaz modelini, ağ operatörünü, cihaz hafızasını, işletim sistemi sürümünü, bölgeyi, dil, bağlantı, ağ türü ve IP adresi</string>
+    <string name="system_update_statement">"Sistem güncellemesi yapabilmek için cihazın IMEI'sini, cihazın IMSI'sini, cihaz tanımlayıcılarını , Xiaomi hesabını, cihaz üreticisini, cihaz modelini, ağ operatörünü, cihaz hafızasını, işletim sistemi sürümünü, bölgeyi, dil, bağlantı, ağ türü ve IP adresi"</string>
     <string name="system_update_title">Sistem güncellemeleri</string>
     <string name="systemdesktop_introduction">Ana ekran hizmeti eklentisi size ana ekran sistem kullanıcı arayüzü ve ekran görüntüleri gibi temel özellikler sağlar</string>
     <string name="term_condition_detail">Kilit ekranınıza günlük olarak gönderilen çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik izniniz olmadan verilerinizi kişiselleştirmek için kullanmaz. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcının %1$s Gizlilik politikasını ve %2$s kullanıcı sözleşmesini okuyun ve kabul edin</string>
@@ -855,9 +878,12 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
+    <string name="used_date_viewing">Tarihi kontrol etmek içindir</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="verify_application_security">Uygulama güvenliğini doğrulamak içindir</string>
+    <string name="verify_device_security">Cihaz güvenliğini doğrulamak içindir</string>
     <string name="voice_assist_desp">Telefonunuza Mi AI şeklinde seslenin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecektir</string>
     <string name="voice_assist_title">Ses ile uyandır</string>
     <string name="wc_dialog_agree">Kabul et</string>

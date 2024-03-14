@@ -239,7 +239,7 @@ Oynatma kalitesi"</string>
     <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
-    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI araştırmayı etkinleştir</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm Bluetooth HCI paketlerini yakala</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Çıktıyı değiştir</string>
@@ -586,7 +586,7 @@ Oynatma kalitesi"</string>
     <string name="select_webview_provider_dialog_title">İnternet görünümü kullanımını ayarla</string>
     <string name="select_webview_provider_title">İnternet görünümü kullanımı</string>
     <string name="select_webview_provider_toast_text">Bu seçenek artık geçerli değil. Tekrar deneyin</string>
-    <string name="settings_label">Ağ ayarları</string>
+    <string name="settings_label">Ayarlar</string>
     <string name="settingslib_category_personal">Kişisel</string>
     <string name="settingslib_category_work">İş</string>
     <string name="settingslib_learn_more_text">Daha fazla bilgi</string>
