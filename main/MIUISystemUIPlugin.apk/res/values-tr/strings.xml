@@ -153,7 +153,7 @@
     <string name="controls_confirmation_message">%s için değişikliği onaylayın</string>
     <string name="controls_default_structure">Akıllı ev cihazları</string>
     <string name="controls_dialog_confirmation">Kontroller güncellendi</string>
-    <string name="controls_dialog_message">%s, favorilerinize eklemek için bu kontrolü önerdi</string>
+    <string name="controls_dialog_message">%s favorilerinize eklemek için bu kontrolü önerdi</string>
     <string name="controls_dialog_ok">Favorilere ekle</string>
     <string name="controls_dialog_title">Cihaz kontrollerine ekle</string>
     <string name="controls_dismiss_dialog_cancel">Hayır</string>
@@ -343,7 +343,7 @@
     <string name="miplay_accessibility_prev">Önceki şarkı</string>
     <string name="miplay_accessibility_seekbar">İlerleme çubuğu</string>
     <string name="miplay_accessibility_volume">Ses</string>
-    <string name="miplay_bluetooth_share_des_text">"Xiaomi kulaklık kullanıcıları: şarj kutusunu açın veya %ds süreyle kutu düğmesini basılı tutun
+    <string name="miplay_bluetooth_share_des_text">"Xiaomi kulaklık kullanıcıları: şarj kutusunu açın veya %d saniye süreyle kutu düğmesini basılı tutun
 Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıklarınızı sıfırlayın ve ardından bağlanın"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Sesi paylaşmak için kulaklık ekleyin</string>
     <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Ses paylaşımı tamamlandı</string>
@@ -557,7 +557,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="qs_open_night_mode_alert_summary">Bazı ekran ayarları Koyu modla uyumlu değildir. Ancak Karanlık modu kapattığınızda bu ayarlar geri yüklenecektir</string>
     <string name="quick_controls_subtitle">Bağlı cihazlarınız için kontroller ekleyin</string>
     <string name="quick_controls_title">Cihaz kontrolleri</string>
-    <string name="quick_settings_aisubtitles_label">MI AI Alt yazı</string>
+    <string name="quick_settings_aisubtitles_label">Akıllı altyazılar</string>
     <string name="quick_settings_aitranslate_label">MI AI çeviri</string>
     <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
     <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>
@@ -565,7 +565,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) kapatılacak. Wifi kullanmadığınız sürece veri bağlantısı gerektiren uygulamaları kullanamayacaksınız. Multimedya mesajları göndermek ve almak kısıtlanacaktır</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacak. Mobil ağlara bağlanmak ödeme planınıza bağlı olarak ek ücretlere neden olabilir</string>
-    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İptal et</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Tamam</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
     <string name="quick_settings_cellular_detail_title">Mobil veri</string>
@@ -655,7 +655,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
-    <string name="super_volume_text">200%</string>
+    <string name="super_volume_text">%200</string>
     <string name="super_volume_toast">Ses artırma açık</string>
     <string name="switch_bar_off">Kapalı</string>
     <string name="switch_bar_on">Açık</string>
@@ -735,7 +735,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="wireless_charging_saver_message">Pil tasarrufu şimdi açık. Ters kablosuz şarj kullanılabilir olarak tutulsun mu?</string>
     <string name="wireless_charging_saver_ok">Tut</string>
     <string name="wireless_charging_tips_disable">Tekrar gösterme</string>
-    <string name="wireless_charging_tips_message">Qi kablosuz şarjı destekleyen cihazları bu cihazın arkasına yerleştirin</string>
+    <string name="wireless_charging_tips_message">Kablosuz olarak şarj etmek istediğiniz cihazı bu telefonun arkasına yerleştirin. Ters kablosuz şarjı kullanmadan önce bu telefonun en az %%%d şarj olduğundan emin olun</string>
     <string name="wireless_charging_tips_sub_message">Diğer cihaz Qi kablosuz şarj standardını desteklemelidir</string>
     <string name="wireless_charging_tips_title">Ters kablosuz şarj</string>
     <string name="yesterday">Dün</string>
