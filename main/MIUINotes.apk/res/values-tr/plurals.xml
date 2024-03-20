@@ -104,9 +104,9 @@
         <item quantity="other">%d saniye kaldı</item>
         <item quantity="one">%d saniye kaldı</item>
     </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s not başarıyla gizlendi</item>
-        <item quantity="one">%1$s not başarıyla gizlendi</item>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s not başarıyla gösterildi</item>
+        <item quantity="one">%1$s not başarıyla gösterildi</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">%1$d gün içinde</item>

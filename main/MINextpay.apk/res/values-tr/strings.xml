@@ -127,10 +127,10 @@ Orijinal ödeme yöntemi yoluyla geri ödeme alacaksınız"</string>
     <string name="auto_recharge_setting_bank_update_alert_message">Otomatik olarak yüklenen tüm öğeler için yeni banka kartı kullanılacak. Kabul ediyor musun?</string>
     <string name="auto_recharge_setting_btn_confirm">Ekle</string>
     <string name="auto_recharge_setting_cancel_alert_message">Mi taşıma kartınıza %1$s artık otomatik olarak yükleme yapılmayacaktır. Kabul ediyor musun?</string>
-    <string name="auto_recharge_setting_cancel_text">Otomatik olarak yükleme yapma</string>
-    <string name="auto_recharge_setting_card_name_left_text">Karta yükleme</string>
-    <string name="auto_recharge_setting_not_update">Geçerli ayarları değiştirmediğiniz anlaşılıyor</string>
-    <string name="auto_recharge_setting_recharge_right_text">%1$.2f CNY</string>
+    <string name="auto_recharge_setting_cancel_text">Kapat</string>
+    <string name="auto_recharge_setting_card_name_left_text">Kart adı</string>
+    <string name="auto_recharge_setting_card_number_left_text">Kart numarası</string>
+    <string name="auto_recharge_setting_recharge_right_text_default">Hatırla</string>
     <string name="auto_recharge_setting_save_text">Kaydet</string>
     <string name="auto_recharge_setting_update_alert_message">Değişiklikler kaydedilsin mi?</string>
     <string name="bank_card_agree_protocol_user_content">Kullanıcı sözleşmesi</string>
@@ -613,7 +613,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="mi_account_password_verify_desc">Xiaomi hesabınızın şifresini girin</string>
     <string name="mi_account_password_verify_title">Xiaomi hesabınızı doğrulayın</string>
     <string name="mi_official_customer_service">4001003399</string>
-    <string name="midnight">Night</string>
+    <string name="midnight">Gece</string>
     <string name="mipay_key_item_create_date">Eklenme tarihi:%1$s</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
@@ -750,7 +750,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="nfc_routing_not_ese">Mi cüzdanını varsayılan cüzdanınız olarak ayarlayın</string>
     <string name="night">Akşam</string>
     <string name="no">Hayır</string>
-    <string name="no_any_card_alert_sub_title">Hızlı bir şekilde açmak için aşağıdaki işlev kartını tıklayın</string>
+    <string name="no_any_card_alert_title">Akıllı kartlara hoş geldiniz</string>
     <string name="no_bank_card_alert_sub_title">Mi ödeme tüm UnionPay POS sistemleriyle uyumludur</string>
     <string name="no_login">Giriş yok. Hizmet kullanılamıyor</string>
     <string name="no_network">Ağa bağlanılamıyor</string>
@@ -770,7 +770,7 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="personalizing_bank_card">Yükleniyor</string>
     <string name="phone_num">Telefon numarası</string>
     <string name="phone_number_validate_alert_code_not_null">Doğrulama kodunu girin</string>
-    <string name="phone_number_validate_alert_count_down_format">%1$ds</string>
+    <string name="phone_number_validate_alert_count_down_format">%1$d saniye</string>
     <string name="phone_number_validate_alert_number_error">Girdiğiniz telefon numarası geçersiz</string>
     <string name="phone_number_validate_alert_number_not_null">Telefon numaranızı girin</string>
     <string name="phone_number_validate_code_get_again">Tekrar alın</string>
