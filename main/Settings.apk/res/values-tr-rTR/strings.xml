@@ -4081,6 +4081,8 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="game_booster_title">Oyun hızlandırıcı</string>
     <string name="game_controller_settings_category">Oyun denetleyici</string>
     <string name="game_storage_settings">Oyunlar</string>
+    <string name="gaze_lock_screen_summary">Varlığınız algılandığında cihazın kilidi açık kalacak ve ekrandan uzaklaştığınızda kilitlenecek</string>
+    <string name="gaze_lock_screen_title">Varlığı algıla</string>
     <string name="gd_setting_title">Akıllı araç kutusu</string>
     <string name="general_category_title">Genel</string>
     <string name="general_notification_header">Yönetin</string>
@@ -6216,8 +6218,8 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="navigation_type_radio_text_full_screen">Tam ekran hareketleri</string>
     <string name="navigation_type_radio_text_virtual_key">Tuşlar</string>
     <string name="navigation_type_settings">Sistem navigasyon</string>
-    <string name="near_loclscreen_summary">Cihazınızın yanına yaklaştığınızda ekran otomatik olarak aydınlanacaktır. Bildirimler gizlenecek</string>
-    <string name="near_loclscreen_title">Geri döndüğünüzde ekranı uyandırın</string>
+    <string name="near_loclscreen_summary">Cihazınızın yanına yaklaştığınızda ekran otomatik olarak aydınlanacaktır</string>
+    <string name="near_loclscreen_title">Yaklaşınca ekranı uyandır</string>
     <string name="nearby_wifi">Kullanılabilir ağlar</string>
     <string name="need_reboot_now">Güncellemeyi yüklemek için yeniden başlatın.</string>
     <string name="netcheck_title">Ağ testi</string>
