@@ -33,6 +33,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_app_name">Hakkında</string>
+    <string name="about_securitycenter_icp">Kayıt numarası: Pekin ICP No. 10046444-51A ></string>
     <string name="about_version_update">Yenilikler</string>
     <string name="accessibiliy_ad">Reklam</string>
     <string name="accessibiliy_description_content_account">Profil</string>
@@ -614,6 +615,8 @@
     <string name="gallery_wallpaper">Duvar kağıdı döngüsü</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="gallery_wallpaper_history">Duvar kağıdı döngüsünde yer alan önceki görselleri görüntülemek için dokunun</string>
+    <string name="gallery_wallpaper_history_go">Görüntüle</string>
     <string name="gallery_wallpaper_theme">Önerilen duvar kağıtları</string>
     <string name="gift_share">Paylaş</string>
     <string name="goto_purchased_list">Satın alma geçmişini gör</string>
@@ -1888,7 +1891,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
     <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>
     <string name="using_theme_show_ad">Öneriler</string>
-    <string name="uvi_format">UVI %1$s %2$s</string>
+    <string name="uvi_format">VKİ %1$s %2$s</string>
     <string name="uvi_format_desc">UV indeksi %1$s seviye. %2$s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
@@ -1926,6 +1929,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_download_incall_show">Video indir</string>
     <string name="wallpaper_dynamic">Dinamik</string>
     <string name="wallpaper_group_set_loop">Benzer görüntülerle ekran slayt gösterisini kilitleyin</string>
+    <string name="wallpaper_history">Duvar kağıdı geçmişi</string>
     <string name="wallpaper_light_mode_image_preview_tip">Açık mod önizlemesi</string>
     <string name="wallpaper_loop_add_success">Başarıyla eklendi</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Ana ekran slayt gösterisine ekle</string>

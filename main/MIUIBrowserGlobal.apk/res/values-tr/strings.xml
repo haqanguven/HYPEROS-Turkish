@@ -29,6 +29,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="abcdef">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA6UHJ2rwJLYQwv7lF0I5jWMbA1rFYC7MkZ/t9Cll+P5eC6FXi0vNZtOLRKEToQeIx0kY180qd8uShem+bnI74ogq+JvPOpQ+O663nr7ZiSTqEKxXFXYO0m1Y8C6hLKH0QkfmQC0HDi60R7xz3vIOholMw5GGbEi9ocmI5q94/sB5ry9VZACKEOPwsKQg/rjE5VIwUkSHJJDGShcvqwwQqGZXV+rBJKB3yJ5zHqKEqK94j/7aY20cGt1hwRGuUXTWoeREwqAhSMnVJFEXcFJvtX07hb4L86WONsLUHSUuoQ4p0IKOvOcfQwVctXRs1iwNLomG8M0P0Nyc3v8lFpK7QIDAQAB</string>
+    <string name="accelerate_play">Hız: %sX</string>
     <string name="accept_cookies_confirm_message">Bu özelliği kapatmak bazı internet sitelerinin hatalı davranmalarına neden olabilir</string>
     <string name="accessibility_button_clear">Girişi temizle</string>
     <string name="account_bind_secure_email_title">Kurtarma e-postası ekle</string>
@@ -145,10 +146,10 @@
     <string name="already_add">%s Ana ekranınıza eklendi</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
-	<string name="antivirus_btn_scanned">Tara</string>
-	<string name="antivirus_desc_no_scanned">Taramak için dokunun</string>
-	<string name="antivirus_desc_scanned">Her şey yolunda görünüyor</string>
-	<string name="antivirus_title">Güvenlik taraması</string>
+    <string name="antivirus_btn_scanned">Tara</string>
+    <string name="antivirus_desc_no_scanned">Taramak için dokunun</string>
+    <string name="antivirus_desc_scanned">Her şey yolunda görünüyor</string>
+    <string name="antivirus_title">Güvenlik taraması</string>
     <string name="app_cache">Önbellek</string>
     <string name="app_category_tag_daily_recommendation">Bugünün seçimleri</string>
     <string name="app_category_tag_editor_recommendation">Editörün seçimi</string>
@@ -313,6 +314,9 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="browser_wallpaper_toast">Duvar kağıtlarını değiştirebilmek için promosyonlar düğmesini kapatın</string>
     <string name="btn_agree">Kabul et</string>
     <string name="btn_cancel">İptal</string>
+    <string name="btn_copied">Kopyalandı</string>
+    <string name="btn_copy">Kopyala</string>
+    <string name="btn_open">Aç</string>
     <string name="camera_permission_name">Kamerayı kullan</string>
     <string name="can_not_send_with_too_many">Bu kadar fazla öğe tek bir seferde gönderilemiyor</string>
     <string name="cancel">İptal et</string>
@@ -1243,6 +1247,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="just_a_second">Yükleniyor</string>
     <string name="just_now">Şimdi</string>
     <string name="keep_intrercept">Durdur</string>
+    <string name="kindred_coupons_terms">Şartlar ve koşulları görüntüleyin</string>
+    <string name="kindred_coupons_title">Kuponlar</string>
     <string name="le_download_failed_server_error">Bir sunucu hatası nedeniyle indirilemedi</string>
     <string name="le_network_chagne_to_none">Ağ bağlantısı kesildi. Tüm indirme işlemleri duraklatıldı</string>
     <string name="list_item_click">Liste öğesi tıklaması</string>
@@ -1496,7 +1502,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="most_visited_sites_switch">Ziyaret edilen siteler</string>
     <string name="move_bookmark">Taşı</string>
     <string name="msg_token">Firebase mesaj simgesi (Dışa aktarmak için tıklayın)</string>
-    <string name="msn_ad_identification">R</string>
+    <string name="msn_ad_identification">Reklam</string>
     <string name="msn_privacy">Microsoft gizlilik bildirimi</string>
     <string name="msn_privacy_content">Microsoft haberler tarafından desteklenen içerik akışı içindir</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
@@ -1759,8 +1765,8 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="nav_bottom_bar_back">Geri</string>
     <string name="nav_bottom_bar_close_all">Tümünü kapat</string>
     <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
-	<string name="nav_hint_sub_title">Göz atmaya başlamak için yeni bir pencere açın</string>
-	<string name="nav_hint_title">Burada henüz bir şey yok</string>
+    <string name="nav_hint_sub_title">Göz atmaya başlamak için yeni bir pencere açın</string>
+    <string name="nav_hint_title">Burada henüz bir şey yok</string>
 	<string name="nav_incognito_sub_title">Gizli modda tarayıcı tarama geçmişi, internet sitesi verilerini, çerezleri veya formlara girdiğiniz bilgileri kaydetmez</string>
     <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
     <string name="nav_screen_container_tab_normal">Normal sekme</string>
@@ -2358,6 +2364,8 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="record_permission_name">Ses kaydet</string>
     <string name="recovery_page_popup">Kaldığınız yerden devam edin</string>
     <string name="refresh">Yenile</string>
+    <string name="refresh_button_update_item">%d güncelleme mevcut</string>
+    <string name="refresh_button_update_latest">En son öğeleri görüntülüyorsunuz</string>
     <string name="refresh_fail">Bilgi yüklenemedi</string>
     <string name="refresh_guide">Başa dön</string>
     <string name="refreshing">Yenileniyor</string>
@@ -2709,6 +2717,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="tab_forward_description">Geçmişin sonraki sayfası</string>
     <string name="tab_game">Oyunlar</string>
     <string name="tab_home">Ana sayfa</string>
+    <string name="tab_mall">Mağaza</string>
     <string name="tab_mine">Profil</string>
     <string name="tab_novel">Kitaplar</string>
     <string name="tab_quicklinks">Başlangıç sayfası</string>
@@ -2814,12 +2823,12 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">Daha fazla</string>
     <string name="tt_00_00">00:00</string>
-    <string name="tt_ad">Ad</string>
+    <string name="tt_ad">Reklam</string>
     <string name="tt_ad_clicked_text">Reklam gösterildi</string>
     <string name="tt_ad_close_text">Reklam kapatıldı</string>
     <string name="tt_ad_data_error">Yanıt verileri hatası</string>
     <string name="tt_ad_is_closed">Reklamlar Kapatıldı</string>
-    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_ad_logo_txt">Reklam</string>
     <string name="tt_ad_showed_text">Reklam gösterildi</string>
     <string name="tt_adslot_empty">Reklam alanı isteği yok</string>
     <string name="tt_adslot_id_error">Geçersiz reklam alanı kimliği</string>

@@ -138,6 +138,10 @@
         <item quantity="other">%d kez korundu</item>
         <item quantity="one">%d kez korundu</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">%d kuponunuz var</item>
+        <item quantity="one">%d kuponunuz var</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%d öğe başarıyla indirildi</item>
         <item quantity="one">%d öğe başarıyla indirildi</item>
@@ -309,5 +313,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Geçen hafta tarayıcı sizin için internet sayfası yükleme hızını %d kat artırdı</item>
+        <item quantity="one">Geçen hafta tarayıcı sizin için internet sayfası yükleme hızını %d kat artırdı</item>
     </plurals>
 </resources>
