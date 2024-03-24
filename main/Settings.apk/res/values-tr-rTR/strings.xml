@@ -11289,6 +11289,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_menu_by_region">Bölgeye göre seç</string>
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
+	<string name="secure_screenshot_disable_title">Her yerde ekran görüntüsü al</string>
 	<string name="double_tap_home_title">Çift tıklama</string>
 	<string name="swipe_up_home_title">Yukarı kaydırma</string>
 	<string name="infinite_scroll_title">Sonsuz kaydırma</string>
