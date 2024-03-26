@@ -318,8 +318,13 @@ programımıza katılın"</string>
     <string name="friday_shortest">Cum</string>
     <string name="function_not_support">Bu özellik desteklenmiyor</string>
     <string name="game_booster">Oyun hız arttırıcı</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Reddet</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">kabul et</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou oyun hızlandırıcı &lt;br>&lt;a href=\"%1$s\">Gizlilik politikası&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Gizlilik politikamızı kabul edin</string>
     <string name="gamebooster_dialog_recover">Yenile</string>
     <string name="gamebooster_dialog_start_booster">Başlat</string>
+    <string name="gamebooster_dialog_start_booster_new">Hızlandır</string>
     <string name="gamebooster_network_dialog_message">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message_pad">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
@@ -423,6 +428,7 @@ programımıza katılın"</string>
     <string name="google_storage_bucket">securityadd-adf33.appspot.com</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcıı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap Kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">gizlilik politikasını.&lt;/a>" okudum ve kabul ediyorum</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">Gizlilik politikası&lt;/a>'nı okudum ve kabul ediyorum"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
     <string name="gtb_dialog_privacy_voice_message">Xunyou oyun sesi değiştiriciyi kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Xunyou oyun sesi değiştirici &lt;a href=\"%1$s\">Gizlilik politikasını&lt;/a>'nı okudum ve kabul ettim"</Data> </string>
@@ -594,6 +600,8 @@ Güvenli ve daha güvenli"</string>
     <string name="net_booster_expire_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification_tip">Ağ hız artırımı oturumu yakında sona erecek. Oturum yenilensin mi?</string>
+    <string name="net_free_booster_new_user_tip">Ücretsiz oyun güçlendiriciyi alın ve bir Xiaomi telefonu kazanmak için katılın</string>
+    <string name="net_free_booster_new_user_title">Yeni kullanıcıya hediye</string>
     <string name="net_retry_btn_text">Tekrar dene</string>
     <string name="net_switch_to_owner_space_text">Ana alana geri dön</string>
     <string name="net_unavailable_tip">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
@@ -776,7 +784,7 @@ Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="superpower_third">Üçüncü taraf uygulamaları</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">Sık kullanılan uygulamalara 6 ögeye kadar ekleyebilirsiniz</string>
+    <string name="superpower_toast_app_select_full_new">Sık kullanılan uygulamalara en fazla %d öğe ekleyebilirsiniz</string>
     <string name="switch_kid_mode">Çocuk alanını değiştir</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıl dönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>

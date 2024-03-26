@@ -249,17 +249,17 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
         <item quantity="one">%d zaman içinde kontrol edildi</item>
     </plurals>
-    <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f saat kaldı</item>
-        <item quantity="one">%2$1.2f saat kaldı</item>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
     </plurals>
     <plurals name="gb_smart_battery_min">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
-        <item quantity="other">Anladım (%d saniye)</item>
-        <item quantity="one">Anladım (%d saniye)</item>
+        <item quantity="other">Tamam (%d saniye)</item>
+        <item quantity="one">Tamam (%d saniye)</item>
     </plurals>
     <plurals name="gb_vision_enhance_desc_detail">
         <item quantity="other">"Not:

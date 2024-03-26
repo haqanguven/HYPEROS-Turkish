@@ -2,16 +2,16 @@
 <resources>
     <string name="action_settings">Ayarlar</string>
     <string name="app_name">Adım sağlayıcı</string>
-	<string name="end_title">Oyun bitti</string>
-	<string name="gamebox_filter_name_black_gold">Siyah altın</string>
-	<string name="gamebox_filter_name_cyberpunk">Siber</string>
-	<string name="gamebox_filter_name_golden_autumn">Sonbahar</string>
-	<string name="gamebox_filter_name_klein_blue">Elektrik mavisi</string>
-	<string name="gamebox_filter_name_midnight_green">Çam yeşili</string>
-	<string name="gamebox_filter_name_original">Orijinal</string>
-	<string name="gamebox_filter_name_vintage_brown">Kestane</string>
-	<string name="gamebox_filter_name_warn_orange">Sıcak turuncu</string>
-	<string name="gamebox_filter_name_wild_wind">Vahşi rüzgar</string>
+    <string name="end_title">Oyun bitti</string>
+    <string name="gamebox_filter_name_black_gold">Siyah altın</string>
+    <string name="gamebox_filter_name_cyberpunk">Siber</string>
+    <string name="gamebox_filter_name_golden_autumn">Sonbahar</string>
+    <string name="gamebox_filter_name_klein_blue">Elektrik mavisi</string>
+    <string name="gamebox_filter_name_midnight_green">Çam yeşili</string>
+    <string name="gamebox_filter_name_original">Orijinal</string>
+    <string name="gamebox_filter_name_vintage_brown">Kestane</string>
+    <string name="gamebox_filter_name_warn_orange">Sıcak turuncu</string>
+    <string name="gamebox_filter_name_wild_wind">Vahşi rüzgar</string>
     <string name="hello_world">Selam dünya</string>
     <string name="joyose_name">Joyose</string>
     <string name="not_resurge_title">Canlanıyor</string>

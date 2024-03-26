@@ -499,9 +499,9 @@
     <string name="start_download">İndir</string>
     <string name="starting_analysis">Bilgi alınıyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-	<string name="storage_dialog_content">İndirilenlerin özelliklerini kullanabilmek için cihaz depolama alanına erişmesine izin verin</string>
-	<string name="storage_dialog_go">Ayarlar</string>
-	<string name="storage_dialog_title">Cihaz depolama alanına erişin</string>
+    <string name="storage_dialog_content">İndirilenlerin özelliklerini kullanabilmek için cihaz depolama alanına erişmesine izin verin</string>
+    <string name="storage_dialog_go">Ayarlar</string>
+    <string name="storage_dialog_title">Cihaz depolama alanına erişin</string>
     <string name="storage_internal">Dahili depolama</string>
     <string name="storage_permission_deny">Depolama izinleri gerekli</string>
     <string name="storage_sd_card">SD kart</string>
