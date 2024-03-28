@@ -556,7 +556,7 @@
     <string name="recording_quality_high">Yüksek kalite</string>
     <string name="recording_quality_low">Düşük kalite</string>
     <string name="recording_quality_standard">Standart kalite</string>
-    <string name="recording_stopped">Durdu</string>
+    <string name="recording_status_focus_notification">Kaydediliyor</string>
     <string name="recording_stopped">Durduruldu</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
