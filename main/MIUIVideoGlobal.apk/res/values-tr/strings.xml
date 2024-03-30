@@ -81,6 +81,7 @@
     <string name="ad_click_to_play">Oynatmak için dokunun</string>
     <string name="ad_flag_text">Reklam</string>
     <string name="ad_left_time">Reklamda saniyeler kaldı</string>
+    <string name="ad_topview_repeat_play">Tekrar oynamak için dokunun</string>
     <string name="add_local_shortcut_add">Ekle</string>
     <string name="add_local_shortcut_des">Yerel videolarınızı kolayca izlemek için videomu masaüstüne ekleyin</string>
     <string name="add_search_channel_link">Bağlantı</string>

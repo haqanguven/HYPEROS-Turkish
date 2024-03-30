@@ -34,7 +34,7 @@
     <string name="app_name">Ekran kaydedici</string>
     <string name="app_notification_channel_record_complete">Tamamlanmış kayıtlar hakkındaki bildirimler</string>
     <string name="app_notification_info">Ekran kaydedici arkaplanda çalışıyor</string>
-    <string name="app_notification_record_complete">Galeriye kaydedildi. Görüntülemek için dokunun</string>
+    <string name="app_notification_record_saved">Ekran kaydı kaydedildi. Görüntülemek için dokunun</string>
     <string name="app_notification_title">Ekran kaydedici</string>
     <string name="auto_stop_title">Video başarıyla kaydedildi</string>
     <string name="battery_not_allowed_warning">"Pil %1$s'den düşük olduğunda kayıt yapılamaz. Pilin en az %2$s dolu olduğundan emin olun"</string>

@@ -138,17 +138,18 @@
     <string name="ear_canal_scan_notice_disconnect">Tarama kesintiye uğradı. Kulaklığınızın bağlı olduğundan emin olun</string>
     <string name="ear_canal_scan_notice_prepare">Her iki kulaklığı da takın ve rahat bir konuma ayarlayın</string>
     <string name="ear_canal_scan_notice_running">Kulaklıklarınızı çıkarmayın</string>
+    <string name="ear_canal_scan_toast_calling">Lütfen kulak kanalı taraması yapmadan önce aramayı sonlandırın</string>
     <string name="ear_canal_scan_toast_no_double_headset">Her iki kulaklığı da takın</string>
     <string name="ear_scan_begin_text">Başlat</string>
     <string name="ear_scan_doing_text">Taranıyor</string>
-    <string name="ear_scan_fect_desp_one">Kulak şeklinize göre optimize edilmiş ses</string>
-    <string name="ear_scan_fect_in_use">Kullanımda</string>
-    <string name="ear_scan_fect_off_button_text">Önce</string>
-    <string name="ear_scan_fect_off_icon_text">Gerçek ses</string>
-    <string name="ear_scan_fect_on_button_text">Sonra</string>
-    <string name="ear_scan_fect_on_icon_text">İdeal ses</string>
-    <string name="ear_scan_fect_playing">Oynatılıyor</string>
-    <string name="ear_scan_fect_to_use">Dinlemek için dokunun</string>
+    <string name="ear_scan_effect_desp_one">Kulak şeklinize göre optimize edilmiş ses</string>
+    <string name="ear_scan_effect_in_use">Kullanımda</string>
+    <string name="ear_scan_effect_off_button_text">Önce</string>
+    <string name="ear_scan_effect_off_icon_text">Gerçek ses</string>
+    <string name="ear_scan_effect_on_button_text">Sonra</string>
+    <string name="ear_scan_effect_on_icon_text">İdeal ses</string>
+    <string name="ear_scan_effect_playing">Oynatılıyor</string>
+    <string name="ear_scan_effect_to_use">Dinlemek için dokunun</string>
     <string name="ear_scan_exit_text">Çıkış</string>
     <string name="ear_scan_headset_disconnect_msg">Kulaklıklarınızın bağlantısı kesildi. Devam edebilmek için onları tekrar bağlayın</string>
     <string name="ear_scan_headset_disconnect_positive">Anladım</string>
@@ -274,6 +275,7 @@
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
+    <string name="harman_kardon_setting">Harman kardon</string>
     <string name="headset_use_long_time">Kulaklıklarınızı önerilenden daha uzun süredir takıyorsunuz. Çıkarın ve bir mola verin</string>
     <string name="headset_use_loud_volume">Kulaklık sesi uzun süredir yüksek. İşitme duyunuzu korumak için önerilen seviyeye düşürülmüştür</string>
     <string name="headset_use_not_support_noise_reduction">Mevcut ortamınız çok gürültülü görünüyor. Kulaklıklarınızı şimdi takmanız işitme duyunuzu etkileyebilir</string>
@@ -314,7 +316,7 @@
     <string name="icon_content_description">Dialog Icon</string>
     <string name="input_head_set">Kulaklık takın</string>
     <string name="input_hint_prefix">%1$s girin</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Sekme</string>
     <string name="keep_sound">Ön ayarı kaydet</string>
     <string name="low_pitch">Düşük perde</string>
     <string name="material_clock_display_divider">:</string>
@@ -550,7 +552,7 @@
     <string name="music_sound_num">Özel hazır ön ayar: %s</string>
     <string name="music_sound_sample">Sistem ön ayar</string>
     <string name="music_sure_to_delete_sound_msg">Seçilen ön ayarlar şimdi silinsin mi?</string>
-    <string name="music_thirty_to_sixty_years">30-60 yaşında</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d yaşında</string>
     <string name="music_title_dolby_control">Dolby dijital plus</string>
     <string name="music_unsupport_effect_summary">USB kulaklıklar desteklenmiyor</string>
     <string name="music_upper_sixty_years">60 yıldan fazla</string>
@@ -759,6 +761,22 @@
     <string name="tuesday_shortest">S</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="voice_print_delete">Ses kaydını sil</string>
+    <string name="voice_print_delete_dialog_message">Veriler silindikten sonra kurtarılamaz</string>
+    <string name="voice_print_dialog_message">Ses izi kaydı gerekli. Şimdi kaydetmek istiyor musunuz? </string>
+    <string name="voice_print_dialog_title">Gürültüyü en üst düzeyde azaltmak için mikrofonu açın</string>
+    <string name="voice_print_finish">Bitir</string>
+    <string name="voice_print_name_change">Sesli baskı adını değiştirin</string>
+    <string name="voice_print_new">Yeni sesli baskı kaydet</string>
+    <string name="voice_print_note_description" formatted="false">Ses izi gürültüsü azaltma ses gürültüsünü azaltmak için kullanıcının benzersiz ses özelliklerini kullanan bir teknolojidir. Teknoloji bireyin sesindeki tonlama, perde ve konuşma hızı gibi benzersiz akustik özelliklere dayanır. Bu teknolojiyi kullanmadan önce sesinizi yaklaşık %d ila %d saniye boyunca kaydetmeniz gerekir. Sistem sesinizi öğrenecek. Yalnızca sizin sesinizi koruyarak ve arka plandaki gürültüyü ve diğer insanların seslerini filtreleyerek görüşmede olacaksınız</string>
+    <string name="voice_print_note_device">Lütfen kaydetmeden önce harici cihazın bağlantısını kesin</string>
+    <string name="voice_print_note_environment">Sessiz bir ortamda, aşağıdaki metni sabit hızda okumak için aşağıdaki düğmeyi basılı tutun</string>
+    <string name="voice_print_num">Ses izi %s</string>
+    <string name="voice_print_pref_name">Sesli baskı kaydı</string>
+    <string name="voice_print_press">Kaydetmek için uzun basın</string>
+    <string name="voice_print_re_record">Lütfen yeniden kaydedin</string>
+    <string name="voice_print_select">Sesli baskı seçimi</string>
+    <string name="voice_print_toast_environment">Lütfen sessiz bir ortamda kayıt yapın</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
