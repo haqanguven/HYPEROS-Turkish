@@ -492,7 +492,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="manager_city_option_add_city_title">Başarıyla eklendi</string>
     <string name="manager_city_option_add_home">Başlangıç sayfasına ekle</string>
     <string name="manager_city_option_view_on_home">Başlangıç sayfasında görüntüle</string>
-    <string name="marketSdkVersion">3.2.22</string>
+    <string name="marketSdkVersion">3.2.26</string>
     <string name="menu_location">Konumlar</string>
     <string name="menu_speaker">Sesli yayın</string>
     <string name="midnight">Gece</string>
@@ -583,7 +583,7 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="morning">ÖÖ</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="network_unavailable">Ağa bağlanılamıyor</string>
-    <string name="news_hour_minute_time_format">yyyy-MM-dd HH:mm</string>
+    <string name="news_hour_minute_time_format">dd-MM-yyyy HH:mm</string>
     <string name="news_load_more_default">Yenilemek için çekin</string>
     <string name="news_load_more_failed">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
     <string name="news_load_more_loading">Yenileniyor</string>
@@ -720,12 +720,12 @@ aç"</string>
     <string name="setting_used_to_push_reminder">Uyarılar ve hava durumu uyarıları alın</string>
     <string name="setting_weather_video">Hava durumu videosu</string>
     <string name="settings">Ayarlar</string>
-    <string name="settings_atmospheric_press_atm">Standart atmosfer (atm)</string>
-    <string name="settings_atmospheric_press_hpa">Hektopaskal (hPa)</string>
-    <string name="settings_atmospheric_press_inhg">İnç cıva (inHg)</string>
-    <string name="settings_atmospheric_press_mbar">Milibar (mbar)</string>
-    <string name="settings_atmospheric_press_mmhg">Milimetre cıva (mmHg)</string>
-    <string name="settings_atmospheric_press_title">Atmosferik basınç birimleri</string>
+    <string name="settings_atmospheric_pressure_atm">Standart atmosfer (atm)</string>
+    <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>
+    <string name="settings_atmospheric_pressure_inhg">İnç cıva (inHg)</string>
+    <string name="settings_atmospheric_pressure_mbar">Milibar (mbar)</string>
+    <string name="settings_atmospheric_pressure_mmhg">Milimetre cıva (mmHg)</string>
+    <string name="settings_atmospheric_pressure_title">Atmosferik basınç birimleri</string>
     <string name="share">Paylaş</string>
     <string name="share_button">Paylaş</string>
     <string name="share_menu_title">Paylaş</string>

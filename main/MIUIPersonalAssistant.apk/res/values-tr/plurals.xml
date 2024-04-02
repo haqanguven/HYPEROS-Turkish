@@ -90,15 +90,15 @@
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
         <item quantity="other">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
-        <item quantity="one">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun.</item>
+        <item quantity="one">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
         <item quantity="other">Araç mağazası. Uygulama listesi. Listedeki %d öğe</item>
         <item quantity="one">Araç mağazası. Uygulama listesi. Listedeki %d öğe</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
-        <item quantity="other">Listedeki %d sayısı.</item>
-        <item quantity="one">Listedeki %d sayısı.</item>
+        <item quantity="other">Listedeki %d sayısı</item>
+        <item quantity="one">Listedeki %d sayısı</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
         <item quantity="other">Öğe %d araç içeriyor. Araç açıklamasını açmak için iki kez dokunun</item>
@@ -199,5 +199,11 @@
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">Araçta %1$d şirket</item>
         <item quantity="one">Araçta %1$d şirket</item>
+    </plurals>
+    <plurals name="pa_travel_train_tip_delay_hour_min">
+        <item quantity="other">Tren %1$d saat %2$d dakika rötar yaptı</item>
+    </plurals>
+    <plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="other">Tren %d dakika gecikti</item>
     </plurals>
 </resources>

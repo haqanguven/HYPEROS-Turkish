@@ -3,7 +3,7 @@
     "productId": "b8006e83-c497-4642-9815-f674b82842b0",
     "title": "Hava durumu",
     "appName": "Hava durumu",
-    "maMlTag":"Bağla",
+    "maMlTag":"bind",
     "resource": "maml_weather_2x2.zip",
     "spanX": 2,
     "spanY": 2,

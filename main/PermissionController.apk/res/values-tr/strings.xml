@@ -454,8 +454,8 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
@@ -841,7 +841,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="unused_apps_title">Kullanılmayan uygulamalar</string>
     <string name="unused_permissions_subtitle_many">%1$s, %2$s ve %3$s tane daha</string>
     <string name="unused_permissions_subtitle_two">%1$s ve %2$s</string>
-    <string name="updated_in_last_days">{count,plural, =0{Son 1 günde güncellendi}=1{Son 1 günde güncellendi}other{Son # günde güncellendi}}</string>
+    <string name="updated_in_last_days">{count, plural, =0 {Son 1 günde güncellendi} =1 {Son 1 günde güncellendi}other{Son # günde güncellendi}}</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wear_not_allowed_dlg_text">"Yükleme veya yüklemeyi kaldırma işlemleri Wear'da desteklenmiyo"</string>

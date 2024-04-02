@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="a2dp_connect_success">Hoparlörde çalındı</string>
-    <string name="a2dp_disconnect_success">Bu cihazda ses çalınıyor</string>
+    <string name="a2dp_connect_success">Bağlı hoparlörde ses oynatılıyor</string>
+    <string name="a2dp_disconnect_success">Bu cihazda ses oynatılıyor</string>
     <string name="a2dp_not_pair">Cihaz bağlı değil</string>
     <string name="a2dp_not_pair_desc">"Hoparlörünüzde bluetooth'u açın.
 Hoparlörün donanım yazılımının güncel olduğundan emin olun."</string>

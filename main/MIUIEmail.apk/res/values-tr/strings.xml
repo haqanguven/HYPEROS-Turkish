@@ -1054,6 +1054,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="notification_action_undo_delete">Silindi</string>
     <string name="notification_action_undo_remove_label">Etiket kaldırıldı</string>
     <string name="notification_message">Yalnızca seçili klasörlerdeki yeni mesajlar hakkında bilgilendirilsin mi?</string>
+    <string name="notification_mutli_message_content">Görüntülemek için tıklayın</string>
     <string name="notification_off">Kapalı</string>
     <string name="notification_on">Açık</string>
     <string name="notify_channel_new_mail">Yeni mesajları bildir</string>
@@ -1138,7 +1139,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="pdf_signature_manager_max_count">Maksimum imza sayısı. Lütfen mevcut imzayı silin ve tekrar deneyin</string>
     <string name="pdf_signature_manager_title">İmza yöneticisi</string>
     <string name="pdf_signature_select">İmza seçin</string>
-   <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
+    <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
     <string name="pdf_viewer_new_email">Yeni e-posta</string>
     <string name="pdf_viewer_reply">Yanıtla</string>
     <string name="pdf_viewer_reply_all">Herkese bu dosyayla yanıt ver</string>
