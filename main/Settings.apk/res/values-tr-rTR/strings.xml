@@ -11290,12 +11290,13 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
 	<string name="icon_app_color_title">Renkli bildirim simgeleri</string>
-	<string name="double_tap_home_title">Çift tıklama</string>
-	<string name="swipe_up_home_title">Yukarı kaydırma</string>
-	<string name="infinite_scroll_title">Sonsuz kaydırma</string>
-	<string name="folder_layout_title">Klasör düzeni</string>
-	<string name="folder_blur_title">Klasör bulanıklık efekti</string>
-	<string name="folder_close_title">Klasörleri otomatik kapat</string>
-	<string name="classic_widget_title">Klasik araçlar</string>
-	<string name="search_box_title">Alt arama kutusu</string>
+    <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
+    <string name="double_tap_home_title">Çift tıklama</string>
+    <string name="swipe_up_home_title">Yukarı kaydırma</string>
+    <string name="infinite_scroll_title">Sonsuz kaydırma</string>
+    <string name="folder_layout_title">Klasör düzeni</string>
+    <string name="folder_blur_title">Klasör bulanıklık efekti</string>
+    <string name="folder_close_title">Klasörleri otomatik kapat</string>
+    <string name="classic_widget_title">Klasik araçlar</string>
+    <string name="search_box_title">Alt arama kutusu</string>
 </resources>
