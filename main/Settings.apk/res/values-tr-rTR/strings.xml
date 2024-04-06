@@ -11299,4 +11299,8 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="folder_close_title">Klasörleri otomatik kapat</string>
     <string name="classic_widget_title">Klasik araçlar</string>
     <string name="search_box_title">Alt arama kutusu</string>
+    <string name="call_brightness_title">Arama parlaklığı</string>
+    <string name="call_night_brightness_title">Gece arama parlaklığı</string>
+    <string name="call_night_brightness_start_time_title">Başlangıç zamanı</string>
+    <string name="call_night_brightness_end_time_title">Bitiş zamanı</string>
 </resources>

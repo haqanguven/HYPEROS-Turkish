@@ -463,7 +463,7 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="other_settings_alarm_assistance">Acil durum konumu</string>
     <string name="other_settings_alarm_assistance_privacy">Gizlilik politikası</string>
-    <string name="other_settings_alarm_assistance_summary" formatted="false">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. <a href="%">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> inceleyin"</string>
+    <string name="other_settings_alarm_assistance_summary" formatted="false">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. <a href="%">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> inceleyin"</string>
     <string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">Xiaomi güncellemeleri yüklemek için en iyi zamanı seçer</string>
