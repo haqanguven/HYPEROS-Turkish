@@ -9490,6 +9490,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="title_special_features_health_global">Kalp atış hızı</string>
     <string name="title_unavailable_locale">%s kullanılamıyor</string>
     <string name="title_wordless_mode">Simge etiketlerini gösterme</string>
+    <string name="title_xiaomi_smart_hub">Akıllı ses</string>
     <string name="to_close">Kapalı</string>
     <string name="to_switch_networks_disconnect_ethernet">Ağ değiştirmek için ethernet bağlantısını kesin</string>
     <string name="toast_allows_restricted_settings_successfully">%s için izin verilen kısıtlı ayarlar</string>
