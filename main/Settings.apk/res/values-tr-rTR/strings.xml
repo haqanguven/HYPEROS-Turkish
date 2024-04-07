@@ -6158,7 +6158,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
     <string name="multi_window_cvw_summary_global">Yüzer bir pencereye geçmek ve boyutunu ayarlamak için köşeye sürükleyin</string>
     <string name="multi_window_cvw_title">Yüzer pencere</string>
-    <string name="multifunction_keyboard">Ek düğme</string>
+    <string name="multifunction_keyboard">Ek tuş</string>
     <string name="multiple_users_main_switch_keywords">izin ver, birden fazla, kullanıcı, izin ver, birçok</string>
     <string name="multiple_users_main_switch_title">Birden çok kullanıcı</string>
     <string name="music_equalizer">Ekolayzır</string>
@@ -9143,7 +9143,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="stylus_ota_update">Güncelle</string>
     <string name="stylus_ota_update_failed">Donanım yazılımı güncellenemedi</string>
     <string name="stylus_ota_updating">Güncelleniyor</string>
-    <string name="stylus_primary_key">İlk düğme</string>
+    <string name="stylus_primary_key">İlk tuş</string>
     <string name="stylus_quick_write">Yazı</string>
     <string name="stylus_quick_write_summary">Yazmak veya çizmek için yazma düğmesini basılı tutun</string>
     <string name="stylus_schematic_diagram">Demo</string>
@@ -9156,7 +9156,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="stylus_shortcut_title_screenshot">Ekran resmi</string>
     <string name="stylus_success">Bitti</string>
     <string name="stylus_textfield_handwriting">Metin alanlarına yazın</string>
-    <string name="stylus_vice_key">İkinci düğme</string>
+    <string name="stylus_vice_key">İkinci tuş</string>
     <string name="stylus_welcome">Xiaomi akıllı kalemle ile tanışın</string>
     <string name="subscreen_title">Arka ekran</string>
     <string name="subscription_available">Kullanılabilir</string>

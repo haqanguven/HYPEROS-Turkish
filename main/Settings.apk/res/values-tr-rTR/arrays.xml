@@ -979,7 +979,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>8 saat</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Akıllı ses</item>
         <item>Akıllı ev</item>
         <item>Hiçbiri</item>
     </string-array>
