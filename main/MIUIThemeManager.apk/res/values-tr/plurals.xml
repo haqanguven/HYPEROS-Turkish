@@ -30,8 +30,8 @@
         <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
-        <item quantity="other">%1$d AOD tema</item>
-        <item quantity="one">%1$d AOD tema</item>
+        <item quantity="other">%1$d HAE tema</item>
+        <item quantity="one">%1$d HAE tema</item>
     </plurals>
     <plurals name="anonymous_resource_count_font">
         <item quantity="other">%1$d yazı tipi</item>

@@ -889,7 +889,7 @@
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="splash_note">Kalem</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stealth_mode_tip">Gizlisin. Şu anda mikrofon kullanılamıyor</string>
+    <string name="stealth_mode_tip">Gizlisin. Mikrofon kullanılamıyor</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
@@ -976,7 +976,9 @@
     <string name="toast_message_add_image_fail">Resim eklenemedi</string>
     <string name="toast_notes_delete_success">Başarıyla silindi</string>
     <string name="toast_notes_hidden_edit">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı doğru çekin</string>
+    <string name="toast_notes_hidden_edit_new">Not gizlendi. Gizli notları görmek için aşağı çekin</string>
     <string name="toast_notes_hidden_home">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı doğru çekin</string>
+    <string name="toast_notes_hidden_home_new">Not gizlendi. Gizli notları görmek için aşağı çekin</string>
     <string name="toast_notes_hidden_pad">Bu not şimdi gizlendi. Gizli notları görüntülemek için yan paneli aşağı çekin</string>
     <string name="toast_notes_unhidden">Gizleme başarıyla kaldırıldı</string>
     <string name="toast_pic_is_not_really">Resim kaydediliyor</string>
