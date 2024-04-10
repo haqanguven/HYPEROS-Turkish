@@ -37,6 +37,9 @@
     <string name="HIPS_Perm_tencentControl_Desc">Bu uygulamanın WeChat ve QQ mesajlarınıza erişmesine izin verin</string>
     <string name="HIPS_Perm_use_sip_Desc">Video akışı için oturum başlatma protokolünü kullanın</string>
     <string name="Phonepass">Aramalara izin ver</string>
+    <string name="SC_HIPS_Perm_process_outgoing_calls">Aramaları cevaplama ve sonlandırma</string>
+    <string name="SC_HIPS_Perm_read_clipboard">Panoya erişim</string>
+    <string name="SC_HIPS_Perm_write_clipboard">Panoya öğe ekle</string>
     <string name="SMS_and_MMS">Mesaj ve multimedya mesajı</string>
     <string name="SMSpass">Kısa mesajlara izin ver</string>
     <string name="Setting_lock">Ayarlar</string>
@@ -80,6 +83,7 @@
     <string name="abnormal_consume_type_wakelock">Sistem uyuyamıyor</string>
     <string name="about_autostart">Otomatik başlatma hakkında</string>
     <string name="about_autostart_gloabl">Otomatik başlatma hakkında</string>
+    <string name="about_securitycenter_icp">ICP kayıt numarası: Pekin ICP No. 10046444-61A, Pekin ICP No. 10046444-62A, Pekin ICP No. 10046444-63A, Pekin ICP No. 10046444-69A, Pekin ICP No. 10046444-97A ></string>
     <string name="about_securitycenter_phne">Müşteri hizmetleri yardım hattı: 400–100–5678</string>
     <string name="about_securitycenter_title">Güvenlik hakkında</string>
     <string name="ac_enter_applock">Uygulama kilidini girin</string>
@@ -107,6 +111,13 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Uygulama kilidi şifrenizi girin</string>
     <string name="accessibility_gameboosterservice_description">Oyun oynarken gelen WeChat aramalarını sessize almak için etkinleştirin</string>
+    <string name="accessibility_keyboard_delete_button">Sil</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Büyük harf kilidi</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Sayılar</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Semboller</string>
+    <string name="accessibility_keyboard_ok_button">Giriş</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Harfler</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Sembol kilidi</string>
     <string name="accessibility_service_description" />
     <string name="action_button_text_100">Optimize et</string>
     <string name="action_button_text_60">Onar</string>
@@ -349,6 +360,13 @@
     <string name="app_install_intercept">Yüklemeyi engelle</string>
     <string name="app_install_tips_go_to">Aç</string>
     <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
+    <string name="app_isulate_func_close_tip">Bu özelliği kapatırsanız bazı uygulama verileri kaybolabilir. Önce önemli verileri yedekleyin. Şimdi kapatılsın mı?</string>
+    <string name="app_isulate_func_closing">Kapatılıyor</string>
+    <string name="app_isulate_func_opening">Açılıyor</string>
+    <string name="app_lock_face_error_to_try">Yüz tanıma kilidini kullanmak için yüz simgesine dokunun</string>
+    <string name="app_lock_pwd">Kilidi açmak için şifreyi girin</string>
+    <string name="app_lock_pwd_forget">Şifremi unuttum</string>
+    <string name="app_lock_pwd_or_finger">Şifre veya parmak iziyle kilidi açın</string>
     <string name="app_manage_frequency">Kullanım sıklığı</string>
     <string name="app_manage_install_time">Yükleme süresi</string>
     <string name="app_manage_installed">Yüklendi</string>
@@ -1321,7 +1339,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Ortak özellikler</string>
     <string name="commonly_used_func_edit_too_many_func">Daha fazla öğe eklenemiyor</string>
-    <string name="compatible_dialog_content">Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir</string>
+    <string name="compact_safebox_dialog_tip">Size daha iyi bir kullanıcı deneyimi sağlamak amacıyla ikinci alan artık gizli klasörleri desteklememektedir. Verilerinizin kaybolmasını önlemek için bu öğeleri mümkün olan en kısa sürede aktarın</string>
+     <string name="compatible_dialog_content">Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir</string>
     <string name="compatible_dialog_more_info">Daha fazla bilgi</string>
     <string name="compatible_dialog_title">Dikkat</string>
     <string name="comprehensive_protection_measures">Kapsamlı koruma</string>
@@ -1415,10 +1434,16 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_pickup_single_title">Tek katılımcı</string>
     <string name="cs_pickup_surround_desc">Net ses için gürültüyü azaltmak için AI kullanır</string>
     <string name="cs_pickup_surround_title">Mikrofon gürültü azaltma</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">Aramayı sonlandırın ve başlamak için talimatları izleyin</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">Yalnızca tek bir kişiden ses almak için önce o kişinin ses kaydını kaydedin</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Tek katılımcıyı seçmeden önce ses kaydını kaydedin</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Harici cihazların bağlantısını kesin ve tekrar deneyin</string>
+    <string name="cs_pickup_voice_print_desc">Yalnızca tek kişiden gelen sesi alın</string>
     <string name="cs_screen_translation_title">Ekran çevirisi</string>
     <string name="cs_title_pickup">Gürültü azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyonu</string>
     <string name="cs_title_ultraclear">Ultra HD mod</string>
+    <string name="cs_voice_print">Ses kaydını kaydet</string>
     <string name="cta_HIPS_Perm_Location_Desc">Bulunduğunuz yerle ilgili deprem erken uyarılarını görüntülemek için</string>
     <string name="cta_agree_desc">Hizmetlerimizi kullanabilmek için bu uygulamanın internete bağlanmasına ve yukarıda listelenen izinleri vermesine izin verin</string>
     <string name="cta_close_dialog_cancel">İptal et</string>
@@ -1434,6 +1459,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normaldir</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engellenenler listesine öğe eklemek içindir</string>
     <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Cihazlar arası kimlik doğrulama, USB hata ayıklama ve Gizlilik koruması şifresini ve Uygulama kilidini geri yükleme sırasında yetkilendirmeyi yönetmek içindir</string>
+    <string name="custom_define_permission_desc_android.permission.NEARBY_DEVICES">Otomatik görevler için Bluetooth cihazlarını bağlamak veya bağlantısını kesmek içindir</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Engellenen öğeleri görüntülemek amacıyla arama geçmişine erişmek içindir</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Engelleme listesi işlevi sağlamak ve acil durumda irtibat kurulacak kişileri aramak içindir</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Yüksek sıcaklık veya düşük pil durumlarında çağrı durumunu tanımak içindir</string>
@@ -1737,6 +1763,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
     <string name="every_day">Her gün</string>
+    <string name="ew_action_subscribe">Abone ol</string>
+    <string name="ew_action_subscribe">Abone oldum</string>
+    <string name="ew_action_subscribe_area">Abone olunan bölgeler</string>
+    <string name="ew_action_unsubscribe">Abonelikten çık</string>
     <string name="ew_alert_arrive_location">Sismik dalga %s ulaştı</string>
     <string name="ew_alert_dial_text">"Acil kişiyi ara
 "</string>
@@ -1777,6 +1807,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="ew_contact_dialog_tips">En az bir acil durum kişisi ekleyin</string>
     <string name="ew_contact_dialog_title">Dikkat</string>
     <string name="ew_current_location">Mevcut konum</string>
+    <string name="ew_current_location_with_bracket">" (Mevcut konum)"</string>
     <string name="ew_emergency_allergy">Alerjiler</string>
     <string name="ew_emergency_basic_info">Temel bilgi</string>
     <string name="ew_emergency_birthday">Doğum tarihi</string>
@@ -2283,8 +2314,13 @@ gönüllüsü"</string>
     <string name="game_video_net_data">Mobil veri</string>
     <string name="game_video_network_eror">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
     <string name="game_wid_viewpoint_buttom">Kısa bir mola verin</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Reddet</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Kabul et</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Oyun hızlandırıcı &lt;br>&lt;a href=\"%1$s\">Gizlilik politikası&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Gizlilik politikamızı kabul edin</string>
     <string name="gamebooster_dialog_recover">Yenile</string>
     <string name="gamebooster_dialog_start_booster">Başlat</string>
+    <string name="gamebooster_dialog_start_booster_new">Hızlandır</string>
     <string name="gamebooster_lowbattery_notification_summary">Cihazınız kapanmadan önce şarj edin</string>
     <string name="gamebooster_main_activity_back">Geri</string>
     <string name="gamebooster_network_dialog_cn_message">Güvenliğin internete bağlanmasına ve konumunuza erişmesine izin verilmediğinde oyun hızlandırıcıyı kullanamazsınız. Şimdi izin verilsin mi?</string>
@@ -2302,6 +2338,7 @@ gönüllüsü"</string>
     <string name="gamebox_display_2">Doygunluk</string>
     <string name="gamebox_display_3">Parlaklık</string>
     <string name="gamebox_display_4">Parlaklık &amp; doygunluk</string>
+    <string name="gamebox_display_5">HDR</string>
     <string name="gamebox_display_set">"Görsel geliştirme: "</string>
     <string name="gamebox_dnd">Rahatsız etme</string>
     <string name="gamebox_filter_alpha_tip">Şeffaflık</string>
@@ -2381,6 +2418,8 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Ölçülü</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Güçlü</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Aşırı</string>
+    <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
+    <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Kontrası artırın ve oyunlar için detayları geliştirin</string>
     <string name="gb_advance_settings_touch">Dokunmatik kontroller</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
@@ -2413,6 +2452,7 @@ gönüllüsü"</string>
     <string name="gb_beauty_light">Işık doldur</string>
     <string name="gb_beauty_nature_light">Doğal</string>
     <string name="gb_beauty_warm_light">Ilık</string>
+    <string name="gb_casual_game_application_range_prefix">NO.</string>
     <string name="gb_collimator_color">Renk</string>
     <string name="gb_collimator_size">Boyut</string>
     <string name="gb_collimator_style">Tür</string>
@@ -2673,12 +2713,12 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_wonderful_video_goto_box">Oyun hızlandırmayı aç</string>
     <string name="gb_wonderful_video_header_title">Bugün</string>
     <string name="gb_wonderful_video_save_suc">Başarıyla kaydedildi</string>
-    <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
-    <string name="gb_xunyou_gift_type_one_new">Xunyou %d günlük artış</string>
-    <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
-    <string name="gb_xunyou_gift_type_three_new">Xunyou %d günlük artış</string>
-    <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-    <string name="gb_xunyou_gift_type_two_new">Xunyou %d günlük artış</string>
+    <string name="gb_xunyou_gift_type_one">1 günlük destek</string>
+    <string name="gb_xunyou_gift_type_one_new">%d günlük artış</string>
+    <string name="gb_xunyou_gift_type_three">3 günlük destek</string>
+    <string name="gb_xunyou_gift_type_three_new">%d günlük artış</string>
+    <string name="gb_xunyou_gift_type_two">2 günlük destek</string>
+    <string name="gb_xunyou_gift_type_two_new">%d günlük artış</string>
     <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gd_app_edit_done">Bitti</string>
     <string name="gd_app_edit_title_new">Kayan pencere kısayollarını düzenleyin</string>
@@ -2812,6 +2852,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_dialog_hint_smart_5g">Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_speed_tips">Xunyou oyun hızlandırıcı gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Oyun hızlandırıcı &lt;a href=\"%1$s\">Gizlilik politikasını&lt;/a> okudum ve kabul ediyorum"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
     <string name="gtb_dialog_privacy_voice_message">Xunyou oyun ses değiştirici kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Mi Hesap Kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_voice_tips">Xunyou oyun ses değiştirici gizlilik politikasını okudum ve kabul ediyorum</string>
@@ -3027,6 +3068,9 @@ manzara moduna geçin"</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="item_virus_lib">Virüs veri tabanını otomatik olarak güncelle</string>
     <string name="item_zero">%d CNY</string>
+    <string name="keyboard_key">\"</string>
+    <string name="keyboard_key_back">Geri</string>
+    <string name="keyboard_key_space">Alan</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">K/saniye</string>
@@ -3053,6 +3097,7 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="local_ip_exception_summary">"Yerel IP adresi alınamadı. Sorunu Xiaomi'ye bildirmek için geri bildirim uygulamasına gidin ve cihazından bir hata raporu gönderin"</string>
     <string name="location">Konum</string>
     <string name="lock_all_title">Tüm uygulamaları kilitle</string>
+    <string name="lock_app_input_invalid_car">Bazı semboller desteklenmiyor</string>
     <string name="lock_mode_title">Kilit ayarları</string>
     <string name="lock_screen_business_hongbao_message">%1$s kaynağından</string>
     <string name="lock_screen_hongbao_message">%1$s kaynağından</string>
@@ -3190,17 +3235,21 @@ bekleniyor"</string>
     <string name="malicious_access_pay">Ödemeyi başlat</string>
     <string name="malicious_access_wakelock">Uyandırma kilidi kullanın</string>
     <string name="malicious_activity_too_many">Sık kullanılan ön plan</string>
-    <string name="malicious_auto_start">otomatik başlatma</string>
+    <string name="malicious_add_account">Senkronizasyon hesabı ekle</string>
+    <string name="malicious_auto_start">Otomatik başlatma</string>
     <string name="malicious_bg_start">Arka planda açılan pencere</string>
     <string name="malicious_chain">Zincir başlangıcı</string>
     <string name="malicious_cold_start">Soğuk başlatma</string>
     <string name="malicious_hot_start">Sıcak başlatma</string>
-    <string name="malicious_keyguard_show">kilit ekranı görüntüsü</string>
-    <string name="malicious_push_notification">Bildirim Çubuğu PUSH</string>
+    <string name="malicious_keyguard_show">Kilit ekranı görüntüsü</string>
+    <string name="malicious_media_projection">Kayıt ekranı</string>
+    <string name="malicious_no_launcher">Masaüstü simgesi yok</string>
+    <string name="malicious_push_notification">Bildirim çubuğu PUSH</string>
     <string name="malicious_read_calendar">Takvimi oku</string>
     <string name="malicious_read_contacts">Kişileri oku</string>
     <string name="malicious_read_phone_info">Telefon bilgilerini alın</string>
     <string name="malicious_read_sms">Mesajları oku</string>
+    <string name="malicious_record_audio">Kayıt</string>
     <string name="malicious_run_long">Çalışma süresi çok uzun</string>
     <string name="malicious_set_android_widget">Yüksek riskli sahne-Android yerel gereci</string>
     <string name="malicious_system_grant_third_uri">Sistem tarafından yetkilendirilen üç taraflı uri</string>
@@ -3320,6 +3369,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_show_work_profile_text">Çalışma alanı uygulamalarını göster</string>
     <string name="menu_sms">Mesaj gönder</string>
     <string name="menu_summary_antispam">Aramaları ve mesajları engelleyin</string>
+    <string name="menu_summary_antispam_calls">Spam aramaları engelle</string>
     <string name="menu_summary_antivirus">Cihazınızdaki virüsleri tarayın</string>
     <string name="menu_summary_app_manager">Tüm uygulamalarını yönetin</string>
     <string name="menu_summary_garbage_cleanup">Çöp bulunamadı</string>
@@ -3498,8 +3548,8 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -3532,6 +3582,8 @@ Veri kullanım istatistiklerini otomatik ayarla seçeneğini istediğiniz zaman 
     <string name="net_boostering">Ağ hızı arttırılıyor</string>
     <string name="net_boosting">Hız artırılıyor</string>
     <string name="net_delay_title">Gecikme</string>
+    <string name="net_free_booster_new_user_tip">Ücretsiz oyun güçlendiriciyi alın ve bir Xiaomi telefonu kazanmak için katılın</string>
+    <string name="net_free_booster_new_user_title">Yeni kullanıcıya hediye</string>
     <string name="net_overdue">Sonlandırıldı</string>
     <string name="network_assistant_privacy">Uygulamaya göre veri kullanımını takip etmek için paket adları, wifi ve mobil veri kullanımı, yoğun ve yoğun olmayan veri kullanımı ve wifi ve mobil veri açık olduğunda gibi bilgileri toplarız. Bu bilgiler cihazınızda yerel olarak saklanır</string>
     <string name="network_assistant_privacy_title">Uygulama, ağ kullanımı ve tanılama verilerini gönderin</string>
@@ -3911,6 +3963,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_berserk_mode_noti_summary">Ultimate modu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir</string>
     <string name="pc_berserk_mode_performance_title">Ultimate modu</string>
     <string name="pc_button_go_to_setting">Ayarlar</string>
+    <string name="pc_camera_printer_dialog_battery_full">Tam olarak şarj edildi</string>
+    <string name="pc_camera_printer_dialog_battery_low">Düşük pil</string>
+    <string name="pc_camera_printer_dialog_negative_button">Anladım</string>
+    <string name="pc_camera_printer_dialog_positive_button">Kamerayı aç</string>
+    <string name="pc_camera_printer_dialog_should_charge">Şarj cihazını bağlayın</string>
+    <string name="pc_camera_printer_notify_button">Kamerayı aç</string>
+    <string name="pc_camera_printer_notify_subtitle">Bağlandı</string>
+    <string name="pc_camera_printer_title">Fotoğraf yazıcı seti</string>
     <string name="pc_category_charge_settings">Şarj ayarları</string>
     <string name="pc_charged_auto_close_summary">Pil ​%1$s olduğunda veya tamamen şarj olduğunda kapatın</string>
     <string name="pc_charged_auto_close_title">Şarj edildiğinde kapat</string>
@@ -3969,6 +4029,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_install_manager">USB üzerinden yükle</string>
     <string name="pc_intellect_charge_protect_summary">Kullanım senaryolarına göre şarjı ayarlayın</string>
     <string name="pc_intellect_charge_protect_title">Şarjı optimize et</string>
+    <string name="pc_is_exiting_super_power">"Ultra pil tasarrufunu
+kapat"</string>
     <string name="pc_keywords_fast_charge">Hızlı şarj</string>
     <string name="pc_keywords_low_power_consumption_save">Pil tasarrufu</string>
     <string name="pc_keywords_low_power_mode">Düşük güç modu</string>
@@ -4019,6 +4081,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_remind_close_cover_to_charge_summary">Daha hızlı ve daha istikrarlı bir şarj deneyimi için şarj etmeden önce cihazı katlayın</string>
     <string name="pc_remind_close_cover_to_charge_title">Şarj etmek için katlayın</string>
     <string name="pc_reminder_always_protect_summary">Pilin yaşlanmasını azaltmak için sınırlı şarja geçin</string>
+    <string name="pc_satellite_auto_enter_super_power">Uydu iletişimini sağlamak için ultra pil tasarrufu açıldı</string>
     <string name="pc_save_charge">Şarj oluyor</string>
     <string name="pc_save_other_setting">Diğer ayarlar</string>
     <string name="pc_save_power">Pil tasarrufu</string>
@@ -5239,6 +5302,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="result_sms_title_auth">Finansal mesaj sızma tehlikesi mevcut</string>
     <string name="result_wifi_header">Wifi riskleri tespit edildi</string>
     <string name="resume">Geri yükle</string>
+    <string name="revoke_not_allow_net_summary">Güvenliğin gizlilik politikasına verdiğiniz onayı geri alabilmesi için internete bağlanmasına izin verin</string>
+    <string name="revoke_not_allow_net_title">Dikkat</string>
     <string name="right_precent">%100</string>
     <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
     <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım</string>
@@ -5583,6 +5648,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="sp_abnormal_scan_title">Problemleri çöz</string>
     <string name="sp_antispam_scan_summary">Kendinizi dolandırıcılıktan koruyun</string>
     <string name="sp_antispam_scan_title">Engelli listesi</string>
+    <string name="sp_app_install_protect_title">Uygulama yükleme koruması</string>
     <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin</string>
     <string name="sp_background_risk_dialog_summary_new">Mevcut ödeme ortamı güvenlik riski oluşturabilir. Mevcut sorunları çözmek için bir dakikanızı ayırın</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu wifi ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun</string>
@@ -6672,7 +6738,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Animasyonları geliştirerek hareketli nesneleri daha canlı hale getirin. Bu özellik daha yüksek güç tüketimi gerektirir</string>
     <string name="vb_default_mode">özel</string>
     <string name="vb_dolby_effect">Dolby Atmos</string>
-    <string name="vb_dult_effect">3D LUT vision</string>
+    <string name="vb_dult_effect">3D LUT görüşü</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Otomatik yenileme hızı</string>
     <string name="vb_fps_settings_tips">Bu özellik ekran yenileme hızını video kare hızına ayarlar. Bu da pilden tasarruf sağlar ve oynatmayı sorunsuz hale getirir. Kayan yorumları açmak otomatik yenileme oranını kapatır</string>
@@ -6692,7 +6758,7 @@ Cihazınız ısınabilir ve daha fazla güç tüketebilir"</string>
     <string name="vb_settings">Ayarlar</string>
     <string name="vb_super_power_save_mode_conflict_toast">Ultra pil tasarrufu açıkken bu özellik kullanılamıyor</string>
     <string name="vb_theatre_switch_guide">Tiyatro moduna geçmek için dokunun</string>
-    <string name="vb_ve_settings_ai_stronger">AI</string>
+    <string name="vb_ve_settings_ai_stronger">Yapay zeka</string>
     <string name="vb_ve_settings_display_style_tips">* Bu efektler tüm ekrana uygulanacak</string>
     <string name="vb_ve_settings_display_style_tips_new">* Bu efektler yalnızca video oynatma alanına uygulanacak</string>
     <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Bu efekt yalnızca video oynatma alanına uygulanacaktır

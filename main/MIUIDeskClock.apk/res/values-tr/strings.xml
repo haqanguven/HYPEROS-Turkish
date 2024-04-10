@@ -325,6 +325,7 @@
     <string name="label_input_hint">Etiket gir</string>
     <string name="label_pref_summary">Etiket</string>
     <string name="lap">Tur</string>
+    <string name="lap_index">%02d</string>
     <string name="last_step">Geri</string>
     <string name="legal_off_day">Resmi tatil günleri</string>
     <string name="legal_off_day_message">" (Tatil günleri boyunca alarm kapalı)"</string>
@@ -373,6 +374,18 @@
     <string name="material_timepicker_select_time">Zamanı seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
     <string name="midnight">Gece</string>
+    <string name="minute_spinner_fifteen">%d</string>
+    <string name="minute_spinner_fifty">%d</string>
+    <string name="minute_spinner_fifty_five">%d</string>
+    <string name="minute_spinner_five" formatted="false">%d%d</string>
+    <string name="minute_spinner_forty">%d</string>
+    <string name="minute_spinner_forty_five">%d</string>
+    <string name="minute_spinner_ten">%d</string>
+    <string name="minute_spinner_thirty">%d</string>
+    <string name="minute_spinner_thirty_five">%d</string>
+    <string name="minute_spinner_twenty">%d</string>
+    <string name="minute_spinner_twenty_five">%d</string>
+    <string name="minute_spinner_zero" formatted="false">%d%d</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -428,7 +441,7 @@
     <string name="module_week_ringtone_introduce">Haftalık alarm haftanın her günü için doğanın farklı seslerini kullanır</string>
     <string name="module_week_ringtone_update_data_new">Doğa alarmı tarihe bağlı olarak farklı sesler çıkarır. Saatin çalışması için ≈%d MB ses indirmesi gerekiyor. Şimdi indirilsin mi?</string>
     <string name="module_white_noise_download_data_new">"Saatin ortam gürültüsü zamanlayıcıları için ses dosyalarını indirmesi gerekiyor. Bu indirme için mobil verinizin ≈%d MB'ı gerekli olacaktır. Şimdi indirilsin mi?"</string>
-    <string name="module_white_noise_download_data_privacy_new" formatted="false">"\"Ortam gürültüsü zamanlayıcıları (%d MB) için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetler sunmak için saat'in internete bağlanması gerekir. Saat'i kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı da okumalı ve kabul etmelisiniz. Artık mobil veri kullanıyorsunuz. Kabul ediyor musunuz?\""</string>
+    <string name="module_white_noise_download_data_privacy_new" formatted="false">"Ortam gürültüsü zamanlayıcıları (%d MB) için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetler sunmak için saat'in internete bağlanması gerekir. Saat'i kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı da okumalı ve kabul etmelisiniz. Artık mobil veri kullanıyorsunuz. Kabul ediyor musunuz?"</string>
     <string name="module_white_noise_download_wifi">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmelidir. Şimdi indirilsin mi?</string>
     <string name="module_white_noise_download_wifi_privacy">Saat ortam sesi zamanlayıcıları için ses dosyalarını indirmek ve kişiselleştirilmiş hizmetleri sunmak için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="monday">Pazartesi</string>
@@ -504,8 +517,8 @@
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -725,6 +738,10 @@
     <string name="time_picker_label_minute">dakika</string>
     <string name="time_picker_label_second">saniye</string>
     <string name="time_settings">Saat ayarları</string>
+    <string name="time_view" formatted="false">%02d:%02d.%02d</string>
+    <string name="time_view_with_hour" formatted="false">%02d:%02d:%02d.%02d</string>
+    <string name="time_view_with_hour_span" formatted="false">%02d:%02d:%02d%02d</string>
+    <string name="time_view_with_span" formatted="false">%02d:%02d%02d</string>
     <string name="timer_alert_mute_off">Zamanlayıcı durduğunda alarm çalar</string>
     <string name="timer_alert_mute_on">Zamanlayıcı durduğunda alarm çalmaz</string>
     <string name="timer_alert_mute_switch">Zamanlayıcı alarmlarını susturmak için etkinleştirin</string>
@@ -739,6 +756,7 @@
     <string name="timer_desc_use_brush_teeth">Diş fırçalama</string>
     <string name="timer_desc_use_facial_mask">Yüz maskesi</string>
     <string name="timer_desc_use_sleep">Kestir</string>
+    <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
     <string name="timer_end_time">Zamanlayıcı %s süresinde durur</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>

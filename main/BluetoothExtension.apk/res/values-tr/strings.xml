@@ -122,8 +122,8 @@
     <string name="cancel">İptal et</string>
     <string name="celluar_tether_disconect_title">Bağlantı Kesildi</string>
     <string name="celluar_tether_name">Kablosuz bağlantı</string>
-    <string name="celluar_tether_prompt">"Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
-    <string name="celluar_tether_prompt_china">"Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
+    <string name="celluar_tether_prompt">Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
+    <string name="celluar_tether_prompt_china">Kablosuz bağlantı ile tabletiniz telefonunuzun mobil verilerini kullanabilir. Yakınlarda uyumlu bir Xiaomi telefonu yok gibi görünüyor. Telefonunuzun ve tabletinizin, telefonunuzun cep telefonu olan aynı Xiaomi hesabında oturum açtığından emin olun</string>
     <string name="celluar_tether_prompt_confirm">Tamam</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>

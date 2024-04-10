@@ -50,6 +50,18 @@ bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="alwaysUsePrompt">Seçimimi hatırla</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
+    <string name="aon_gesture_hint_trigger">Şimdi bir hareket gerçekleştirin</string>
+    <string name="aon_learn_double_press_tip">Müziği duraklatmak için avucunuz kameraya bakacak şekilde çift basma hareketi yapın</string>
+    <string name="aon_learn_draw_circle_phone_tip">Aramaları yanıtlamak için avucunuz kameraya bakacak şekilde saat yönünde bir daire çizin</string>
+    <string name="aon_learn_draw_circle_tip">Tablete aktarılan aramaları yanıtlamak için avucunuz kameraya bakacak şekilde saat yönünde bir daire çizin</string>
+    <string name="aon_learn_gesture_position_down_tip">Elinizi el simgesi görünene kadar parmaklarınızı kameradan %1$d ila %2$d cm aşağıyı gösterecek şekilde tutun</string>
+    <string name="aon_learn_gesture_position_left_tip">Elinizi el simgesi görünene kadar parmaklarınızla kameranın %1$d ila %2$d cm solunu işaret edecek şekilde tutun</string>
+    <string name="aon_learn_gesture_position_right_tip">Elinizi el simgesi görünene kadar parmaklarınızı kameradan %1$d ile %2$d cm arası sağ tarafa bakacak şekilde tutun</string>
+    <string name="aon_learn_gesture_position_up_tip">Elinizi el simgesi görünene kadar parmaklarınızla kameradan %1$d ila %2$d cm yukarıyı gösterecek şekilde tutun</string>
+    <string name="aon_learn_wave_down_tip">Kaydırmak için elinizi aşağı doğru sallayın</string>
+    <string name="aon_learn_wave_left_tip">Önceki şarkıyı çalmak için elinizi sola sallayın</string>
+    <string name="aon_learn_wave_right_tip">Sonraki şarkıyı çalmak için elinizi sağa sallayın</string>
+    <string name="aon_learn_wave_up_tip">Kaydırmak için elinizi yukarı doğru sallayın</string>
     <string name="appData">Yüklü uygulamalar</string>
     <string name="app_name">Güvenlik çekirdek bileşeni</string>
     <string name="app_switch_key">Son kullanılanlar</string>
@@ -438,6 +450,8 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="gesture_hint_page_down">Sonraki sayfa</string>
     <string name="gesture_hint_page_up">Önceki sayfa</string>
     <string name="gesture_hint_swipe_down">Aşağı doğru hızlıca kaydırın</string>
+    <string name="gesture_hint_swipe_left">Sola kaydır</string>
+    <string name="gesture_hint_swipe_right">Sağa kaydır</string>
     <string name="gesture_hint_swipe_up">Yukarı kaydırın</string>
     <string name="gesture_hint_trigger">Hareketi tanıma</string>
     <string name="gesture_settings_title">Hareket kısayolları</string>
@@ -448,6 +462,7 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="gms_open_button">Aç</string>
     <string name="gms_title">Google servislerini aç</string>
     <string name="goToSecondSpacce">İkinci alana git</string>
+    <string name="go_deleted_fingerprint">Parmak izini silmeye git</string>
     <string name="go_on_import">İçe aktarmayı sürdür</string>
     <string name="go_to_sleep">Ekranı kapat</string>
     <string name="google_assistant_guide_cancel">İptal et</string>
@@ -475,6 +490,8 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="greenguard_new_install_title">Aile korumasını yükleyin</string>
     <string name="greenguard_parent_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
     <string name="greenguard_parent_des_title">Cihaz eklemek için uçurtma bekçisi kullanın</string>
+    <string name="guide_book_page_flip">Sayfaları çevir</string>
+    <string name="guide_cell_phone_call_endcall">Aramaları cevaplama veya sonlandırma</string>
     <string name="guide_confirm">Tamam</string>
     <string name="guide_contact_sub_title_desc">"İkinci alana eklenen kişiler özel durumda olacaktır
 Mesajlar yalnızca ikinci alanca görüntülenir"</string>
@@ -491,6 +508,7 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
 İkinci alana kilit ekranından girin"</string>
     <string name="guide_setting_guide_title">İkinci alanı yönet</string>
     <string name="guide_start_text">İki alan. Tek cihaz</string>
+    <string name="guide_swipe_right_left">Yatay olarak kaydırın</string>
     <string name="guide_swipe_up_down">Yukarı ve aşağı kaydırın</string>
     <string name="has_created_second_space">"Şimdi ikinci alan açabilirsiniz
 İki alan. Tek cihaz"</string>
@@ -510,6 +528,7 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="home_key">Ana ekran</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="imageData">Fotoğraflar</string>
+    <string name="immediately_go">Şimdi git</string>
     <string name="import_application">Uygulamaları içe aktar</string>
     <string name="import_application_desc">"İkinci alana uygulamaları aktarın
 Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
@@ -691,6 +710,7 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="maintenance_mode">Bakım modu</string>
     <string name="maintenance_mode_close_title">Bakım modunda</string>
+    <string name="maintenance_mode_fingerprint_msg">Onarım sonrasında parmak izi kalibrasyonu gerektiğinden öncelikle mevcut parmak izinizin silinmesi gerekmektedir. Onarım sonrasında tekrar girebilirsiniz. Gizliliğinizi korumaya devam edeceğiz</string>
     <string name="maintenance_mode_loading">Bakım modu açılıyor ve cihaz yeniden başlatılmak üzere</string>
     <string name="maintenance_mode_reboot">Bakım modunu yeniden başlatma</string>
     <string name="maintenance_mode_title">Cihaz verilerinin kapsamlı korunması</string>
@@ -847,8 +867,8 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
@@ -1132,6 +1152,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="stylus_btn_skip">Atla</string>
     <string name="stylus_connect">Bağlanmak için dokunun</string>
     <string name="stylus_connect_fail">Bağlanılamadı. Tekrar takın</string>
+    <string name="stylus_connect_failV2">Bağlantı kurulamadı. Tekrar deneyin</string>
     <string name="stylus_connect_fail_no_battery">Şimdi kaleminizi şarj edin</string>
     <string name="stylus_connect_fail_no_reason">Bağlanılamadı</string>
     <string name="stylus_connect_fail_not_match_tablet">Kalem tablet ile uyumlu değil</string>
@@ -1152,9 +1173,11 @@ ikinci alan parmak izi kullanın"</string>
     <string name="stylus_not_connect_message_new">Eşleştirmek için kaleminizi takın</string>
     <string name="stylus_ota_check_failed_battery">Kontrol edilemedi. Kaleminizin pili düşük</string>
     <string name="stylus_ota_check_failed_info">Yazılım sürümü kontrol edilemedi. Kaleminizi tekrar takın</string>
+    <string name="stylus_ota_check_failed_infoV2">Ürün yazılımı sürümü alınamadı. Kaleminizi tekrar bağlayın</string>
     <string name="stylus_ota_check_update">Güncellemeleri kontrol et</string>
     <string name="stylus_ota_completed">Başarıyla güncellendi</string>
     <string name="stylus_ota_completed_tip">Yazılım başarıyla güncellendi. Eşleştirmek için kalemi takın</string>
+    <string name="stylus_ota_completed_tipV2">Güncellenmiş kalem. Kullanmadan önce tekrar bağlayın</string>
     <string name="stylus_ota_current_firmware_version">Yazılım sürümü</string>
     <string name="stylus_ota_demands">"Güncelleme ile Bluetooth'u açık tutun. Pilin %1$s seviyesinin altına inmediğinden emin olun"</string>
     <string name="stylus_ota_download_failed">Yazılım indirilemedi</string>
@@ -1336,10 +1359,12 @@ ikinci alan parmak izi kullanın"</string>
     <string name="turn_on_torch">El fenerini aç</string>
     <string name="tutorial_incall_duration">5:36</string>
     <string name="tutorial_incall_phone_num">1953638****</string>
-    <string name="tutorial_lock_date">5/06</string>
+    <string name="tutorial_lock_date">4/06</string>
+    <string name="tutorial_lock_date_aon">4/06</string>
     <string name="tutorial_lock_time">5:36</string>
     <string name="tutorial_music_singer">Sarah Proctor</string>
     <string name="tutorial_music_song_title_next">The Breaks(Joey Pecoraro Remix)</string>
+    <string name="tutorial_music_song_title_next_aon">The Breaks</string>
     <string name="tutorial_music_song_title_pre">Yalıtılmış rüya</string>
     <string name="under_keyguard">Ekranı kapat</string>
     <string name="undo_activated_dialog_message">Yetkilendirmeyi iptal etmek işletme modunu devre dışı bırakır ve cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirir. İlgili tüm özellikler artık kullanılamayacak. Bunun yanında Xiaomi işletme modu için gereken bilgileri toplamayı durduracaktır (IMEI, Cihaz Kimliği, sistem sürümü, bölge vb.). Size, Xiaomi’nin işletme modu için topladığı verileri yönetmediğini hatırlatmak isteriz. İlgili tüm tarafları bilgilendirmek için elimizden gelenin en iyisini yapacağız ancak bu iptal işlemini onaylamak için işletmenizin yöneticisi ile iletişime geçmenizi öneririz. Yetkilendirme iptal etmek ve fabrika verilerine sıfırlama istiyor musunuz?</string>

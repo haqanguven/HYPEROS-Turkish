@@ -918,7 +918,7 @@ aç"</string>
     <string name="wind_direction_no_data">Rüzgar</string>
     <string name="wind_power">%d</string>
     <string name="wind_power_unit_default">0</string>
-    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit">%1$skm/s</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
