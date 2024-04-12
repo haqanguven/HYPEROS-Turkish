@@ -114,7 +114,7 @@
     <string name="announce_for_show_uninstall_dialog">Uygulama kaldırma penceresi belirdi. İptal edin veya onaylayın</string>
     <string name="announce_for_unchecked">%1$s, kontrol edilmedi</string>
     <string name="announce_for_widget_span">En %1$d, boy %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
+    <string name="announce_for_xiaoai">Mi yapay zeka</string>
     <string name="app_already_exist">Uygulama zaten mevcut</string>
     <string name="app_being_backup_message">Uygulamalar yedekleniyor</string>
     <string name="app_being_restored_message">Uygulama geri yükleniyor</string>
@@ -604,6 +604,7 @@ Arttırılmış güvenlik"</string>
     <string name="mi_wallpaper">Xiaomi temalar</string>
     <string name="midnight">Gece</string>
     <string name="minus_one_screen">Uygulama kasası</string>
+    <string name="mishow_layout_path">demo_phone_layout</string>
     <string name="miui_screen_config_title">Ana ekran ayarları</string>
     <string name="miui_setting_config_title">Ana ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Değiştir</string>
@@ -705,8 +706,8 @@ Arttırılmış güvenlik"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>

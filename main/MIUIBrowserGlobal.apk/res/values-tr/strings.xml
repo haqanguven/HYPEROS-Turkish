@@ -2921,7 +2921,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="tt_request_body_error">İstek varlığı boş</string>
     <string name="tt_request_pb_error">Http isteği pb hatası</string>
     <string name="tt_reward_feedback">Geri Bildirim</string>
-    <string name="tt_reward_full_skip">"%1$ss'den sonra atla"</string>
+    <string name="tt_reward_full_skip">%1$s saniyeden sonra atla</string>
     <string name="tt_reward_msg">Ödülünüzü almak için videonun tamamını izleyin</string>
     <string name="tt_reward_screen_skip_tx">Atla</string>
     <string name="tt_reward_video_show_error">onRewardedVideoAdFailedToShow</string>

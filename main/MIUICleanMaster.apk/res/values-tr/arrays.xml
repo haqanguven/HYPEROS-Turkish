@@ -252,10 +252,6 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
-    <string-array name="fast_hide_path">
-        <item>/DCIM</item>
-        <item>/Picture</item>
-    </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -281,6 +277,8 @@
         <item>com.google.android.marvin.talkback</item>
         <item>com.iflytek.speechcloud</item>
         <item>com.xiaomi.jr.security</item>
+        <item>com.miui.cleaner</item>
+        <item>com.funnypuri.client</item>
     </string-array>
     <string-array name="hide_packages">
         <item>com.tencent.mm</item>
@@ -290,6 +288,7 @@
         <item>/FileExplorer/.safebox</item>
         <item>/DCIM/.thumbnails</item>
         <item>/Android/data/com.miui.cleanmaster/cache</item>
+        <item>/Android/data/com.miui.cleaner/cache</item>
         <item>/Android/data/com.tencent.KiHan</item>
     </string-array>
     <string-array name="installed_app_sort_type">
@@ -426,7 +425,7 @@
     <string-array name="uninstalled_app_sort_type">
         <item>Boyut</item>
         <item>Kullanım sıklığı</item>
-        <item>Kurulum süresi</item>
+        <item>Yükleme zamanı</item>
     </string-array>
     <string-array name="wechat_sort">
         <item>Tarih</item>

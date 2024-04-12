@@ -8477,13 +8477,13 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları göster</string>
     <string name="show_notification_channel_warnings_summary">Bir uygulama geçerli bir kanal üzerinden bildiri gönderdiğinde ekranda uyarıları görüntüler</string>
     <string name="show_notification_icon_title">Uygulama simgeleri</string>
-    <string name="show_operator_name_summary">Ağ adını durum çubuğunda göster</string>
+    <string name="show_operator_name_summary">Ağ adını durum çubuğunda gösterir</string>
     <string name="show_operator_name_title">Ağ adı</string>
     <string name="show_owner_info_on_lockscreen_label">Kilit ekranında imza görüntüle</string>
     <string name="show_password">Şifreleri göster</string>
-    <string name="show_password_summary">Yazarken karakterleri kısa süreliğine göster</string>
-    <string name="show_refresh_rate">Yenileme hızını göster</string>
-    <string name="show_refresh_rate_summary">Mevcut ekranın yenileme hızını göster</string>
+    <string name="show_password_summary">Yazarken karakterleri kısa süreliğine gösterir</string>
+    <string name="show_refresh_rate">Yenileme hızı</string>
+    <string name="show_refresh_rate_summary">Mevcut ekranın yenileme hızını gösterir</string>
     <string name="show_rounded_corners">Oval köşeler</string>
     <string name="show_running_services">Çalışan hizmetleri göster</string>
     <string name="show_screen_updates">Yüzey güncellemeleri</string>
