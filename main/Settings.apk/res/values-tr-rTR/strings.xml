@@ -3622,7 +3622,7 @@ Cihazınızı yeniden başlatıp tekrar deneyin"</string>
     <string name="external_ram_dialog_icon_title">Bellek arttırma</string>
     <string name="external_ram_dialog_message">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
     <string name="external_ram_dialog_title">Cihazı yeniden başlatın</string>
-    <string name="external_ram_intro">Depolamada yer kaplayarak ek RAM oluştur. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın</string>
+    <string name="external_ram_intro">Depolamada yer kaplayarak ek Ram oluştur. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın</string>
     <string name="external_ram_remind_toast">Depolama alanı azalıyor. Şimdilik bellek arttırma kapatıldı</string>
     <string name="external_ram_summary">Depolama alanını kullanarak %1$s %2$s Ram ekleyin. Bu özelliği yalnızca cihazınızda yeterli depolama alanı olduğunda kullanın</string>
     <string name="external_ram_title">Bellek arttırma</string>
@@ -7338,7 +7338,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="radio_info_asdiv_switch_label">ASDiv durumu:</string>
     <string name="radio_info_http_client_test">HTTP istemcisi testi:</string>
     <string name="radio_info_ping_hostname_v4">Ping ana makine adı (www.google.com) IPv4:</string>
-    <string name="ram_total_size">RAM toplam boyutu</string>
+    <string name="ram_total_size">Ram toplam boyutu</string>
     <string name="range_end">Aralık sonu</string>
     <string name="range_start">Aralık başlangıcı</string>
     <string name="rank_title">Sıralamalar</string>
