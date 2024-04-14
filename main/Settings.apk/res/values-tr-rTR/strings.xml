@@ -607,18 +607,18 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="agps_roaming_dia">Dolaşımdayken A-GPS kullanmak mobil veri kullanımınızı arttırabilir. Tarifenizin veri kullanım limitini aşarsanız operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz</string>
     <string name="agps_roaming_dia_title">Dolaşımdayken A-GPS kullan</string>
     <string name="agps_roaming_summary">"Dolaşımdayken GPS'e yardımcı olmak üzere mobil veriyi kullan"</string>
-    <string name="ai_button_title">Mi AI tuşu</string>
-    <string name="ai_button_title_global">AI tuşu</string>
-    <string name="ai_call_assistant">AI aramaları</string>
+    <string name="ai_button_title">Mi yapay zeka tuşu</string>
+    <string name="ai_button_title_global">Yapay zeka tuşu</string>
+    <string name="ai_call_assistant">Yapay zeka aramaları</string>
     <string name="ai_key_double_click">Çift basın</string>
     <string name="ai_key_long_press">Basın ve basılı tutun</string>
     <string name="ai_key_single_click">Basın</string>
     <string name="ai_settings_click_title">Bas</string>
-    <string name="ai_settings_double_click_category">AI tuşuna iki defa basın</string>
+    <string name="ai_settings_double_click_category">Yapay zeka tuşuna iki defa basın</string>
     <string name="ai_settings_double_click_title">İki defa basın</string>
-    <string name="ai_settings_long_click_category">AI tuşuna basın ve basılı tutun</string>
+    <string name="ai_settings_long_click_category">Yapay zeka tuşuna basın ve basılı tutun</string>
     <string name="ai_settings_long_click_title">Basın ve basılı tutun</string>
-    <string name="ai_settings_single_press_des">Google asistan ile konuşmak için AI tuşuna basın ve basılı tutun. Ardından cevap almak için tuşu bırakın</string>
+    <string name="ai_settings_single_press_des">Google asistan ile konuşmak için yapay zeka tuşuna basın ve basılı tutun. Ardından cevap almak için tuşu bırakın</string>
     <string name="airplane_mode">Uçak modu</string>
     <string name="airplane_mode_summary">Cihazınızın mobil ağlarla bağlantısını kesmek için açın. Bu özellik açıkken arama yapamayacak, kısa mesaj gönderip alamayacak veya mobil veri kullanamayacaksınız</string>
     <string name="alarm_ringtone_title">Varsayılan alarm sesi</string>
@@ -4509,8 +4509,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="input_method_function_switch_keyboard_type_des">Farklı klavyeler arasında geçiş yapmak için dokunun</string>
     <string name="input_method_function_voice">Ses girişi</string>
     <string name="input_method_function_voice_des">Ses girişini kullanmak için dokunun</string>
-    <string name="input_method_function_xiaoai">Mi AI ses girişi</string>
-    <string name="input_method_function_xiaoai_des">Mi AI ses girişini kullanmak için dokunun</string>
+    <string name="input_method_function_xiaoai">Mi yapay zeka ses girişi</string>
+    <string name="input_method_function_xiaoai_des">Mi yapay zeka ses girişini kullanmak için dokunun</string>
     <string name="input_method_manage">Klavyeleri yönet</string>
     <string name="input_method_middle_function_move_cursor">İmleci taşı</string>
     <string name="input_method_middle_function_move_cursor_des">İmleci taşımak için orta alana basın ve basılı tutun</string>
@@ -4812,10 +4812,10 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="knock_edge_area_invalid">Bu hareket ekran kenarlarının yakınında çalışmıyor</string>
     <string name="knock_guide_dialog_title">Bu hareket için bir eylem seçin. Bunu daha sonra Ayarlar > Ek ayarlar > Düğme kısayolları bölümünden değiştirebilirsiniz</string>
     <string name="knock_guide_drive_desc">Sürüş sırasında ekran görüntüsü alın</string>
-    <string name="knock_guide_launch_desc">"Telefonunuz masanın üzerindeyken Mi AI'yi tetikleyin"</string>
+    <string name="knock_guide_launch_desc">Telefonunuz masanın üzerindeyken Mi yapay zekayı tetikleyin</string>
     <string name="knock_guide_set_screenshot">Ekran resmi</string>
-    <string name="knock_guide_set_voiceassist">Mi AI</string>
-    <string name="knock_guide_sub_title">"Parmak ekleminizle ekrana dokunarak Mi AI'yı tetikleyebilir veya ekran görüntüsü alabilirsiniz"</string>
+    <string name="knock_guide_set_voiceassist">Mi yapay zeka</string>
+    <string name="knock_guide_sub_title">Parmak ekleminizle ekrana dokunarak Mi yapay zekayı tetikleyebilir veya ekran görüntüsü alabilirsiniz</string>
     <string name="knock_guide_title">Ekleme çift dokunun</string>
     <string name="knock_long_press_horizontal_slid">Parmak eklemiyle yatay olarak bastırın ve kaydırın</string>
     <string name="knock_slide_shape">Bir eklem ile bir daire çizin</string>
@@ -4833,7 +4833,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="last_synced">Son senkronizasyon: %1$s</string>
     <string name="last_time_used_label">Son kullanıldığı tarih</string>
     <string name="lattice_smartcover_title">Kafes ön kapak</string>
-    <string name="launch_ai_shortcut">Mi AI kısayolu</string>
+    <string name="launch_ai_shortcut">Mi yapay zeka kısayolu</string>
     <string name="launch_alipay_health_code">Alipay sağlık kodu</string>
     <string name="launch_alipay_health_code_auto_close">Alipay sağlık kodu kısayolu artık mevcut değil. Farklı bir kısayola geçebilirsiniz</string>
     <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
@@ -5612,7 +5612,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miheadset_auto_answer_call">Aramaları otomatik olarak cevapla</string>
     <string name="miheadset_bluetooth_audio_title">LC3plus Bluetooth ses örnekleme hızı</string>
     <string name="miheadset_bright">Parlak</string>
-    <string name="miheadset_call_assist">Mi AI</string>
+    <string name="miheadset_call_assist">Mi yapay zeka</string>
     <string name="miheadset_cancel_device">İptal et</string>
     <string name="miheadset_checkUpdate">Güncellemeleri kontrol et</string>
     <string name="miheadset_closeAnc">Kapalı</string>
@@ -5744,8 +5744,8 @@ Bu cihazda başka kullanıcılar da var
     <string name="miheadset_triple_press_right">Sağ kulaklığa üç kez basın</string>
     <string name="miheadset_unpair_device_text">Bu Xiaomi hesabıyla ilişkili tüm cihazlar kaldırılacak</string>
     <string name="miheadset_virtual_surround">Sanal sürükleyici ses</string>
-    <string name="miheadset_virtual_surround_summary">Kulaklıklarda, ses ve video oynatma için ses derinliğini zenginleştirin. Bu özellik, %s kanal sesi çalındığında çalışmayacaktır.</string>
-    <string name="miheadset_voice_control_summary">"Bu özellik açıkken Mi AI'ya cihazınızda gezinmesini veya sesli komutları kullanarak ses çalmayı kontrol etmesini söyleyebilirsiniz."</string>
+    <string name="miheadset_virtual_surround_summary">Kulaklıklarda, ses ve video oynatma için ses derinliğini zenginleştirin. Bu özellik %s kanal sesi çalındığında çalışmayacaktır</string>
+    <string name="miheadset_voice_control_summary">Bu özellik açıkken Mi yapay zekaya cihazınızda gezinmesini veya sesli komutları kullanarak ses çalmayı kontrol etmesini söyleyebilirsiniz</string>
     <string name="miheadset_windnoise">Rüzgar</string>
     <string name="mipush_fake_channel_group_name">Mi itme</string>
     <string name="mishow_disable_password_setting">Demo modunda şifre ayarlanamıyor</string>
@@ -5775,9 +5775,9 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_input_method_attention">Dikkat</string>
     <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>
     <string name="miui_keyboard_back_light">null</string>
-    <string name="miui_lab_ai_cloud_closed">AI ön yükleme henüz kullanılabilir değil</string>
-    <string name="miui_lab_ai_preload_desc">AI ön yükleme uygulamaların daha hızlı açılmasını sağlar</string>
-    <string name="miui_lab_ai_preload_title">AI ön yükleme</string>
+    <string name="miui_lab_ai_cloud_closed">Yapay zeka ön yükleme henüz kullanılabilir değil</string>
+    <string name="miui_lab_ai_preload_desc">Yapay zeka ön yükleme uygulamaların daha hızlı açılmasını sağlar</string>
+    <string name="miui_lab_ai_preload_title">Yapay zeka ön yükleme</string>
     <string name="miui_lab_aiasst_call_screen_desc">İpuçları ile bağlandı</string>
     <string name="miui_lab_aiasst_call_screen_title">İpuçları araması</string>
     <string name="miui_lab_drive_mode_desc">Sesli kontrolü kullanın &amp; WeChat mesajlarını dinleyin</string>
@@ -6526,7 +6526,8 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
     <string name="notification_fold_summary">Önemli olmayan tüm bildirimler ayrı bir klasörde görüntülenir</string>
     <string name="notification_fold_title">Bildirimler klasörü</string>
     <string name="notification_history">Bildirim geçmişi</string>
-    <string name="notification_history_dismiss">Yakın zamanda kapatıldı</string>
+    <string name="notification_history_count">{count, plural, =1 {# bildirim} other {# bildirim} }</string>
+    <string name="notification_history_dismiss">Yakın zaman</string>
     <string name="notification_history_off_summary">Son bildirimleri ve ertelenen bildirimleri görmek için bildirim geçmişini açın</string>
     <string name="notification_history_off_title_extended">Bildirim geçmişi kapalı</string>
     <string name="notification_history_open_notification">Bildirimi aç</string>
@@ -6534,8 +6535,8 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
     <string name="notification_history_summary">Son ve ertelenen bildirimleri göster</string>
     <string name="notification_history_title">Bildirim geçmişi</string>
     <string name="notification_history_today">Son 24 saat</string>
-    <string name="notification_history_toggle">Bildirim geçmişini kullan</string>
-    <string name="notification_history_view_settings">bildirim ayarları görüntülenir</string>
+    <string name="notification_history_toggle">Bildirim geçmişi</string>
+    <string name="notification_history_view_settings">Bildirim ayarları görüntülenir</string>
     <string name="notification_importance_high_title">Acil</string>
     <string name="notification_importance_min_title">Düşük</string>
     <string name="notification_importance_title">Davranış</string>
@@ -6608,11 +6609,14 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="notifications_bubble_setting_description">Bazı konuşmalar diğer uygulamaların üzerinde kayan simgeler olarak görünür</string>
     <string name="notifications_bubble_setting_on_summary">Açık / Konuşmalar kayan simgeler olarak görünebilir</string>
     <string name="notifications_bubble_setting_title">Uygulamaların baloncuk göstermesine izin ver</string>
+    <string name="notifications_categories_off">{count, plural, =1 {# kategori kapatıldı} other {# kategori kapatıldı} }</string>
     <string name="notifications_disabled">Kapalı</string>
     <string name="notifications_enabled">Etkin</string>
     <string name="notifications_enabled_with_info">Açık / %1$s</string>
     <string name="notifications_label">Bildirimler</string>
+    <string name="notifications_sent_daily">{count, plural, =1 {Günde yaklaşık # bildirim} other {Günde yaklaşık # bildirim} }</string>
     <string name="notifications_sent_never">Hiçbir zaman</string>
+    <string name="notifications_sent_weekly">{count, plural, =1 {Haftada yaklaşık # bildirim} other {Haftada yaklaşık # bildirim} }</string>
     <string name="notifications_title">Bildirimler</string>
     <string name="now">Şimdi yeniden başlat</string>
     <string name="nr_advanced_calling_summary">Sesli aramalar için 5G kullanın</string>
@@ -7368,7 +7372,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="recommend_item_title">Tavsiye edilenler</string>
     <string name="recommend_text_wakeup_xiaoai">Ayarlar</string>
     <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
-    <string name="recommend_tip_wakeup_xiaoai">Mi AI ile etkileşim için düğmeler kullanmak tam ekran hareketlerini kapatmanızı ve gezinme yönteminiz olarak düğmeleri seçmenizi gerektirir</string>
+    <string name="recommend_tip_wakeup_xiaoai">Mi yapay zeka ile etkileşim için düğmeler kullanmak tam ekran hareketlerini kapatmanızı ve gezinme yönteminiz olarak düğmeleri seçmenizi gerektirir</string>
     <string name="recompute_size">Boyut yeniden hesaplanıyor</string>
     <string name="reduce_bright_colors_about_title">Ekstra loş hakkında</string>
     <string name="reduce_bright_colors_intensity_end_label">Daha parlak</string>
@@ -7622,16 +7626,16 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="screen_enhance_engine_ai_note_3">%d. Orijinal renkleri görüntülemeyi seçerseniz veya gelişmiş ayarlamalar uyguladıysanız bu özellik çalışmayacaktır</string>
     <string name="screen_enhance_engine_ai_open">Görüntüleri geliştir</string>
     <string name="screen_enhance_engine_ai_pic_summary">Nesneleri tanımlayın ve ekran efektlerini dinamik olarak ayarlayın (Örneğin: Bitkiler, hayvanlar ve binalar)</string>
-    <string name="screen_enhance_engine_ai_title">AI görüntü geliştirme</string>
+    <string name="screen_enhance_engine_ai_title">Yapay zeka görüntü geliştirme</string>
     <string name="screen_enhance_engine_memc_note">Süper çözünürlük açıkken videolar geliştirilemez. Gelişmiş videoları açarak süper çözünürlüğü kapatabilirsiniz</string>
     <string name="screen_enhance_engine_memc_note_1">%d. Bu özellik güç tüketimini biraz artırır</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Bu özellik yalnızca video araç kutusu açıkken çalışır</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">İçeriğin pürüzsüz görünmesini ve geçişlerin canlı olmasını sağlamak için videolara ek çerçeveler ekleyin</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
-    <string name="screen_enhance_engine_s2h_open">AI HDR geliştirme</string>
+    <string name="screen_enhance_engine_s2h_open">Yapay zeka HDR geliştirme</string>
     <string name="screen_enhance_engine_s2h_pic_summary">Daha açık ve daha karanlık alanlarda daha fazla ayrıntı ortaya çıkarmak için HDR efektlerini kullanarak videoları işleyin</string>
-    <string name="screen_enhance_engine_s2h_title">AI HDR geliştirme</string>
+    <string name="screen_enhance_engine_s2h_title">Yapay zeka HDR geliştirme</string>
     <string name="screen_enhance_engine_sr_for_pic">Görüntüleri geliştir</string>
     <string name="screen_enhance_engine_sr_for_video">Videoları geliştir</string>
     <string name="screen_enhance_engine_sr_for_video_note">Süper çözünürlük gelişmiş videolarda çalışmaz. Süper çözünürlüğü açarak gelişmiş videoları kapatmış olursunuz</string>
@@ -7639,7 +7643,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="screen_enhance_engine_sr_pic_summary">Görüntülerin ve videoların çözünürlüğünü yükseltin</string>
     <string name="screen_enhance_engine_sr_pic_summary_video_only">Videoların çözünürlüğünü yükseltin</string>
     <string name="screen_enhance_engine_sr_title">Süper çözünürlük</string>
-    <string name="screen_enhance_engine_title">AI görüntü</string>
+    <string name="screen_enhance_engine_title">Yapay zeka görüntü</string>
     <string name="screen_enhance_status_disable">Kapalı</string>
     <string name="screen_enhance_status_enable">Açık</string>
     <string name="screen_flash_color_azure">Azure</string>
@@ -8605,7 +8609,7 @@ Geçiş yaptığınızda %1$s hizmetiniz iptal edilmez"</string>
     <string name="simulate_color_space">Renk alanını simule et</string>
     <string name="single_key_use">Tek tuş</string>
     <string name="single_key_use_summary">Ana ekran tuşunu diğer 2 tuş tarafından gerçekleştirilen işlemleri yapmak için kullan</string>
-    <string name="single_press_AI_button">AI tuşuna basın</string>
+    <string name="single_press_AI_button">Yapay zeka tuşuna basın</string>
     <string name="size_embedded">Paralel pencereler</string>
     <string name="size_full">Tam ekran</string>
     <string name="skip_anyway_button_label">Yine de atla</string>
@@ -8835,6 +8839,7 @@ Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayal
     <string name="spellcheckers_settings_title">Yazım denetleyici</string>
     <string name="split_operation_guide_title">Bölünmüş ekran nasıl kullanılır?</string>
     <string name="split_screen">Ekran bölmeyi aç</string>
+    <string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Trust or remove certificate} other {Sertifikaya güvenin veya sertifikayı kaldırın} }</string>
     <string name="ssl_ca_cert_info_message">"{numberOfCertificates, multiple, =1 {{orgName}, iş profiliniz için e-postalar, uygulamalar ve güvenli web siteleri dahil olmak üzere iş ağı etkinliğini izlemelerine izin verebilecek bir sertifika yetkilisi yükledi
 
 Bu sertifika hakkında daha fazla bilgi için yöneticinizle iletişime geçin.} diğer {{orgName}, iş profiliniz için e-postalar, uygulamalar ve güvenli web siteleri dahil olmak üzere iş ağı etkinliğini izlemelerine olanak verebilecek sertifika yetkilileri yükledi
@@ -8845,6 +8850,7 @@ Bu sertifikalar hakkında daha fazla bilgi için yöneticinizle iletişime geçi
 Bu sertifika hakkında daha fazla bilgi için yöneticinizle iletişime geçin.} diğer {{orgName}, cihazınıza e-postalar, uygulamalar ve güvenli web siteleri dahil olmak üzere cihazınızın ağ etkinliğini izlemelerine olanak verebilecek sertifika yetkilileri yükledi
 
 Bu sertifikalar hakkında daha fazla bilgi için yöneticinizle iletişime geçin} }"</string>
+    <string name="ssl_ca_cert_settings_button">{count, plural, =1 {Sertifikayı kontrol edin} other {Sertifikayı kontrol edin} }</string>
     <string name="ssl_ca_cert_warning">Ağ etkinliği izlenebilir</string>
     <string name="ssl_ca_cert_warning_message">"E-postalarınız, uygulamalarınız ve güvenli internet siteleriniz dahil olmak üzere ağ etkinliğiniz üçüncü bir tarafça izlenebilir
 
@@ -9761,6 +9767,7 @@ Kaydedilmiş dijital parmak iziniz de bu cihazdan kaldırılacak ve telefonunuzu
     <string name="unseen_notifs_lock_screen_summary">Daha önce görüntülenen bildirimleri kilit ekranından otomatik olarak kaldırın</string>
     <string name="unused_apps">Kullanılmayan uygulamalar</string>
     <string name="unused_apps_category">Kullanılmayan uygulama ayarları</string>
+    <string name="unused_apps_summary">{count, plural, =1 {# kullanılmayan uygulama} other {# kullanılmayan uygulama} }</string>
     <string name="unused_apps_switch">İzinleri kaldırıp yer aç</string>
     <string name="unused_apps_switch_summary">İzinleri kaldırın, geçici dosyaları silin ve bildirimleri durdurun</string>
     <string name="update_new_version">Güncelleme mevcut</string>
@@ -9777,6 +9784,7 @@ Göndereceğiniz veriler cihazınız ve onu nasıl kullandığınız hakkında g
 Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gereken bilgileri gönderme yeteneğini etkilemez"</string>
     <string name="upload_debug_log_summary">Sorunları bulmamıza ve çözmemize yarayan kullanım istatistikleri kişisel bilgilerinizi içerebilir</string>
     <string name="upload_debug_log_title">Tanı verilerini otomatik olarak gönder</string>
+    <string name="uri_permissions_text">{count, plural, =1 {1 öğe} other {# öğe} }</string>
     <string name="usage">Kullanım</string>
     <string name="usage_access">Kullanım erişimi</string>
     <string name="usage_access_description">Kullanım erişimi bir uygulamanın başka hangi uygulamaları ne sıklıkta kullandığınızı ayrıca operatörünüzü dil ayarlarınızı ve diğer ayrıntıları takip etmesine izin verir</string>
@@ -10141,7 +10149,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="vision_settings_suggestion_title">Yazı tipi boyutunu değiştir</string>
     <string name="vision_settings_title">Görüş ayarları</string>
     <string name="voice_access">Ses kontrolleri</string>
-    <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist">Mi yapay zeka</string>
     <string name="voice_category">Konuşma</string>
     <string name="voice_helper_title">Sesli yardımcı</string>
     <string name="voice_input_output_settings">Ses girişi ve çıkışı</string>
@@ -11019,7 +11027,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="xiaoai_global_shortcut">Genel</string>
     <string name="xiaoai_key_shortcut">Düğmeler</string>
     <string name="xiaoai_other_shortcut">Diğer yöntemler</string>
-    <string name="xiaoai_shortcut_settings_title">"Düğmeleri ve hareketleri kullanarak Mi AI'yi tetikleyin"</string>
+    <string name="xiaoai_shortcut_settings_title">Düğmeleri ve hareketleri kullanarak Mi yapay zekayı tetikleyin</string>
     <string name="xiaomi_account">Xiaomi hesabı</string>
     <string name="xiaomi_cloud_find_device">Cihazı bul</string>
     <string name="xiaomi_cloud_service">Xiaomi bulut</string>

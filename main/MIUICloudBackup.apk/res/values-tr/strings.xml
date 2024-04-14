@@ -53,6 +53,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli bulut depolama alanı yok. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat verileri yedeklenemedi</string>
     <string name="backup_action_retry_now">Tekrar dene</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Bulut yedekleme cihazınızda yüklü uygulamaların listesini toplayacak ve bu bilgileri sunucularımızda saklayacaktır. Bu verileri gerektiğinde indirip geri yükleyebilmeniz için saklıyoruz. Bu bilgileri toplamamızı kabul ediyorsanız aşağıda izin ver seçeneğine dokunun</string>
     <string name="backup_failed_reason_app_data_error">WeChat verileri yedeklenemedi</string>
     <string name="backup_failed_reason_app_usage_denied">Öğeleri yedeklemek için gerekli izinleri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi bulutda yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın</string>
@@ -417,6 +418,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="home_hint_global_launcher">Poco başlatıcı</string>
     <string name="home_hint_other_launcher">Diğer başlatıcı</string>
     <string name="home_restore_error">Ana ekran geri yüklenemedi</string>
+    <string name="icp_record_text">ICP kayıt numarası: Pekin ICP No. 10046444-38A</string>
     <string name="lack_of_storage">Yeterli depolama alanı yok</string>
     <string name="latest_backup_time_loading">Yükleniyor</string>
     <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
@@ -516,13 +518,13 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="no_backup">Xiaomi bulut alanında yedek yok</string>
     <string name="noon">Gün ortası</string>
     <string name="not_backup_reason">Yedekleme hatasının nedeni: %s</string>
-    <string name="not_backup_reason_battery_ Exception">"Pil %s'in altında"</string>
+    <string name="not_backup_reason_battery_exception">"Pil %s'in altında"</string>
     <string name="not_backup_reason_cancel">Manuel olarak iptal edildi</string>
     <string name="not_backup_reason_dialog_cancle_button">İptal et</string>
     <string name="not_backup_reason_dialog_confirm_button">Onayla</string>
-    <string name="not_backup_reason_screen_ Exception">Ekran kilitli değil</string>
-    <string name="not_backup_reason_wlan_ Exception">Kablosuz bağlantı hatası</string>
-    <string name="not_backup_reason_wlan_ Exception_china">Wifi hatası</string>
+    <string name="not_backup_reason_screen_exception">Ekran kilitli değil</string>
+    <string name="not_backup_reason_wlan_exception">Kablosuz bağlantı hatası</string>
+    <string name="not_backup_reason_wlan_exception_china">Wifi hatası</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_remind">Hatırlatıcı</string>
     <string name="notification_channel_service">Servis</string>
