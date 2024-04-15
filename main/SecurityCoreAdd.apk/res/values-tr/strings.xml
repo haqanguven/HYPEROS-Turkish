@@ -40,8 +40,8 @@ bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="advanced_gesture">Özel hareketler</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
-    <string name="ai_button_title">Mi AI tuş</string>
-    <string name="ai_button_title_global">AI tuş</string>
+    <string name="ai_button_title">Mi yapay zeka tuş</string>
+    <string name="ai_button_title_global">Yapay zeka tuş</string>
     <string name="air_space_created">İş alanı başarıyla oluşturuldu</string>
     <string name="air_space_deleted">İş alanı başarıyla silindi</string>
     <string name="air_space_exit">Alandan çık</string>
@@ -609,7 +609,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="knock_guide_drive_desc">Sürerken ekran görüntüsü alın</string>
     <string name="knock_guide_launch_desc">"Telefonunuz masanın üzerinde iken Mi Al'ı tetikleyin"</string>
     <string name="knock_guide_set_screenshot">Ekran görüntüsü</string>
-    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_set_voiceassist">Mi yapay zeka</string>
     <string name="knock_guide_sub_title">"Parmak ekleminiz ile ekrana dokunarak Mi Al'ı tetikleyebilir veya ekran görüntüleri alabilirsiniz"</string>
     <string name="knock_guide_title">Eklemli çift dokunma</string>
     <string name="knock_long_press_horizontal_slid">Eklem ile yatay olarak kaydırın</string>
@@ -654,7 +654,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="launch_accessibility_live_subtitles_full_screen">Tam ekran akıllı altyazılar</string>
     <string name="launch_accessibility_talkback">TalkBack</string>
     <string name="launch_accessibility_voice_control">Sesli kontroller</string>
-    <string name="launch_ai_shortcut">Mi AI kısayolu</string>
+    <string name="launch_ai_shortcut">Mi yapay zeka kısayolu</string>
     <string name="launch_alipay_health_code">Alipay sağlık kodu</string>
     <string name="launch_alipay_health_code_auto_close">Alipay sağlık kodu kısayolu artık kullanılamıyor. Farklı bir kısayola geçebilirsiniz</string>
     <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
@@ -1373,10 +1373,10 @@ ikinci alan parmak izi kullanın"</string>
     <string name="undo_privacy_menu">Yetkilendirmeyi iptal et</string>
     <string name="undo_success">Başarıyla iptal edildi</string>
     <string name="use_google_open">Google asistanı kullanarak uyan</string>
-    <string name="use_xiaoai_open">Mi AI kullanarak uyan</string>
+    <string name="use_xiaoai_open">Mi yapay zeka kullanarak uyan</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist">Mi yapay zeka</string>
     <string name="voice_category">Konuşma</string>
     <string name="wake_suppression_summary">Cihazınız kaza ile dokunmaya daha duyarlı olacaktır ama aynı zamanda kenarların yakınındaki çoğu hareket kontrollerine de tepki verebilir</string>
     <string name="wake_suppression_title">Küçük alan</string>

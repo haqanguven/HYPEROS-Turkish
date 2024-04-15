@@ -1397,7 +1397,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_list_title">Son seçilenler</string>
     <string name="resource_local_picker">Yerel zil sesi seç</string>
     <string name="resource_menu_refresh">Yenile</string>
-    <string name="resource_mi_ai_picker">Mi AI zil sesini seçin</string>
+    <string name="resource_mi_ai_picker">Mi yapay zeka zil sesini seçin</string>
     <string name="resource_mute">Yok</string>
     <string name="resource_my">Çevrimdışı</string>
     <string name="resource_network_diagnostics"><u>Ağı test et</u></string>
@@ -2023,8 +2023,8 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wind_direction_7_f">NW rüzgâr</string>
     <string name="wind_format">%1$s | Seviye %2$s</string>
     <string name="xiaoai_speech_not_installed_download">İndir</string>
-    <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi AI yardımcısını indirin ve yükleyin</string>
-    <string name="xiaoai_speech_not_installed_title">Mi AI yardımcısı yüklü değil</string>
+    <string name="xiaoai_speech_not_installed_message">Devam etmek için Mi yapay zeka yardımcısını indirin ve yükleyin</string>
+    <string name="xiaoai_speech_not_installed_title">Mi yapay zeka yardımcısı yüklü değil</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>

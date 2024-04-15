@@ -546,13 +546,13 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_predict_black_list_setting_title">Uygulama önerileri engelleme listesi</string>
     <string name="app_predict_classification_search_empty">Sonuç bulunamadı</string>
     <string name="app_predict_dialog_button">Ana ekrana ekle</string>
-    <string name="app_predict_dialog_message">AI şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+    <string name="app_predict_dialog_message">Yapay zeka şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
     <string name="app_predict_dialog_success">Ana ekrana başarıyla eklendi</string>
     <string name="app_predict_folder_name">Ara</string>
     <string name="app_predict_folder_tips">Kullanım alışkanlıklarınıza göre öneriler</string>
     <string name="app_predict_go_shop_search_app">GetApps uygulamasında ara</string>
     <string name="app_predict_guide_button">Ekle</string>
-    <string name="app_predict_guide_message">AI şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
+    <string name="app_predict_guide_message">Yapay zeka şu anda ihtiyaç duyabileceğiniz uygulamaları önerecek</string>
     <string name="app_predict_guide_title">Akıllı uygulama önerileri</string>
     <string name="app_predict_loading_text">Yükleniyor</string>
     <string name="app_predict_privacy_btn_exit_text">Çıkış</string>
@@ -1432,7 +1432,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_pickup_multi_title">Birden fazla katılımcı</string>
     <string name="cs_pickup_single_desc">Sesi yalnızca ekranın önünden alın</string>
     <string name="cs_pickup_single_title">Tek katılımcı</string>
-    <string name="cs_pickup_surround_desc">Net ses için gürültüyü azaltmak için AI kullanır</string>
+    <string name="cs_pickup_surround_desc">Net ses için gürültüyü azaltmak için yapay zeka kullanır</string>
     <string name="cs_pickup_surround_title">Mikrofon gürültü azaltma</string>
     <string name="cs_pickup_vioce_print_guide_dialog_desc">Aramayı sonlandırın ve başlamak için talimatları izleyin</string>
     <string name="cs_pickup_vioce_print_guide_dialog_title">Yalnızca tek bir kişiden ses almak için önce o kişinin ses kaydını kaydedin</string>
@@ -1902,7 +1902,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_main_warning_list_tips">Görüntüle</string>
     <string name="ew_main_warning_list_title">Uyarı geçmişi</string>
     <string name="ew_monitor_bad_request_tips">Güvenlik cihaz bilgilerine erişemiyor</string>
-    <string name="ew_monitor_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini AI algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
+    <string name="ew_monitor_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini yapay zeka algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
     <string name="ew_monitor_exit">Deprem izlemeden çekilen gönüllü</string>
     <string name="ew_monitor_exit_content">Deprem izleme gönüllüleri daha fazla insanın deprem bilgisine daha hızlı ulaşmasına yardımcı olur. Deprem izlemeye katkılarınızdan dolayı teşekkür ederiz (No: %s) Deprem izleme gönüllülerinden çekilmek istediğinizden emin misiniz?</string>
     <string name="ew_monitor_exit_title">Komut istemi</string>
@@ -1910,7 +1910,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_monitor_info_title">Deprem izleme nedir?</string>
     <string name="ew_monitor_join_number">Katılımcı sayısı</string>
     <string name="ew_monitor_join_path">Yol: Xiaomi Mobil - Mobil yönetici - Deprem uyarısı - Deprem izleme gönüllüsü</string>
-    <string name="ew_monitor_my_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini AI algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
+    <string name="ew_monitor_my_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini yapay zeka algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
     <string name="ew_monitor_number_prex">No: %s</string>
     <string name="ew_monitor_open">Şimdi katıl</string>
     <string name="ew_monitor_privacy_revoke_title">Deprem izleyicisinin gizlilik politikası onayınızı geri çekin</string>
@@ -2282,7 +2282,7 @@ gönüllüsü"</string>
     <string name="function_shield_summary">Oyun oynarken seçili sistem özelliklerini kısıtlayın</string>
     <string name="function_shield_three_finger">Ekran görüntüsü hareketlerini kısıtla</string>
     <string name="function_shield_title">Gelişmiş deneyim</string>
-    <string name="function_shield_voice_trigger">"Mi AI'yi sesli olarak uyandırma"</string>
+    <string name="function_shield_voice_trigger">Mi yapay zekayı sesli olarak uyandırma</string>
     <string name="fw_blocked">Engelli listesi</string>
     <string name="fw_blocked_count">"Engellenen "</string>
     <string name="fw_blocked_join">" ve "</string>
@@ -2328,7 +2328,7 @@ gönüllüsü"</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
     <string name="gamebooster_push_expiring_soon_button">Yenile</string>
     <string name="gamebooster_push_expiring_soon_title">Oyun hızlandırıcı</string>
-    <string name="gamebox_ai_subtitle">AI altyazıları</string>
+    <string name="gamebox_ai_subtitle">Yapay zeka altyazıları</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_brightness">Parlaklık</string>
     <string name="gamebox_browser_not_find">Önce Mi tarayıcıyı yükleyin</string>
@@ -2469,8 +2469,8 @@ Xiaomi oyun soğutucusu"</string>
     <string name="gb_dialog_game_uninstall_tips_message">Kaldırdıktan sonra tüm verileride silinecektir</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">İlişkili çift oyunlar aynı anda kaldırılacak ve oyun içi verileri silinecektir</string>
     <string name="gb_dialog_game_uninstall_tips_title">%s yazılımını kaldır</string>
-    <string name="gb_dialog_record_way_ai">AI kayıtları oyun kutusuna kaydedilir ve 7 gün boyunca orada saklanır</string>
-    <string name="gb_dialog_record_way_ai_new">AI kayıtları oyun kutusuna kaydedilir ve orada %d gün boyunca saklanır</string>
+    <string name="gb_dialog_record_way_ai">Yapay zeka kayıtları oyun kutusuna kaydedilir ve 7 gün boyunca orada saklanır</string>
+    <string name="gb_dialog_record_way_ai_new">Yapay zeka kayıtları oyun kutusuna kaydedilir ve orada %d gün boyunca saklanır</string>
     <string name="gb_dialog_record_way_finish">Bitti</string>
     <string name="gb_dialog_record_way_manual">El ile 30 saniyeye kadar video kaydedin</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Oyun oturumu sırasında manuel olarak %d-%d saniye video kaydedin</string>
@@ -2533,8 +2533,8 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_game_video_record_finish_tips">Video başarıyla kaydedildi</string>
     <string name="gb_game_video_save">Kaydet</string>
     <string name="gb_game_video_save_tip">Kaydedildi</string>
-    <string name="gb_game_video_type_ai">AI</string>
-    <string name="gb_game_video_type_ai_record">AI kaydı</string>
+    <string name="gb_game_video_type_ai">Yapay zeka</string>
+    <string name="gb_game_video_type_ai_record">Yapay zeka kaydı</string>
     <string name="gb_game_video_type_manual">El ile</string>
     <string name="gb_game_video_type_manual_record">El ile kayıt</string>
     <string name="gb_get_gift_right_now">Şimdi yer bildirimi yap</string>
@@ -2812,7 +2812,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_call_handsfree">Eller serbest arama yanıtlama</string>
     <string name="gs_call_handsfree_mute">Sessiz mod</string>
     <string name="gs_forbid_autosync">Arka plan senkronizasyonunu sınırla</string>
-    <string name="gs_game_ai_record">AI kullanarak kaydey</string>
+    <string name="gs_game_ai_record">Yapay zeka kullanarak kaydey</string>
     <string name="gs_game_disturb_msg">Rahatsız etme</string>
     <string name="gs_game_duration">Süre</string>
     <string name="gs_game_manual_record">El ile kayıt</string>
@@ -4118,8 +4118,8 @@ kapat"</string>
     <string name="pc_wireless_handle_title">Kablosuz kamera tutma yeri</string>
     <string name="pc_work_in_save_mode">Pil tasarrufu</string>
     <string name="pc_work_in_super_save_mode">Ultra pil tasarrufu</string>
-    <string name="pc_xiaoai_create_auto_task">"Mi AI'dan yeni görev"</string>
-    <string name="pc_xiaoai_voice_control_close">"Mi AI'nin sesle uyanma özelliğini kapatın"</string>
+    <string name="pc_xiaoai_create_auto_task">Mi yapay zekadan yeni görev</string>
+    <string name="pc_xiaoai_voice_control_close">Mi yapay zekanın sesle uyanma özelliğini kapatın</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="percent_formatted_text">%%%s</string>
     <string name="percent_symbol">%</string>
@@ -4640,7 +4640,7 @@ kapat"</string>
     <string name="power_save_mode_close_warn_text">Pil tasarrufu arka plan işlemlerini ve senkronizasyonu kısıtlar. Pil tasarrufunu cihazınız şarj oluyorken kullanmayı seçerseniz bazı özellikler düzgün çalışmayabilir. Cihaz şarj ediliyorken pil tasarrufu açık tutulsun mu?</string>
     <string name="power_save_mode_close_warn_title">Pil tasarrufu</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Pil tasarrufu açık olduğunda çalışır</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_title">"Mi AI'yi sesli olarak tetikleme"</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">Mi yapay zekayı sesli olarak tetikleme</string>
     <string name="power_save_mode_enable">Pil tasarrufu</string>
     <string name="power_save_mode_end_time">Bitir</string>
     <string name="power_save_mode_ontime_enabled">Mod geçiş zamanı</string>
@@ -6317,15 +6317,15 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="terminal_privacy_ability_others">Diğer mekanizmalar</string>
     <string name="terminal_privacy_ability_others_summary">Ekran paylaşımı, ödeme ortamının test edilmesi, parmak izi ve yüz tanıma</string>
     <string name="terminal_privacy_ability_suggest">Öneriler</string>
-    <string name="terminal_privacy_ability_suggest_summary">Dosyalar, kenar çubuğu, Mi AI ve Mi cüzdandan öneriler</string>
+    <string name="terminal_privacy_ability_suggest_summary">Dosyalar, kenar çubuğu, Mi yapay zeka ve Mi cüzdandan öneriler</string>
     <string name="terminal_privacy_ability_summary">* Cihaz üstü gizlilik koruma özellikleri ve mekanizmaları cihaz modeline göre değişiklik gösterebilir</string>
     <string name="terminal_privacy_ability_txt">Metin</string>
     <string name="terminal_privacy_ability_txt_summary">Metin düzenleme, akıllı altyazılar, taplus, mesajlar ve paylaşılan pano</string>
     <string name="terminal_privacy_ability_voice">Konuşma tanıma</string>
-    <string name="terminal_privacy_ability_voice_summary">Mi AI sesli komutlar ve akıllı altyazılar</string>
+    <string name="terminal_privacy_ability_voice_summary">Mi yapay zeka sesli komutlar ve akıllı altyazılar</string>
     <string name="terminal_privacy_instruction">Cihaz üzeri gizlilik koruması kişisel bilgilerinizin buluta yüklenmesi yerine bu cihazda tutulmasını sağlayan özellikleri içerir</string>
     <string name="terminal_privacy_summary">Bu cihazda kişisel bilgileri işleyin</string>
-    <string name="terms_and_conditions_content">"&lt;Data>\"Bu özellik size deprem uyarısı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesi çalacaktır. Size en yakın sığınağı bulabilecek, acil durum irtibat kişinizi arayacak ve gerekirse sağlık kartınızı gösterebileceksiniz. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Bu özelliğin normal bir şekilde çalışabilmesi için kişisel bilgilerinizi toplamak için aşağıdaki izinlere ihtiyacı vardır: &lt;br>• Konum bilgisi: &lt;br>Bulunduğunuz yere erişmek ve doğru deprem uyarıları sağlamak içindir. &lt;br>Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=%s>gizlilik politikamızı&lt;/a>   okumalı ve kabul etmelisiniz\"&lt;/Data>"</string>
+    <string name="terms_and_conditions_content">"&lt;Data>Bu özellik size deprem uyarısı işlevi sağlar. Yaklaşan depremler hakkında sizi bilgilendirecek ve uyarı sesi çalacaktır. Size en yakın sığınağı bulabilecek, acil durum irtibat kişinizi arayacak ve gerekirse sağlık kartınızı gösterebileceksiniz. &lt;br>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. &lt;br>Bu özelliğin normal bir şekilde çalışabilmesi için kişisel bilgilerinizi toplamak için aşağıdaki izinlere ihtiyacı vardır: &lt;br>• Konum bilgisi: &lt;br>Bulunduğunuz yere erişmek ve doğru deprem uyarıları sağlamak içindir. &lt;br>Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz bu özelliği kullanamazsınız. Bu gibi durumlarda bu özelliği kapatmayı veya açmamayı seçebilirsiniz. &lt;br>Bu özelliği kullanmadan önce &lt;a href=%s>gizlilik politikamızı&lt;/a> okumalı ve kabul etmelisiniz&lt;/Data>"</string>
     <string name="tether_custom_dialog_title">Mobil veri sınırı</string>
     <string name="tether_limit_dialog_title">Mobil veri sınırı</string>
     <string name="tether_limit_value_custom">Özel</string>
@@ -6874,9 +6874,9 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="virus_wait_network_dialog_message">"Telefonunuz artık wifi'e bağlı değil. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Devam edilsin mi?"</string>
     <string name="voltage_symbol">V</string>
     <string name="vtb_ai_subtitle">Alt yazılar</string>
-    <string name="vtb_ai_subtitle_intl">AI altyazıları</string>
+    <string name="vtb_ai_subtitle_intl">Yapay zeka altyazıları</string>
     <string name="vtb_func_desc">Bu özellik hakkında</string>
-    <string name="vtb_func_display_style_desc0">AI videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir vede bunları dinamik olarak geliştirebilir</string>
+    <string name="vtb_func_display_style_desc0">Yapay zeka videolarda yer alan insanları, hayvanları, bitkileri, gökyüzünü, binaları ve diğer nesneleri tanıyabilir vede bunları dinamik olarak geliştirebilir</string>
     <string name="vtb_func_display_style_desc1">Seçilen efektler HDR videolara uygulanmaz</string>
     <string name="vtb_func_display_style_desc2">Bu efektler ekran görüntülerine uygulanamaz</string>
     <string name="vtb_func_frc_desc0">Hareket yumuşatma bulanıklığı azaltır ve hareketli nesnelere ayrıntı ekler. Bu özelliğin kullanılması güç tüketimini artırır</string>

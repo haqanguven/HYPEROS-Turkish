@@ -29,9 +29,9 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
-    <string name="ai_assistant">AI arama yardımcısı</string>
-    <string name="ai_assistant_not_installed">Önce AI arama yardımcısını yükleyin</string>
-    <string name="ai_dial">AI arama</string>
+    <string name="ai_assistant">Yapay zeka arama yardımcısı</string>
+    <string name="ai_assistant_not_installed">Önce yapay zeka arama yardımcısını yükleyin</string>
+    <string name="ai_dial">Yapay zeka arama</string>
     <string name="ai_mode_auto">Otomatik</string>
     <string name="ai_mode_manual">El ile</string>
     <string name="ai_mode_subtitles">Altyazılar</string>
@@ -262,7 +262,7 @@
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
     <string name="empty" />
     <string name="enter_ai_assistant">Kullan</string>
-    <string name="enter_ai_assistant_tip">AI arama yardımcısı bu aramayı alabilir ve diğer kişinin konuşmasını sizin için kopyalayabilir. AI yardımcısının yanıtlamasına izin verilsin mi?</string>
+    <string name="enter_ai_assistant_tip">Yapay zeka arama yardımcısı bu aramayı alabilir ve diğer kişinin konuşmasını sizin için kopyalayabilir. Yapay zeka yardımcısının yanıtlamasına izin verilsin mi?</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
@@ -664,6 +664,6 @@ LTE"</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_call">"Vo
 Wifi"</string>
-    <string name="xiaoai_assistant">Mi AI arama asistanı</string>
+    <string name="xiaoai_assistant">Mi yapay zeka arama asistanı</string>
     <string name="yesterday">Dün</string>
 </resources>

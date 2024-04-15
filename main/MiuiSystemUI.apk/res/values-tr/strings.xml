@@ -809,7 +809,7 @@ Bunlar silindikten sonra telefonunuzun kilidini açmak veya kimliğinizi doğrul
     <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
     <string name="gxzw_quick_open_wechat_scan">Tarayıcı</string>
     <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi yapay zeka</string>
     <string name="gxzw_quick_open_xiaoai_title1">Açmak istediğiniz uygulamanın adını söyleyin</string>
     <string name="gxzw_quick_open_xiaoai_title2">Kullanmak istediğiniz özelliğin adını söyleyin</string>
     <string name="gxzw_quick_tip_press">Basılı tutun</string>

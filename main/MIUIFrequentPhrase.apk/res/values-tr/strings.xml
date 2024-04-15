@@ -218,7 +218,7 @@
     <string name="input_method_function_switch_keyboard_language">Dil değiştir</string>
     <string name="input_method_function_switch_keyboard_language_des">Giriş dilleri arasında geçiş yapmak için dokunun</string>
     <string name="input_method_function_voice">Ses girişi</string>
-    <string name="input_method_function_xiaoai">Mi AI ses girişi</string>
+    <string name="input_method_function_xiaoai">Mi yapay zeka ses girişi</string>
     <string name="input_method_no_content_text">Henüz burada öğe yok</string>
     <string name="input_method_switch_settings_text">Klavye ayarları</string>
     <string name="input_method_tab_clipboard_text">Pano</string>

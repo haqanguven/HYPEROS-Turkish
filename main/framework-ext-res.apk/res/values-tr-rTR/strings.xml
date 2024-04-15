@@ -285,7 +285,7 @@
     <string name="ks_regional_screen_shot">Ekran görüntüsü (Kısmi)</string>
     <string name="ks_screenshot">Ekran görüntüsü (Tam ekran)</string>
     <string name="kungfu">Kung fu</string>
-    <string name="launch_ai_shortcut">Mi AI kısayolu</string>
+    <string name="launch_ai_shortcut">Mi yapay zeka kısayolu</string>
     <string name="launch_alipay_health_code">Alipay sağlık kodu</string>
     <string name="launch_alipay_payment_code">Alipay ödeme kodu</string>
     <string name="launch_alipay_scanner">Alipay tarayıcı</string>
@@ -633,7 +633,7 @@ cihazınızı katlayın"</string>
     <string name="vigor">Vigor</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
-    <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist">Mi yapay zeka</string>
     <string name="wallpaper_floral_arrangement_title">Çiçek düzenlemesi</string>
     <string name="wallpaper_geometrically_irregular_title">Soyut geometri</string>
     <string name="wallpaper_gradient_title">Gradyan</string>

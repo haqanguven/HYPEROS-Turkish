@@ -76,8 +76,8 @@
     <string name="calender">Takvim</string>
     <string name="call_anyone">Ara</string>
     <string name="call_phone_permissions_text">Bu özelliği kullanabilmek için barkod okuyucunun arama yapmasına izin verin</string>
-    <string name="calories_logo_text">Sağlık tarafından sağlanan AI desteği</string>
-    <string name="calories_request_interface_text">AI desteği</string>
+    <string name="calories_logo_text">Sağlık tarafından sağlanan yapay zeka desteği</string>
+    <string name="calories_request_interface_text">Yapay zeka desteği</string>
     <string name="camera_error_title">Kamera hatası</string>
     <string name="camera_permissions_text">Bu özelliği kullanabilmek için barkod okuyucunun kameraya erişmesine izin verin</string>
     <string name="camera_stealth_mode_message">Kameraya bağlanılamıyor. Kamera gerekiyorsa gizli modu kapatın</string>
@@ -219,7 +219,7 @@
     <string name="connect_wifi">Bu ağa bağlan</string>
     <string name="connect_wifi_no_local_premissions">Bu ağa bağlan (Konum izni gerektirir)</string>
     <string name="contact_details">QR kod kişisi:</string>
-    <string name="content_desktop_uninstall">Barkod okuyucu bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra barkod okuyucu, Kamera, Mi AI, Kişiler ve diğer sistem hizmetlerinde ilgili işlevleri kullanamazsınız</string>
+    <string name="content_desktop_uninstall">Barkod okuyucu bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra barkod okuyucu, Kamera, Mi yapay zeka, Kişiler ve diğer sistem hizmetlerinde ilgili işlevleri kullanamazsınız</string>
     <string name="continue_access_web_url">İnternet sitesine git</string>
     <string name="continue_to_website">İnternet sitesine git</string>
     <string name="continue_video">Tara</string>
@@ -618,7 +618,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="monitoring_normal">Normal</string>
     <string name="monitoring_restart">Tekrar dene</string>
     <string name="monitoring_start">Teste başla</string>
-    <string name="monitoring_title">AI çevrimiçi sınıf asistanı</string>
+    <string name="monitoring_title">Yapay zeka çevrimiçi sınıf asistanı</string>
     <string name="month_april">Nisan</string>
     <string name="month_april_short">Nisan</string>
     <string name="month_april_shortest">N</string>
@@ -865,7 +865,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="queryGoodsFailed">Ürün bilgisi bulunamadı</string>
     <string name="queryNum">Sipariş kontrolü</string>
     <string name="query_faile">Sipariş durumu ve detaylar henüz senkronize edilmedi. Siparişinizi manuel olarak kontrol edin</string>
-    <string name="query_inai">"Mi AI'nın size yardım etmesine izin verin"</string>
+    <string name="query_inai">Mi yapay zekanın size yardım etmesine izin verin</string>
     <string name="query_more">Daha fazla</string>
     <string name="query_tracking">Ekspres teslimatı kontrol et</string>
     <string name="query_tracknum">Ekspres teslimat siparişini kontrol edin</string>
@@ -1219,8 +1219,8 @@ Bunun yerine başka bir şey tarayın"</string>
     <string name="word_to_be_recognized_is_aligned_with_cross">Tanınacak kelime çarpı işareti ile hizalı</string>
     <string name="word_translation">Kelime çevirisi</string>
     <string name="wx_not_installed_toast">"Bu özellik WeChat'i kullanmaya ihtiyaç duyar. Önce WeChat'i yükleyin"</string>
-    <string name="xiaoai_classmate_scan_text">Mi AI ile tarayın</string>
-    <string name="xiaoai_dialog">"Mi AI'ye taramak
+    <string name="xiaoai_classmate_scan_text">Mi yapay zeka ile tarayın</string>
+    <string name="xiaoai_dialog">"Mi yapay zekaya taramak
 istediğinizi söylemeyi deneyin"</string>
     <string name="xiaoai_text">Küçük aşk düğmesi</string>
     <string name="xiaoai_vision">Barkod okuyucu</string>

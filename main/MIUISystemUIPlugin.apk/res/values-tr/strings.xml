@@ -558,7 +558,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="quick_controls_subtitle">Bağlı cihazlarınız için kontroller ekleyin</string>
     <string name="quick_controls_title">Cihaz kontrolleri</string>
     <string name="quick_settings_aisubtitles_label">Akıllı altyazılar</string>
-    <string name="quick_settings_aitranslate_label">MI AI çeviri</string>
+    <string name="quick_settings_aitranslate_label">MI yapay zeka çeviri</string>
     <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
     <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Eşleştirilmiş cihaz yok</string>

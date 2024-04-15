@@ -805,7 +805,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_summary_send_delivery_reports">Multimedya mesajı alındığında göndericiye iletim doğrulama mesajı gönder</string>
     <string name="pref_summary_switch_aim_card">Videolar, resimler ve karmaşık biçimlendirme içeren mesajları kart olarak görüntüleyin</string>
     <string name="pref_summary_voice_report">Mesajlar alındıkça yüksek sesle okumak için açın. Oynatmayı durdurmak için sesi kısma veya güç düğmesine basın</string>
-    <string name="pref_summary_voice_report_disable">Bu özelliği kullanabilmek için Mi AI Konuşma motorunu yükleyin</string>
+    <string name="pref_summary_voice_report_disable">Bu özelliği kullanabilmek için Mi yapay zeka konuşma motorunu yükleyin</string>
     <string name="pref_switch_sdk_setting">Akıllı mesaj hizmeti sağlayıcısını değiştir</string>
     <string name="pref_system_title">Sistem</string>
     <string name="pref_title_allow_si_sl_push">İtme mesajları (SI/SL)</string>

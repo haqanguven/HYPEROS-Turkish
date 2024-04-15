@@ -238,8 +238,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">Önemli anları otomatik olarak kaydedin ve oturumun öne çıkan noktalarıyla videolar oluşturun. Her oyun oturumundan sonra bunları kalıcı olarak kaydetmeyi seçebilirsiniz. Kaydedilmemiş videolar %1$d gün sonra otomatik olarak silinecek</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
-        <item quantity="other">%d AI kaydı oyun hızlandırıcıya kaydedildi</item>
-        <item quantity="one">%d AI kaydı oyun hızlandırıcıya kaydedildi</item>
+        <item quantity="other">%d yapay zeka kaydı oyun hızlandırıcıya kaydedildi</item>
+        <item quantity="one">%d yapay zeka kaydı oyun hızlandırıcıya kaydedildi</item>
     </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d saniye</item>

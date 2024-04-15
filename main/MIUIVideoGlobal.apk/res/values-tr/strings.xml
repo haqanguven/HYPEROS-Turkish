@@ -92,11 +92,11 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
     <string name="agree_and_continue">Kabul et</string>
-    <string name="ai_animation_music_text">AI film müziği</string>
+    <string name="ai_animation_music_text">Yapay zeka film müziği</string>
     <string name="ai_music_save_cancel">İptal et</string>
     <string name="ai_music_save_dialog_title">Kaydet</string>
     <string name="ai_music_save_fail">Kaydedilemedi</string>
-    <string name="ai_music_save_info">AI film müziği başarıyla eklendi. Video kaydedilsin mi?</string>
+    <string name="ai_music_save_info">Yapay zeka film müziği başarıyla eklendi. Video kaydedilsin mi?</string>
     <string name="ai_music_save_ok">Kaydet</string>
     <string name="ai_music_save_success">Başarıyla kaydedildi</string>
     <string name="all">Tümünü göster</string>
@@ -1855,7 +1855,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="sorry_play_faild">Video oynatılamadı</string>
     <string name="source">"Kaynak: "</string>
-    <string name="special_type_8k">AI 8K</string>
+    <string name="special_type_8k">Yapay zeka 8K</string>
     <string name="special_type_log">Kayıt</string>
     <string name="srl_component_falsify" formatted="false">"%s alanı tarif ediyor
 Çalışma zamanında sürüklemenin yüksekliğini [%.1fdp] gösterir

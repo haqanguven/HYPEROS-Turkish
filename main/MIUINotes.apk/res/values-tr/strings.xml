@@ -744,7 +744,7 @@
     <string name="permission_read_contact_desc">Kişiler ile yapılan aramalar sırasında oluşturulan notları ilişkilendirmek</string>
     <string name="permission_storage_desc_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
     <string name="permission_storage_desc_pad_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
-    <string name="permission_xiaoai_desc_m">"Konuşmayı metne dönüştürme hizmetleri sağlamak için notların konuşulan ses içeriğini ve cihazınızın IMEI'sini toplaması gerekir. Bu özelliği kullanmadan önce %1$s notlar üçüncü taraf veri paylaşımı bildirimini okuyup kabul edin. Mi AI %2$s Gizlilik politikasını okuyarak ilgili özellikler hakkında daha fazla bilgi edinebilirsiniz"</string>
+    <string name="permission_xiaoai_desc_m">"Konuşmayı metne dönüştürme hizmetleri sağlamak için notların konuşulan ses içeriğini ve cihazınızın IMEI'sini toplaması gerekir. Bu özelliği kullanmadan önce %1$s notlar üçüncü taraf veri paylaşımı bildirimini okuyup kabul edin. Mi yapay zeka %2$s Gizlilik politikasını okuyarak ilgili özellikler hakkında daha fazla bilgi edinebilirsiniz"</string>
     <string name="permission_xiaoai_title">Konuşmadan yazıya</string>
     <string name="permlab_accessNote">Notlara erişim</string>
     <string name="pm">ÖS</string>

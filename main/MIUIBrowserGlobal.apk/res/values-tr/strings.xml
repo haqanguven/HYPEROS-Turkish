@@ -1089,7 +1089,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="homepage_more_sites">Daha fazla internet sitesi</string>
     <string name="homepage_search_hint">Ara</string>
     <string name="homepage_setting">Başlangıç sayfası ayarları</string>
-    <string name="homepage_tab_tips_chatgpt">Yeni AI aramamıza göz atın</string>
+    <string name="homepage_tab_tips_chatgpt">Yeni yapay zeka aramamıza göz atın</string>
     <string name="homepage_top_card_menu">Üst</string>
     <string name="hot_games">Popüler</string>
     <string name="hot_news_notify_summary">En iyi haberler için push bildirimleri</string>
@@ -2017,7 +2017,7 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pdf_confirm">Tamam</string>
-    <string name="pdf_failed_message">AI özeti oluşturulamadı</string>
+    <string name="pdf_failed_message">Yapay zeka özeti oluşturulamadı</string>
     <string name="pdf_retry">Tekrar dene</string>
     <string name="pdf_summary">Özet</string>
     <string name="per_month">Her ay</string>

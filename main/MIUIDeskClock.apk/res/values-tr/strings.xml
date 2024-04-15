@@ -55,7 +55,7 @@
     <string name="alert_vibrate_enable_summary">Alarm çaldığında titret</string>
     <string name="alert_volume">Zil sesi seviyesi</string>
     <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarlama</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi AI konuşuyor</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi yapay zeka konuşuyor</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Saat</string>
@@ -817,7 +817,7 @@
     <string name="worldcolock_time_date">dd/MM/yyyy</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
-    <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
+    <string name="xiaoai_ringtone_title">Mi yapay zeka zil sesleri</string>
     <string name="xiaomi_deskclock_uninstall_description_content">Saat bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra saati kontrol edemez, alarm kuramaz veya diğer saat özelliklerini kullanamazsınız</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Saat kaldırılsın mı?</string>
     <string name="yesterday">Dün</string>

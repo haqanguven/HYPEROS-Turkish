@@ -45,14 +45,14 @@
     <string name="agree_terms_input_method_kika">Kika klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="agreement_declare_use_network_and_location_china">"Ek olarak aşağıdaki hizmetler ağa bağlanacak ve konumunuza erişecektir: "</string>
     <string name="agreement_declare_use_network_china">Ağa bağlanacaktır</string>
-    <string name="ai_button_desc">Mi AI özelliğini tetiklemenizi ve Mi AI kısayollarını kullanmanızı sağlar</string>
+    <string name="ai_button_desc">Mi yapay zeka özelliğini tetiklemenizi ve Mi yapay zeka kısayollarını kullanmanızı sağlar</string>
     <string name="ai_button_double_press">Çift baskı</string>
-    <string name="ai_button_double_press_desc">Mi AI özelliklerini ayarlayın</string>
+    <string name="ai_button_double_press_desc">Mi yapay zeka özelliklerini ayarlayın</string>
     <string name="ai_button_long_press">Basın ve basılı tutun</string>
     <string name="ai_button_long_press_desc">Komutunu söyle ve düğmeyi bırak</string>
     <string name="ai_button_single_press">Basın</string>
-    <string name="ai_button_single_press_desc">Mi AI kısayollarını görüntülemek için AI düğmesine basın</string>
-    <string name="ai_button_title">AI düğmesi</string>
+    <string name="ai_button_single_press_desc">Mi yapay zeka kısayollarını görüntülemek için yapay zeka düğmesine basın</string>
+    <string name="ai_button_title">Yapay zeka düğmesi</string>
     <string name="album_introduction">Galeri cihazınızdaki fotoğrafları ve videoları yönetmenizi, optimize etmenizi, düzenlemenizi ve ayrıca bunları Xiaomi bulut ile senkronize etmenizi sağlar</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Kurulum</string>
@@ -771,7 +771,7 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, Mi mağaza sistemi eklentisi</string>
     <string name="terms_of_use_label_RMS">İzin yöneticisi</string>
-    <string name="terms_of_use_label_ai_assistant">AI asistan</string>
+    <string name="terms_of_use_label_ai_assistant">Yapay zeka asistan</string>
     <string name="terms_of_use_label_app_vault">Uygulama kasası</string>
     <string name="terms_of_use_label_back">Yedekleme hizmeti</string>
     <string name="terms_of_use_label_ble">Sigortalı konum sağlayıcı</string>
@@ -790,7 +790,7 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="terms_of_use_label_mi_account">Xiaomi hesap</string>
     <string name="terms_of_use_label_miuiDaemon">Xiaomi arka plan programı</string>
     <string name="terms_of_use_label_miuisdk">Xiaomi SDK</string>
-    <string name="terms_of_use_label_os">OS AI ayarı</string>
+    <string name="terms_of_use_label_os">OS yapay zeka ayarı</string>
     <string name="terms_of_use_label_package">, Paket yükleyici</string>
     <string name="terms_of_use_label_parallel_windows">Paralel pencereler</string>
     <string name="terms_of_use_label_phrase">, Sık kullanılan ifadeler</string>
@@ -884,7 +884,7 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="v7_preference_on">Açık</string>
     <string name="verify_application_security">Uygulama güvenliğini doğrulamak içindir</string>
     <string name="verify_device_security">Cihaz güvenliğini doğrulamak içindir</string>
-    <string name="voice_assist_desp">Telefonunuza Mi AI şeklinde seslenin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecektir</string>
+    <string name="voice_assist_desp">Telefonunuza Mi yapay zeka şeklinde seslenin. Mi yapay zeka sesinizi tanıyacak ve cihazınızı kontrol edebilecektir</string>
     <string name="voice_assist_title">Ses ile uyandır</string>
     <string name="wc_dialog_agree">Kabul et</string>
     <string name="wc_dialog_reject">Reddet</string>

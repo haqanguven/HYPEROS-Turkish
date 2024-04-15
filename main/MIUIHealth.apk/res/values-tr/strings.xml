@@ -1148,7 +1148,7 @@ Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun"</s
     <string name="device_settings_add_new_vibrate_reset">Kaydet</string>
     <string name="device_settings_add_new_vibrate_stop">Durdur</string>
     <string name="device_settings_aivs_voice_optimise">Ses tanımayı optimize et</string>
-    <string name="device_settings_aivs_voice_optimise_desc">"AI verimliliğini iyileştirmesi ve komutlarını daha iyi tanıması için Mi AI'a ses verilerinizi kullanma izni verin"</string>
+    <string name="device_settings_aivs_voice_optimise_desc">"Yapay zeka verimliliğini iyileştirmesi ve komutlarını daha iyi tanıması için Mi yapay zekaya ses verilerinizi kullanma izni verin"</string>
     <string name="device_settings_alarm">Alarmlar</string>
     <string name="device_settings_alarm_add">Ekle</string>
     <string name="device_settings_alarm_clock">Alarm</string>
@@ -1295,12 +1295,12 @@ Güncelleyebilmek için cihaz pilinin %%%1$d üzerinde olduğundan emin olun"</s
     <string name="device_settings_common_stopwatch">Kronometre</string>
     <string name="device_settings_common_telephony">Telefon</string>
     <string name="device_settings_common_today">Bugün</string>
-    <string name="device_settings_common_voice">Mi AI</string>
+    <string name="device_settings_common_voice">Mi yapay zeka</string>
     <string name="device_settings_common_weather">Hava durumu</string>
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_workday">İş günleri</string>
     <string name="device_settings_common_world_clock">Dünya saati</string>
-    <string name="device_settings_common_xiaoai">Mi AI</string>
+    <string name="device_settings_common_xiaoai">Mi yapay zeka</string>
     <string name="device_settings_contact">Favori kişiler</string>
     <string name="device_settings_contact_add">Ekle</string>
     <string name="device_settings_contact_add_fail">Favori kişilere eklenemedi. Tekrar deneyin</string>
@@ -1949,8 +1949,8 @@ Bir özellikte acil durum kişi bilgisi değişiklikleri otomatik olarak diğeri
     <string name="device_settings_wrist_lock_cannot_off">Kapatılamadı. Cihazınızla ödeme yapmak için Pin gereklidir</string>
     <string name="device_settings_wrist_screen_wake_end">Bitir</string>
     <string name="device_settings_wrist_screen_wake_start">Başlat</string>
-    <string name="device_settings_xiaoai_controll_setting">Mi AI settings</string>
-    <string name="device_settings_xiaoai_skill">Mi AI</string>
+    <string name="device_settings_xiaoai_controll_setting">Mi yapay zeka ayarları</string>
+    <string name="device_settings_xiaoai_skill">Mi yapay zeka</string>
     <string name="device_settings_zenmode_request_permission_remind_content">"Telefonunuz ve giyilebilir cihazınız arasında Rahatsız Etme Modu'nu senkronize edebilmek için bu uygulamanın Rahatsız Etme Modu izinlerine erişmesine izin verin."</string>
     <string name="device_settings_zenmode_request_permission_remind_title">İzin gerekli</string>
     <string name="device_settings_zenmode_sync_desc">Rahatsız etme modu tercihleri bağlı cihazlar arasında senkronize edilir. Cihazlardan birinde rahatsız etme modunu açtığınızda veya kapattığınızda işleminiz diğer cihazlarla senkronize edilecektir</string>
@@ -1986,7 +1986,7 @@ Bir özellikte acil durum kişi bilgisi değişiklikleri otomatik olarak diğeri
     <string name="device_vibrate_title">Titreşim</string>
     <string name="device_view_help">Yardımı görüntüle</string>
     <string name="device_voice_assistant">Voice assistant</string>
-    <string name="device_wake_up_guide">Wake up Mi AI</string>
+    <string name="device_wake_up_guide">Mi yapay zeka ile uyandır</string>
     <string name="device_wear_mode_running">Pebble</string>
     <string name="device_wearable">Giyilebilir</string>
     <string name="device_wearos_bind_download_des">Öncelikle Wear OS indirin</string>

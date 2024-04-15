@@ -90,8 +90,8 @@
         <item quantity="one">%s saat</item>
     </plurals>
     <plurals name="ai_image_over_limit_msg">
-        <item quantity="other">Bir kişi en fazla %d AI görüntüsü oluşturabilir</item>
-        <item quantity="one">Bir kişi en fazla %d AI görüntüsü oluşturabilir</item>
+        <item quantity="other">Bir kişi en fazla %d yapay zeka görüntüsü oluşturabilir</item>
+        <item quantity="one">Bir kişi en fazla %d yapay zeka görüntüsü oluşturabilir</item>
     </plurals>
     <plurals name="ai_minute">
         <item quantity="other">%d dakika</item>

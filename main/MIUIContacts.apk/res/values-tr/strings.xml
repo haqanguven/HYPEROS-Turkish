@@ -126,7 +126,7 @@
     <string name="callrecordview_item_op_time_short_incoming">"| Gelen: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"| Giden: "</string>
     <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Otomatik yanıt</string>
-    <string name="callrecordview_item_op_time_xiaoai_call">Mi AI arama asistanı</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Mi yapay zeka arama asistanı</string>
     <string name="callrecordview_item_op_time_xiaoai_manual_answer">Manuel al</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Arama notu ekle</string>
@@ -151,7 +151,7 @@
     <string name="callrecordview_menu_show_missed">Cevapsız aramalar</string>
     <string name="callrecordview_menu_show_sim">%s arama</string>
     <string name="callrecordview_menu_show_stranger">Bilinmeyen numaralardan gelen aramalar</string>
-    <string name="callrecordview_menu_xiaoaiphone">Mi AI arama asistanı</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi yapay zeka arama asistanı</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_confirmation_dialog_message">Değişiklikler yoksayılsın mı?</string>
     <string name="cancel_confirmation_dialog_title">İptal et</string>
@@ -1042,7 +1042,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="scan_business_card">Kartviziti tara</string>
     <string name="scan_bussiness_card_merge_tip">Çakışan veriler değiştirildi</string>
     <string name="scan_merge">Çoklu kişi kayıtları aranıyor</string>
-    <string name="scan_not_installed_china">Önce Mi AI tarayıcıyı yükleyin</string>
+    <string name="scan_not_installed_china">Önce Mi yapay zeka tarayıcısını yükleyin</string>
     <string name="scan_not_installed_global">Önce tarayıcıyı yükleyin</string>
     <string name="scan_qrcode_card_hint1">Yukarıdaki QR kodunu tarayın</string>
     <string name="scan_qrcode_card_hint2" />

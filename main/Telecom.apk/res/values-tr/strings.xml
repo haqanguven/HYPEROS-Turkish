@@ -292,7 +292,7 @@
     <string name="no_vm_number_msg">Sim kartta kayıtlı sesli mesaj numarası yok</string>
     <string name="non_primary_user">Yalnızca cihazın sahibi engelli numaraları görüntüleyebilir ve yönetebilir</string>
     <string name="noon">Öğlen</string>
-    <string name="notification_AI_MissedCallContent">Mi AI otomatik cevaplama</string>
+    <string name="notification_AI_MissedCallContent">Mi yapay zeka otomatik cevaplama</string>
     <string name="notification_AllMissedCallTitle">Tüm cevapsız aramalar</string>
     <string name="notification_All_AI_MissedCallContent">Ayrıntıları görüntülemek için dokunun</string>
     <string name="notification_audioProcessing_body">%s arka planda bir arama yaptı. Bu uygulama arama üzerinden sese erişiyor ve ses çalıyor olabilir</string>

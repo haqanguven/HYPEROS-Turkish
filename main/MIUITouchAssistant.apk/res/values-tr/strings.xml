@@ -303,7 +303,7 @@
     <string name="name_trans_cards">Toplu taşıma kartı</string>
     <string name="name_wechat_payment_code">WeChat ödeme</string>
     <string name="name_wechat_scan">WeChat tarayıcı</string>
-    <string name="name_xiao_ai">Mi AI</string>
+    <string name="name_xiao_ai">Mi yapay zeka</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi ödeme etkinleştirilmedi</string>
     <string name="nfc_trans_card_not_in_use">Toplu taşıma kartı etkinleştirilmedi</string>
     <string name="night">ÖS</string>
