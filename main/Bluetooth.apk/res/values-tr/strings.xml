@@ -422,7 +422,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="snapdragon_sound_notification_content">Bu cihaz Snapdragon Sound™ teknolojisini destekler</string>
+    <string name="snapdragon_sound_notification_content">Bu cihaz Snapdragon ses™ teknolojisini destekler</string>
     <string name="snapdragon_sound_notification_title">Bluetooth</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>

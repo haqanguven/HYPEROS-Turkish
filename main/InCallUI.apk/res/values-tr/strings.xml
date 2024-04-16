@@ -487,7 +487,7 @@
     <string name="relay_device_type_pc">Bilgisayar</string>
     <string name="relay_stop_recorder">Kayıt durduruldu</string>
     <string name="remind_unlock_message">Cihazınız artık kilitli. %s cihazınızın kilidini açtıktan sonra kullanılabilir olacaktır. Şimdi kilidi açılsın mı?</string>
-    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_ SES< /dize>
+    <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_AUDIO;android.permission.READ_PHONE_STATE</string>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
     <string name="satellite_call_failed">Sinyal kesildi. Tekrar deneyin</string>
     <string name="satellite_debug_antenna">Anten</string>

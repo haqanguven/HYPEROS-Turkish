@@ -6173,7 +6173,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="mvno_type">MVNO türü</string>
     <string name="my_device">Cihazım</string>
     <string name="my_device_camera_params">Kamera özellikleri</string>
-    <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyut ve kamerayı içeren donanım bilgileri Xiaomi laboratuarları, tasarımcıları ve tedarikçileri tarafından sağlanmaktadır</string>
+    <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyutu ve kamera donanım bilgileri Xiaomi laboratuarları, tasarımcıları vede tedarikçileri tarafından sağlanmaktadır</string>
     <string name="my_device_front_camera">Ön kamera</string>
     <string name="my_device_guarantee">Garanti süresi</string>
     <string name="my_device_info_account_preference_title">Hesap</string>
@@ -11309,7 +11309,4 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="classic_widget_title">Klasik araçlar</string>
     <string name="search_box_title">Alt arama kutusu</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
-    <string name="call_night_brightness_title">Gece arama parlaklığı</string>
-    <string name="call_night_brightness_start_time_title">Başlangıç zamanı</string>
-    <string name="call_night_brightness_end_time_title">Bitiş zamanı</string>
 </resources>

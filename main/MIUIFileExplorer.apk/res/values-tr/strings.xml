@@ -232,7 +232,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="cloud_transfer_wait_download">İndirmek için bekleniyor</string>
     <string name="cloud_transfer_wait_network">İnternet bekleniyor</string>
     <string name="cloud_transfer_wait_upload">Yüklemek için bekleniyor</string>
-    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşanıyor. Lütfen tekrar deneyin</string>
     <string name="compress_fail">Sıkıştırılamadı. Aynı ada sahip bir dosya zaten mevcut</string>
     <string name="compress_fail_unknown">Sıkıştırılamadı. Depolama alanı dolu veya bilinmeyen bir hata meydana geldi</string>
     <string name="compress_message">Sıkıştır</string>
@@ -700,8 +700,8 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>

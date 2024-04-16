@@ -56,6 +56,6 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="volume_down_label">Sesi kıs</string>
+    <string name="volume_down_label">Sesi azalt</string>
     <string name="volume_up_label">Sesi yükselt</string>
 </resources>

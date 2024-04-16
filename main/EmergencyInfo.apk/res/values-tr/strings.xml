@@ -308,7 +308,7 @@ Oynatma kalitesi"</string>
     <string name="content_description_menu_button">Menü</string>
     <string name="copy">Kopyala</string>
     <string name="count_down_unit">s</string>
-    <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 second} other {# seconds} }</string>
+    <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 saniye} other {# saniye} }</string>
     <string name="creating_new_guest_dialog_message">Yeni bir konuk oluşturuluyor</string>
     <string name="creating_new_user_dialog_message">Yeni kullanıcı oluşturuluyor</string>
     <string name="daltonizer_mode_deuteranomaly">Defteranomali (Kırmızı-yeşil)</string>
