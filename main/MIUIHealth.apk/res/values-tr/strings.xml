@@ -7446,7 +7446,7 @@ Record each test to help you track your physical growth curve."</string>
     <string name="sport_rope_voice_announcements">Audio feedback</string>
     <string name="sport_rope_voice_announcements_tips">Turn on broadcast of jumps, duration changes</string>
     <string name="sport_route_create_on_date">created this route on %s</string>
-    <string name="sport_route_creative">Custom</string>
+    <string name="sport_route_creative">Özel</string>
     <string name="sport_route_distance_popularity_combo">%1$s | %2$s</string>
     <string name="sport_route_feedback_content_too_short">Feedback content is too short</string>
     <string name="sport_route_finished">Completed</string>

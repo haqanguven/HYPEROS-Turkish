@@ -144,6 +144,7 @@
     <string name="cancel">İptal et</string>
     <string name="cancel_choose">Seçimi kaldır</string>
     <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>
+    <string name="card_content_descriptor">card</string>
     <string name="cast_ad_label">Reklam</string>
     <string name="cast_casting_to_device">%1s cihazına yayınlanıyor</string>
     <string name="cast_closed_captions">Alt yazılar</string>
@@ -817,6 +818,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="hide">Gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_video_toast">Bu öğe gizlendi. Gizli öğeleri Yerel > Klasörler > Gizli öğeler bölümünde bulabilir ve yönetebilirsiniz</string>
+    <string name="hiding_dialog_ok">Ayarla</string>
     <string name="hint_icon_ad_title">Önerilen</string>
     <string name="hint_in_mivideo">Ek özellikler için yan paneli şimdi kontrol edebilirsiniz</string>
     <string name="history">Geçmiş</string>
@@ -1211,6 +1213,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_dialog_ok">Tamam</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
@@ -1226,6 +1229,8 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="mnc_live_unsubscribe_toast">Abonelikten başarıyla çıkıldı</string>
     <string name="mnc_subscribe_push_context">Şimdi izlemek için dokunun</string>
     <string name="mnc_subscribe_push_title">Akış başlıyor</string>
+    <string name="modal_content_descriptor">modal</string>
+    <string name="modal_inner_content_descriptor">modal iç</string>
     <string name="moment_guide_desc">Yakınlaşmak ve uzaklaşmak için hareket kullan</string>
     <string name="moment_tab_all">Tümü</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -1556,6 +1561,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
     <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için Xiaomi sürümünü güncelleyin</string>
+    <string name="play_at_normal_speed">1X hızda oynatılıyor</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Oynatma listesi oluştur</string>
     <string name="play_list_save_dialog_title">Çalma listesine ekle</string>
@@ -1733,6 +1739,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="remaining_space_not_enough">Yetersiz depolama alanı nedeniyle indirilemiyor</string>
     <string name="reminder">Uyarı</string>
     <string name="rename">Yeniden adlandır</string>
+    <string name="rename_dialog_ok">Tamam</string>
     <string name="rename_word_out">Bu dosya ismi çok uzun</string>
     <string name="repeat_play">Tekrar oynat</string>
     <string name="report">Bildir</string>
@@ -1803,6 +1810,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="shake_to_open_ad">Daha fazlasını öğrenmek için sallayın</string>
     <string name="share">Paylaş</string>
     <string name="share_text_before_link">Videolarda ücretsiz harika videolar izleyin ve indirin</string>
+    <string name="share_title">Paylaş</string>
     <string name="share_ugc_content">%1$s bir göz atın! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Katıl</string>
     <string name="share_ugc_waitting">Bağlantı adresi oluşturuluyor</string>
