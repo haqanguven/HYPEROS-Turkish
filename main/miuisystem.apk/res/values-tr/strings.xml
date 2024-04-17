@@ -35,6 +35,7 @@ EEEE"</string>
 mm"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_clock_city_name_local">Yerel</string>
     <string name="anti_aggression_day">Japon saldırganlık</string>
     <string name="arbor_day">Ağaç dikme günü</string>
