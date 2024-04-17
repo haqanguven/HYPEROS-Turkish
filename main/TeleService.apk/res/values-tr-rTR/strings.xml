@@ -2102,7 +2102,7 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="sum_cfb_disabled">Kapalı</string>
     <string name="sum_cfb_enabled">Şuraya yönlendiriliyor: {0}</string>
     <string name="sum_cfnl_disabled">Kapalı</string>
-    <string name="sum_cfnl_enabled">Forwarding to {0}</string>
+    <string name="sum_cfnl_enabled">"{0}'a yönlendiriliyor"</string>
     <string name="sum_cfnrc_disabled">Kapat</string>
     <string name="sum_cfnrc_enabled">Şu numaraya yönlendiriliyor: {0}</string>
     <string name="sum_cfnry_disabled">Kapalı</string>
@@ -2112,7 +2112,7 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="sum_cfu_enabled_indicator">Tüm aramalar yönlendiriliyor</string>
     <string name="sum_cfu_enabled_indicator_by_sim">Sim %s kartına gelen tüm aramalar yönlendirilecektir</string>
     <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
-    <string name="sum_common_call_settings">Additional call settings</string>
+    <string name="sum_common_call_settings">Ek arama ayarları</string>
     <string name="sum_cw_disabled">Görüşme sırasında gelen diğer aramaları bildirir</string>
     <string name="sum_cw_enabled">Arama sırasında gelen diğer aramaları bildirir</string>
     <string name="sum_default_caller_id">Giden aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="common_switch_type">
-        <item>Varsayılan</item>
-        <item>Açık</item>
-        <item>Kapalı</item>
-    </string-array>
     <string-array name="data_delimiter">
         <item>Virgül ayırıcı</item>
         <item>Boşluk ayırıcı</item>
@@ -23,13 +18,18 @@
         <item>Öğe devre dışı bırakıldı</item>
     </string-array>
     <string-array name="private_nv_backup_type">
-        <item>Gizlilik verileri ile birlikte (imei vb.)</item>
-        <item>Gizlilik verileri olmadan (imei vb.)</item>
+        <item>Gizlilik verileri ile birlikte</item>
+        <item>Gizlilik verileri olmadan</item>
     </string-array>
     <string-array name="sar_test_status">
-        <item>Kapat</item>
+        <item>Kapalı</item>
         <item>Varsayılan</item>
-        <item>Aç</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="string_array_common_switch_type">
+        <item>Kapalı</item>
+        <item>Açık</item>
+        <item>Varsayılan</item>
     </string-array>
     <string-array name="xiaomi_ramdump_type">
         <item>Varsayılan</item>

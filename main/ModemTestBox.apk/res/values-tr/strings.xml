@@ -169,7 +169,13 @@
     <string name="mtb_auto_anasys_tool_volte_video_rbt_up_down_analysis">Volte video call/RBT uplink and downlink analysis:</string>
     <string name="mtb_auto_anasys_tool_vonr_audio_rbt_up_down_analysis">Vonr audio call/RBT uplink and downlink analysis:</string>
     <string name="mtb_auto_anasys_tool_vonr_video_rbt_up_down_analysis">Vonr video call/RBT uplink and downlink analysis:</string>
+    <string name="mtb_cell_name">cell</string>
     <string name="mtb_cell_status_name">Hücre durumu</string>
+    <string name="mtb_chart_antenna_name">Antenna</string>
+    <string name="mtb_chart_rsrp_name">Rsrp</string>
+    <string name="mtb_chart_sinr_name">Sinr</string>
+    <string name="mtb_chart_tx_power_name">TxPower</string>
+    <string name="mtb_mccmnc_name">mccmnc</string>
     <string name="mtb_modem_auto_check_tool">Modem otomatik kontrolü</string>
     <string name="mtb_mtk_tool_call_analysis_tool">Ara</string>
     <string name="mtb_mtk_tool_data_analysis_tool">Ağ verileri</string>
@@ -496,9 +502,9 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_modem_test_stop">Dur</string>
     <string name="mtb_tool_modem_test_will_set">Test modunu açacak ve görevi yeniden başlatacak</string>
     <string name="mtb_tool_modem_user_panel">Kullanıcı paneli</string>
+    <string name="mtb_tool_mtb_power_on_start">MTB otomatik başlatma güc açık</string>
     <string name="mtb_tool_mtk_modem_diag">Modem bağlantı noktası</string>
     <string name="mtb_tool_mtk_modem_dump">Modem dökümünü tetikle</string>
-    <string name="mtb_tool_name">Rueban(MTB)V5.2</string>
     <string name="mtb_tool_no_repeat">Tekrar yok</string>
     <string name="mtb_tool_not_support">Desteklenmez</string>
     <string name="mtb_tool_nr_only">Yalnızca NR</string>

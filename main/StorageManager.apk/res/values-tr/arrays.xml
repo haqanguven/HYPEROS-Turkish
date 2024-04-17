@@ -82,9 +82,9 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ adaptif ses</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
         <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -94,10 +94,16 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
         <item>Qualcomm® aptX™ adaptif ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>LC3</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>. Aktif</item>
+        <item>. Aktif (Medya)</item>
+        <item>. Aktif (Telefon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (Varsayılan)</item>
@@ -116,7 +122,7 @@
         <item>Etkin</item>
         <item>Etkin başlıklar filtrelendi</item>
         <item>Etkin medya paketleri filtrelendi</item>
-        <item>Enabled Profiles Filtered</item>
+        <item>Etkinleştirilmiş profiller filtrelendi</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Yalnızca ACL başlıklarını bırakın</item>
@@ -146,7 +152,7 @@
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Hiçbiri</item>
-        <item>Logcat</item>
+        <item>Hata kaydı</item>
         <item>Systrace (Grafik)</item>
         <item>"glGetError'da yığın çağır"</item>
     </string-array>
@@ -172,7 +178,7 @@
         <item>4K (Güvenli)</item>
         <item>4K (Yukarı ölçeklenmiş)</item>
         <item>4K (Yukarı ölçeklenmiş - Güvenli)</item>
-        <item>720p, 1080p (çift ekran)</item>
+        <item>720p, 1080p (Çift ekran)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Kapalı</item>

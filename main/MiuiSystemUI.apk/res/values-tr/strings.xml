@@ -232,7 +232,7 @@ Ayarları görüntüle"</string>
     <string name="airplane_mode">Uçak modu</string>
     <string name="alarm_template">"%1$s'de"</string>
     <string name="alarm_template_far">"%1$s'de"</string>
-    <string name="all_network_unavailable">No networks available</string>
+    <string name="all_network_unavailable">Kullanılabilir ağ yok</string>
     <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
     <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
     <string name="am">ÖÖ</string>
@@ -499,6 +499,7 @@ Yeniden takmak için dokunun"</string>
     <string name="controls_media_empty_title">%1$s çalışıyor</string>
     <string name="controls_media_playing_item_description">%2$s tarafından %1$s, %3$s üzerinden çalınıyor</string>
     <string name="controls_media_resume">Devam et</string>
+    <string name="controls_media_seekbar_description">%1$s - %2$s</string>
     <string name="controls_media_settings_button">Ayarlar</string>
     <string name="controls_media_smartspace_rec_description">%1$s aç</string>
     <string name="controls_media_smartspace_rec_header">Senin için</string>
@@ -530,9 +531,7 @@ Cihaz uygulamanız, telefonunuzun veya tabletinizin kilidini açmadan bazı ciha
 
 Ayarlarda istediğiniz zaman değişiklik yapabilirsiniz"</string>
     <string name="controls_settings_show_controls_dialog_title">Cihazlar kilit ekranından gösterilsin mi ve kontrol edilsin mi?</string>
-    <string name="controls_settings_trivial_controls_dialog_message">"Bazı cihazları telefonunuzun veya tabletinizin kilidini açmadan kontrol edebilirsiniz
-
-Cihaz uygulamanız, hangi cihazların bu şekilde kontrol edilebileceğini belirler"</string>
+    <string name="controls_settings_trivial_controls_dialog_message">"Telefonunuzun veya tabletinizin kilidini açmadan bazı cihazları kontrol edebilirsiniz. Cihaz uygulamanız hangi cihazların bu şekilde kontrol edilebileceğini belirler"</string>
     <string name="controls_settings_trivial_controls_dialog_title">Cihazlar kilit ekranından kontrol edilsin mi?</string>
     <string name="controls_structure_tooltip">Daha fazlasını görmek için kaydırın</string>
     <string name="controls_tile_locked">Cihaz kilitli</string>
@@ -547,7 +546,7 @@ Cihaz uygulamanız, hangi cihazların bu şekilde kontrol edilebileceğini belir
     <string name="dark_mode_power_save_alert_dialog_confirm">Tamam</string>
     <string name="dark_mode_power_save_alert_dialog_message">"Sistem optimizasyonunu kapatıp pil tasarrufunu açarsanız karanlık mod otomatik olarak açılacaktır
 Karanlık modunu kapatmak için Ayarlar > Geliştirici seçenekleri > Sistem optimizasyonunu aç bölümünden pil tasarrufunu kapatın veya sistem optimizasyonunu açın"</string>
-     <string name="dark_mode_power_save_alert_dialog_title">Karanlık mod</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Karanlık mod</string>
     <string name="data_connection_no_internet">İnternet yok</string>
     <string name="data_connection_roaming">Dolaşım</string>
     <string name="data_saver">Veri tasarrufu</string>
@@ -637,7 +636,7 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="ethernet_label">Ethernet</string>
     <string name="evening">Öğleden sonra</string>
     <string name="expand_button_title">Gelişmiş</string>
-    <string name="expand_menu_text">Open Menu</string>
+    <string name="expand_menu_text">Menüyü aç</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="face_re_enroll_dialog_content">"Yüz tanıma kilidini tekrar ayarlamak için mevcut yüz modeliniz silinecek
 
@@ -674,6 +673,7 @@ Telefonunuzun kilidini açmak amacıyla yüzünüzü kullanmak için bu özelli�
     <string name="fgs_manager_app_item_stop_button_label">Dur</string>
     <string name="fgs_manager_app_item_stop_button_stopped_label">Durduruldu</string>
     <string name="fgs_manager_dialog_title">Aktif uygulamalar</string>
+    <string name="fgs_manager_footer_label">{count, plural, =1 {# uygulama etkin} other {# uygulama etkin} }</string>
     <string name="finger_error_single_mode">Tek elle modda parmak izi tarayıcı kullanılamaz. Tek el modundan çıkın ve tekrar deneyin</string>
     <string name="fingerprint_again_identified_msg">Parmak iziniz şimdi etkin. Parmak izinizi kullanarak cihaz kilidini açabilir veya şifre girebilirsiniz</string>
     <string name="fingerprint_again_identified_msg_password">"Parmak iziniz artık etkin
@@ -820,8 +820,7 @@ Bunlar silindikten sonra telefonunuzun kilidini açmak veya kimliğinizi doğrul
     <string name="hdmi_cec_set_menu_language_description">Başka bir cihaz tarafından sistem dili değişikliği talep edildi</string>
     <string name="hdmi_cec_set_menu_language_title">Sistem dilini %1$s olarak değiştirmek istiyor musunuz?</string>
     <string name="headset">Kulaklık</string>
-    <string name="health_chart_calories_schedule_format_desc">%1$s, %2$s</string>
-    <string name="health_chart_caloris_unit">Kalori</string>
+    <string name="health_chart_calories_unit">Kalori</string>
     <string name="health_chart_sleep_time_format">%1$s saat %2$s dakika</string>
     <string name="health_chart_sleep_time_good">Yeterli</string>
     <string name="health_chart_sleep_time_low">Yetersiz</string>
@@ -885,7 +884,7 @@ Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
     <string name="input_puk_code">Puk kodunu girin</string>
     <string name="input_second_pattern_after_restart_msg">Devam etmek için ikinci alan şifresini onaylayın</string>
     <string name="input_switch_input_language_next">Giriş dilini değiştir (Sonraki dil)</string>
-    <string name="input_switch_input_language_precious">Giriş dilini değiştir (Önceki dil)</string>
+    <string name="input_switch_input_language_previous">Giriş dilini değiştir (Önceki dil)</string>
     <string name="install_dialer_on_work_profile_action">Bir iş telefonu uygulaması yükleyin</string>
     <string name="install_type_instant">Hazır uygulama</string>
     <string name="instant_apps">Hazır uygulamalar</string>
@@ -959,7 +958,7 @@ Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
     <string name="keyguard_editor_super_save_mode_toast">Ultra pil tasarrufu açıkken kilit ekranı düzenlenemiyor</string>
     <string name="keyguard_enter_password">Parola gir</string>
     <string name="keyguard_enter_pattern">Desen çiz</string>
-    <string name="keyguard_enter_pin">PIN gir</string>
+    <string name="keyguard_enter_pin">Pin kodunu gir</string>
     <string name="keyguard_indication_charging_time">Şarj oluyor (Tam olarak %s)</string>
     <string name="keyguard_indication_charging_time_dock">%2$s • Şarj Yuvası • %1$s içinde dolu</string>
     <string name="keyguard_indication_charging_time_fast">Hızlı şarj (Tam olarak %s)</string>
@@ -1000,29 +999,34 @@ Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
     <string name="kg_invalid_confirm_pin_hint">Pin kodları eşleşmiyor</string>
     <string name="kg_invalid_sim_pin_hint">4 ila 8 sayı olan bir Pin yazın</string>
     <string name="kg_invalid_sim_puk_hint">Puk kodu 8 sayı veya daha fazla olmalıdır</string>
+    <string name="kg_password_default_pin_message">{count, plural, =1 {Sim Pin kodunuzu girin. Cihazınızın kilidini açmak için operatörünüzle iletişime geçmeden önce # deneme hakkınız kaldı} other {Sim Pin kodunuzu girin. # deneme hakkınız kaldı} }</string>
+    <string name="kg_password_default_puk_message">{count, plural, =1 {Sim artık devre dışı. Devam etmek için Puk kodunu girin. Sim kartınız kalıcı olarak kullanılamaz hale gelmesinden önce # deneme hakkınız kaldı. Ayrıntılar için operatörle iletişime geçin} other {Sim artık devre dışı. Devam etmek için Puk kodunuzu girin. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce # deneme hakkınız kaldı. Ayrıntılar için operatörle iletişime geçin} }</string>
     <string name="kg_password_pin_failed">Sim Pin işlemi başarısız oldu</string>
     <string name="kg_password_puk_failed">Sim Puk işlemi başarısız oldu</string>
+    <string name="kg_password_wrong_pin_code">{count, plural, =1 {Yanlış Sim Pin kodu. Cihazınızın kilidini açmak için operatörünüzle iletişime geçmeden önce # deneme hakkınız kaldı} other {Yanlış Sim Pin kodu; # deneme hakkınız kaldı} }</string>
     <string name="kg_password_wrong_pin_code_pukked">Yanlış Sim Pin kodu. Şimdi cihazınızın kilidini açmak için operatörünüze başvurmanız gerekir</string>
+    <string name="kg_password_wrong_puk_code">{count, plural, =1 {Yanlış Sim Puk kodu. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce # deneme hakkınız kaldı} other {Yanlış Sim Puk kodu. Sim kartınızın kalıcı olarak kullanılamaz hale gelmesinden önce # deneme hakkınız kaldı.} }</string>
     <string name="kg_password_wrong_puk_code_dead">Sim kullanılamaz. Operatörünüzle iletişim kurun</string>
     <string name="kg_prompt_after_update_password">Cihaz güncellendi. Devam etmek için şifreyi girin</string>
-    <string name="kg_prompt_after_update_pin">"Cihaz güncellendi. Devam etmek için PIN'i girin"</string>
+    <string name="kg_prompt_after_update_pin">"Cihaz güncellendi. Devam etmek için Pin'i girin"</string>
     <string name="kg_prompt_after_user_lockdown_password">Kilitlemeden sonra şifre gerekli</string>
-    <string name="kg_prompt_after_user_lockdown_pin">Kilitlemeden sonra PIN gerekli</string>
+    <string name="kg_prompt_after_user_lockdown_pin">Kilitlemeden sonra Pin gerekli</string>
     <string name="kg_prompt_reason_device_admin">Cihaz yöneticisi tarafından kilitlendi</string>
     <string name="kg_prompt_reason_restart_password">Kilidi açmak için şifreyi girin</string>
-    <string name="kg_prompt_reason_restart_pin">Kilidi açmak için pin kodunu girin</string>
+    <string name="kg_prompt_reason_restart_pin">Kilidi açmak için Pin kodunu girin</string>
     <string name="kg_prompt_reason_timeout_password">Ek güvenlik için şifre gereklidir</string>
     <string name="kg_prompt_reason_timeout_pattern">Ek güvenlik için desen gereklidir</string>
-    <string name="kg_prompt_reason_timeout_pin">Ek güvenlik için pin gereklidir</string>
+    <string name="kg_prompt_reason_timeout_pin">Ek güvenlik için Pin gereklidir</string>
     <string name="kg_prompt_reason_user_request">Cihaz el ile kilitlendi</string>
     <string name="kg_prompt_unattended_update_password">Güncellemeyi daha sonra yüklemek için şifreyi girin</string>
-    <string name="kg_prompt_unattended_update_pin">"Güncellemeyi daha sonra yüklemek için PIN'i girin"</string>
+    <string name="kg_prompt_unattended_update_pin">Güncellemeyi daha sonra yüklemek için Pin kodunuzu girin</string>
     <string name="kg_puk_enter_pin_hint">İstenen Pin kodunu girin</string>
     <string name="kg_puk_enter_puk_hint">Sim şimdi devre dışı. Devam etmek için Puk kodunu girin</string>
     <string name="kg_puk_enter_puk_hint_multi">Sim %1$s şimdi devre dışı bırakıldı. Devam etmek için Puk kodunu girin</string>
     <string name="kg_sim_lock_esim_instructions">"%1$s cihazı mobil hizmet olmadan kullanmak için eSim'i devre dışı bırakın"</string>
     <string name="kg_sim_pin_instructions">Sim Pin kodunu girin</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sim kartı kilidi açılıyor</string>
+    <string name="kg_too_many_failed_attempts_countdown">{count, plural, =1 {# saniye sonra tekrar deneyin} other {# saniye sonra tekrar deneyin} }</string>
     <string name="kg_wrong_password">Yanlış şifre</string>
     <string name="kg_wrong_pin">Yanlış Pin</string>
     <string name="label_view">Görüntüle</string>
@@ -1362,7 +1366,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="no_auto_saver_action">Hayır</string>
     <string name="no_conversations_text">Son konuşmalarınız burada görünecek</string>
     <string name="no_shortcut">%1$s konuşma özelliklerini desteklemiyor</string>
-    <string name="no_unseen_notif_text">No new notifications</string>
+    <string name="no_unseen_notif_text">Yeni bildirim yok</string>
     <string name="non_carrier_network_unavailable">Kullanılabilir başka ağ yok</string>
     <string name="noon">ÖS</string>
     <string name="not_default_data_content_description">Verileri kullanmak için ayarlanmadı</string>
@@ -1382,7 +1386,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="notification_channel_hints">İpuçları</string>
     <string name="notification_channel_instant">Hazır uygulamalar</string>
     <string name="notification_channel_screenshot">Ekran görüntüleri</string>
-    <string name="notification_channel_setup">Setup</string>
+    <string name="notification_channel_setup">Kurulum</string>
     <string name="notification_channel_storage">Depolama</string>
     <string name="notification_channel_summary_automatic">Sistemin bu bildirimin sesli mi yoksa titreşimli mi olacağını belirlemesini sağlayın</string>
     <string name="notification_channel_summary_automatic_alerted"><b>Durum:</b> Varsayılana yükseltildi</string>
@@ -1403,6 +1407,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="notification_delegate_header">Proxy ile bildirim</string>
     <string name="notification_disclosure_vpn_text">%1$s üzerinden</string>
     <string name="notification_group_collapse_button_text">Daralt</string>
+    <string name="notification_group_overflow_description">{count, plural, =1 {# bildirim daha içeride} other {# bildirim daha içeride} }</string>
     <string name="notification_hidden_text">İçerik gizlendi</string>
     <string name="notification_menu_gear_description">Bildirim kontrolleri</string>
     <string name="notification_menu_snooze_action">Bana hatırlat</string>
@@ -1621,6 +1626,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_googlepay_label">Google ödeme</string>
     <string name="quick_settings_hotspot_label">Bağlantı noktası</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Veri tasarrufu açık</string>
+    <string name="quick_settings_hotspot_secondary_label_num_devices">{count, plural, =1 {# cihaz} other {# cihaz} }</string>
     <string name="quick_settings_hotspot_secondary_label_transient">Açılıyor</string>
     <string name="quick_settings_hotspot_state_change_message_off">Bağlantı noktası kapalı</string>
     <string name="quick_settings_hotspot_state_change_message_on">Bağlantı noktası açık</string>
@@ -1785,18 +1791,18 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="screenshot_edit_label">Düzenle</string>
     <string name="screenshot_failed_title">Ekran resmi yakalanamadı</string>
     <string name="screenshot_failed_to_capture_text">Uygulama veya kuruluşunuz tarafından ekran görüntülerine izin verilmiyor</string>
-    <string name="screenshot_failed_to_save_text">Sınırlı depolama alanı nedeniyle ekran görüntüsü kaydedilemiyor</string>
+    <string name="screenshot_failed_to_save_text">Sınırlı depolama alanı nedeniyle ekran resmi kaydedilemiyor</string>
     <string name="screenshot_failed_to_save_unknown_text">Ekran resmi kaydedilirken bir hata oluştu</string>
     <string name="screenshot_failed_to_save_user_locked_text">Ekran görüntüsünün kaydedilebilmesi için cihazın kilidi açılmalıdır</string>
     <string name="screenshot_left_boundary_pct">Sol sınır yüzde %1$d</string>
-    <string name="screenshot_preview_description">Ekran görüntüsü önizlemesi</string>
+    <string name="screenshot_preview_description">Ekran resmi önizlemesi</string>
     <string name="screenshot_right_boundary_pct">Sağ sınır yüzde %1$d</string>
     <string name="screenshot_saved_title">Ekran resmi yakalandı</string>
     <string name="screenshot_saving_title">Ekran resmi kaydediliyor</string>
-    <string name="screenshot_saving_work_profile_title">Ekran görüntüsü iş profiline kaydediliyor</string>
+    <string name="screenshot_saving_work_profile_title">Ekran resmi iş profiline kaydediliyor</string>
     <string name="screenshot_scroll_label">Daha fazlasını yakala</string>
     <string name="screenshot_share_description">Ekran görüntüsünü paylaş</string>
-    <string name="screenshot_text">Screenshot</string>
+    <string name="screenshot_text">Ekran resmi</string>
     <string name="screenshot_top_boundary_pct">Üst sınır yüzde %1$d</string>
     <string name="screenshot_work_profile_notification">İş profilinde %1$s konumuna kaydedildi</string>
     <string name="security_settings_sfps_enroll_find_sensor_message">Parmak izi sensörü güç düğmesinin üzerindedir. Telefonun kenarındaki yükseltilmiş ses düğmesinin yanındaki düz düğmedir</string>
@@ -1813,7 +1819,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="sensor_privacy_dialog_open_settings">Ayarları aç</string>
     <string name="sensor_privacy_htt_blocked_dialog_content">Mikrofon düğmesini kullanmak için ayarlarda mikrofon erişimini etkinleştirin</string>
     <string name="sensor_privacy_mic_blocked_no_ Exception_dialog_content">Tüm uygulamalar ve hizmetler için mikrofon erişimi devre dışı bırakıldı. Mikrofon erişimini Ayarlar > Gizlilik > Mikrofondan etkinleştirebilirsiniz</string>
-    <string name="sensor_privacy_mic_blocked_with_ Exception_dialog_content">Tüm uygulamalar ve hizmetler için mikrofon erişimi devre dışı bırakıldı. Bunu Ayarlar > Gizlilik > Mikrofondan değiştirebilirsiniz</string>
+    <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">Tüm uygulamalar ve hizmetler için mikrofon erişimi devre dışı bırakıldı. Bunu Ayarlar > Gizlilik > Mikrofondan değiştirebilirsiniz</string>
     <string name="sensor_privacy_mic_camera_unblocked_toast_content">Mikrofon ve kamera mevcut</string>
     <string name="sensor_privacy_mic_turned_off_dialog_title">Mikrofon kapatıldı</string>
     <string name="sensor_privacy_mic_turned_on_dialog_title">Mikrofon açık</string>
@@ -1844,6 +1850,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="slice_permission_text_1">"- %1$s'den gelen bilgileri okuyabilir"</string>
     <string name="slice_permission_text_2">- %1$s içinde işlem yapabilir</string>
     <string name="slice_permission_title">"%1$s'in %2$s dilimlerini göstermesine izin verilsin mi?"</string>
+    <string name="snoozeHourOptions">{count, plural, =1 {# saat} =2 {# saat} few {# saat} other {# saat} }</string>
+    <string name="snoozeMinuteOptions">{count, plural, =1 {# dakika} few {# dakika} other {# dakika} }</string>
     <string name="snooze_undo">Geri al</string>
     <string name="snoozed_for_time">%1$s için ertelendi</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
@@ -1930,7 +1938,8 @@ Telefonunuz çok ısınabilir:
 • Yoğun kaynak gerektiren uygulamaları kullanın (Oyun, video veya navigasyon uygulamaları gibi)
 • Büyük dosyaları indirin veya yükleyin
 • Telefonunuzu yüksek sıcaklıklarda kullanın"</string>
-    <string name="thermal_shutdown_message">Telefonunuz normal şekilde çalışıyor</string>
+    <string name="thermal_shutdown_message">"Telefonunuz artık normal şekilde çalışıyor.
+Daha fazla bilgi için dokunun"</string>
     <string name="thermal_shutdown_title">Telefon ısı nedeniyle kapalı</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
@@ -1968,7 +1977,7 @@ Telefonunuz çok ısınabilir:
     <string name="tv_notification_panel_no_notifications">Bildirim yok</string>
     <string name="tv_notification_panel_title">Bildirimler</string>
     <string name="two_weeks_timestamp">2 hafta önce</string>
-    <string name="ultraviolet_rays_abbreviation">UVI</string>
+    <string name="ultraviolet_rays_abbreviation">UIK</string>
     <string name="unknown">Bilinmiyor</string>
     <string name="unlock_failed">İç hata</string>
     <string name="unlock_to_see_notif_text">Daha eski bildirimleri görmek için kilidi açın</string>
@@ -2021,7 +2030,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="using_camera">Bu uygulama kamera kullanıyor</string>
     <string name="using_camera_and_microphone">Bu uygulama ses kaydediyor ve kamera kullanıyor</string>
     <string name="using_microphone">Bu uygulama ses kaydediyor</string>
-    <string name="uvi_format">UVI %1$s %2$s</string>
+    <string name="uvi_format">UIK %1$s %2$s</string>
     <string name="uvi_format_desc">Ultraviyole indeksi: %1$s, %2$s</string>
     <string name="v7_preference_off">Kapat</string>
     <string name="v7_preference_on">Aç</string>

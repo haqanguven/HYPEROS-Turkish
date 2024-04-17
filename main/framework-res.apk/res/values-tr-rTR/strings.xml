@@ -301,7 +301,7 @@ Bu kısayolu Ayarlar > Erişilebilirlikte başka bir özellikle değiştirebilir
     <string name="app_streaming_blocked_title_for_fingerprint_dialog">Telefonda devam et</string>
     <string name="app_streaming_blocked_title_for_microphone_dialog">Mikrofon kullanılamıyor</string>
     <string name="app_streaming_blocked_title_for_permission_dialog">İzin gerekli</string>
-    <string name="app_streaming_blocked_title_for_playstore_dialog">Play Store unavailable</string>
+    <string name="app_streaming_blocked_title_for_playstore_dialog">Play Store kullanılamıyor</string>
     <string name="app_streaming_blocked_title_for_settings_dialog">Telefon ayarları kullanılamıyor</string>
     <string name="app_suspended_default_message">%1$s uygulaması şu anda kullanılamıyor. Uygulamanın kullanım durumu %2$s tarafından yönetiliyor</string>
     <string name="app_suspended_more_details">Daha fazla bilgi</string>
@@ -315,6 +315,7 @@ Bu kısayolu Ayarlar > Erişilebilirlikte başka bir özellikle değiştirebilir
     <string name="autofill_error_cannot_autofill">İçerikler otomatik doldurulamıyor</string>
     <string name="autofill_picker_accessibility_title">Otomatik doldurma seçenekleri</string>
     <string name="autofill_picker_no_suggestions">Otomatik doldurma önerisi yok</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, =1 {Otomatik doldurma önerisi} other {# otomatik doldurma önerisi} }</string>
     <string name="autofill_save_accessibility_title">Otomatik Doldurma için kaydedin</string>
     <string name="autofill_save_never">Asla</string>
     <string name="autofill_save_no">Hayır</string>
@@ -360,6 +361,7 @@ Bu kısayolu Ayarlar > Erişilebilirlikte başka bir özellikle değiştirebilir
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Devam etmek için biyometrik veya ekran kilidinizi kullanın</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth ses</string>
     <string name="bluetooth_airplane_mode_toast">Bluetooth uçak modu sırasında açık kalacak</string>
+    <string name="bugreport_countdown">{count, plural, =1 {# saniyede hata raporu için ekran görüntüsü alınıyor} other {# saniyede hata raporu için ekran görüntüsü alınıyor} }</string>
     <string name="bugreport_message">Bu rapor e-posta iletisi olarak göndermek üzere cihazınızın şu anki durumuyla ilgili bilgi toplar. Hata raporu başlatıldıktan sonra hazır olması biraz zaman alabilir, lütfen sabırlı olun</string>
     <string name="bugreport_option_full_summary">Cihazınız yanıt vermediğinde veya çok yavaş çalıştığında ya da tüm rapor bölümlerine ihtiyacınız olduğunda, sisteme müdahaleyi en aza indirmek için bu seçeneği kullanın. Daha fazla ayrıntı girmenize veya başka ekran görüntüleri almanıza izin vermez</string>
     <string name="bugreport_option_full_title">Tam rapor</string>
@@ -483,7 +485,7 @@ Kulaklık ses seviyesi önerilenden yüksek olduğundan işitme duyunuza zarar v
     <string name="default_audio_route_category_name">Sistem</string>
     <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_dock_speakers">Yuva hoparlörleri</string>
-    <string name="default_audio_route_name_external_device">External Device</string>
+    <string name="default_audio_route_name_external_device">Harici cihaz</string>
     <string name="default_audio_route_name_headphones">Kulaklıklar</string>
     <string name="default_audio_route_name_usb">USB</string>
     <string name="default_card_name">Kart %d</string>
@@ -524,6 +526,20 @@ Kulaklık ses seviyesi önerilenden yüksek olduğundan işitme duyunuza zarar v
     <string name="dump_heap_system_text">%1$s işlemi %2$s olan bellek sınırını aştı. Yığın dökümü paylaşmanız için hazır. Dikkatli olun: Bu yığın dökümü işlemin erişiminin olduğu yazdığınız şeyler gibi hassas kişisel bilgiler içerebilir</string>
     <string name="dump_heap_text">%1$s işlemi %2$s olan işlem bellek sınırını aştı. İşlemin geliştiricisiyle paylaşabileceğiniz bir bellek yığını dökümü hazır. Dikkat: Bu bellek yığını dökümü uygulamanın erişebildiği tüm kişisel bilgilerinizi içerebilir</string>
     <string name="dump_heap_title">Yığın dökümü paylaşılsın mı?</string>
+    <string name="duration_days_relative">{count, plural, =1 {# gün önce} other {# gün önce} }</string>
+    <string name="duration_days_relative_future">{count, plural, =1 {# gün} other {# gün} }</string>
+    <string name="duration_days_shortest">%d gün</string>
+    <string name="duration_days_shortest_future">%d gün içinde</string>
+    <string name="duration_hours_relative">{count, plural, =1 {# saat önce} other {# saat önce} }</string>
+    <string name="duration_hours_relative_future">{count, plural, =1 {# saat} other {# saat} }</string>
+    <string name="duration_hours_shortest">%d saat</string>
+    <string name="duration_hours_shortest_future">%d saat</string>
+    <string name="duration_minutes_relative">{count, plural, =1 {# dakika önce} other {# dakika önce} }</string>
+    <string name="duration_minutes_relative_future">{count, plural, =1 {# dakika} other {# dakika} }</string>
+    <string name="duration_minutes_shortest">%d dakika</string>
+    <string name="duration_minutes_shortest_future">%d dakika içinde</string>
+    <string name="duration_years_relative">{count, plural, =1 {# yıl önce} other {# yıl önce} }</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# yıl} other {# yıl} }</string>
     <string name="duration_years_shortest">%d yıl</string>
     <string name="duration_years_shortest_future">%d yıl içinde</string>
     <string name="dynamic_mode_notification_channel_name">Rutin modu bilgi bildirimi</string>
@@ -656,6 +672,7 @@ Sorularınız varsa kuruluşunuzun yöneticisine başvurun"</string>
     <string name="failed_to_copy_to_clipboard">Panoya kopyalanamadı</string>
     <string name="fcComplete">Özellik kodu tamamlandı</string>
     <string name="fcError">Bağlantı sorunu veya geçersiz özellik kodu</string>
+    <string name="file_count">{count, plural, =1 {{file_name} + # dosya} other {{file_name} + # dosya} }</string>
     <string name="find">Bul</string>
     <string name="find_next">Sonrakini bul</string>
     <string name="find_on_page">Sayfada bul</string>
@@ -829,12 +846,12 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="js_dialog_before_unload_title">Gezinmeyi onayla</string>
     <string name="js_dialog_title">%s adresindeki sayfada şunlar belirtiliyor:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="keyboard_layout_notification_more_than_third_selected_message">Klavye düzeni %1$s, %2$s, %3$s olarak ayarlandı. Değiştirmek için dokunun</string>
+    <string name="keyboard_layout_notification_more_than_three_selected_message">Klavye düzeni %1$s, %2$s, %3$s olarak ayarlandı. Değiştirmek için dokunun</string>
     <string name="keyboard_layout_notification_multiple_selected_message">Klavyeleri görüntülemek için dokunun</string>
     <string name="keyboard_layout_notification_multiple_selected_title">Fiziksel klavyeler yapılandırıldı</string>
     <string name="keyboard_layout_notification_one_selected_message">Klavye düzeni %s olarak ayarlandı. Değiştirmek için dokunun</string>
     <string name="keyboard_layout_notification_selected_title">%s yapılandırıldı</string>
-    <string name="keyboard_layout_notification_third_selected_message">Klavye düzeni %1$s, %2$s, %3$s olarak ayarlandı. Değiştirmek için dokunun</string>
+    <string name="keyboard_layout_notification_three_selected_message">Klavye düzeni %1$s, %2$s, %3$s olarak ayarlandı. Değiştirmek için dokunun</string>
     <string name="keyboard_layout_notification_two_selected_message">Klavye düzeni %1$s, %2$s olarak ayarlandı. Değiştirmek için dokunun</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">İptal et</string>
@@ -921,8 +938,9 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="language_picker_section_all">Tüm diller</string>
     <string name="language_picker_section_suggested">Önerilen</string>
     <string name="language_picker_section_suggested_bilingual">Önerilen diller</string>
-    <string name="language_selection_title">Dil ekleyin</string>
+    <string name="language_selection_title">Dil ekle</string>
     <string name="last_month">Son ay</string>
+    <string name="last_num_days">{ count, plural, =1 {Son # gün} other {Son # gün} }</string>
     <string name="launchBrowserDefault">Tarayıcı başlatılsın mı?</string>
     <string name="launch_warning_original">İlk olarak %1$s başlatıldı</string>
     <string name="launch_warning_replace">%1$s şimdi çalışıyor</string>
@@ -1019,6 +1037,7 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="managed_profile_label_badge">%1$s (İş)</string>
     <string name="managed_profile_label_badge_2">İş için 2. %1$s</string>
     <string name="managed_profile_label_badge_3">İş için 3. %1$s</string>
+    <string name="matches_found">{ count, plural, =1 {# eşleşme} other {# {Toplam}} }</string>
     <string name="maximize_button_text">Ekranı kapla</string>
     <string name="me">Ben</string>
     <string name="media_route_button_content_description">Yayınla</string>
@@ -1043,7 +1062,7 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="mediasize_na_letter">Mektup</string>
     <string name="mediasize_na_monarch">Hükümdar</string>
     <string name="mediasize_na_quarto">Oda</string>
-    <string name="mediasize_na_super_b">Super B</string>
+    <string name="mediasize_na_super_b">Süper B</string>
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">Bilinmeyen yatay</string>
     <string name="mediasize_unknown_portrait">Bilinmeyen dikey</string>
@@ -1662,6 +1681,7 @@ izin isteğinde bulunuldu"</string>
     <string name="profile_encrypted_title">Bazı işlevler sınırlanabilir</string>
     <string name="progress_erasing">Paylaşılan depolama alanı siliniyor</string>
     <string name="quick_contacts_not_available">Bu kişiyi görüntüleyecek uygulama bulunamadı</string>
+    <string name="rating_label">{ rating, plural, =1 {{max} üzerinden bir yıldız} other {{max} üzerinden # yıldız} }</string>
     <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
     <string name="reason_unknown">Bilinmiyor</string>
     <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir</string>
@@ -1853,6 +1873,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir"</s
     <string name="ssl_ca_cert_noti_by_administrator">İş profili yöneticiniz tarafından</string>
     <string name="ssl_ca_cert_noti_by_unknown">Bunu bilinmeyen üçüncü taraflar yapabilir</string>
     <string name="ssl_ca_cert_noti_managed">%s tarafından</string>
+    <string name="ssl_ca_cert_warning">{count, plural, =1 {Sertifika yetkilisi yüklendi} other {Sertifika yetkilisi yüklendi} }</string>
     <string name="ssl_certificate">Güvenlik sertifikası</string>
     <string name="ssl_certificate_is_valid">Bu sertifika geçerli</string>
     <string name="status_communication_speaker_summary">Eller serbest arama devam ediyor. Kulaklıklar bağlandığında ses hala hoparlör aracılığıyla çalınır</string>
@@ -2080,6 +2101,14 @@ Kapatmak ister misiniz?"</string>
     <string name="zen_mode_default_weekends_name">Hafta sonu</string>
     <string name="zen_mode_default_weeknights_name">Hafta içi gece</string>
     <string name="zen_mode_downtime_feature_name">Bildirim istenmeyen zaman</string>
+    <string name="zen_mode_duration_hours">{count, plural, =1 {1 saat boyuncu} other {# saat boyunca} }</string>
+    <string name="zen_mode_duration_hours_short">{count, plural, =1 {1 saat boyunca} other {# saat boyunca} }</string>
+    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {1 saat boyunca ({formattedTime} tarihine kadar)} other {# saat boyunca ({formattedTime} tarihine kadar)} }</string>
+    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {For 1 hr (until {formattedTime})} other {For # hr (until {formattedTime})} }</string>
+    <string name="zen_mode_duration_minutes">{count, plural, =1 {Bir dakika boyunca} other {# dakika boyunca} }</string>
+    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {Bir dakika boyunca} other {# dakika boyunca} }</string>
+    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {Bir dakika boyunca ({formattedTime} tarihine kadar)} other {# dakika boyunca ({formattedTime} tarihine kadar)} }</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {1 dakika boyunca ({formattedTime} tarihine kadar)} other {# dakika boyunca ({formattedTime} tarihine kadar)} }</string>
     <string name="zen_mode_feature_name">Rahatsız etme</string>
     <string name="zen_mode_forever">Siz kapatana kadar</string>
     <string name="zen_mode_forever_dnd">Rahatsız etme ayarını kapatana kadar</string>
