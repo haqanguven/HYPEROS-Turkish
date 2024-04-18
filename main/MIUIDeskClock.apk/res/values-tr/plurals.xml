@@ -141,11 +141,11 @@
         <item quantity="one">%1$d saniye</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">+%s  saat</item>
-        <item quantity="one">+%s  saat</item>
+        <item quantity="other">+%s saat</item>
+        <item quantity="one">+%s saat</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">-%s saat geride</item>
-        <item quantity="one">-%s saat geride</item>
+        <item quantity="other">-%s saat</item>
+        <item quantity="one">-%s saat</item>
     </plurals>
 </resources>

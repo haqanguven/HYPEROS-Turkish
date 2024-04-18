@@ -341,12 +341,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
-        <item>İsteğe bağlı codec bileşenlerini devre dışı bırakın</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -357,12 +357,12 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ uyarlanabilir ses</item>
         <item>Qualcomm® aptX™ TWS+ ses</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>İsteğe bağlı kodekleri etkinleştir</item>
         <item>İsteğe bağlı kodekleri devre dışı bırak</item>
-        <item>İsteğe bağlı codec bileşenlerini devre dışı bırakın</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -376,9 +376,9 @@
         <item>Telefonun hoparlöründe oynat</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Varsayılan)</item>
+        <item>AVRCP 1.5 (Varsayılan)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_broadcast_pin_config_titles">
@@ -401,11 +401,11 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Devre dışı</item>
-        <item>Etkin filtre uygulandı</item>
+        <item>Filtrelendi</item>
         <item>Etkin</item>
         <item>Etkin başlıklar filtrelendi</item>
-        <item>Etkin medya puanları filtrelendi</item>
-        <item>Enabled Profiles Filtered</item>
+        <item>Etkin medya paketleri filtrelendi</item>
+        <item>Etkinleştirilmiş profiller filtrelendi</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Yalnızca ACL başlıklarını filtrele</item>
@@ -464,14 +464,14 @@
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
         <item>Varsayılan</item>
-        <item>Sans serif</item>
-        <item>Sans serif dar</item>
-        <item>Sans serif sabit aralıklı</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif yoğun</item>
+        <item>Sans-serif aralıklı</item>
         <item>Serif</item>
-        <item>Serif sabit aralıklı</item>
-        <item>Gayriresmî</item>
+        <item>Serif aralıklı</item>
+        <item>Rahat</item>
         <item>El yazısı</item>
-        <item>küçük büyük harfler</item>
+        <item>Küçük harfler</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Sadece ev</item>
@@ -541,10 +541,9 @@
         <item>Alanları renk körlüğüne uygun olarak göster</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>Doğrula</item>
+        <item>Doğrulama</item>
         <item>Sertifika durumu iste</item>
-        <item>Sertifika durumunu gerektir</item>
-        <item>Tüm güvenilmeyen sertifika durumlarını gerekli kıl</item>
+        <item>Sertifika durumu gerektir</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Hiçbiri</item>
@@ -733,6 +732,14 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Ağ zayıf sinyal gücü nedeniyle yavaş</item>
         <item>Taşınıyor</item>
     </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>Ödeme, erişim ve akıllı ev kartları</item>
+        <item>Bluetooth eşleştirme, kablosuz bağlantı ve akıllı ev kartları</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Tüm kartlar</item>
+        <item>Sistem tarafından tanınan kartlar</item>
+    </string-array>
     <string-array name="nfc_payment_favor">
         <item>Herzaman</item>
         <item>Başka bir ödeme uygulamasının açık olduğu zamanlar hariç</item>
@@ -854,7 +861,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Orta</item>
         <item>Düşük</item>
         <item>Kritik</item>
-        <item>\\</item>
+        <item>\?</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>Sol el tarzı</item>
@@ -940,11 +947,11 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Kapalı</item>
-        <item>64KB</item>
-        <item>256KB</item>
-        <item>1MB</item>
-        <item>4MB</item>
-        <item>16MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Kapalı</item>
@@ -996,7 +1003,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>İzin ver</item>
-        <item>Yoksay</item>
+        <item>Reddet</item>
     </string-array>
     <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>Asla</item>
@@ -1010,7 +1017,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     </string-array>
     <string-array name="tabs_taptic_detail_m2">
         <item>Canlı</item>
-        <item>Sağlam</item>
+        <item>Katı</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Şarj oluyor</item>
@@ -1065,15 +1072,15 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Çince konuşma sentezine bir örnektir</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Çok yavaş</item>
-        <item>Yavaş</item>
-        <item>Normal</item>
-        <item>Hızlı</item>
-        <item>Daha hızlı</item>
-        <item>Çok hızlı</item>
-        <item>Seri</item>
-        <item>Çok seri</item>
-        <item>En hızlı</item>
+        <item>%60</item>
+        <item>%80</item>
+        <item>%100</item>
+        <item>%150</item>
+        <item>%200</item>
+        <item>%250</item>
+        <item>%300</item>
+        <item>%350</item>
+        <item>%400</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Çok yavaş</item>
@@ -1153,7 +1160,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Sadece wifi ağı</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
-        <item>Tercih edilen ims</item>
+        <item>Tercih edilen</item>
         <item>Wifi</item>
         <item>Mobil</item>
         <item>Sadece wifi</item>
@@ -1163,20 +1170,20 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Mobil</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
-        <item>Tercih edilen ims</item>
+        <item>Tercih edilen</item>
         <item>Wifi</item>
         <item>Mobil</item>
     </string-array>
     <array name="wifi_calling_mode_choices_with_ims_preferred">
         <item>Tercih edilen</item>
-        <item>@null</item>
-        <item>@null</item>
-        <item>@null</item>
+        <item>@android:string/wfc_mode_wifi_preferred_summary</item>
+        <item>@android:string/wfc_mode_cellular_preferred_summary</item>
+        <item>@android:string/wfc_mode_wifi_only_summary</item>
     </array>
     <array name="wifi_calling_mode_choices_without_wifi_only_with_ims_preferred">
         <item>Tercih edilen</item>
-        <item>@null</item>
-        <item>@null</item>
+        <item>@android:string/wfc_mode_wifi_preferred_summary</item>
+        <item>@android:string/wfc_mode_cellular_preferred_summary</item>
     </array>
     <string-array name="wifi_connect_type_entries">
         <item>Otomatik bağlan</item>

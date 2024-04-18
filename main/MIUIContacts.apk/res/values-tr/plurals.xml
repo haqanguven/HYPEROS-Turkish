@@ -33,6 +33,18 @@
         <item quantity="other">%1$d kişi silinsin mi?</item>
         <item quantity="one">%1$d kişi silinsin mi?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" gün"</item>
+        <item quantity="one">" gün"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" saat"</item>
+        <item quantity="one">" saat"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" dakika"</item>
+        <item quantity="one">" dakika"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">%1$d kişiyi sil</item>
         <item quantity="one">%1$d kişiyi sil</item>

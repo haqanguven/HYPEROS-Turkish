@@ -555,6 +555,8 @@
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_category_group_collapse">Daralt</string>
+    <string name="miuix_navigator_category_group_expand">Genişlet</string>
     <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
@@ -768,6 +770,7 @@
     <string name="pref_title_quick_note">Hızlı notlar</string>
     <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="privacy_preference">ICP kayıt numarası: Pekin ICP No. 10046444-74A</string>
     <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>

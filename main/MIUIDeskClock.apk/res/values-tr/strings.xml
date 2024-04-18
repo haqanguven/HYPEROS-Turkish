@@ -184,6 +184,7 @@
     <string name="click_to_cancel_alarm">Kapatmak için dokunun</string>
     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
+    <string name="clock_information_ipc">ICP kayıt numarası: Pekin ICP No. 10046444-57A</string>
     <string name="close">Kapat</string>
     <string name="close_alarm">Kapat</string>
     <string name="close_alarm_new">Durdur</string>

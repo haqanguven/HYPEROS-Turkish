@@ -35,7 +35,9 @@
     <string name="ai_mode_auto">Otomatik</string>
     <string name="ai_mode_manual">El ile</string>
     <string name="ai_mode_subtitles">Altyazılar</string>
+    <string name="align_satellite_model_call">Ara</string>
     <string name="align_satellite_model_exit">Çıkış</string>
+    <string name="align_satellite_model_mms">Mesaj</string>
     <string name="align_satellite_model_use">Başlat</string>
     <string name="align_satellite_model_use_exp">Bitti</string>
     <string name="am">ÖÖ</string>
@@ -73,6 +75,7 @@
     <string name="call_progress_info_user_busy">Kullanıcı meşgul</string>
     <string name="call_progress_info_user_call_rejected">Kullanıcı - Arama reddedildi</string>
     <string name="call_record_wait_label">Bekliyor</string>
+    <string name="call_recording">Arama kaydı devam ediyor</string>
     <string name="call_recording_deny_permission_msg">Kayıt iznini devre dışı bıraktınız. Kayıt edilemiyor</string>
     <string name="call_recording_error_low_storage">Depolama alanında yeterli boş alan yok</string>
     <string name="call_recording_error_privacy">Ziyaretçi modunda kayıt yapılamıyor</string>
@@ -520,10 +523,14 @@ cihazınızı sağa eğin"</string>
     <string name="satellite_guide_signal">Daha iyi bir sinyal için cihazınızı hafifçe yukarı aşağı hareket ettirin</string>
     <string name="satellite_guide_up">"Uydu simgesini mavi alana koymak için
 cihazınızı yukarı eğin"</string>
-    <string name="satellite_incall_tip">Hoparlör açık</string>
+    <string name="satellite_incall_tip">Uydu iletişimini kullanırken kulaklık kullanılamıyor</string>
+    <string name="satellite_knew">Tamam</string>
     <string name="satellite_latitude_longitude">"Mevcut konum: "</string>
+    <string name="satellite_location_deny_permission_msg">Tiantong uydu iletişimlerini açmak için konum erişimine izin verin</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
+    <string name="satellite_signal_boost_setting_dialog">Kurulduktan ve etkinleştirildikten sonra sinyal amplifikatörü bu ünitenin uyduya olan açısını hafifçe değiştirerek bulutlu ve bulutlu koşullarda uydu iletişiminin sinyal gücünü ve stabilitesini artırır</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Uydu sinyal amplifikatörünü kurun ve kullanmaya başlayın</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
     <string name="satellite_state_auto_exit">Çık (%d saniye)</string>
     <string name="satellite_state_connected">"Uyduya bağlı
