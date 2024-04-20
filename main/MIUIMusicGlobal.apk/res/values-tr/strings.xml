@@ -169,6 +169,7 @@
     <string name="asm_google_query_failed">Ürün bilgisi alınamadı</string>
     <string name="asm_google_service_failed">Google hizmetleri başlatılamadı. Tekrar deneyin</string>
     <string name="asm_gooleplay_notice">Google Play hizmetleri yüklü değil</string>
+    <string name="asm_item_not_available">öğe mevcut değil</string>
     <string name="asm_loadstate_error_retry">İnternete bağlanın ve tekrar denemek için dokunun</string>
     <string name="asm_loadstate_not_more">Şimdilik bu kadar</string>
     <string name="asm_network_error">Ağ bağlantınızı kontrol edin</string>
@@ -189,6 +190,7 @@
     <string name="asm_pay_order_generate_failed">Sipariş oluşturulamadı</string>
     <string name="asm_pay_query_overtime">Ödeme durumu talebi zaman aşımını uğradı</string>
     <string name="asm_privacy_desc">Wansheng gizlilik politikası</string>
+    <string name="asm_privacy_policy_url">https://fra-mi-h5.allsaints.tv/#/privacy-policy.html</string>
     <string name="asm_privacy_tips_content">"Çevrim içi müzik hizmetlerini kullanabilmek için <a href="/link/click">Wansheng gizlilik politikasını</a> kabul edin"</string>
     <string name="asm_privacy_tips_title">Wansheng gizlilik politikası</string>
     <string name="asm_pro_center">Üyelik</string>
@@ -252,8 +254,9 @@
     <string name="back_confirm">Uygulamayı arkaplana itmek için dokunun</string>
     <string name="banner_op">Müzikler</string>
     <string name="best_experience">En iyi deneyim</string>
-    <string name="billion_char">%sB</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
+    <string name="boldFont">sans-serif-medium</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
     <string name="brvah_load_complete">Daha fazlasını yüklemek için tıklayın</string>
@@ -385,8 +388,8 @@
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">b9df9b206727482e8a87bb972bbab257</string>
-    <string name="com.miapm.build_id">c5544cac5b644c7aa2c61fc9daaab972</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">8a1b87921fa449ae9a06a0b191f54260</string>
+    <string name="com.miapm.build_id">038e6202ece14a57b2f3a134434f308d</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
@@ -751,8 +754,8 @@
     <string name="filter_by_folder">Klasöre göre</string>
     <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
     <string name="filter_by_size">Boyuta göre</string>
-    <string name="filter_by_size_max">%dMB</string>
-    <string name="filter_by_size_min">%dKB</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
     <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
     <string name="filter_distinct">Kullanıcı</string>
@@ -763,7 +766,7 @@
     <string name="filter_rectangle">Taslak</string>
     <string name="filter_rotate">Döndür</string>
     <string name="filter_sharpening">Taslak</string>
-    <string name="filter_size_unit">%dKB</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="filter_sketch">Taslak</string>
     <string name="find_you_tunes">Müziklerinizi bulun</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
@@ -1031,6 +1034,7 @@
     <string name="loading_reached_the_bottom">Şimdilik bu kadar</string>
     <string name="loading_text">Yükleniyor</string>
     <string name="local_ad_title">Tanıtım</string>
+    <string name="local_count_and_path">%1$d %2$s</string>
     <string name="local_download_download">İndir</string>
     <string name="local_download_hint">İndirmeden önce wifi ağını açın</string>
     <string name="local_download_item">Ücretsiz indirin</string>
@@ -1048,6 +1052,10 @@
     <string name="local_page_artist_more">Daha fazla %s şarkısı</string>
     <string name="local_page_playlist">Listeler</string>
     <string name="local_page_song_download_history">İndirilenler</string>
+    <string name="lock_screen_music_settings">Müzik kilit ekranı ayarları</string>
+    <string name="lock_screen_settings">Kilit ekranı ayarları</string>
+    <string name="lock_screen_slide_up">Kilidi açmak için yukarı kaydırın</string>
+    <string name="lock_screen_switch">Müzikli ekranı kilitle</string>
     <string name="login_instantly">Oturum aç</string>
     <string name="login_mi_account_and_gain_more_rights">Daha fazla özelliğe erişmek için Xiaomi hesabınızla oturum açın</string>
     <string name="login_out_tip">Şu an oturum kapatılamıyor. Bunun yerine tüm uygulama verilerini temizleyebilirsiniz.</string>
@@ -1062,6 +1070,7 @@
     <string name="lyric_ai_dialog_one">• Şarkı sözlerini tanımak için dokunabilirsiniz. Biz de yapay zeka ses tanıma teknolojisini kullanarak şarkı sözlerini sizin için doldururuz</string>
     <string name="lyric_ai_dialog_three">• İlerleme durumunu şarkı sözleri araç çubuğundan kontrol edebilirsiniz</string>
     <string name="lyric_ai_dialog_two">• Tanıma işlemi birkaç dakika sürecek. Tamamlandığında şarkı sözleri otomatik olarak doldurulacaktır</string>
+    <string name="lyric_ai_fail_toast">Dosya tanınamayacak kadar büyük</string>
     <string name="lyric_ai_identify_success">Şarkı sözleri başarıyla tanındı</string>
     <string name="lyric_ai_song">Geçerli şarkı</string>
     <string name="lyric_ai_song_list">Şarkılar</string>
@@ -1072,6 +1081,15 @@
     <string name="lyric_ai_state_identifying">Yükleniyor</string>
     <string name="lyric_ai_state_use">Kullan</string>
     <string name="lyric_ai_title">Yapay zeka şarkı sözü tanıma</string>
+    <string name="lyric_feedback_inaccurate_timing">Şarkı sözü zamanı doğru değil</string>
+    <string name="lyric_feedback_lyrics_error">Şarkı sözlerinin tamamı yanlış</string>
+    <string name="lyric_feedback_misspelling">Yazım hataları var</string>
+    <string name="lyric_feedback_other">Diğer</string>
+    <string name="lyric_feedback_pure_music">Şarkı sözleri olmadan saf müzik</string>
+    <string name="lyric_feedback_report_optimization">Şarkı sözleri yanlış mı?</string>
+    <string name="lyric_feedback_submit">Gönder</string>
+    <string name="lyric_feedback_submit_success">Başarıyla gönderildi</string>
+    <string name="lyric_feedback_title">Mevcut şarkı sözleri hatalı. Lütfen hatanın nedenini bildirin</string>
     <string name="lyric_is_empty">Şarkı sözü mevcut değil</string>
     <string name="lyric_label">Şarkı sözleri</string>
     <string name="lyric_open_other_connect">Mobil ağ ile şarkı sözlerini indir</string>
@@ -1333,6 +1351,7 @@
     <string name="no_system_cropper_find">Resim kesme işlemi için bir araç bulunamadı</string>
     <string name="no_url">Oynatma adresi geçersiz</string>
     <string name="noon">ÖS</string>
+    <string name="normalFont">sans-serif</string>
     <string name="normal_quality">İyi</string>
     <string name="not_login">Giriş yapılmadı</string>
     <string name="not_now">Şimdi değil</string>
@@ -1402,6 +1421,7 @@
     <string name="online_switch_message">Vip hizmetler ve tavsiyeler çevrimiçi hizmetlerde kapatılır. Yinede kapatılsın mı?</string>
     <string name="online_switch_setting">Çevrimiçi içerik ayarları</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD ses yalnızca PRO üyeleri tarafından kullanılabilir</string>
+    <string name="open_alarm_clock_recommend_switch">Erken alarm saatini açın ve şarkı önerin</string>
     <string name="open_online_service">Bu özelliği kullanarak çevrimiçi hizmetleri açabilirsiniz. Şimdi açılsın mı?</string>
     <string name="open_service">Aç</string>
     <string name="operation_done_close">Kapat</string>
@@ -1879,6 +1899,10 @@ mutlu ol"</string>
     <string name="sound_fade_in_and_out_when_change_song_automatically">Çalma sırasında şarkıların çapraz geçişini deneyin</string>
     <string name="sound_off">Deneme</string>
     <string name="sound_on">Sesli ses</string>
+    <string name="srl_component_falsify" formatted="false">"%s tahrifat alanı,
+  Çalışma zamanında sürüklemenin yüksekliğini[%.1fdp] temsil eder,
+  Hiçbir şey göstermiyor"</string>
+    <string name="srl_content_empty">Akıllı yenileme düzenindeki içerik görünümü boş. Xml düzen dosyasına eklemeyi unuttunuz mu?</string>
     <string name="start">Başlat</string>
     <string name="start_to_check_new_version">Güncellemeler kontrol ediliyor</string>
     <string name="start_to_download">İndiriliyor</string>
@@ -2034,6 +2058,7 @@ mutlu ol"</string>
     <string name="today">Bugün</string>
     <string name="today_hot_playlist">Bugünün en iyi çalma listesi</string>
     <string name="tomorrow">Yarın</string>
+    <string name="tools_settings">Araç ayarları</string>
     <string name="top_chart_title">Grafikler</string>
     <string name="track_play_history_after_login">Oynatma geçmişini görüntülemek için oturum açın</string>
     <string name="tt_00_00">00:00</string>

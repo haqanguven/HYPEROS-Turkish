@@ -162,7 +162,7 @@ Bunun yerine başka fotoğraflar seçin ve tekrar deneyin"</string>
     <string name="ai_image_over_limit_button_create">Devam et</string>
     <string name="ai_image_over_limit_title">Yapay zeka görüntüsü oluşturulamıyor</string>
     <string name="ai_image_over_limit_title_update">Yapay zeka görüntüleri şu anda güncellenemiyor</string>
-    <string name="ai_image_privacy_message">" \"&lt;Data>\" Yapay zeka portrelerine hoş geldiniz!&lt;br/>Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor:&lt;br/>1. Yapay zeka portreleri oluşturmak için, &lt;b>insanların fotoğraflarını&lt;/b> sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onların &lt;b>yüzleri&lt;/b> hakkındaki bilgileri toplayacağız ve işleyeceğiz. &lt;br/>2. &lt;b>Kişilerin fotoğraflarını&lt;/b> yüklediğinizde, karşılık gelen albümlerdeki &lt;b>adlarını ve profil fotoğraflarını&lt;/b> senkronize edeceğiz ve bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz .&lt;br/>3. Metne dayalı yapay zeka görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız &lt;b>açıklamayı&lt;/b> toplayacağız.&lt;br/>Yalnızca aşağıdaki kişisel bilgileri topluyoruz: kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gereklidir. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi &lt;a href=\"%1$s\">Yapay Zeka Portreleri Gizlilik Politikası&lt;/a>'nda öğrenebilirsiniz. &lt;br/>&lt;a href=\"%2$s\">Yapay zeka portleri kullanıcı sözleşmesi&lt;/a> ve &lt;a href=\"%3$s\">Yapay zeka portleri gizlilik politikası&lt;nı okuyup kabul edin ;/a> devam etmeden önce. \"&lt;/Data>\" "</string>
+    <string name="ai_image_privacy_message">"Yapay zeka portrelerine hoş geldiniz. Size hizmet sunabilmek için gerekli kişisel bilgileri toplamamız gerekiyor: %1$s&. Yapay zeka portreleri oluşturmak için insanların fotoğraflarını sunucularımıza yüklemeniz gerekecek. Bir yapay zeka modeli oluşturmak için onlar hakkındaki bilgileri toplayıp işleyeceğiz. %2$s. İnsanların fotoğraflarını yüklediğinizde ilgili albümlerdeki adlarını ve profil fotoğraflarını senkronize edeceğiz vede bu bilgiyi yapay zeka görselleriyle ilişkilendireceğiz. %3$s. Metne dayalı yapay zeka görselleri oluşturduğunuzda, görseller oluşturmak için sağladığınız açıklamayı toplayacağız. Yalnızca kullandığınız ürün ve hizmetlerimizin belirli özellikleri için gerekli olan kişisel bilgileri topluyoruz. Kişisel bilgileri nasıl topladığımızı ve işlediğimizi %4$s yapay zeka portreleri gizlilik politikasından öğrenebilirsiniz. Devam etmeden önce %5$s yapay zeka portre kullanıcı sözleşmesini ve %6$s yapay zeka portre gizlilik politikasını okuyup kabul edin"</string>
     <string name="ai_input_name_hint">Ad girin</string>
     <string name="ai_loading">Yükleniyor</string>
     <string name="ai_multi_window_tip">Bu sayfa Bölünmüş ekranda görüntülenemez</string>
@@ -314,8 +314,8 @@ En iyi çekimler otomatik olarak seçildi. Manuel olarak daha fazla fotoğraf ek
     <string name="alert_secret_album_message_new">Özel öğeleri görüntülemek için albümler sekmesinde aşağıya doğru kaydırın</string>
     <string name="alert_secret_album_title">Gizli albüm nasıl görüntülenir</string>
     <string name="alert_secret_album_title_new">Eklendi</string>
-    <string name="alert_secret_google_error">"Couldn't delete items. Try deleting them in Google Photos."</string>
-    <string name="alert_secret_nonet_error">"Couldn't connect to the network"</string>
+    <string name="alert_secret_google_error">Öğeler silinemedi. Bunları Google fotoğraflardan silmeyi deneyin</string>
+    <string name="alert_secret_nonet_error">Ağa bağlanılamadı</string>
     <string name="alert_selection_description">Xiaomi benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri yapacaktır</string>
     <string name="alert_selection_title">En iyi çekimi seç</string>
     <string name="all_faces">Bu kişinin fotoğrafları</string>
@@ -1824,7 +1824,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="magic_matting_module_finish">Sihir eklentisi başarıyla indirildi</string>
     <string name="magic_matting_module_loading">Sihir eklentisi indiriliyor</string>
     <string name="main_save_error_msg">Bir hata nedeniyle değişiklikler kaydedilemedi</string>
-    <string name="manager_backup">Manage</string>
+    <string name="manager_backup">Yönet</string>
     <string name="manual_hide_manage">.nomedia dosyasını ekle</string>
     <string name="manual_hide_state">.nomedia dosyası başarıyla eklendi</string>
     <string name="map_album">Harita</string>
@@ -1905,7 +1905,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
-    <string name="mi_share_turbo_mode">Turbo transfer</string>
+    <string name="mi_share_turbo_mode">Hızlı aktarma</string>
     <string name="micloud_introduce">Fotoğraf ve videoları otomatik olarak yedekleyin (Xiaomi hesabı gerekmektedir)</string>
     <string name="midnight">Gece</string>
     <string name="migrate_gp_bottom_msg_0">"Öğelerinizi Google fotoğraflara taşımak için bir Google hesabı eklemeniz ve Xiaomi'ye şunlar için izin vermeniz gerekir:"</string>
@@ -2632,7 +2632,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="request_sms_url_failed">Bilgi alınamadı</string>
     <string name="request_sms_url_msg">Bilgi isteniyor</string>
     <string name="request_sms_url_title">İpucu</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.POST_NOTIFICATIONS;android.permission.READ_MEDIA_IMAGES;android.permission.READ_MEDIA_VIDEO;</string>
     <string name="retry_to_create_album">Yeniden dene</string>
     <string name="retry_to_request_qr_code">Yeniden dene</string>
     <string name="risk_control_deleted_date">dd/MM</string>
