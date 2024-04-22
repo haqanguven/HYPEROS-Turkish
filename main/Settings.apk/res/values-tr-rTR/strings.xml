@@ -11415,6 +11415,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
     <string name="control_center_location_title">Kontrol merkezi konumu</string>
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>

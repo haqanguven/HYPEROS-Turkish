@@ -1301,6 +1301,12 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
+	<string-array name="statusbar_style_entries">
+		<item>Varsayılan</item>
+		<item>Stil 1</item>
+		<item>Stil 2</item>
+		<item>Stil 3</item>
+	</string-array>
     <string-array name="control_center_location_entries">
         <item>Sağ</item>
         <item>Sol</item>
