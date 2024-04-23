@@ -678,7 +678,7 @@ aç"</string>
     <string name="request_permission_storage_dialog_content">Görüntü biçiminde hava durumu bilgilerini paylaşmak için</string>
     <string name="required_permissions">android.permission.POST_NOTIFICATIONS</string>
     <string name="retry">Tekrar deneyin</string>
-    <string name="revoke_fail">"Can't connect to the network"</string>
+    <string name="revoke_fail">Ağa bağlanılamıyor</string>
     <string name="revoke_permission_fail_msg">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="revoke_permission_fail_next_msg">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="revoke_permission_fail_next_title">Ağa bağlanılamadı</string>
