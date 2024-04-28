@@ -225,10 +225,13 @@
     <string name="ppt_video_extracting_video_file">Video dosyası çıkartılıyor</string>
     <string name="ppt_video_install_videoplayer_tip">Bir video oynatıcı yükleyin</string>
     <string name="ppt_volume_is_too_low_tip">Lütfen kulaklığınızı takın veya ses seviyesini artırın</string>
+    <string name="print_error_open_wps_exception">Hizmet istisnası. Lütfen daha sonra tekrar deneyin</string>
+    <string name="print_error_wps_print_activity_not_found">Yazdırma işlevini kullanmadan önce lütfen WPS ofis uygulamasını yeni sürümüne güncelleyin</string>
     <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-    <string name="privacy_protecte">https://www.wps.com/privacy/privacyprotect/</string>
+    <string name="privacy_protecte">https://privacy.wps.cn/policies/privacy/wps-file-viewer</string>
     <string name="projection_fail">Yayınlanamadı. Harici monitörünüzü kontrol edin ve tekrar deneyin</string>
     <string name="public_2pic">Görüntüye aktar</string>
+    <string name="public_about_us">Hakkında</string>
     <string name="public_ack">Biliyorum</string>
     <string name="public_amazon_autosave_finished">Belge otomatik olarak kaydedildi</string>
     <string name="public_app_language">2052</string>
@@ -261,6 +264,7 @@
     <string name="public_default_ppt_lable_name">WPS demo görüntüleyici</string>
     <string name="public_default_sheet_lable_name">WPS form görüntüleyici</string>
     <string name="public_default_writer_lable_name">WPS metin görüntüleyici</string>
+    <string name="public_dialog_update">Yenile</string>
     <string name="public_displayPasswd">Şifreyi göster</string>
     <string name="public_display_privacy_policy">Gizlilik politikasını görüntüle</string>
     <string name="public_doc_end_preview_tip">WPS ofis tarafından desteklenir</string>
@@ -289,6 +293,7 @@
     <string name="public_iat_audiocomment_reply_longpress">Konuşmak için uzun basın</string>
     <string name="public_iat_audiocomment_reply_stop">Yayın sonu</string>
     <string name="public_iat_convert_to_text">Metni çevir</string>
+    <string name="public_icp_code">Pekin ICP No. 14035597-9A</string>
     <string name="public_inputEditPasswdText">Değiştirmek için şifreyi girin veya salt okunur açın</string>
     <string name="public_inputEditPasswdTextReadOnly">Yazar belge için düzenleme şifresi koymuştur. Devam etmek için şifreyi girin</string>
     <string name="public_inputPasswd">Belgeyi açmak için şifre girin</string>
@@ -319,6 +324,7 @@
     <string name="public_mi_privacy_purpose">Mi belge görüntüleyiciye hoş geldiniz. Bu uygulama farklı biçimlerdeki belgeleri görüntülemenizi sağlar</string>
     <string name="public_more_operate">Daha fazla hareket</string>
     <string name="public_more_operate_fail">İşlem başarısız oldu. Daha fazla işlem yapılabilir içerik yok</string>
+    <string name="public_more_wps">"WPS'te daha fazla işlev mevcuttur"</string>
     <string name="public_no_format">Biçimlendirme yok</string>
     <string name="public_not_support_in_multiwindow">Bu özellik ekran ayrıştırma ile kullanımı desteklemiyor</string>
     <string name="public_ok">Tamam</string>
@@ -459,7 +465,7 @@
     <string name="ss_toolbar_sheets_unhided">Tüm çalışma sayfaları</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">3.6.4</string>
+    <string name="wps_lite_app_version">3.7.0</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi belge</string>
     <string name="writer_characters">Karakter (Boşluklar hariç)</string>
     <string name="writer_characters_with_spaces">Karakter (Boşluklar dahil)</string>

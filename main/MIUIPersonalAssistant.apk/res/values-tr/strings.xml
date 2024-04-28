@@ -350,8 +350,8 @@
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -1035,6 +1035,36 @@ Başlamak için araçlar ekleyin."</string>
     <string name="pa_travel_accessibility_weather" formatted="false">Varış gününde %s, hava durumu %s, sıcaklık %s. Hava durumu ayrıntıları için çift tıklayın</string>
     <string name="pa_travel_all">Tüm seyahat planları</string>
     <string name="pa_travel_bind_state_none">--</string>
+    <string name="pa_travel_content_description_assistant_all_travel">Önümüzdeki otuz günün seyahat planını görüntülemek için çift tıklayın</string>
+    <string name="pa_travel_content_description_assistant_cp_bind">Yetkili üçüncü taraf hizmet hesabını bağlamak için çift tıklayın</string>
+    <string name="pa_travel_content_description_assistant_reminder_close">Seyahat hatırlatıcısını kapatmak için çift tıklayın</string>
+    <string name="pa_travel_content_description_assistant_reminder_open">Yolculuk hatırlatıcısını açmak için çift tıklayın</string>
+    <string name="pa_travel_content_description_cp_bind_crgt_bind">"Çin demiryolu JiXun'a bağlı değil. Çin demiryolu JiXun'u bağlamak için çift tıklayın"</string>
+    <string name="pa_travel_content_description_cp_bind_crgt_unbind">"Çin demiryolu JiXun'a bağlandı. Çin demiryolu JiXun'un bağlantısını kaldırmak için çift tıklayın"</string>
+    <string name="pa_travel_content_description_cp_bind_querying">Bağlama durumu henüz alınmadı. Daha sonra tekrar deneyin</string>
+    <string name="pa_travel_content_description_cp_bind_ume_bind">Hanglu Zongheng bağlı değil. Hanglu Zongheng'i bağlamak için çift tıklayın</string>
+    <string name="pa_travel_content_description_cp_bind_ume_unbind">"Hanglv Zongheng'e bağlandı, Hanglu Zongheng'in bağlantısını kaldırmak için çift tıklayın"</string>
+    <string name="pa_travel_content_description_crgt_auth_checked">Ulusal demiryolu Jixun kullanıcı hizmet sözleşmesi ve gizlilik politikasına verdiğiniz izni iptal etmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_crgt_auth_dialog_cancel">Ulusal demiryolu Jixun kullanıcı hizmet sözleşmesi ve gizlilik politikası yetkilendirmesini iptal etmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_crgt_auth_dialog_confirm">Ulusal demiryolu Jixun kullanıcı hizmet sözleşmesi ve gizlilik politikasına kabul etmek ve yetkilendirmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_crgt_auth_grant">Ulusal demiryolu Jixin bağlamasını onaylamak ve yetkilendirmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_crgt_auth_look_privacy">Ulusal demiryolu Jixun kullanıcı hizmet sözleşmesi ve gizlilik politikasına görüntülemek için çift tıklayın</string>
+    <string name="pa_travel_content_description_crgt_auth_unchecked">"Ulusal demiryolu Jixun" "Kullanıcı hizmet sözleşmesi ve gizlilik politikasına kabul etmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_list_card_checked" formatted="false">Yol programı %s %s seçildi. Seyahat planını silmek için sayfanın alt orta kısmındaki sil düğmesini çift tıklayın</string>
+    <string name="pa_travel_content_description_list_card_crossed_flight_info" formatted="false">"%s %s uçuş %s %s %s'den kalkıyor. %s %s gün sonra varıyor %s"</string>
+    <string name="pa_travel_content_description_list_card_crossed_train_info" formatted="false">"%s %s tren %s %s %s'den kalkıyor. %s %s gün sonra varıyor %s"</string>
+    <string name="pa_travel_content_description_list_card_flag_action_bound">Seyahat planı ayrıntıları sayfasına atlamak için çift tıklayın. Seyahat planını silmeyi seçmek için uzun basın</string>
+    <string name="pa_travel_content_description_list_card_flag_action_unbind">%s hesap yetkilendirme sayfasına atlamak için çift tıklayın. Yolculuğu silmeyi seçmek için uzun basın</string>
+    <string name="pa_travel_content_description_list_card_flag_flight">Uçuşlar</string>
+    <string name="pa_travel_content_description_list_card_flag_train">Tren</string>
+    <string name="pa_travel_content_description_list_card_flight_info" formatted="false">"%s %s, uçuş %s, %s %s'den kalkıyor, %s %s, %s'e varıyor"</string>
+    <string name="pa_travel_content_description_list_card_select_arrival_station">Varış istasyonunu seçmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_list_card_station_selected">"%s'i seçmek için çift tıklayın"</string>
+    <string name="pa_travel_content_description_list_card_train_info" formatted="false">"%s %s, %s treni, %s %s'den kalkıyor, %s %s'e varıyor, yolculuk ayrıntıları sayfasına atlamak için çift tıklayın, %s"</string>
+    <string name="pa_travel_content_description_list_card_train_info_no_arrival_station" formatted="false">"%s %s, tren %s, %s %s, %s'den kalkıyor"</string>
+    <string name="pa_travel_content_description_list_card_unchecked" formatted="false">İşaretlenmeyen yolculuk %s %s</string>
+    <string name="pa_travel_content_description_list_delete_dialog_button_cancel">Silme işlemini iptal etmek için çift tıklayın</string>
+    <string name="pa_travel_content_description_list_delete_dialog_button_confirm">Silme işlemini onaylamak için çift tıklayın</string>
     <string name="pa_travel_date_unit_day">Gün</string>
     <string name="pa_travel_date_unit_month">Ay</string>
     <string name="pa_travel_date_unit_year">Yıl</string>
@@ -1057,6 +1087,7 @@ Başlamak için araçlar ekleyin."</string>
     <string name="pa_travel_flight_status_boarding_pass">Biniş kartı</string>
     <string name="pa_travel_flight_status_check_in_not_open">Giriş açık değil</string>
     <string name="pa_travel_flight_status_go_for_check_in">"Check-in'e git"</string>
+    <string name="pa_travel_flight_status_itinerary_statistics">Seyahat istatistikleri</string>
     <string name="pa_travel_flight_tip_cancel">Uçuş iptal edildi. Lütfen yeni seyahat planları yapın</string>
     <string name="pa_travel_flight_tip_delay">Uçuş ertelendi. Lütfen planlandığı gibi havaalanına gelin</string>
     <string name="pa_travel_flight_unauthorized_tip">Hizmet hesabını yetkilendirin ve uçuş durumu bilgilerini zamanında alın</string>
@@ -1078,13 +1109,18 @@ Başlamak için araçlar ekleyin."</string>
     <string name="pa_travel_near_travel_tip">24 saat içinde yola çıkacak seyahat planı</string>
     <string name="pa_travel_preference_cp_state_bind">Bağlı</string>
     <string name="pa_travel_preference_cp_state_not_bind">Bağlı değil</string>
+    <string name="pa_travel_preference_summary_all_travel">Son 30 gün içindeki seyahat planı</string>
     <string name="pa_travel_preference_summary_cpbind">Bağlamadan sonra daha doğru ve akıllı hatırlatma hizmetlerinin keyfini çıkarın</string>
     <string name="pa_travel_preference_summary_reminder">Tren numarası ve uçuş bilgilerine göre negatif ekranın üst kısmındaki seyahat planını otomatik olarak hatırlatın</string>
+    <string name="pa_travel_preference_title_all_travel">Tüm güzergahlar</string>
     <string name="pa_travel_preference_title_cp_gt">Ulusal demiryolu Jixun</string>
     <string name="pa_travel_preference_title_cp_zh">"Zongheng'e seyahat"</string>
+    <string name="pa_travel_preference_title_cpbind">Hizmet hesabını bağla</string>
     <string name="pa_travel_preference_title_reminder">Seyahat hatırlatıcısı</string>
     <string name="pa_travel_select_arrival_station">Lütfen bir varış noktası seçin</string>
     <string name="pa_travel_select_title">%d öğe seçildi</string>
+    <string name="pa_travel_time_unit_hour">saat</string>
+    <string name="pa_travel_time_unit_minute">dakika</string>
     <string name="pa_travel_title_travel_assistant">Seyahat asistanı</string>
     <string name="pa_travel_title_travel_cpbind">Hizmet bağlama</string>
     <string name="pa_travel_title_travel_gtauth">Ulusal Demiryolu Jixun hesap yetkilendirmesi</string>

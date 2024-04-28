@@ -91,11 +91,16 @@ bulamıyor musunuz?"</string>
     <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunuldu</string>
     <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
     <string name="camera_associate_connecting">Kameraya bağlanıyor</string>
+    <string name="camera_associate_disconnecting">Telefon kamerasıyla bağlantıyı kes</string>
     <string name="camera_associate_failed">Kameraya bağlanılamadı</string>
     <string name="camera_associate_success">Kamera bağlandı</string>
+    <string name="camera_choose_device">Cihaz seç</string>
     <string name="camera_connecting">%s bu cihazın kamerasını kullanmak istiyor</string>
+    <string name="camera_connecting_device">%s cihazına bağlanılıyor</string>
     <string name="camera_disassociate">Kamera bağlantısı kesildi</string>
+    <string name="camera_disconnecting_device">%s ile bağlantı kesiliyor</string>
     <string name="camera_notify_string">Kamera bildirimi</string>
+    <string name="camera_title">Kullanılabilir cihazlar aranıyor</string>
     <string name="can_not_associate">İşbirliği kurulamıyor</string>
     <string name="cancel_button">İptal et</string>
     <string name="car_air_con_back_switch_close">Arka koltuğun klimasını kapat</string>
@@ -285,6 +290,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_cta_app_name">Xiaomi ara bağlantı</string>
     <string name="circulate_cta_desc_lite_phone">Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine olanak tanır. Normal çalışabilmeleri için bu hizmetlerin internete bağlanması ve aşağıdaki izinleri gerektirmesi gerekir:</string>
     <string name="circulate_cta_desc_phone">Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine olanak tanır. Normal çalışabilmeleri için bu hizmetlerin internete bağlanması ve aşağıdaki izinleri gerektirmesi gerekir:</string>
+    <string name="circulate_cta_desc_phone_global">Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine olanak tanır</string>
     <string name="circulate_cta_exit">Reddet</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Cihazları bağlamak ve aralarında veri aktarımı yapmak içindir</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Bir mobil cihazda yüklü olan sistemin çalıştırılması ve bilgisayarlarda ekran yansıtmak içindir</string>
@@ -299,6 +305,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Bağlı cihazlar arasında veri aktarımı içindir</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Öğeleri aktarmak ve cihazları wifi aracılığıyla bağlamak içindir</string>
     <string name="circulate_cta_premission_wlan_title">"Wifi'yi açın veya kapatın"</string>
+    <string name="circulate_cta_title_global">Gizlilik bildirimi</string>
     <string name="circulate_cta_user_agreement">Devam etmeden önce %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okuyun ve kabul edin</string>
     <string name="circulate_device_type_name_mijia">Akıllı ev cihazları</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
@@ -434,6 +441,24 @@ bulamıyor musunuz?"</string>
     <string name="close_invisible_mode_dialog_message">Mi akıllı oynatma şu an kullanılamıyor. Bu özelliği kullanabilmek için ayarlarda gizli modu kapatın</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">Gizlisiniz</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="config_wifi_label_china">Xiaomi konferansı tapcast wifi</string>
     <string name="config_wifi_label_global">Xiaomi konferansı tapcast wifi</string>
     <string name="connect_device_fail">Cihaza bağlanılamadı</string>
@@ -461,6 +486,7 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_summary">Xiaomi hesabınızda oturum açmış yakındaki cihazları otomatik olarak keşfedin ve birden fazla cihazda çeşitli görevleri gerçekleştirmek için bunları birbirine bağlayın.&lt;a href=%1$s>Daha fazla bilgi edinin</string>
     <string name="connect_settings_summary_connection_service">Cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine izin verin</string>
     <string name="connect_settings_summary_corp_phone">Xiaomi hesabınızda oturum açmış yakındaki tabletlerde veya bilgisayarlarda aramaları yanıtlayın</string>
+    <string name="connect_settings_summary_global"><Data>Xiaomi hesabınızda oturum açmış yakındaki cihazları keşfedin ve bunları Mi akıllı sese ekleyin</Data></string>
     <string name="connect_settings_summary_hyper_mind">Kullanım alışkanlıklarınıza göre yakındaki cihazları ihtiyaçlarınıza göre otomatik olarak uyarlayın. Bu özellik Mi yapay zeka tarafından desteklenmektedir</string>
     <string name="connect_settings_summary_relay_app">Başka cihazdaki aynı ugulamada görevlere devam edin</string>
     <string name="connect_settings_summary_share_clipboard">Kopyaladıktan sonra %d dakika içinde metni ve görüntüleri diğer cihazlara yapıştırın</string>
@@ -478,6 +504,7 @@ bulamıyor musunuz?"</string>
     <string name="controller_auth_cancel">İptal et</string>
     <string name="controller_auth_title">Uzaktan kumandayı doğrula</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_toast_msg">Bağlantı kopyalandı</string>
     <string name="current_wifi_tv">Mevcut ağ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -530,9 +557,11 @@ bulamıyor musunuz?"</string>
     <string name="dialog_location_permission_title">İzin gerekli</string>
     <string name="dialog_miplay_permission_message">Yansıtmanın bu özelliği normal bir şekilde kullanabilmesi için ses kaydetmesine, dahili depolama alanındaki dosyalara erişimine ve konumunuza erişimine izin verin. Ayarlar menüsüne dokunun ve devam etmek için uygulama izinleri seçeneğini seçin</string>
     <string name="dialog_miplay_permission_positive">Ayarlar</string>
-    <string name="dialog_miplay_permission_title">İzin gerekli</string>
+    <string name="dialog_miplay_permission_title">Gerekli izinler</string>
     <string name="dialog_nearbydevice_permission_message">Yayınlama özelliklerini kullanabilmek için bu cihazın yakındaki cihazlara erişmesine izin verin</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">Kullandığınız Xiaomi ara bağlantı özelliğinin yakındaki cihazlara bağlanmak için izne ihtiyacı var. Bu olmadan bu özellik normal şekilde çalışamaz. Bu izni ayarlardan verebilirsiniz</string>
     <string name="dialog_nearbydevice_permission_title">İzinler gerekli</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Gerekli izinler</string>
     <string name="dialog_nfc_cast_wifi_off">NCF kullanarak yayın yapabilmek için wifi açın. Şimdi açılsın mı?</string>
     <string name="dialog_no_device_message">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
     <string name="dialog_no_device_message_china">"&lt;Data>1. Telefonunuzu ve TV'yi aynı wifi ağına bağlayın.&lt;br>&lt;br>2. Bazı TV modellerinde bu özellik yalnızca ekran yansıtma açık olduğunda mevcuttur. Daha fazla bilgi edinmek için &lt;a href=milink://com.milink.service/specification>\"Yardım\"ı&lt;/a>görüntüleyin&lt;/Data>"</string>
@@ -598,6 +627,9 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
+    <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
+    <string name="fallback_menu_item_share_link">Bağlantıyı paylaş</string>
     <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek içindir</string>
     <string name="find_device_close">Kapat</string>
     <string name="find_device_notification_content_phone">%1$s, %2$s kullanarak bu cihazı arıyor. Ses çalmayı durdurmak için kilidi açın</string>
@@ -667,6 +699,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="front_camera">Ön kamera</string>
     <string name="gcm_defaultSenderId">687519570831</string>
     <string name="get_params">Parametreleri al</string>
+    <string name="global_dialog_cancle">İptal et</string>
+    <string name="global_dialog_miplay_permission_positive">Ayarlar</string>
+    <string name="global_dialog_nearbydevice_permission_message">Xiaomi ara bağlantı Hizmetlerinin yakındaki cihazları keşfedebilmesi için bu cihazlara bağlanma iznine ihtiyacı vardır. Xiaomi ara bağlantı hizmetlerini normal şekilde kullanabilmek için ayarlarda bu izni verin</string>
+    <string name="global_dialog_nearbydevice_permission_title">Gerekli izinler</string>
     <string name="global_privacy">Şartlar ve koşullar</string>
     <string name="global_privacy_detail">Bu uygulamayı kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı okuyun ve kabul edin. Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamazsınız. Ancak temel işlevleri sizin için geçerli olmaya devam eder</string>
     <string name="global_privacy_explain">Yansıtmaya hoş geldiniz Bu uygulama aşağıdaki hizmetleri sağlamaktadır:</string>
@@ -674,7 +710,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="global_privacy_main">Öğeleri telefonunuzun ekranından daha büyük bir harici monitöre yansıtma</string>
     <string name="global_privacy_negative">Reddet</string>
     <string name="global_privacy_positive">Kabul et</string>
-    <string name="global_privacy_screencast">Kayıt veya yayın sırasında bu özelliği sağlayan hizmet, ses, şifreler, ödeme bilgileri, fotoğraflar ve mesajlar gibi hassas bilgiler dahil olmak üzere ekranınızda görüntülenen veya cihazınızdan oynatılan her türlü hassas bilgiyi yakalayabilir.</string>
+    <string name="global_privacy_screencast">Kayıt veya yayın sırasında bu özelliği sağlayan hizmet, ses, şifreler, ödeme bilgileri, fotoğraflar ve mesajlar gibi hassas bilgiler dahil olmak üzere ekranınızda görüntülenen veya cihazınızdan oynatılan her türlü hassas bilgiyi yakalayabilir</string>
     <string name="global_privacy_tip">Temel hizmetleri size sunabilmek ve yansıtma işlemini optimize edebilmek için gerekli kişisel bilgilerinizi toplamamız gerekmektedir. <a href="%1$s">Gizlilik politikamızda</a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden Gizlilik politikasına verdiğiniz izni geri çekebilirsiniz</string>
     <string name="google_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
     <string name="google_app_id">1:687519570831:android:be4b90f392c3a688b889fa</string>
@@ -700,6 +736,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
+    <string name="help_page_question_1st_01_international">"%1$d. Yayın yaptığınız cihaz bir Xiaomi TV ise yansıtmayı açın.
+%2$d. Yayın yaptığınız cihaz Xiaomi olmayan bir TV ise TV'nin yansıtmayı desteklediğinden ve bu özelliğin açık olduğundan emin olun. Bu özelliğin bazı TV modellerinde kablosuz ekran, ekran yansıtma veya çoklu ekran gibi farklı bir adı olabilir"</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Bazı TV markalarında yansıtmayı otomatik olarak açılmış olabilir</string>
+    <string name="help_page_step_1st_01_international">%1$d. Xiaomi TV'nizde yansıtmayı açın</string>
     <string name="help_page_text_01">Yardım</string>
     <string name="help_page_text_02">Yansıtma nedir?</string>
     <string name="help_page_text_03">Yansıtma telefonunuzun ekranındaki öğelerin daha büyük bir harici ekranda görüntülenmesidir. Bu özellik mobil veri harcamadan resim ve videoları arkadaşlarınız ve ailenizle paylaşmanıza olanak sağlar</string>
@@ -854,6 +894,7 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="km_synergy_error">Bağlantı zaman aşımına uğradı. Her iki cihazda da Bluetooth ve wifi ağının açık olduğundan ve bağlantı menzilinde olduklarından emin olun</string>
     <string name="km_synergy_error_china">Bağlantı zaman aşımına uğradı. Her iki cihazda da Bluetooth ve wifi açık olduğundan ve bağlantı menzilinde olduklarından emin olun</string>
     <string name="launch_rational">Kamerayı açmak için kamera izni gerekiyor</string>
+    <string name="local_camera_device">Bu cihaz</string>
     <string name="location_rational">Konum izinleri fotoğraf ve videoların çekildiği yerlerin kaydedilmesine yardımcı olabilir</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
@@ -1022,7 +1063,7 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="mtrl_checkbox_button_icon_path_name">Simge yolu</string>
     <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
     <string name="mtrl_checkbox_button_path_group_name">button</string>
-    <string name="mtrl_checkbox_button_path_name">Simge yolu</string>
+    <string name="mtrl_checkbox_button_path_name">Düğme yolu</string>
     <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
     <string name="mtrl_checkbox_state_description_checked">Kontrol edildi</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Kısmen kontrol edildi</string>
@@ -1059,8 +1100,8 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_today_description">Bugün %1$s</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
@@ -1471,5 +1512,6 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="wifi_scan_btn_text">Tekrar tara</string>
     <string name="wifi_username_et_hint">Hesap kimliğini girin</string>
     <string name="window_card_ml_find_null">Bu cihaz yakında olmayabilir</string>
+    <string name="window_card_ml_find_null_camera">Yakınlarda kamera veya kullanılabilir cihaz bulunamadı</string>
     <string name="yesterday">Dün</string>
 </resources>
