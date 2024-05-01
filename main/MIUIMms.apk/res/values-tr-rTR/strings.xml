@@ -601,6 +601,7 @@ Sim kartınızı kontrol edin"</string>
     <string name="mms_block_hint">"Bu gönderen kişi listenizde değil
 Bu mesaj istenmeyen olabilir"</string>
     <string name="mms_block_hint_highlight">Multimedyayı engelle</string>
+    <string name="mms_icp">ICP kayıt numarası: Pekin ICP No. 10046444-33A</string>
     <string name="mms_main_purpose_new">Bu uygulamanın size temel hizmetleri sunabilmesi için internete bağlanması gerekiyor. Mi mesaj ve akıllı mesajlaşma hizmetlerini açmanızı öneririz</string>
     <string name="mms_mi_message_main_purpose">Mi mesaja hoş geldiniz. Mi mesajı etkinleştirmek için bir mesaj gönderilmesi gerekmektedir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
     <string name="mms_mi_message_request_notice">Mi mesajdan en iyi şekilde yararlanmanızı istiyoruz</string>
