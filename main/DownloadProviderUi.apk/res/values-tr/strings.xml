@@ -169,6 +169,7 @@
     <string name="download_error_insufficient_space">Yeterli depolama alanı yok</string>
     <string name="download_filesize_unknown">Bilinmiyor</string>
     <string name="download_from">Kaynak:</string>
+    <string name="download_icp">ICP kayıt numarası: Guangdong B2-20050219-23A</string>
     <string name="download_in_process">İndiriliyor</string>
     <string name="download_info_start_deleted_tasks">İndirilenleri sil</string>
     <string name="download_list_intoAuthAlert">Yükleniyor</string>

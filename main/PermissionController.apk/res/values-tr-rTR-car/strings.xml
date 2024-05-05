@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unused_apps_page_summary">"Bir uygulamayı birkaç aydır kullanmadıysanız uygulamaya karşı aşağıdaki işlemler gerçekleştirilecektir:
+
+• Verilerinizi korumak için uygulamaya verilen izinleri iptal edin
+• Yer açmak için geçici dosyaları kaldırın"</string>
+</resources>

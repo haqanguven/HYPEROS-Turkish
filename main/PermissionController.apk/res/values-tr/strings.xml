@@ -733,7 +733,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="role_emergency_request_title">%1$s, varsayılan acil durum uygulamanız olarak ayarlansın mı?</string>
     <string name="role_emergency_search_keywords">acil durumda</string>
     <string name="role_emergency_short_label">Acil durum uygulaması</string>
-    <string name="role_home_description">Android cihazınızın Ana ekranı yerine geçen ve cihazınızın içeriklerine ve özelliklerine erişmenizi sağlayan, genellikle başlatıcı olarak adlandırılan uygulamalar</string>
+    <string name="role_home_description">Android cihazınızın ana ekranı yerine geçen ve cihazınızın içeriklerine vede özelliklerine erişmenizi sağlayan, genellikle başlatıcı olarak adlandırılan uygulamalar</string>
     <string name="role_home_label">Varsayılan ana ekran uygulaması</string>
     <string name="role_home_request_description">Herhangi bir izin gerekli değil</string>
     <string name="role_home_request_title">%1$s, varsayılan ana ekran uygulamanız olarak ayarlansın mı?</string>

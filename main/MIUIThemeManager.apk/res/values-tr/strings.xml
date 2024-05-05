@@ -641,7 +641,7 @@
     <string name="health_chart_step_count_schedule_format_desc">%1$s, %2$s</string>
     <string name="health_chart_step_count_unit">Adımlar</string>
     <string name="health_no_data">Sağlık verisi yok</string>
-    <string name="health_sleep_desc">Uyku süresi %1$s. uyku kalitesi %2$s</string>
+    <string name="health_sleep_desc">Uyku süresi %1$s. Uyku kalitesi %2$s</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
