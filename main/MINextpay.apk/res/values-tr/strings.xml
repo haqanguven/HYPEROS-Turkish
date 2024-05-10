@@ -307,7 +307,10 @@ Bilgileri kaydetmek için kartı telefonunuzun NFC okuyucusuna yaklaştırın"</
     <string name="card_travel_info">%1$s-%2$s</string>
     <string name="card_travel_tips_end">ticaret başarısı: %1$s CNY</string>
     <string name="card_travel_tips_end_default">%1$s : %2$s CNY</string>
+    <string name="card_travel_tips_end_default_no_amount">%1$s</string>
     <string name="card_travel_tips_end_details">%1$s -> %2$s : %3$s CNY</string>
+    <string name="card_travel_tips_end_details_no_amount">%1$s -> %2$s</string>
+    <string name="card_travel_tips_end_no_amount">Başarılı oldu</string>
     <string name="card_travel_tips_start">Gidiyor</string>
     <string name="card_travel_tips_station_end">Yolculuğun sonu</string>
     <string name="card_type_no_apply_privilege">Kart türünüz bu özelliği desteklemiyor</string>

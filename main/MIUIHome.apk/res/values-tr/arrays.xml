@@ -489,8 +489,9 @@
     </string-array>
     <string-array name="widget_component_source">
         <item>Varsayılan düzen</item>
-        <item>Etkin olarak ekle</item>
-        <item>Operasyon müdahalesi</item>
+        <item>Aktif olarak ekle</item>
+        <item>Operasyonel izinsiz giriş</item>
+        <item>Kart değiştir</item>
     </string-array>
     <string-array name="widget_drag_type_name">
         <item>Masaüstü</item>

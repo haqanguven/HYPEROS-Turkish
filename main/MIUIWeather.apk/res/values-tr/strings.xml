@@ -114,11 +114,11 @@
     <string name="aqi_quality_pm10_desc">Solunabilir kaba parçacıklar</string>
     <string name="aqi_quality_pm25_desc">İnce parçacıklar</string>
     <string name="aqi_quality_so2_desc">Sülfür dioksit</string>
-    <string name="aqi_settings_summary">HKE uyarıları</string>
-    <string name="aqi_settings_title">HKE</string>
+    <string name="aqi_settings_summary">HKİ uyarıları</string>
+    <string name="aqi_settings_title">HKİ</string>
     <string name="aqi_station_best_quality_station">Çevredeki en iyi</string>
     <string name="aqi_station_min_distance_station">En yakın istasyon</string>
-    <string name="aqi_sub_desc">HKE</string>
+    <string name="aqi_sub_desc">HKİ</string>
     <string name="aqi_title_pad">Hava kalitesi: %1$s</string>
     <string name="aqi_top_pollution">Tehlikeli kirleticiler</string>
     <string name="background_location_dialog_msg">Bu uygulamanın her zaman doğru konum bilgisini kullandığından emin olmak için arka planda çalışırken konumunuza erişmesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
@@ -412,7 +412,7 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
-    <string name="global_aqi">HKE: %1$s %2$s</string>
+    <string name="global_aqi">HKİ: %1$s %2$s</string>
     <string name="global_not_enable_warning">Bu uygulama kullanılamıyor. Resmi kaynaklardan yüklenmedi</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>

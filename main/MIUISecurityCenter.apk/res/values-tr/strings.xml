@@ -1503,8 +1503,8 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="data_usage_no_total_package_body">Veri limiti ayarlamak için dokunun</string>
     <string name="data_usage_no_total_package_body_dual">%s için veri limiti ayarlanmadı</string>
     <string name="data_usage_no_total_package_title">Veri kullanım limiti ayarla</string>
-    <string name="data_usage_protected_dialog_message">Ek operatör ücretlerinin oluşmasını önlemek için mobil veriler kapatıldı</string>
     <string name="data_usage_protected_notify_message">Xiaomi ek ücret oluşmasını önlemek için mobil veriyi kapattı</string>
+    <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
     <string name="data_usage_warning_body">Veri kullanım detaylarını görüntülemek için dokunun</string>
     <string name="data_usage_warning_body_notify">Ayrıntıları görüntülemek için dokunun</string>
     <string name="data_usage_warning_title_notify">Tarife sınırını aştınız</string>
@@ -1764,8 +1764,8 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="evening">Öğleden sonra</string>
     <string name="every_day">Her gün</string>
     <string name="ew_action_subscribe">Abone ol</string>
-    <string name="ew_action_subscribe">Abone oldum</string>
-    <string name="ew_action_subscribe_area">Abone olunan bölgeler</string>
+    <string name="ew_action_subscribed">Abone oldum</string>
+    <string name="ew_action_subscribed_area">Abone olunan bölgeler</string>
     <string name="ew_action_unsubscribe">Abonelikten çık</string>
     <string name="ew_alert_arrive_location">Sismik dalga %s ulaştı</string>
     <string name="ew_alert_dial_text">"Acil kişiyi ara
@@ -5304,7 +5304,7 @@ kapat"</string>
     <string name="resume">Geri yükle</string>
     <string name="revoke_not_allow_net_summary">Güvenliğin gizlilik politikasına verdiğiniz onayı geri alabilmesi için internete bağlanmasına izin verin</string>
     <string name="revoke_not_allow_net_title">Dikkat</string>
-    <string name="right_precent">%100</string>
+    <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
     <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım</string>
     <string name="risk_app_install_agree_message">Bu uygulama bir üçüncü taraf tarafından geliştirilmiştir ve yerel yasa ve düzenlemeleri ihlal edebilir. Xiaomi bu uygulama tarafından sağlanan içerik ve hizmetlerin kullanılabilirliğini, sürekliliğini ve erişilebilirliğini garanti etmez. Bu uygulamanın kullanımından kaynaklanan herhangi bir kayıp veya hasar sizin tarafınızdan karşılanacaktır</string>
@@ -6718,7 +6718,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="usb_eject_summary">Güvenli bir şekilde çıkarmak için USB depolama aygıtının bağlantısını kesin</string>
     <string name="usb_format">USB cihazının biçimlendir</string>
     <string name="usb_format_summary">USB depolama cihazındaki tüm verileri silin (Şarkılar ve fotoğraflar dahil)</string>
-    <string name="usb_insert_summary">Connect USB device</string>
+    <string name="usb_insert_summary">USB cihazını bağlayın</string>
     <string name="usb_install_desc">Uygulamayı USB üzerinden yüklemek istiyor musunuz?</string>
     <string name="usb_mount">USB cihazını tak</string>
     <string name="usb_mount_summary" />

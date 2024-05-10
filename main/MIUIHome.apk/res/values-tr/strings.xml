@@ -715,6 +715,7 @@ Arttırılmış güvenlik"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="mtzgadget_missing_text">Araç kullanılabilir durumda değil</string>
+    <string name="name_aireco_name">Mi yapay zeka önerileri</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın altından sola veya sağa kaydırın</string>
     <string name="navigation_guide_app_quick_switch_summary">Tam ekran göstergesinden veya ekranın aşağısından sağa veya sola kaydırın</string>
     <string name="navigation_guide_app_quick_switch_title">Uygulamalar arasında geçiş yapın</string>
@@ -965,6 +966,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
+    <string name="system_shortcuts_dislike">Bu hoşuma gitmedi</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
