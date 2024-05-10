@@ -2989,7 +2989,7 @@ Bu ayar bu cihazın tüm kullanıcılarını etkiler"</string>
     <string name="default_rule_name">Zamanlayıcı 1</string>
     <string name="default_see_all_apps_title">Tüm uygulamaları göster</string>
     <string name="default_spell_checker">Varsayılan yazım denetleyici</string>
-    <string name="default_string_of_regional_preference">Uygulama varsayılanını kullan</string>
+    <string name="default_string_of_regional_preference">Varsayılan</string>
     <string name="default_suppression_title">Varsayılan (Önerilen))</string>
     <string name="default_theme">Varsayılan</string>
     <string name="default_usb_mode">USB bağlantısı</string>
