@@ -809,9 +809,9 @@ Ayarlar şimdi değiştirilsin mi?"</string>
     <string name="app_list_memory_use">Uygulama kullanımı</string>
     <string name="app_list_preference_none">Yok</string>
     <string name="app_locale_picker_summary">Her uygulama için dili ayarlayın</string>
-    <string name="app_locale_picker_title">Uygulama Dili</string>
+    <string name="app_locale_picker_title">Uygulama dili</string>
     <string name="app_locale_preference_title">Dil</string>
-    <string name="app_locales_picker_menu_title">Uygulama Dilleri</string>
+    <string name="app_locales_picker_menu_title">Uygulama dilleri</string>
     <string name="app_memory_use">Bellek kullanımı</string>
     <string name="app_mobile">Mobil veri</string>
     <string name="app_name">Ayarlar</string>
