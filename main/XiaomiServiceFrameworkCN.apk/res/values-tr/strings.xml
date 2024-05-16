@@ -30,10 +30,10 @@
     <string name="accept">Tamam</string>
     <string name="app_name">Xiaomi hizmet çerçevesi</string>
     <string name="app_update_dialog_btn_bg_update">Güncelle</string>
-	<string name="app_update_dialog_btn_cancel">Şimdi değil</string>
-	<string name="app_update_dialog_btn_update">Güncelle</string>
-	<string name="app_update_dialog_desc_title">"Yenilikler"</string>
-	<string name="app_update_dialog_support">Güncellemeler GetApps tarafından sağlanır</string>
+    <string name="app_update_dialog_btn_cancel">Şimdi değil</string>
+    <string name="app_update_dialog_btn_update">Güncelle</string>
+    <string name="app_update_dialog_desc_title">"Yenilikler"</string>
+    <string name="app_update_dialog_support">Güncellemeler GetApps tarafından sağlanır</string>
     <string name="app_update_dialog_tag_save_traffic">Trafikten tasarruf edin</string>
     <string name="app_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="error_device_id_message">"Geçersiz cihaz kimliği: %s

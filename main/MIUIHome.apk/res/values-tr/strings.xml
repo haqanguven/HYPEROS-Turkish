@@ -966,7 +966,6 @@ Arttırılmış güvenlik"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
-    <string name="system_shortcuts_dislike">Bu hoşuma gitmedi</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>

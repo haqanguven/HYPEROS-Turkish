@@ -50,10 +50,10 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_manager_type_graph">com.android.graph</string>
     <string name="account_manager_type_imap">com.android.email</string>
     <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
+    <string name="account_manager_type_pop3">com.android.email.pop3</string>
     <string name="account_options_actionbar_title">Genel ayarlar</string>
     <string name="account_permission_child_statement">Küçüklerin kişisel verilerinin korunmasına ilişkin açıklama</string>
-    <string name="account_permission_dialog_cancel_text">Geri çek</string>
+    <string name="account_permission_dialog_cancel_text">Geri al</string>
     <string name="account_permission_dialog_text">"Devam ederseniz son kullanıcı lisans sözleşmesi Gizlilik politikası ve reşit olmayanların kişisel verilerinin korunmasına ilişkin açıklamaya verdiğiniz onayı geri çekeceksiniz. Bundan sonra WPS Mail'i kullanamayacaksınız ve bu cihazda oluşturulan tüm veriler silinecek"</string>
     <string name="account_permission_dialog_title">İzni geri al</string>
     <string name="account_permission_private_policy">Gizlilik politikası</string>
@@ -210,7 +210,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="add_pre_message_attachments_yes">Ekle</string>
     <string name="add_star">Yıldız</string>
     <string name="afternoon">ÖS</string>
-    <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
+    <string name="agreement_url" formatted="false">https://xiaomi.wpsmail.net/cn/agreement.html?region=%1s&amp;lang=%2s</string>
     <string name="all_purpose">Mail uygulamasına hoşgeldiniz. E-posta göndermek ve almak için bu uygulamayı kullanabilirsiniz</string>
     <string name="allow_notify">Bildirimlere izin ver</string>
     <string name="always_bcc_myself">Her zaman bilgi kısmına beni ekle</string>
@@ -262,7 +262,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="attachments_security_alert_install_message">Bu ek bir kurulum paketidir. Açmadan önce kaynağa güvendiğinizden emin olun. Şimdi kurulsun mu?</string>
     <string name="attachments_security_alert_install_title">Dikkat</string>
     <string name="attachments_security_alert_message">Bu mesaj bir yükleme paketi içerir. Açmadan önce kaynağa güvendiğinizden emin olun</string>
-    <string name="attachments_security_install">Install</string>
+    <string name="attachments_security_install">Yükle</string>
     <string name="attendee_needed">En az bir davetli ekleyin</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_login_fail">Otomatik olarak oturum açılamadı</string>
@@ -276,7 +276,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="bcc">Kopya</string>
     <string name="bcc_heading">"Kopya: "</string>
     <string name="blank_feedback_toast">Geri bildirim yazmanız gerekmektedir</string>
-    <string name="blank_place_holder">　</string>
+    <string name="blank_place_holder" />
     <string name="body_forward_email_text">[İlet]</string>
     <string name="body_hint">E-posta oluştur</string>
     <string name="body_inline_pic_text">[Resim]</string>
@@ -454,7 +454,6 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="copy">Kopyala</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
-    <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
     <string name="date_heading">"Tarih: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">Bugün, %1$s</string>
@@ -503,7 +502,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="downlaod_nonWifi_confirm_message">Bu eklentiyi indirmek için mobil veri bağlantısı kullanılsın mı?</string>
     <string name="downlaod_nonWifi_confirm_title">Bu eklenti indirilsin mi?</string>
     <string name="download_before_sharing">" indirme işlemi sona ermedi."</string>
-    <string name="download_before_sharing2">"Some of the selected items aren't downloaded. Download them first."</string>
+    <string name="download_before_sharing2">Seçilen öğelerden bazıları indirilmedi. Önce bunları indirin</string>
     <string name="download_cancel_confirm_message">İndirme işlemi durdurulacak</string>
     <string name="download_cancel_confirm_title">Bu eklenti indirilsin mi?</string>
     <string name="download_confirm_message">%1$s eklenti indirilsin mi?</string>
@@ -617,9 +616,6 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="failed_parse_eml_file">EML dosyası açılamadı. Tekrar deneyin</string>
     <string name="failed_read_write_calendar_permission">Takvime erişime izin ver</string>
     <string name="failed_read_write_contacts_permission">Kişilere erişime izin ver</string>
-    <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
-    <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
-    <string name="fallback_menu_item_share_link">Bağlantıyı paylaş</string>
     <string name="feedback">Geri bildirim gönder</string>
     <string name="feedback_body">Mesaj</string>
     <string name="feedback_body_domestic" />
@@ -1006,8 +1002,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -1182,7 +1178,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="privacy_and_private_permission_key">privacy_and_private_permission</string>
     <string name="privacy_des">Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgiler sorunları daha hızlı bir şekilde bulmak için kullanılır. Aşağıdaki %1$s seçeneğine dokunarak %2$s sözleşmemizi kabul etmiş sayılıyorsunuz</string>
     <string name="privacy_policy">Gizlilik politikası</string>
-    <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
+    <string name="privacy_policy_url">https://xiaomi.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Kabul et</string>
     <string name="progress">İşleniyor:</string>
     <string name="prompt_title">Komut istemi</string>
@@ -1401,7 +1397,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="subject_hint">Konu</string>
     <string name="suffix_sancharnet">sancharnet.in</string>
     <string name="suffix_vsnl">vsnl.com</string>
-    <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+    <string name="suggestions_authority">com.android.email.providers.SuggestionsProvider</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>

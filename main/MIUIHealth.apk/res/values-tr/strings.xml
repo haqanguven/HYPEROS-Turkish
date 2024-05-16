@@ -89,7 +89,7 @@ Telefonunuzda ayarlar menüsünden istediğiniz zaman Mi Fitness için önbelle�
  
 Fikrinizi değiştirirseniz hizmetlerimizi kullanmadan önce gizlilik politikasını ve kullanıcı sözleşmesini tekrar kabul etmeniz gerekir"</string>
     <string name="about_privacy_revoke_des">Gizlilik politikamıza verdiğiniz izni geri çekin ve verilerinizi kalıcı olarak silin</string>
-    <string name="about_privacy_revoke_recall">Geri çek</string>
+    <string name="about_privacy_revoke_recall">Geri al</string>
     <string name="about_privacy_risk_dialog_negative_text">İptal et</string>
     <string name="about_privacy_risk_dialog_positive_text">Devam et</string>
     <string name="about_privacy_risk_dialog_title">Uyarı</string>
@@ -5491,7 +5491,7 @@ Bu ödülü kazan"</string>
     <string name="mine_google_fit">Google Fit</string>
     <string name="mine_habit">Alışkanlıklar</string>
     <string name="mine_health_plan">Egzersiz planları</string>
-    <string name="mine_lab_collaration_exit">Geri çek</string>
+    <string name="mine_lab_collaration_exit">Geri al</string>
     <string name="mine_load_error_please_retry">Yükleme başarısız. Lütfen tekrar deneyin</string>
     <string name="mine_medal">Ödüllerim</string>
     <string name="mine_medal_entrance_got">"%1$s

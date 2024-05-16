@@ -31,7 +31,6 @@
     <string name="add_frequent_phrases">Sık kullanılan ifadeleri ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>
     <string name="chinese_day_11">"/11"</string>
@@ -203,8 +202,12 @@
     <string name="input_method_clipboard_clear_all_button">Tümünü temizle</string>
     <string name="input_method_clipboard_clear_all_phrase_des">Panonuzdaki tüm öğeler silinsin mi?</string>
     <string name="input_method_clipboard_clear_all_phrase_title">Pano temizleniyor</string>
+    <string name="input_method_clipboard_commit_failed">Bu öğe yapıştırılamıyor</string>
+    <string name="input_method_clipboard_commit_img_failed">Resimler bu sayfaya yapıştırılamıyor</string>
     <string name="input_method_clipboard_copy_success">Kopyalandı</string>
     <string name="input_method_clipboard_delete_success">Silindi</string>
+    <string name="input_method_clipboard_list_file_item_prefix">"[Dosya] "</string>
+    <string name="input_method_clipboard_list_loading">Yükleniyor</string>
     <string name="input_method_clipboard_move_cursor_guide1">İmleci hareket ettirmek için mavi alana basın ve basılı tutun</string>
     <string name="input_method_clipboard_move_cursor_guide2">Parmağınızı yatay olarak hareket ettirin</string>
     <string name="input_method_clipboard_settings_button">Ayarlar</string>
@@ -215,8 +218,8 @@
     <string name="input_method_function_select_left_view_title">Sol düğme için işlevi ayarlayın</string>
     <string name="input_method_function_select_right_view_title">Sağ düğme için işlevi ayarlayın</string>
     <string name="input_method_function_switch">Klavyeler arasında geçiş yap</string>
-    <string name="input_method_function_switch_keyboard_language">Dil değiştir</string>
-    <string name="input_method_function_switch_keyboard_language_des">Giriş dilleri arasında geçiş yapmak için dokunun</string>
+    <string name="input_method_function_switch_keyboard_language">Dilleri değiştir</string>
+    <string name="input_method_function_switch_keyboard_type">Klavyeleri değiştir</string>
     <string name="input_method_function_voice">Ses girişi</string>
     <string name="input_method_function_xiaoai">Mi yapay zeka ses girişi</string>
     <string name="input_method_no_content_text">Henüz burada öğe yok</string>

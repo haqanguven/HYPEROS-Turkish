@@ -1061,8 +1061,7 @@ Neden: %s"</string>
     <string name="pay_success">Ödeme başarıyla tamamlandı</string>
     <string name="payphone">Ankesörlü telefon</string>
     <string name="people">Kişiler</string>
-    <string name="permission_notice_desc_access_fine_location">Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarmak için</string>
-<string name="permission_access_fine_location_desc">Yerel ağ sinyalini iyileştirmek içindir</string>
+    <string name="permission_access_fine_location_desc">Yerel ağ sinyalini iyileştirmek içindir</string>
     <string name="permission_camera_desc">Kimlik doğrulama sırasında fotoğraf çekmek içindir</string>
     <string name="permission_dailog_positive_button">Git</string>
     <string name="permission_dailog_title">Gerekli izin</string>

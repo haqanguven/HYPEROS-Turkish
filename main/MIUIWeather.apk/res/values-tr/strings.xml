@@ -128,7 +128,7 @@
     <string name="button_add_city">Konum ekle</string>
     <string name="button_allow">Tamam</string>
     <string name="button_confirm">İzin ver</string>
-    <string name="button_confirm_to_revoke_permission">Geri çek</string>
+    <string name="button_confirm_to_revoke_permission">Geri al</string>
     <string name="button_exit">Çıkış</string>
     <string name="button_not_allow">İptal et</string>
     <string name="button_revoke_permission_fail">Tamam</string>

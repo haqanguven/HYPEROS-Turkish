@@ -946,6 +946,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">kez</item>
         <item quantity="one">kez</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d kez</item>
+        <item quantity="one">%d kez</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d pil kullanım sorunu</item>
         <item quantity="one">%d pil kullanım sorunu</item>

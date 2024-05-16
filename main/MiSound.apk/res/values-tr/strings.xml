@@ -771,6 +771,7 @@
     <string name="voice_print_note_description" formatted="false">Ses izi gürültüsü azaltma ses gürültüsünü azaltmak için kullanıcının benzersiz ses özelliklerini kullanan bir teknolojidir. Teknoloji bireyin sesindeki tonlama, perde ve konuşma hızı gibi benzersiz akustik özelliklere dayanır. Bu teknolojiyi kullanmadan önce sesinizi yaklaşık %d ila %d saniye boyunca kaydetmeniz gerekir. Sistem sesinizi öğrenecek. Yalnızca sizin sesinizi koruyarak ve arka plandaki gürültüyü ve diğer insanların seslerini filtreleyerek görüşmede olacaksınız</string>
     <string name="voice_print_note_device">Lütfen kaydetmeden önce harici cihazın bağlantısını kesin</string>
     <string name="voice_print_note_environment">Sessiz bir ortamda, aşağıdaki metni sabit hızda okumak için aşağıdaki düğmeyi basılı tutun</string>
+    <string name="voice_print_note_in_call">Arama sırasında ses kaydı yapılamaz</string>
     <string name="voice_print_num">Ses izi %s</string>
     <string name="voice_print_pref_name">Sesli baskı kaydı</string>
     <string name="voice_print_press">Kaydetmek için uzun basın</string>

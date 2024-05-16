@@ -529,6 +529,10 @@ cihazınızı yukarı eğin"</string>
     <string name="satellite_location_deny_permission_msg">Tiantong uydu iletişimlerini açmak için konum erişimine izin verin</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>
+    <string name="satellite_service_reject_cause_imei">"Cihaz IMEI'si kayıtlı değil"</string>
+    <string name="satellite_service_reject_cause_not_enable_International_roaming">Uluslararası dolaşımı açın</string>
+    <string name="satellite_service_reject_cause_not_order_tiantong">Tiantong uydu hizmetlerini açın</string>
+    <string name="satellite_service_reject_cause_not_use_ctc">Çin telecom Sim aracını takın</string>
     <string name="satellite_signal_boost_setting_dialog">Kurulduktan ve etkinleştirildikten sonra sinyal amplifikatörü bu ünitenin uyduya olan açısını hafifçe değiştirerek bulutlu ve bulutlu koşullarda uydu iletişiminin sinyal gücünü ve stabilitesini artırır</string>
     <string name="satellite_signal_boost_setting_dialog_title">Uydu sinyal amplifikatörünü kurun ve kullanmaya başlayın</string>
     <string name="satellite_state">Cihazınızı hareket ettirmeyin</string>
@@ -544,6 +548,7 @@ Cihazı bu konumda tutun"</string>
     <string name="satellite_state_gps_noti_title">Uydu iletişimleri</string>
     <string name="satellite_state_occlusion_prompt">Sinyali engelleyebilecek binalardan veya ağaçlardan kaçının</string>
     <string name="satellite_state_retry">Denemeye devam edin</string>
+    <string name="satellite_state_voice_reg_fail_exit">Çıkış</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>

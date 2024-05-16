@@ -883,7 +883,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="permission_group_sms">Mesaj</string>
     <string name="permission_group_storage">Depolama</string>
     <string name="permission_instructions">İzin kullanımı</string>
-    <string name="permission_withdraw">Geri çek</string>
+    <string name="permission_withdraw">Geri al</string>
     <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanılır:</string>
     <string name="phone_ticket_login">Doğrulama koduyla oturum açın</string>
     <string name="phone_ticket_register">Telefon numarası ile hesap oluşturun</string>

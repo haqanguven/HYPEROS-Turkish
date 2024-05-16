@@ -29,8 +29,8 @@
     <string name="HIPS_Perm_Intl_group_name_call_log">Arama geçmişi</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
     <string name="HIPS_Perm_Intl_group_name_contact">Kişiler</string>
-    <string name="HIPS_Perm_Location">Konum bilgilerini alma</string>
-    <string name="HIPS_Perm_Location_Desc">Kesin konumu alır (GPS ve ağ tabanlı)</string>
+    <string name="HIPS_Perm_Location">Konum bilgileri</string>
+    <string name="HIPS_Perm_Location_Desc">Kesin konum bilgilerini alır (GPS ve ağ tabanlı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yakındaki cihazlara bağlanın</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve wifi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
     <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>

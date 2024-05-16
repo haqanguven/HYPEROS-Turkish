@@ -127,6 +127,7 @@
     <string name="button_ok">Tamam</string>
     <string name="button_quit">Çıkış</string>
     <string name="button_return">Geri</string>
+    <string name="button_select">Seç</string>
     <string name="button_send">Gönder</string>
     <string name="call_title">Arama geçmişi</string>
     <string name="camera_summary">Kamera ayarları (Fotoğraflar dahil değil)</string>
@@ -907,6 +908,7 @@ En az %s yer açın"</string>
     <string name="select_storage_location">Yedekleme konumunu seçin</string>
     <string name="send">Gönder</string>
     <string name="service_stoped">Servis durdu</string>
+    <string name="set_app_suspend">Bu uygulama şu anda yedekleniyor. Yedekleme tamamlanana kadar bekleyin ve tekrar deneyin</string>
     <string name="settings_summary">Telefon ve mesajlaşma ayarları</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>

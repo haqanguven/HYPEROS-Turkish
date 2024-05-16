@@ -315,6 +315,8 @@
     <string name="pay_entry_dialog_title_select">Açmak için uygulamayı seçin</string>
     <string name="pay_entry_dialog_title_setting">Uygulama ayarla</string>
     <string name="permission_desc">İzin ayrıntıları</string>
+    <string name="pin_toast">Bu uygulamanın sabitlemesini kaldırmak için ekranın altından yukarı kaydırın ve duraklatın</string>
+    <string name="pin_toast_nav">Bu uygulamanın sabitlemesini kaldırmak için geri ve ana Sayfa düğmelerini basılı tutun</string>
     <string name="pm">ÖS</string>
     <string name="pref_category_mipay">NFC kısayolları</string>
     <string name="pref_category_others">Diğer</string>
@@ -358,6 +360,7 @@
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_toggle_auto_rotate_kddi">Otomatik döndür</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_data">Mobil veri</string>
     <string name="status_bar_toggle_lock">Kilitle</string>

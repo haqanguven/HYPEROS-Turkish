@@ -209,10 +209,6 @@
     <string name="after_the_lock_screen">Uygulamaları ekranla birlikte kilitleyin</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="ai_allow_all">Herkes için izin kullanıldığında bildir</string>
-    <string name="alarm_headsup_bottom">Xiaomi cep telefonu kırmızı paketleri tutuyor</string>
-    <string name="alarm_lock_screen_summary">Kırmızı zarf yağmuru yolda</string>
-    <string name="alarm_lockscreen_btn">Kırmızı zarfları almaya başla</string>
-    <string name="alarm_setting_title">Kırmızı zarf çalar saat ayarı</string>
     <string name="alert_back_diving_mode_summary">Sürükleyici mod şimdi kapatılsın mı?</string>
     <string name="alert_back_diving_mode_title">Sürükleyici mod</string>
     <string name="alert_back_milink_hangup_tips_content">Bir aramayı bitirirken yansıtma kesintiye uğramaz. Ekranı uyandırmak için güç düğmesine basabilirsiniz</string>
@@ -361,8 +357,8 @@
     <string name="app_install_tips_go_to">Aç</string>
     <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
     <string name="app_isulate_func_close_tip">Bu özelliği kapatırsanız bazı uygulama verileri kaybolabilir. Önce önemli verileri yedekleyin. Şimdi kapatılsın mı?</string>
-    <string name="app_isulate_func_closing">Kapatılıyor</string>
-    <string name="app_isulate_func_opening">Açılıyor</string>
+    <string name="app_isolate_func_closing">Kapatılıyor</string>
+    <string name="app_isolate_func_opening">Açılıyor</string>
     <string name="app_lock_face_error_to_try">Yüz tanıma kilidini kullanmak için yüz simgesine dokunun</string>
     <string name="app_lock_pwd">Kilidi açmak için şifreyi girin</string>
     <string name="app_lock_pwd_forget">Şifremi unuttum</string>
@@ -589,9 +585,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_source_other">Diğer</string>
     <string name="app_source_settings">Ayarlar</string>
     <string name="app_source_widget">Araç</string>
-    <string name="app_summary">"WeChat/QQ/Michao kırmızı zarf eserini al
-Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
-Çin yeni yılı kırmızı zarf faaliyetlerini kaçırmayın"</string>
+    <string name="app_summary">"WeChat veya QQ kırmızı zarf yakalama aracı
+bireysel kırmızı zarfları ve grup kırmızı zarfları destekler"</string>
     <string name="app_usage_half_year">Son %d ay</string>
     <string name="app_usage_more_year">%d yıldan fazla süre önce</string>
     <string name="app_usage_never">Hiç kullanılmadı</string>
@@ -1107,7 +1102,6 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="bubble_notification_switch">Balon bildirimlerine izin ver</string>
     <string name="bubble_notification_switch_desc">Ekranın kenarında kayan bir pencere gizlendiğinde bildirimlerini baloncuklar halinde gösterin</string>
     <string name="business_have_hongbao">%1$s kategorisinden kırmızı bir zarf</string>
-    <string name="business_lucky_warning">Şirketin kırmızı zarfı</string>
     <string name="button_background_connection">İzin ver</string>
     <string name="button_block_calls_from_cantacts">Engeli kaldır</string>
     <string name="button_block_calls_from_strangers">Engeli kaldır</string>
@@ -1335,12 +1329,11 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cmcc_app_check_dialog_negative">Daha sonra</string>
     <string name="cmcc_app_check_dialog_positive">Şimdi yeniden başlat</string>
     <string name="cmcc_app_check_dialog_title">Sistem onarıldı</string>
-    <string name="cmd_lucky_float">Salla</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
     <string name="commonly_used_func_card_title">Ortak özellikler</string>
     <string name="commonly_used_func_edit_too_many_func">Daha fazla öğe eklenemiyor</string>
     <string name="compact_safebox_dialog_tip">Size daha iyi bir kullanıcı deneyimi sağlamak amacıyla ikinci alan artık gizli klasörleri desteklememektedir. Verilerinizin kaybolmasını önlemek için bu öğeleri mümkün olan en kısa sürede aktarın</string>
-     <string name="compatible_dialog_content">Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir</string>
+    <string name="compatible_dialog_content">Bu uygulama 64 bit mimariyle tam olarak uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir</string>
     <string name="compatible_dialog_more_info">Daha fazla bilgi</string>
     <string name="compatible_dialog_title">Dikkat</string>
     <string name="comprehensive_protection_measures">Kapsamlı koruma</string>
@@ -1757,7 +1750,6 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="enable_extreme_power_save_mode">Aşırı pil tasarrufu</string>
     <string name="enable_network">Öncelikle veri bağlantısını açın</string>
     <string name="enable_notification_title">"%1$s'nin bildirimleri kullanmasına izin verilsin mi?"</string>
-    <string name="enter">Devam et</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Hata</string>
@@ -2083,7 +2075,8 @@ gönüllüsü"</string>
     <string name="fingerprint_verify_failed">Parmak izi doğrulanamadı</string>
     <string name="fingerprint_verify_succeed">Parmak izi doğrulandı</string>
     <string name="fingerprint_verify_try_agin">Parmak izi taranamadı. Yeniden deneyin</string>
-    <string name="firewall_activity_lable">Uygulama için veri kullanımını kısıtla</string>
+    <string name="fingerprint_verify_try_error">Çok fazla başarısız girişim. Tekrar denemeden önce cihazınızı kilitleyin ve kilidini açın</string>
+    <string name="firewall_activity_lable">Ağ girişi</string>
     <string name="firewall_allow_all">Bu yöntemi kullanan tüm uygulamaların bağlantısına izin ver</string>
     <string name="firewall_allow_data">Mobil veri kullanımına izin ver</string>
     <string name="firewall_allow_network">İzin ver</string>
@@ -2167,8 +2160,6 @@ gönüllüsü"</string>
     <string name="fixed_cellular_data_quota_monthly">Aylık veri limiti</string>
     <string name="fixed_package_tips">Sabit bir aylık akışın keyfini çıkarın. Eğer bunu aşarsanız ek kesintiler yaparsınız</string>
     <string name="fixed_traffic_quota">Veri sınırı (Zorunlu)</string>
-    <string name="float_window">Masaüstü yüzer pencere</string>
-    <string name="float_window_summary">Sayfaları sallamak için hızlı atlamayı destekler</string>
     <string name="float_window_tips">Xiaomi cep telefonu hızlı</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
@@ -2328,12 +2319,16 @@ gönüllüsü"</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
     <string name="gamebooster_push_expiring_soon_button">Yenile</string>
     <string name="gamebooster_push_expiring_soon_title">Oyun hızlandırıcı</string>
+    <string name="gamebox_ai_accelerate">Mobil veri yapay zekası desteği</string>
+    <string name="gamebox_ai_accelerate_description">Mobil ağ bağlantı hızını artırmak ve mobil verilerden tasarruf etmek için ağ ortamını analiz edin</string>
     <string name="gamebox_ai_subtitle">Yapay zeka altyazıları</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_brightness">Parlaklık</string>
     <string name="gamebox_browser_not_find">Önce Mi tarayıcıyı yükleyin</string>
     <string name="gamebox_bullet_chat">Ekran yorumları</string>
-    <string name="gamebox_collimator">Görüş</string>
+    <string name="gamebox_cellular_network">Hücresel ağı optimize edin</string>
+    <string name="gamebox_cellular_network_description">Oyun gecikmesine göre en iyi ağ yolunu otomatik olarak seç</string>
+    <string name="gamebox_collimator">Görünüş</string>
     <string name="gamebox_display_1">Yok</string>
     <string name="gamebox_display_2">Doygunluk</string>
     <string name="gamebox_display_3">Parlaklık</string>
@@ -2367,6 +2362,7 @@ gönüllüsü"</string>
     <string name="gamebox_mem_clean">Belleği temizle</string>
     <string name="gamebox_mem_filter">Oyun filtreleri</string>
     <string name="gamebox_milink">Yayınla</string>
+    <string name="gamebox_net_optimize_description">Wifi gecikmesini ve titreşimini azaltın. Özel hız artırma modlarının keyfini çıkarmak için bir Xiaomi veya Redmi yönlendirici kullanın</string>
     <string name="gamebox_positive_button_text">Tamam (%1$d saniye)</string>
     <string name="gamebox_qq_not_find">"QQ'yu yükleyin ve tekrar deneyin"</string>
     <string name="gamebox_recent_task_expand_fail">Kısayollarla çalışan uygulamalar yüklü değil</string>
@@ -2434,6 +2430,9 @@ gönüllüsü"</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_award_noti_message">Ödüller almak için oyun hızlandırıcıda barış için oyun arka plan güncellemelerini açın</string>
     <string name="gb_award_noti_title">Barış için oyun ödülleri burada</string>
+    <string name="gb_bar_high">Yüksek</string>
+    <string name="gb_bar_low">Düşük</string>
+    <string name="gb_bar_mid">Normal</string>
     <string name="gb_barrage_app_manger">Uygulamaları yönet</string>
     <string name="gb_barrage_chat_desc">Her zaman harika bir şeyin olmak üzere olduğuna inan</string>
     <string name="gb_barrage_chat_pre_desc">Önizleme</string>
@@ -2546,6 +2545,9 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_have_signed">Bugün yer bildirimi yapıldı</string>
     <string name="gb_manual_record_dialog_del_video_message">Seçilen videolar kalıcı olarak silinsin mi?</string>
     <string name="gb_manual_video_record_title">Kayıtlar</string>
+    <string name="gb_margin_restrain">Kenarlara yanlışlıkla dokunmayı göz ardı edin</string>
+    <string name="gb_margin_restrain_description">Cihazınız kenarlara yakın alana yanlışlıkla dokunulduğunda daha az tepki verecektir</string>
+    <string name="gb_margin_restrain_seekbar">Kazara dokunma alanı</string>
     <string name="gb_msg_completely_shielded">Mesajları gizle</string>
     <string name="gb_msg_completely_shielded_summary">Gizle</string>
     <string name="gb_msg_not_shielded_summary">Göster</string>
@@ -2633,6 +2635,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_signed_gift_loading_summary">Yükleniyor</string>
     <string name="gb_signed_title">Bu ay kontrol edildi</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s kaldı</string>
+    <string name="gb_smart_shake_description">Küçük hareketlere duyarlılık</string>
     <string name="gb_sound_audition">Dene</string>
     <string name="gb_storage_game_dialog_button_timer">%d saniye</string>
     <string name="gb_storage_game_dialog_message">İndirdiğiniz oyun otomatik olarak oyun hızlandırmaya dahil edilecek ve oyun simgesi artık masaüstünde görüntülenmeyecektir. Depolama işlevini açtığınızdan emin misiniz?</string>
@@ -2749,7 +2752,6 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
-    <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranı kullanmak için yana sürükleyin
 · Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
@@ -3059,7 +3061,6 @@ manzara moduna geçin"</string>
     <string name="item_fifty">%d CNY</string>
     <string name="item_hundred">%d CNY</string>
     <string name="item_install_monitor">İzleyiciyi yükle</string>
-    <string name="item_lucky_alarm_has_been_closed">Bu sona erdi</string>
     <string name="item_mms">İstenmeyen mesajları filtrele</string>
     <string name="item_system_auto_download">Güncellemeleri otomatik olarak indir</string>
     <string name="item_ten">%d CNY</string>
@@ -3142,21 +3143,8 @@ Mobil veri bağlantısını tekrar kullanmanız durumunda operatörünüz ek üc
     <string name="low_memory_warning_dialog_ok_button">Temizle</string>
     <string name="low_memory_warning_dialog_title">Yeterince boş alan yok</string>
     <string name="low_temperature_button_ok">Tamam</string>
-    <string name="low_temperature_warning_message">Çok soğuk gibi görünüyor ve telefonunuz beklediğinizden daha erken kapanıyor. Tüm önemli değişiklikleri kaydedin</string>
+    <string name="low_temperature_warning_message">Hava çok soğuk gibi görünüyor ve telefonunuz beklediğinizden daha erken kapanabilir. Tüm önemli değişiklikleri kaydedin</string>
     <string name="low_temperature_warning_title">Hava sıcaklığı düşük</string>
-    <string name="lucky_activity">Kırmızı zarf aktiviteleri</string>
-    <string name="lucky_alarm">Kırmızı zarf alarm saati</string>
-    <string name="lucky_alarm_app">Kırmızı zarf etkinliği geri sayımı</string>
-    <string name="lucky_alarm_app_after">Kırmızı zarf etkinliği sona erdi</string>
-    <string name="lucky_alarm_app_tail">Geriye sayım</string>
-    <string name="lucky_alarm_back">Kırmızı zarf asistanına geri dön</string>
-    <string name="lucky_alarm_count_down">0:00:00</string>
-    <string name="lucky_alarm_count_down_default">0:00:00</string>
-    <string name="lucky_alarm_item_date">27</string>
-    <string name="lucky_alarm_item_month">11 ay</string>
-    <string name="lucky_alarm_open_summary">Açılır pencereye kırmızı zarf aktivitesinin başlamasından 1 dakika önce hatırlatma yapılır ve tüm kırmızı zarf aktivitesi süresi yüzen pencereden görülebilir</string>
-    <string name="lucky_alarm_open_title">Kırmızı zarf çalar saat</string>
-    <string name="lucky_alarm_sound_title">Olay sesi hatırlatıcısı</string>
     <string name="lucky_assistant_description">"Mi resmi imalat 
 WeChat/QQ 
 Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız etme işlevini kaydetmek için bilgisayarı açar"</string>
@@ -3164,10 +3152,8 @@ Hatırlatıcıları engellenen grupları desteklemez ve yazılımın rahatsız e
     <string name="lucky_money_close">Kapat</string>
     <string name="lucky_money_group_summary">Bireyler tarafından gönderilen kırmızı zarfların alınmasına gerek yoktur. Çok fazla hatırlatmadan kaçınmak için yalnızca kırmızı zarf grubuna hatırlatmanız önerilir</string>
     <string name="lucky_money_help_link">https://api.miui.security.xiaomi.com/netassist/floworderunity/cdn/luckymoneyhelp</string>
-    <string name="lucky_my_luckymoney">Kırmızı zarf kaydı</string>
     <string name="lucky_sound_mode_lucky">İşte kırmızı zarf geliyor</string>
     <string name="lucky_sound_warn">Kırmızı zarf sesli uyarı</string>
-    <string name="lucky_str_yuan">%s yuan</string>
     <string name="lucky_warning_count_title">"WeChat'den"</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
@@ -3240,6 +3226,7 @@ bekleniyor"</string>
     <string name="malicious_bg_start">Arka planda açılan pencere</string>
     <string name="malicious_chain">Zincir başlangıcı</string>
     <string name="malicious_cold_start">Soğuk başlatma</string>
+    <string name="malicious_default_config">[{behavior:3,default_report_threshold:10},{behavior:4,default_report_threshold:10},{behavior:6,default_report_threshold:10},{behavior:7,default_report_threshold:5},{behavior:10,default_report_threshold:10},{behavior:12,default_report_threshold:10},{behavior:13,default_report_threshold:10},{behavior:14,default_report_threshold:10},{behavior:15,default_report_threshold:10},{behavior:16,default_report_threshold:10},{behavior:19,default_report_threshold:10},{behavior:36,default_report_threshold:10},{behavior:27,default_report_threshold:10},{behavior:26,default_report_threshold:36000},{behavior:35,record_threshold:10},{behavior:37},{behavior:38},{behavior:34},{behavior:31},{behavior:29},{behavior:30},{behavior:28,default_report_threshold:10,exclude_apps:[com.miui.weather2,com.android.calendar,com.android.deskclock,com.miui.notes,com.android.soundrecorder,com.mfashiongallery.emag,com.xiaomi.mibrain.speech,com.miui.gallery,com.miui.securitymanager,com.xiaomi.vipaccount,com.mi.health,com.xiaomi.shop,com.xiaomi.market,com.xiaomi.smarthome,com.miui.virtualsim,com.xiaomi.gamecenter,com.xiaomi.youpin,com.miui.newmidrive,cn.wps.moffice_eng.xiaomi.lite,com.android.emai,com.xiaomi.scanner,com.miui.calculato,com.miui.newhome,com.miui.compass,com.miui.compass]},{behavior:22,default_report_threshold:36000},{behavior:23,default_report_threshold:36000},{behavior:10001},{behavior:10002},{behavior:10003},{behavior:10004}]</string>
     <string name="malicious_hot_start">Sıcak başlatma</string>
     <string name="malicious_keyguard_show">Kilit ekranı görüntüsü</string>
     <string name="malicious_media_projection">Kayıt ekranı</string>
@@ -3410,7 +3397,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="menu_wh_remove">İstisnalardan kaldır</string>
     <string name="menu_white">İstisnalara ekle</string>
     <string name="mi_ime_not_used">Xiaomi tarafından yetkilendirilmiş bir klavye kullanın</string>
-    <string name="mi_pay_lucky">Xiaomi cüzdan</string>
     <string name="mi_roaming">Mi dolaşım</string>
     <string name="mi_service_app_detail">Veri kullanım detayları</string>
     <string name="mi_service_traffic_detail">Hizmet çerçevesi detayları</string>
@@ -3423,7 +3409,6 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="mic_noise_reduction_voiceprint_desc">Yalnızca belirli bir kullanıcıdan gelen sesi sakla</string>
     <string name="midnight">Gece</string>
     <string name="midrop_post_notification_contentTitle">Dosyaları paylaşmanız mı gerekiyor?</string>
-    <string name="miliao_lucky_warning">Mi kırmızı paket</string>
     <string name="miui_blur_location">Yaklaşık konum</string>
     <string name="miui_optimization_close_final_tip">Xiaomi optimizasyonu kapatılsın mı?</string>
     <string name="miui_optimization_close_title">Bu özellik geliştiriciler içindir ve genel kullanıcılar için uygun olmayabilir. Xiaomi optimizasyonunun kapatılması aşağıdaki değişiklikleri getirebilir:</string>
@@ -3669,7 +3654,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="normal3" formatted="false">Kısıtlı izinler: %1s, %2s, %3s. Değiştirmek için dokunun</string>
     <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Değiştirmek için dokunun</string>
     <string name="normal_package_usage_summary" formatted="false">%2s - %1s (%3s)</string>
-    <string name="not_available">Hayır</string>
     <string name="not_closed">Devam et</string>
     <string name="not_limited_brand">Sınırsız</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -3972,18 +3956,42 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_camera_printer_notify_subtitle">Bağlandı</string>
     <string name="pc_camera_printer_title">Fotoğraf yazıcı seti</string>
     <string name="pc_category_charge_settings">Şarj ayarları</string>
-    <string name="pc_charged_auto_close_summary">Pil ​%1$s olduğunda veya tamamen şarj olduğunda kapatın</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Düşük voltaj</string>
+    <string name="pc_charge_mode_low_power_fast_speed_tips">Cihaz ısınabilir</string>
+    <string name="pc_charge_mode_standard">Standart</string>
+    <string name="pc_charge_mode_topspeed">En yüksek hız</string>
+    <string name="pc_charge_mode_topspeed_tips">Cihaz ısınabilir</string>
+    <string name="pc_charge_protection_features_title">Şarj etme seçenekleri</string>
+    <string name="pc_charge_protection_wired_charge">Kablolu şarj</string>
+    <string name="pc_charge_protection_wired_charge_mode">Kablolu şarj modu</string>
+    <string name="pc_charge_protection_wireless_charge">Kablosuz şarj</string>
+    <string name="pc_charge_protection_wireless_charge_mode">Kablosuz şarj modu</string>
+    <string name="pc_charge_protection_wireless_reverse_charge">Ters kablosuz şarj</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">"Bu cihazın pili %1$s'nin altına düştüğünde ters kablosuz şarjı kapatın"</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Şarj sınırı</string>
+    <string name="pc_charge_wireless_charge_mode_silence_title">Sessiz mod süresi</string>
+    <string name="pc_charge_wireless_charge_select_silence">Sessiz</string>
+    <string name="pc_charge_wireless_charge_select_silence_always">Her zaman</string>
+    <string name="pc_charge_wireless_charge_select_silence_night">Gece</string>
+    <string name="pc_charge_wireless_charge_select_silence_night_summary">Ertesi gün %1$s - %2$s arası</string>
+    <string name="pc_charge_wireless_charge_select_silence_summary">Daha az gürültü ve daha yavaş şarj</string>
+    <string name="pc_charge_wireless_charge_select_standard">Standart</string>
+    <string name="pc_charge_wireless_charge_select_topspeed">En yüksek hız</string>
+    <string name="pc_charge_wireless_charge_select_topspeed_summary">Artan gürültü ve cihaz sıcaklığı</string>
+    <string name="pc_charge_wireless_only_mi_charger_work">"Yalnızca Xiaomi'nin sağladığı şarj cihazlarıyla çalışır"</string>
+    <string name="pc_charged_auto_close_summary">Pil %1$s olduğunda veya tamamen şarj olduğunda kapatın</string>
     <string name="pc_charged_auto_close_title">Şarj edildiğinde kapat</string>
     <string name="pc_close_notifi_action">Kapat</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">%1$s %2$s olduğunda veya tamamen şarj olduğunda pil tasarrufu kapatılacak</string>
-    <string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de Pil tasarrufu açıldı"</string>
-    <string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için Pil tasarrufunu açın"</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de pil tasarrufu açıldı"</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için pil tasarrufunu açın"</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s pil zayıf</string>
     <string name="pc_current_power_mode">Mevcut mod</string>
     <string name="pc_emergency_call">Acil durum</string>
     <string name="pc_endurance_calculation">Hesaplanıyor</string>
     <string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
     <string name="pc_entered_extreme_mode_summary">Cihazınızın pili bitti ve Hazırda Bekletme moduna girdi. Uygulamalar arka planda çalışacak ve bildirim göndermeyecek</string>
+    <string name="pc_extreme_category">Son derece düşük pil</string>
     <string name="pc_extreme_exit_and_power_off">Çıkış</string>
     <string name="pc_extreme_mode_bg_toast">Hazırda bekletme modunda uygulamalar arka planda çalışır ve bildirim göndermez</string>
     <string name="pc_extreme_mode_entering">Hazırda bekletme çalıştırılıyor</string>
@@ -3992,6 +4000,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_extreme_mode_exiting">Hazırda bekletme geçişinden çıkılıyor</string>
     <string name="pc_extreme_mode_find_charger">Cihazınızı en kısa sürede şarj edin</string>
     <string name="pc_extreme_mode_runtime">Hazırda bekleme modu %1$s %2$s için açık</string>
+    <string name="pc_extreme_mode_setting_summary">Pil çok düşük olduğunda bekleme süresini uzatın</string>
+    <string name="pc_extreme_mode_setting_title">Hazırda bekletme</string>
     <string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
     <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
     <string name="pc_fast_charge_notifi_action_text_on">Hızlandır</string>
@@ -4048,6 +4058,8 @@ kapat"</string>
     <string name="pc_low_batterty_got_it">Tamam</string>
     <string name="pc_low_battery_fast_charge">Şarjı hızlandırın</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
+    <string name="pc_low_temp_charge_summary">Şarj cihazını bağlı tutun ve normal şekilde şarj etmek için ekran kapandıktan sonra pilin ısınmasını bekleyin</string>
+    <string name="pc_low_temp_charge_title">Düşük sıcaklıkta şarj</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$sd eklendi. Yaklaşık %2$s gün kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$sd eklendi. Yaklaşık %2$s gün %3$s saat kaldı</string>
@@ -4617,6 +4629,7 @@ kapat"</string>
     <string name="power_optimize_loading">Yükleniyor</string>
     <string name="power_optimize_open_hide_mode">Pil tasarrufunu aç</string>
     <string name="power_optimize_power_save_extend_time">%s ekle</string>
+    <string name="power_optimize_power_save_extend_time_new" formatted="false">%1s %2s kadar uzat</string>
     <string name="power_optimize_power_save_summary">Karanlık moda geçin ve arka plan etkinliğini sınırlandıran ve pilden tasarruf sağlayan birden fazla sistem optimizasyonu uygulayın</string>
     <string name="power_optimize_prohibit_app_autostart">Uygulamaların otomatik olarak başlamasına izin verme</string>
     <string name="power_optimize_reduce_fps">"Ekran yenileme oranını %d Hz'ye düşür"</string>
@@ -5238,7 +5251,6 @@ kapat"</string>
     <string name="quick_replay_list_title">Mevcut uygulamalar</string>
     <string name="quick_reply_title">Hızlı cevaplar</string>
     <string name="quite_all_string">İptal et</string>
-    <string name="random_expression">Rastgele ifade</string>
     <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
     <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
     <string name="reach_warning_reminder_type">Veri sınırına ulaşıldığında</string>
@@ -5577,7 +5589,6 @@ kapat"</string>
     <string name="sim_lock_start_lock_summary">Pin kodunu manuel olarak onaylayın</string>
     <string name="sim_lock_start_lock_superscript">Aç</string>
     <string name="sim_lock_start_lock_title">USim kartını kilitle</string>
-    <string name="sim_lock_start_notification_message">Güvenlik risklerine karşı daha az savunmasız hale getirmek için Sim kartınızı bu cihazla ilişkilendirin</string>
     <string name="sim_lock_start_notification_title">Sim kartınızı koruyun</string>
     <string name="sim_lock_start_query_pin">Pin kodunu kontrol et</string>
     <string name="sim_lock_start_summary">Bu özellik Sim kartınızın kaybolması durumunda sizi olası risklerden korur</string>
@@ -6039,6 +6050,9 @@ Bu ^1 cihazını bu cihazla kullanmak için önce ayarlamanız gerekir"</string>
     <string name="storage_mount_failure">%1$s eklenemedi</string>
     <string name="storage_mount_success">%1$s başarıyla bağlandı</string>
     <string name="storage_my_device">Cihazım</string>
+    <string name="storage_permission_button">Ayarlar</string>
+    <string name="storage_permission_message">Depolama kullanımını doğru bir şekilde hesaplayabilmek için bu özelliğin depolama alanına erişmesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
+    <string name="storage_permission_title">Gerekli izinler</string>
     <string name="storage_space_release_hint">Daha fazla depolama alanına mı ihtiyacınız var?</string>
     <string name="storage_system_log">Sistem günlükleri</string>
     <string name="storage_system_log_tip">Sistem günlükleri gerektiğinde otomatik olarak temizlenir</string>
@@ -6335,20 +6349,12 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="tether_over_limit_warning_notify_message">Kişisel bağlantı noktasını kapat</string>
     <string name="tether_over_limit_warning_notify_title">Kişisel bağlantı noktası veri sınırına ulaşıldı</string>
     <string name="textDirection">ltr</string>
-    <string name="text_alarm_after">"Bu yılki kırmızı zarf etkinliğinin sona erdi
-Seneye tekrar bir araya gelmek için sabırsızlanıyorum"</string>
-    <string name="text_alarm_before">"Bu yılki kırmızı zarf etkinliği başlamak üzere
-Zenginlik tanrısı yerinde ve bu yüzden bizi izlemeye devam edin"</string>
-    <string name="text_alarm_close">"Her zaman kırmızı zarf türlerini hatırlatma
-ve kırmızı zarfları asla kaçırmamak için
-kırmızı zarf alarmını açın"</string>
     <string name="text_all_control_summary">Kırmızı bir zarf algılandığında ekran otomatik olarak yanar</string>
     <string name="text_button">Tamam</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
     <string name="text_done">Tamam</string>
     <string name="text_error">İlgili yazılım sürümü çok düşük veya yüklü değil</string>
-    <string name="text_lucky_alarm_before">Kırmızı zarf olayı başlamak üzere</string>
     <string name="text_security">Gizlilik</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıl dönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
@@ -6833,6 +6839,9 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="verify_wlan_allow">@string/app_behavior_allowed</string>
     <string name="verify_wlan_denied">@string/app_behavior_denied</string>
     <string name="video_repeat">Tekrar oynat</string>
+    <string name="videobox_double_core_visual">Çift çekirdekli görseller</string>
+    <string name="videobox_double_core_visual_description1">"Özel bir çip aracılığıyla video çözünürlüğünü iyileştirin, kare hızını artırın ve HDR'yi optimize edin"</string>
+    <string name="videobox_double_core_visual_description2">Video netliğini ve pürüzsüzlüğünü artırın. Bu özelliğin açılması güç tüketimini bir miktar artıracaktır</string>
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="videobox_hangup_tips_title">Dikkat</string>
     <string name="videobox_settings_line_location">Kısayol konumu</string>
@@ -7105,5 +7114,4 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="xunyou_server_expired">Oturum sona erdi</string>
     <string name="yesterday">Dün</string>
     <string name="yuan">CNY</string>
-    <string name="zhifubao_not_found">Uygulama sürümünüz çok düşük veya yüklü değil</string>
 </resources>

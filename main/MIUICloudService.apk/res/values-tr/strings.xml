@@ -53,7 +53,7 @@
     <string name="button_agree">Kabul et</string>
     <string name="button_cancel">İptal et</string>
     <string name="button_quit">Çıkış</string>
-    <string name="button_revoke">Geri çek</string>
+    <string name="button_revoke">Geri al</string>
     <string name="check_contact">Ekle</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>
@@ -840,7 +840,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="revoke_permission_content">İzinleri geri çekerseniz cihazı bul özelliğini kullanmaya devam edemezsiniz. Cihazı bul da kapatılacaktır. Çekmeden önce şifrenizi doğrulamanız istenecektir</string>
     <string name="revoke_permission_title">Dikkat</string>
     <string name="revoke_privacy_agreement_msg">Devam ederseniz Xiaomi bulutun gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Xiaomi bulut hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz Xiaomi bulut hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. İzin şimdi geri çekilsin mi?</string>
-    <string name="revoke_privacy_confirm">Geri çek</string>
+    <string name="revoke_privacy_confirm">Geri al</string>
     <string name="revoke_privacy_content">Devam ederseniz app://com.miui.cloudservice.gdpr.license gizlilik politikasına verdiğiniz onayı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Cihazı bul hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izni geri çekmeniz cihazı bul hizmetlerini kabul etmeyi reddetmeniz olarak kabul edilecektir. İzin şimdi geri çekilsin mi?</string>
     <string name="revoke_privacy_failed">İzin geri alınamadı</string>
     <string name="revoke_privacy_title">İznin geri alınması</string>

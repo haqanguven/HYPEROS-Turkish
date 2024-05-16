@@ -166,7 +166,7 @@
     <string name="blocked">Engellendi</string>
     <string name="blocked_camera_title">Cihaz kamerası engellenmiş</string>
     <string name="blocked_location_title">Cihaz konumu kapalı</string>
-    <string name="blocked_mic_summary">Mikrofon verileri, bir acil durum numarasını aradığınızda paylaşılmaya devam edilebilir</string>
+    <string name="blocked_mic_summary">Mikrofon verileri bir acil durum numarasını aradığınızda paylaşılmaya devam edilebilir</string>
     <string name="blocked_microphone_title">Cihaz mikrofonu engellenmiş</string>
     <string name="blocked_sensor_button_label">Değiştir</string>
     <string name="blocked_sensor_summary">Uygulamalar ve hizmetler içindir</string>
@@ -250,8 +250,8 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
     <string name="duration_used_days">{count,plural, =1{# gün}other{# gün}}</string>
     <string name="duration_used_hours">{count,plural, =1{# saat}other{# saat}}</string>
-    <string name="duration_used_minutes">{count,plural, =1{# dk.}other{# dk.}}</string>
-    <string name="duration_used_seconds">{count,plural, =1{# sn.}other{# sn.}}</string>
+    <string name="duration_used_minutes">{count,plural, =1{# dakika}other{# dakika}}</string>
+    <string name="duration_used_seconds">{count,plural, =1{# saniye}other{# saniye}}</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="encryption_unaware_confirmation_message">Not: Cihazınızı yeniden başlatırsanız ve ekran kilidi kullanıyorsanız, cihazınızın kilidini açmadan bu uygulama başlayamaz</string>
     <string name="error_a11y_label">Hata: Geçersiz</string>
@@ -442,7 +442,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="mtrl_picker_invalid_format">Geçersiz biçim</string>
     <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık</string>
     <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
     <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
@@ -768,7 +768,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="safety_center_rescan_button">Cihaz taraması yap</string>
     <string name="safety_center_view_recent_location_access">Son konum kullanımını göster</string>
     <string name="safety_label_changes_gear_description">Ayarlar</string>
-    <string name="safety_label_changes_notification_desc">Bazı uygulamalar, konum verilerinizi paylaşma şeklini değiştirdi</string>
+    <string name="safety_label_changes_notification_desc">Bazı uygulamalar konum verilerinizi paylaşma şeklini değiştirdi</string>
     <string name="safety_label_changes_notification_title">Veri paylaşımı güncellemeleri</string>
     <string name="safety_privacy_qs_tile_subtitle">Durumu denetle</string>
     <string name="safety_privacy_qs_tile_title">Güvenlik ve gizlilik</string>
@@ -798,7 +798,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="special_app_access">Özel uygulama erişimi</string>
     <string name="special_app_access_no_apps">Uygulama yok</string>
     <string name="special_app_access_search_keyword">özel uygulama erişimi</string>
-    <string name="special_file_access_dialog">Bu uygulamaya, bu cihazdaki veya bu cihaza bağlı herhangi bir depolama cihazındaki dosyalara erişim izni ve bu dosyaları değiştirme veya silme izni verilsin mi? Bu uygulama size sormadan dosyalara erişebilir</string>
+    <string name="special_file_access_dialog">Bu uygulamaya bu cihazdaki veya bu cihaza bağlı herhangi bir depolama cihazındaki dosyalara erişim izni ve bu dosyaları değiştirme veya silme izni verilsin mi? Bu uygulama size sormadan dosyalara erişebilir</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_footer_hyperlink_text">Tüm dosyalara erişebilen diğer uygulamaları görün</string>
     <string name="storage_supergroup_warning_allow">"Bu uygulama Android'in daha eski bir sürümü için tasarlandı. Bu izni verirseniz uygulama tüm depolama alanına (fotoğraf, video, müzik, ses ve diğer dosyalar dahil) erişebilir"</string>
@@ -816,7 +816,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="unused_apps_category_title">Kullanılmayan uygulama ayarları</string>
     <string name="unused_apps_label">İzinleri kaldırıp yer aç</string>
     <string name="unused_apps_label_v2">Kullanılmayan uygulama etkinliğini duraklat</string>
-    <string name="unused_apps_notification_content">İzinler ve geçici dosyalar kaldırıldı, bildirimler durduruldu. İncelemek için dokunun.</string>
+    <string name="unused_apps_notification_content">İzinler ve geçici dosyalar kaldırıldı, bildirimler durduruldu. İncelemek için dokunun</string>
     <string name="unused_apps_notification_title">{count,plural, =1{# kullanılmayan uygulama}other{# kullanılmayan uygulama}}</string>
     <string name="unused_apps_page_summary">"Uygulama birkaç ay kullanılmazsa:
 

@@ -11422,6 +11422,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="double_tap_home_title">Çift tıklama</string>
     <string name="swipe_up_home_title">Yukarı kaydırma</string>
     <string name="infinite_scroll_title">Sonsuz kaydırma</string>
+	<string name="application_titles_title">Appearance of titles of icons</string>
     <string name="folder_layout_title">Klasör düzeni</string>
     <string name="folder_blur_title">Klasör bulanıklık efekti</string>
     <string name="folder_close_title">Klasörleri otomatik kapat</string>
