@@ -3961,7 +3961,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_charge_mode_standard">Standart</string>
     <string name="pc_charge_mode_topspeed">En yüksek hız</string>
     <string name="pc_charge_mode_topspeed_tips">Cihaz ısınabilir</string>
-    <string name="pc_charge_protection_features_title">Şarj etme seçenekleri</string>
+    <string name="pc_charge_protection_features_title">Şarj modu</string>
     <string name="pc_charge_protection_wired_charge">Kablolu şarj</string>
     <string name="pc_charge_protection_wired_charge_mode">Kablolu şarj modu</string>
     <string name="pc_charge_protection_wireless_charge">Kablosuz şarj</string>
@@ -3986,7 +3986,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_continuity_has_open_save_mode_notifi_title">"%s'de pil tasarrufu açıldı"</string>
     <string name="pc_continuity_open_save_mode_notifi_sumary">"%1$s'nin pili %2$s'den daha düşük. %3$s %4$s eklemek için pil tasarrufunu açın"</string>
     <string name="pc_continuity_open_save_mode_notifi_title">%s pil zayıf</string>
-    <string name="pc_current_power_mode">Mevcut mod</string>
+    <string name="pc_current_power_mode">Güç modu</string>
     <string name="pc_emergency_call">Acil durum</string>
     <string name="pc_endurance_calculation">Hesaplanıyor</string>
     <string name="pc_entered_extreme_mode">Hazırda bekletme modu açık</string>
