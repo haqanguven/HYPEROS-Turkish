@@ -473,7 +473,7 @@ Sadece tasarımların nasıl geldiğini kontrol etmek istedim. Yeni balonları i
     <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
     <string name="activity_picker_label">Etkinlik seçin</string>
     <string name="activity_title_power_manager">Pil tasarrufu;Pil tasarrufu yap</string>
-    <string name="activity_title_root_acquired">Root erişimine izin ver</string>
+    <string name="activity_title_root_acquired">Root erişimi</string>
     <string name="activity_title_root_manager">Root erişimi</string>
     <string name="activity_title_root_note">Root erişimi hakkında</string>
     <string name="ad_service">Reklam servisleri</string>
@@ -2019,13 +2019,13 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_half_close_switch_summary">"Bluetooth'u kapatırsanız ertesi gün otomatik olarak tekrar açılır ve cihazlarınız yeniden bağlanır"</string>
     <string name="bt_half_close_switch_title">"Bluetooth'u her zaman açık tut"</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI gizli günlüğü</string>
-    <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğü filtreleme MAP</string>
+    <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğünü filtreleme (MAP)</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">"PBAP'yi filtreleyen Bluetooth HCI gözetleme günlüğü"</string>
     <string name="bt_hci_snoop_log_filter_summary">"Filtreleme modunu ayarlayın. (Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin)"</string>
     <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Bu seçeneği değiştirmek için Bluetooth HCI gözetleme günlük modunu Etkin Filtrelenmiş olarak ayarlayın</string>
     <string name="bt_hci_snoop_log_filters_dashboard_footer">"Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin"</string>
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Filtreleri ayarla</string>
-    <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI gözetleme günlüğü filtrele</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI gözetleme günlüğünü filtrele</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm Bluetooth HCI paketlerini alır</string>
     <string name="bt_lc3plus_open_dialog_summary">LC3plus, yüksek kaliteli oynatma sağlar, güç tüketimini artırırken oyunlar ve videolar için ses gecikmesini azaltır. Bluetooth donanım sınırlamaları ve çevresel parazit nedeniyle oynatma kesintiye uğrayabilir</string>
     <string name="bt_lc3plus_open_dialog_title">"LC3plus'a geçilsin mi?"</string>
@@ -3214,7 +3214,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="display_auto_rotate_stay_in_portrait">Portre modunda kilitle</string>
     <string name="display_auto_rotate_title">Ekran içeriğini döndür</string>
     <string name="display_category_title">Ekran</string>
-    <string name="display_cutout_emulation">Ekran girintisi simule et</string>
+    <string name="display_cutout_emulation">Ekran girintisini simule et</string>
     <string name="display_cutout_emulation_keywords">Ekran kesimi ve çentik</string>
     <string name="display_dashboard_summary">Duvar kağıdı, uyku ve yazı tipi boyutu</string>
     <string name="display_notification_icon_0">Kapalı</string>
@@ -3461,7 +3461,7 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="enable_compatibility">Uygulamayı ölçeklendir</string>
     <string name="enable_crbt_pref_summary">Test sırasında gelen aramalarda profil videolarını gösterme</string>
     <string name="enable_crbt_pref_title">Gelen aramalar için profil videolarını kapat</string>
-    <string name="enable_freeform_support">Serbest pencereleri etkinleştir</string>
+    <string name="enable_freeform_support">Serbest pencereler</string>
     <string name="enable_freeform_support_summary">Deneysel serbest pencere desteğini etkinleştir</string>
     <string name="enable_gnss_raw_meas_full_tracking">Tam GNSS ölçümlerini zorla</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Tüm GNSS takımyıldızlarını ve görev döngüsü olmayan frekansları takip eder</string>
@@ -3483,8 +3483,8 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="enable_notes_role_summary">Notlar rolü aracılığıyla not alma sistemi entegrasyonlarını etkinleştirin. Notlar rolü zaten etkinse hiçbir şey yapmaz</string>
     <string name="enable_notes_role_title">Notlar rolünü etkinleştirmeye zorla</string>
     <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-    <string name="enable_preferred_network_type_summary">Ağ türünüzü Ayarlar > SIM kartlar ve SIM kartlar bölümünde görüntüleyin vede ayarlayın</string>
-    <string name="enable_preferred_network_type_title">Tercih edilen ağ türü menüsünü göster</string>
+    <string name="enable_preferred_network_type_summary">Ağ türünüzü Ayarlar > Mobil ağlar ve Sim kartlar bölümünde görüntüleyin vede ayarlayın</string>
+    <string name="enable_preferred_network_type_title">Tercih edilen ağ türü menüsü</string>
     <string name="enable_quick_setting">Hızlı ayarlarda göster</string>
     <string name="enable_receiving_mms_notification_title">Gelen multimedya mesajı</string>
     <string name="enable_screen_projection_summary">Ekran içeriklerini harici bir ekrana yansıtın</string>
@@ -3919,8 +3919,12 @@ Daha fazla bilgi edinmek için kredi sağlayıcınızla iletişime geçin"</stri
     <string name="fiveg_nrca_switch_title">5G taşıyıcı toplama</string>
     <string name="fiveg_sa_switch_summary">"SA ağını ikincil Sim'de kullanın (Yalnızca test için)"</string>
     <string name="fiveg_sa_vice_switch_title">"İkincil Sim'de SA"</string>
-    <string name="fiveg_vonr_switch_summary">Arama deneyimini geliştirmek için 5G ağ ortamlarında VoNR kullanın. Bu özellik yalnızca test amacıyla sağlanmıştır.</string>
+    <string name="fiveg_vonr_switch_summary">Arama deneyimini geliştirmek için 5G ağ ortamlarında VoNR kullanın. Bu özellik yalnızca test amacıyla sağlanmıştır</string>
     <string name="fiveg_vonr_switch_title">VoNR ayarları</string>
+    <string name="fivega_enhanced_network_summary">Yalnızca test amaçlı yeni 5G-A ağ teknolojisini deneyimleyin</string>
+    <string name="fivega_enhanced_network_title">5G-A gelişmiş ağ</string>
+    <string name="fivega_switch_summary">"5G'nin üstün hızını deneyimleyin. Gerçek durum, yerel operatörün ağına ve hizmet dağıtımına bağlıdır"</string>
+    <string name="fivega_switch_title">5G-A</string>
     <string name="fix_connectivity">Sabit bağlantı</string>
     <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın ve USB kullanarak cihazınızı yedekleyin veya geri yükleyin</string>
     <string name="flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücü kullanın</string>
@@ -4665,7 +4669,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keep_screen_on_after_folding_on_summary">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
     <string name="keep_screen_on_after_folding_text">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
     <string name="keep_screen_on_after_folding_title">Katladıktan sonra ekranı açık tutun</string>
-    <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman kapanmayacaktır</string>
+    <string name="keep_screen_on_summary">Şarj olurken ekran her zaman açık kalır</string>
     <string name="kernel_version">Çekirdek sürümü</string>
     <string name="key_combination_power_back">Güç + Geri</string>
     <string name="key_combination_power_home">Güç + Ana ekran</string>
@@ -5003,8 +5007,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="local_auto_backup_off">Kapalı</string>
     <string name="local_auto_backup_on">Açık</string>
     <string name="local_auto_backup_section_title">Otomatik yedekle</string>
-    <string name="local_backup_password_summary_change">Masaüstü tam yedekleme şifresini değiştirmek veya kaldırmak için dokunun</string>
-    <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeler şu anda desteklenmemektedir</string>
+    <string name="local_backup_password_summary_change">Ana ekran yedekleme şifresini değiştirmek veya kaldırmak için dokunun</string>
+    <string name="local_backup_password_summary_none">Ana ekran yedeklemeler şu anda desteklenmemektedir</string>
     <string name="local_backup_password_title">Ana ekran yedek şifresi</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Şifreler eşleşmiyor</string>
     <string name="local_backup_password_toast_success">Yeni yedek şifresi ayarlandı</string>
@@ -6723,7 +6727,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="nr_advanced_calling_title">Vo5G</string>
     <string name="nrca_need_reset">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
     <string name="nrca_registered">Kayıtlı</string>
-    <string name="nrca_switch_title">5G operatör toplamasını kullanın</string>
+    <string name="nrca_switch_title">5G operatör toplaması</string>
     <string name="nrca_type_title">Operatör toplama durumu</string>
     <string name="nrca_unregistered">Kayıtlı değil</string>
     <string name="number_of_device_admins">{count, plural, =1 {# aktif uygulama} other {# aktif uygulama} }</string>
@@ -8578,7 +8582,7 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="show_menu">Menüyü göster</string>
     <string name="show_network_speed_title">Bağlantı hızı</string>
     <string name="show_non_rect_clip">Kare olmayan klip işlemleri hata ayıklaması</string>
-    <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları göster</string>
+    <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları</string>
     <string name="show_notification_channel_warnings_summary">Bir uygulama geçerli bir kanal üzerinden bildiri gönderdiğinde ekranda uyarıları görüntüler</string>
     <string name="show_notification_icon_title">Uygulama simgeleri</string>
     <string name="show_operator_name_summary">Ağ adını durum çubuğunda gösterir</string>
@@ -9496,8 +9500,8 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine taşınabilir depolama
     <string name="tether_use_wifi6_title">Altıncı nesil standardı destekler</string>
     <string name="tethering_footer_info">Mobil veri bağlantınızdan başka cihazlara internet bağlantısı sağlamak için bağlantı noktasını kullanın. Yakınlardaki cihazlarla içerik paylaşmak için uygulamalarda bağlantı noktası oluşturabilir</string>
     <string name="tethering_footer_info_sta_ap_concurrency">"Kablosuz veya mobil veri bağlantınızdan başka cihazlara internet bağlantısı sağlamak için bağlantı noktası ve tethering'i kullanın. Yakınlardaki cihazlarla içerik paylaşmak için uygulamalar da hotspot oluşturabilir"</string>
-    <string name="tethering_hardware_offload">İnternet paylaşımı donanım hızlandırma</string>
-    <string name="tethering_hardware_offload_summary">Kullanılabilir durumdaysa internet paylaşımı donanım hızlandırmayı kullanın</string>
+    <string name="tethering_hardware_offload">İnternet paylaşımı donanım hızlandırması</string>
+    <string name="tethering_hardware_offload_summary">Kullanılabilir durumdaysa internet paylaşımı donanım hızlandırmasını kullanın</string>
     <string name="tethering_help_button_text">Yardım</string>
     <string name="tethering_interface_options">Paylaşım</string>
     <string name="tethering_settings_not_available">Birinci alanda ağ paylaşım ayarlarını değiştirin</string>
@@ -9670,10 +9674,10 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine taşınabilir depolama
     <string name="trackpad_touchpad_gesture_title">Dokunmatik yüzey hareketleri</string>
     <string name="trade_in">Ticaret</string>
     <string name="traffic_none">Yok</string>
-    <string name="transcode_default">Uygulamaların modern biçimleri desteklediğini varsay</string>
+    <string name="transcode_default">Uygulamaların modern biçimlerini destekle</string>
     <string name="transcode_disable_cache">Kod dönüştürme önbelleğini devre dışı bırak</string>
-    <string name="transcode_enable_all">Kod dönüştürmeyi etkinleştir</string>
-    <string name="transcode_notification">Kod dönüştürme bildirimlerini göster</string>
+    <string name="transcode_enable_all">Kod dönüştürme</string>
+    <string name="transcode_notification">Kod dönüştürme bildirimleri</string>
     <string name="transcode_settings_title">Medya kod dönüştürme ayarları</string>
     <string name="transcode_user_control">Kod dönüştürme varsayılanlarını geçersiz kıl</string>
     <string name="transfer_esim_to_another_device_title">"eSIM'i başka bir cihaza aktarma"</string>
@@ -11081,7 +11085,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sınırsız</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Şu anda kablosuz ağa otomatik olarak bağlanılamıyor</string>
     <string name="window_animation_scale_title">Pencere animasyonu</string>
-    <string name="window_blurs">Pencere bulanıklaştırmaya izin ver</string>
+    <string name="window_blurs">Pencereleri bulanıklaştırma</string>
     <string name="winscope_trace_quick_settings_title">Winscope izleme</string>
     <string name="wireless_connected">Bağlandı</string>
     <string name="wireless_debugging_main_switch_title">Kablosuz hata ayıklamayı kullan</string>
