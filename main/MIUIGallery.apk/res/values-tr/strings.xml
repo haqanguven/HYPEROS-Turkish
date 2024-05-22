@@ -432,7 +432,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_dirty_num">Toplam: %s</string>
     <string name="backup_dirty_tip">Yedeklenmiş fotoğraf veya video yok</string>
     <string name="backup_disable_message">Bulutla eşitlemeyi kapattığınız için galerinin uygulama önbelleğini temizlemesi gerekiyor</string>
-    <string name="backup_display">Depolama hatırlatıcıları</string>
+    <string name="backup_display">Depolama hatırlatıcısı</string>
     <string name="backup_file_over_size_desc">"%1$s'den büyük boyutlu fotoğraflar ve %2$s'den büyük boyutlu videolar yedeklenemez"</string>
     <string name="backup_google_description">Fotoğraflarınızı Google hesabınıza yedekleyerek güvende tutun</string>
     <string name="backup_google_name">Google fotoğraflar</string>
@@ -2781,7 +2781,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="segment_send">Gönder</string>
     <string name="segment_send_processing">Göndermeye hazırlanıyor</string>
     <string name="select_all">Tümünü seç</string>
-    <string name="select_backup">Yedeklemeyi seçin</string>
+    <string name="select_backup">Yedeklemeyi seç</string>
     <string name="select_image_operation">Fotoğraf ekleniyor</string>
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
     <string name="select_origin_tip">Orijinal dosya (%s)</string>
