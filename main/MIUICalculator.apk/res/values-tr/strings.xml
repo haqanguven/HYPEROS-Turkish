@@ -532,6 +532,7 @@
     <string name="preference_check_update_title">Güncellemeleri kontrol et</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="preference_feedback_title">Yardım</string>
+    <string name="preference_filing_number">ICP kayıt numarası: Pekin ICP No. 10046444-114A</string>
     <string name="preference_follow_qq_group">QQ Grubu: 523274279</string>
     <string name="preference_get_device_address">Konuma eriş</string>
     <string name="preference_get_local_tax_info">Krediler ve vergilerle ilgili bilgileri sağlamak için</string>
@@ -1059,7 +1060,7 @@
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Taiwan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

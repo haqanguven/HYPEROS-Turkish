@@ -405,7 +405,6 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="full_safe_protect_guide_message">Tarayıcılar gibi Xiaomi App Store dışı kaynaklar üzerinden uygulama yüklerken riskli uygulamaların yanlışlıkla yüklenmesini önlemek için güvenlik hatırlatıcıları alacaksınız</string>
     <string name="full_safe_protect_title">Uygulama yükleme koruması</string>
     <string name="full_safe_version_update_known_button_text">Biliyorum</string>
-    <string name="full_safe_version_update_tip_bottom">*Gelin ve deneyin~</string>
     <string name="full_safe_version_update_tip_sub_title_not_renamed">Mi koruma yeni yükseltmesi</string>
     <string name="full_safe_version_update_tip_sub_title_rename">Mi koruma resmi olarak uygulama kurulum koruması sürümüne yükseltildi</string>
     <string name="full_safe_version_update_tip_text1">Daha hızlı uygulama kurulumu</string>

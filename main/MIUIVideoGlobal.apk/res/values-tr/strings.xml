@@ -898,9 +898,9 @@ tercih ettiğiniz dili seçin"</string>
     <string name="live_tv_dialog_subscirbe_tips">"%1$s'a abone olun ve hiçbir bölümü kaçırmayın"</string>
     <string name="live_tv_title">Canlı TV</string>
     <string name="live_tv_toast_item_subscirbe">Bu programa zaten abonesiniz</string>
-    <string name="load_failed">Yüklenemedi</string>
-    <string name="load_failed_retry">Yüklenemedi. Lütfen tekrar deneyin</string>
     <string name="loading">Yükleniyor</string>
+    <string name="loading_failed">Yüklenemedi</string>
+    <string name="loading_reload">Yeniden yüklemek için tıklayın</string>
     <string name="local_adjust_zoom_mode_hint">"%s'de izliyorsunuz"</string>
     <string name="local_crop_zoom_mode">Resim kırpıldı</string>
     <string name="local_diversion_all_local_videos">Cihazdaki tüm videolar</string>
@@ -1861,7 +1861,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="subscribe_login_for_video">Tüm aboneliklerinizi görüntülemek için Google hesabınızda oturum açın</string>
     <string name="subscribed">Abone olundu</string>
     <string name="subscriptions">Aboneliklerim</string>
-    <string name="subtitle_none">Alt yazı yok</string>
     <string name="suggested_publishers">Önerilen hesaplar</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>

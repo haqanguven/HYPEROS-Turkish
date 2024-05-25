@@ -693,7 +693,7 @@
     <string name="spatial_audio">Kafa hareketini takip edin</string>
     <string name="spatial_audio_summary">Kafa hareketine göre surround sesi ayarlayın</string>
     <string name="spatial_audio_summary_spk">Ses çalınırken daldırma ve boşluk hissini yaşayın</string>
-    <string name="speaker_scenario_resume">Orijinal sesi geri yükle</string>
+    <string name="speaker_scenario_resume">Orijinal ses</string>
     <string name="start_test_sound">Testi başlat</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

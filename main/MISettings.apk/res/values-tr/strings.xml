@@ -212,6 +212,7 @@
     <string name="control_center_title">Bugünlük ekran süresi</string>
     <string name="control_center_title_new">Bugün kullanıldı</string>
     <string name="copy">Kopyala</string>
+    <string name="crazy_mode">Ultra mod</string>
     <string name="create">Oluştur</string>
     <string name="create_failed">Oluşturulamadı</string>
     <string name="create_shortcut">Kısayol oluştur</string>
@@ -396,6 +397,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
     <string name="footer_global_fps">"
 %1$d. Performans modunu açtığınızda yenileme hızı sistemin maksimum %2$d Hz'sine değiştirilecektir. Yüksek yenileme hızına sahip uygulama ayarları geçici olarak kullanılamayacak"</string>
+    <string name="footer_global_fps_new">"
+%1$d. %2$s, yenileme hızını sistemin maksimum %3$d Hz'sine yükseltir. Yüksek yenileme hızına sahip uygulama ayarları geçici olarak kullanılamayacak"</string>
     <string name="footer_max_fps" formatted="false">"
 %D. Yenileme hızı desteklenen uygulamalar ve oyunlar için %s Hz'e kadar ayarlanabilir"</string>
     <string name="force_rest">Oturum aralarını kullanın</string>
@@ -641,6 +644,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="p3_color_region_summary">Tüm ekran içeriğini P3 renk kontrasında gösterir</string>
     <string name="pallas_s_cat">Pallas kedisi</string>
     <string name="parasitic_jaeger">Parazitik jaeger</string>
+    <string name="performance_mode">Performans modu</string>
     <string name="personality_hint_ringtone">Kişiselleştirilmiş sesler</string>
     <string name="petaurus_breviceps">Şeker planör</string>
     <string name="phoebastria_irrorata">Dalgalı albatros</string>
@@ -685,7 +689,6 @@ ikinci alanda oluşturulmaz"</string>
     <string name="screen_cancel">İptal et</string>
     <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_confirm">Aç</string>
-    <string name="screen_fps_string">Hz</string>
     <string name="screen_fps_summary_power_save">Sabit oran kullanımı daha az enerji tüketir</string>
     <string name="screen_fps_summary_smooth">Bazı uygulamalar fotoğraf kalitesini yükseltmek için otomatik olarak yenileme hızını arttırır</string>
     <string name="screen_fps_title">Yenileme hızı</string>
@@ -700,9 +703,11 @@ ikinci alanda oluşturulmaz"</string>
     <string name="sea_eagle_info">Ak kuyruklu kartallar genellikle büyük açık su kütlelerinin yakınında yaşayan güçlü tepe avcıları ve fırsatçı çöpçülerdir</string>
     <string name="sea_otter">Deniz su samuru</string>
     <string name="seal_info">Foklar derin sularda hızlı hareket edebilen, balık ve karideslerle beslenen deniz memelileridir</string>
+    <string name="search_anti_flicker_mode">DC karartma</string>
     <string name="search_app_name">Uygulama ara</string>
     <string name="search_app_tips">Uygulama ara</string>
     <string name="search_empty">Hiçbir uygulama bulunamadı</string>
+    <string name="search_low_flicker_mode">DC karartma</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_nature_mix">Doğa müzesi;Hayvanlar</string>
     <string name="search_notification_sound">Bildirim zil sesi;Kişilik;özel;doğa müzesi;hayvan</string>

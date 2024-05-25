@@ -719,7 +719,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="passport_privacy_policy">Gizlilik politikasını</string>
     <string name="passport_privacy_policy_required">Gizlilik politikası (Zorunlu)</string>
     <string name="passport_provision_input_email_register_prompt">Kişisel verileriniz seçtiğiniz bölgenin yasa ve yönetmeliklerine uygun olarak saklanacaktır</string>
-    <string name="passport_provision_password_req_notice">Şu türlerden en az %1$d-%2$d en az karakter %3$d : Harfler, rakamlar ve özel semboller</string>
+    <string name="passport_provision_password_req_notice">En az <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> karakter. <xliff id="min_pwd_type" refersto="2">%3$d</xliff> aşağıdaki türlerden: Harfler, rakamlar ve özel semboller</string>
     <string name="passport_qq_application_id" />
     <string name="passport_qq_login_btn_content_description">QQ ile oturum açın</string>
     <string name="passport_qq_login_protocol_scheme">com.xiaomi.passport.ui</string>

@@ -574,6 +574,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">" dakika"</item>
         <item quantity="one">" dakika"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-gün</item>
+        <item quantity="one">%d-gün</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>

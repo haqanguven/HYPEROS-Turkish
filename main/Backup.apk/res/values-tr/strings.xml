@@ -848,7 +848,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="refresh">Yenile</string>
     <string name="remote_receive">Al</string>
     <string name="required_permissions">;</string>
-    <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions_global">android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_SMS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="restore">Geri yükle</string>
     <string name="restore_backup">Geri yükle</string>
     <string name="restore_contact">Kişileri geri yükle</string>

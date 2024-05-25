@@ -783,7 +783,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="operation_gallary">Galeride görüntüle</string>
     <string name="operation_hide_sys">Gizli dosyaları gösterme</string>
     <string name="operation_info">Ayrıntılar</string>
-    <string name="operation_move">Kes</string>
+    <string name="operation_move">Taşı</string>
     <string name="operation_moving">Taşınıyor</string>
     <string name="operation_new_folder">Klasör oluştur</string>
     <string name="operation_no_network_err">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
@@ -838,6 +838,14 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pattern_hour_minute_12">hh:mm a</string>
+    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_month_day">dd/MM</string>
+    <string name="pattern_month_day_hh_mm_12">dd/MM hh:mm a</string>
+    <string name="pattern_month_day_hh_mm_24">dd/MM HH:mm</string>
+    <string name="pattern_year_month_day">dd/MM/yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_12">dd/MM/yyyy hh:mm a</string>
+    <string name="pattern_year_month_day_hh_mm_24">dd/MM/yyyy HH:mm</string>
     <string name="perm_manage_external_storage">Tüm dosyalara erişin</string>
     <string name="permission_account_desc">Cihazınızda depolanan hesap bilgilerine erişmek için</string>
     <string name="permission_account_desc_pad">Cihazınızda depolanan hesap bilgilerine erişmek için</string>
@@ -1165,7 +1173,7 @@ Dosyaları cihazınızdan Mi sürücü'ye taşımayı deneyin"</string>
     <string name="widget_name">Son görüntülenen dosyalar</string>
     <string name="wifi_state">Wifi durumu</string>
     <string name="withdraw">Geri al</string>
-    <string name="withdraw_consent">İzinleri geri al</string>
+    <string name="withdraw_consent">İzini geri al</string>
     <string name="withdraw_consent_content">Devam ederseniz dosyalar uygulamasının gizlilik politikasına verdiğiniz izinleri geri alırsınız. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izinleri geri almanız dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>
     <string name="withdraw_consent_summary">Dosyaların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="year_month_day_format">dd MMM yyyy</string>

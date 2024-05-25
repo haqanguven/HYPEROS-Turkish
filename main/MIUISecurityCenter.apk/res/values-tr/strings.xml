@@ -1391,6 +1391,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="continue_set">Ayarlamaya devam et</string>
     <string name="convenient_mode">Tüm uygulamaların kilitlerini tek seferde aç</string>
     <string name="convenient_summary">Uygulamaların tamamının kilidini açmak için şifreyi bir kez girin</string>
+    <string name="conversation_phone_title">Arama araç kutusu</string>
     <string name="conversation_settings_top">"·Özelliklerine erişmek için tam ekran sesli ve görüntülü aramalar sırasında konferans araçları çubuğunu dışarı kaydırın
 ·Özelliklerin türü ve sayısı, cihaz modeline bağlıdır"</string>
     <string name="conversation_sider_tips">En iyi arama deneyimi için yeni konferans araçlarını kullanın</string>
@@ -1433,6 +1434,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_pickup_vioce_print_unsupport_toast">Harici cihazların bağlantısını kesin ve tekrar deneyin</string>
     <string name="cs_pickup_voice_print_desc">Yalnızca tek kişiden gelen sesi alın</string>
     <string name="cs_screen_translation_title">Ekran çevirisi</string>
+    <string name="cs_simultaneous_interpretation_title">Yorumla</string>
     <string name="cs_title_pickup">Gürültü azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyonu</string>
     <string name="cs_title_ultraclear">Ultra HD mod</string>
@@ -1889,10 +1891,14 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_main_setting_show_desc">Deneme</string>
     <string name="ew_main_setting_warning_desc">Daha fazla</string>
     <string name="ew_main_settings">Ayarlar</string>
+    <string name="ew_main_subscribe_city">Şehirlere abone ol</string>
     <string name="ew_main_warning_all_title">Daha önce verilen uyarıları görüntüleyin</string>
     <string name="ew_main_warning_list">Uyarıları görüntüle</string>
     <string name="ew_main_warning_list_tips">Görüntüle</string>
     <string name="ew_main_warning_list_title">Uyarı geçmişi</string>
+    <string name="ew_merge_contact_button">Tamam</string>
+    <string name="ew_merge_contact_message">Acil arama ve deprem uyarısındaki acil durumda iletişime geçilecek kişileriniz birleştirildi</string>
+    <string name="ew_merge_contact_title">Acil durumda iletişime geçilecek kişileri birleştir</string>
     <string name="ew_monitor_bad_request_tips">Güvenlik cihaz bilgilerine erişemiyor</string>
     <string name="ew_monitor_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini yapay zeka algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
     <string name="ew_monitor_exit">Deprem izlemeden çekilen gönüllü</string>
@@ -2409,6 +2415,8 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_reset_dialog_content">Varsayılan ayarları şimdi geri yükle?</string>
     <string name="gb_advance_settings_reset_dialog_title">Varsayılan ayarlar</string>
     <string name="gb_advance_settings_screen_display">Görüntüle</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Daha fazla ayrıntı göstermek için kontrastı artırın ve görselleri optimize edin</string>
+    <string name="gb_advance_settings_screen_display_summary">Daha fazla ayrıntı göstermek için kontrastı artırın ve görselleri optimize edin</string>
     <string name="gb_advance_settings_screen_hdr">Geliştirilmiş görseller</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Orijinal</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Ölçülü</string>
@@ -2417,6 +2425,10 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_screen_hdr_gear5">HDR</string>
     <string name="gb_advance_settings_screen_hdr_gear5_short">HDR</string>
     <string name="gb_advance_settings_screen_hdr_summary">Kontrası artırın ve oyunlar için detayları geliştirin</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Görselleri geliştirin</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Hareketleri artırılmış akıcılık ve akıcılıkla görüntüleyin</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Süper görüntü kalitesi</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Daha akıcı görseller için çözünürlüğü ve kare hızını artırın</string>
     <string name="gb_advance_settings_touch">Dokunmatik kontroller</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
     <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
@@ -2660,6 +2672,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_vision_enhance_desc">Görüntü kalitesini ve performansını artırın</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Akıllı kare hızı
 %dFPS"</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Kare hızını arttır</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Akıllı kare hızı</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Hareketi daha akıcı hale getirmek için kare hızını otomatik olarak ayarlayın</string>
     <string name="gb_vision_enhance_super_resolution">Süper çözünürlük</string>
@@ -3810,7 +3823,6 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="once_settings_title">Gizlilik koruması</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Uygulama bulunamadı</string>
-    <string name="open_alarm_right_now">Şimdi aç</string>
     <string name="open_app">Aç</string>
     <string name="open_callwait">Aç</string>
     <string name="open_dnd_mode">Rahatsız etme</string>
@@ -3943,6 +3955,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
     <string name="pc_battery_low_health_reminder">Pilinizi değiştirme zamanı geldi</string>
+    <string name="pc_battery_replacement_service_title">Pil değiştirme hizmetimizi deneyin. %2$s garantili %1$s orijinal donanımı</string>
     <string name="pc_berserk_mode_dialog_title">Ultimate modunu aç</string>
     <string name="pc_berserk_mode_noti_summary">Ultimate modu güç tüketimini artırabilir ve aşırı ısınma sorunlarına yol açabilir</string>
     <string name="pc_berserk_mode_performance_title">Ultimate modu</string>
@@ -5444,7 +5457,6 @@ kapat"</string>
     <string name="set_pattern_password_name">Desen ayarla</string>
     <string name="set_traffic_tips">Bir paket oluşturmak veri kullanımını daha etkili bir şekilde görüntülemenize ve yönetmenize yardımcı olabilir ve ekstra ücretlerin paketi aşmasını önleyebilir</string>
     <string name="setting">Ayarlar</string>
-    <string name="setting_alarm_summary">Büyük platformlarda kırmızı zarf olayları için alarmları içerir</string>
     <string name="setting_back_sound_loading_msg">Yükleniyor</string>
     <string name="setting_online_service">Araç kutusu</string>
     <string name="setting_privacy_password">Desen ekle</string>
@@ -5470,14 +5482,12 @@ kapat"</string>
     <string name="settings_show_detail">Detayları göster</string>
     <string name="settings_tip">Daha fazla seçenek için ayarları kontrol edin</string>
     <string name="settings_title">Güvenli paylaşım</string>
-    <string name="shake_send_sticker_summary">"WeChat ve QQ'da komik ifadeler rastgele belirdi. Her yeni yıl arifesinde ifadelerle savaşmak hiç bu kadar kolay olmamıştı"</string>
     <string name="share_uid_app">Paylaşılan izinlere sahip uygulamalar</string>
     <string name="share_uid_instruction">Bu uygulamanın ilgili sistem hizmetlerini sağlamak için izinleri aşağıdaki uygulamalarla paylaşması gerekir. Bu uygulama için bir iznin durumunu her değiştirdiğinizde aşağıdaki uygulamalar için de ilgili durum değişecektir</string>
     <string name="share_uid_sec">Bu uygulama izinleri %1s ile paylaşıyor. Değişiklikler senkronize edilecek</string>
     <string name="shield_keyboard_detail">Tuşları yeniden açmak için çift dokunun</string>
     <string name="shield_keyboard_summary">Oyunlar sırasında düğmeleri ve tam ekran hareketlerini kısıtla</string>
     <string name="shield_keyboard_title">Tuşları kapat</string>
-    <string name="shoop_again_float">Bir arama yap</string>
     <string name="shortcut_title_scan">Tara</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp temizleyici</string>
     <string name="show_system_app">Sistem uygulamalarını göster</string>
@@ -6841,7 +6851,9 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="video_repeat">Tekrar oynat</string>
     <string name="videobox_double_core_visual">Çift çekirdekli görseller</string>
     <string name="videobox_double_core_visual_description1">"Özel bir çip aracılığıyla video çözünürlüğünü iyileştirin, kare hızını artırın ve HDR'yi optimize edin"</string>
-    <string name="videobox_double_core_visual_description2">Video netliğini ve pürüzsüzlüğünü artırın. Bu özelliğin açılması güç tüketimini bir miktar artıracaktır</string>
+    <string name="videobox_double_core_visual_description2">"Netliği, pürüzsüzlüğü ve genel görüntü efektini geliştirin
+Bu özellik daha yüksek güç tüketimi gerektirir
+Bu özellik pil tasarrufu veya ultra pil tasarrufu açıkken çalışmaz"</string>
     <string name="videobox_hangup_tips_content">Bu özellik ekran kapalıyken uygulamanın arka planda çalışmasını sağlar. Şimdi açılsın mı?</string>
     <string name="videobox_hangup_tips_title">Dikkat</string>
     <string name="videobox_settings_line_location">Kısayol konumu</string>
@@ -7029,7 +7041,6 @@ Bu özellik hareket yumuşatma ile çalışmaz
     <string name="warningcenter_policeassist_title">Acil konum</string>
     <string name="warningcenter_smarthome">Mi ev</string>
     <string name="warningcenter_title">Uyarı merkezi</string>
-    <string name="weChat_not_found">Uygulama sürümünüz çok düşük veya yüklü değil</string>
     <string name="website">İnternet sitesi</string>
     <string name="wechat_lucky_warning">WeChat kırmızı zarf</string>
     <string name="wednesday">Çarşamba</string>

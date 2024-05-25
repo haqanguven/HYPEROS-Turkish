@@ -448,7 +448,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="backup_off_des">Fotoğrafları ve videoları otomatik olarak yedeklemek için bulutla senkronizasyonu açın</string>
     <string name="backup_onedrive_description">Fotoğraflarınızı bulutta koruyun ve onlara herhangi bir cihazdan erişin</string>
     <string name="backup_onedrive_name">Microsoft OneDrive</string>
-    <string name="backup_onedrive_single_name">OneDrive</string>
+    <string name="backup_onedrive_single_name">Microsoft OneDrive</string>
     <string name="backup_only_in_wifi">Fotoğrafları ve videoları senkronize etmek için sadece wifi ağını kullanın</string>
     <string name="backup_only_in_wifi_summary">Fotoğraf veya videoları yedeklemek için hiçbir zaman mobil veriyi kullanmaz</string>
     <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanıyor musunuz?</string>
@@ -1569,7 +1569,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="get_user_info_top_hint_text">Üyeleri davet etmek için Xiaomi hesabına girin</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
-    <string name="global_cloud_action_upgrade_onedrive">"OneDrive'ı yükseltin"</string>
+    <string name="global_cloud_action_upgrade_onedrive">"Microsoft OneDrive'ı yükseltin"</string>
     <string name="global_cloud_full_space_tip_message">Tüm fotoğraflarınızı ve videolarınızı buluta yedekleyebilmek için bulut depolama planınızı yükseltin</string>
     <string name="global_pad">Tabletim</string>
     <string name="global_pc">Laptobum</string>
