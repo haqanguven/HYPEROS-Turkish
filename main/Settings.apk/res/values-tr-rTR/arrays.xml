@@ -1305,9 +1305,20 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Sağ</item>
         <item>Sol</item>
     </string-array>
-    <string-array name="application_titles_entries">
-        <item>Varsayılan</item>
-        <item>Slayt</item>
+    <string-array name="volume_button_action_entries">
+        <item>Sonraki parça</item>
+        <item>Önceki parça</item>
+        <item>Duraklat</item>
+        <item>Oynat veya duraklat</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="volume_button_timeout_entries">
+        <item>2000 milisaniye</item>
+        <item>1500 milisaniye</item>
+        <item>1000 milisaniye</item>
+        <item>700 milisaniye</item>
+        <item>500 milisaniye</item>
+        <item>300 milisaniye</item>
     </string-array>
     <string-array name="launcher_gesture_entries">
         <item>Ekranı kapat</item>
@@ -1316,5 +1327,9 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Ses veya titreşim</item>
         <item>Bildirim paneli</item>
         <item>Kapalı</item>
+    </string-array>
+    <string-array name="application_titles_entries">
+        <item>Varsayılan</item>
+        <item>Slayt</item>
     </string-array>
 </resources>
