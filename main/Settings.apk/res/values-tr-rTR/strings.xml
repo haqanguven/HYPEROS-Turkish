@@ -11424,7 +11424,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="volume_button_title">Ses tuşları ayarları</string>
     <string name="volume_button_toggle_title">Müzik çalar kontrolü</string>
-    <string name="volume_button_toggle_summary">Ekran kapalıyken ses tuşlarına uzun basarak müziğinizi yönetin</string>
+    <string name="volume_button_toggle_summary">Ekran kapalıyken ses tuşlarına uzun basarak müzik çalarınızı yönetin</string>
     <string name="volume_button_vol_up_title">Ses açma tuşu</string>
     <string name="volume_button_vol_down_title">Ses kısma tuşu</string>
     <string name="volume_button_timeout_title">Uzun basma süresi</string>
