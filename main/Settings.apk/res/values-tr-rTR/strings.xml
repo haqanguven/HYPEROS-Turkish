@@ -11418,7 +11418,6 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_menu_by_region">Bölgeye göre seç</string>
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
-    <string name="statusbar_style_title">Durum çubuğu düzeni</string>
     <string name="switch_layout_first_title">Stil 1 (İlk düzen)</string>
     <string name="switch_layout_second_title">Stil 1 (Açılır düzen)</string>
     <string name="control_center_location_title">Stil 2 (Aşağı kaydırma konumu)</string>
