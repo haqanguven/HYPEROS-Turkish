@@ -11422,7 +11422,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
-    <string name="volume_button_title">Ses tuşu kontrol ayarları</string>
+    <string name="volume_button_title">Ses tuşları ayarları</string>
     <string name="volume_button_toggle_title">Müzik çalar kontrolü</string>
     <string name="volume_button_toggle_summary">Ekran kapalıyken ses tuşlarına uzun basarak müziğinizi yönetin</string>
     <string name="volume_button_vol_up_title">Ses açma tuşu</string>
