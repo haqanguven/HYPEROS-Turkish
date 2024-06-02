@@ -1300,7 +1300,7 @@ Uygulamalar:
     <string name="battery_usage_chart_label_now">Şimdi</string>
     <string name="battery_usage_for_background_time">Arka planda: %s</string>
     <string name="battery_usage_for_total_time">Toplam: %s</string>
-    <string name="battery_usage_others">Diğerleri</string>
+    <string name="battery_usage_others">Diğer</string>
     <string name="battery_usage_screen_footer">Pil kullanımı verileri yaklaşık değerler olup telefon şarj olurken kullanım ölçülmez</string>
     <string name="battery_usage_screen_footer_empty">Pil kullanım verileri telefonunuzu birkaç saat kullanmanızın ardından görüntülenebilir</string>
     <string name="battery_usage_screen_time">Ekran süresi: %s</string>
@@ -4718,7 +4718,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keyboard_skin_follow_system_enable">Karanlık görünüme otomatik geç</string>
     <string name="keyguard_advance_setting_title">Gelişmiş ayarlar</string>
     <string name="keyguard_multi_window_tip">Bu sayfa Bölünmüş ekranda gösterilemiyor. Bunun yerine tam ekran sürümüne geri dönebilirsiniz</string>
-    <string name="keyguard_security_setting_others">Diğerleri</string>
+    <string name="keyguard_security_setting_others">Diğer</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keywords_accessibility">Kullanım kolaylığı, erişim kolaylığı, destek, yardımcı</string>
     <string name="keywords_accessibility_vibration_primary_switch">Dokunsal, titreşim, titreşim</string>
@@ -6817,7 +6817,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="other_conversations">Diğer konuşmalar</string>
     <string name="other_conversations_summary">Değişiklik yaptığınız konuşmalar</string>
     <string name="other_data">Bu cihazdaki diğer öğeler</string>
-    <string name="other_device_info">Diğerleri</string>
+    <string name="other_device_info">Diğer</string>
     <string name="other_input_method">Diğer klavyeler</string>
     <string name="other_input_settings">Ek klavye ayarları</string>
     <string name="other_password">Diğer şifreler</string>
@@ -11422,6 +11422,8 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="switch_layout_second_title">Stil 1 (Açılır düzen)</string>
     <string name="control_center_location_title">Stil 2 (Aşağı kaydırma konumu)</string>
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+    <string name="unread_notifications_title">Okunmamış bildirimler</string>
+    <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="volume_button_title">Ses tuşları ayarları</string>

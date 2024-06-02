@@ -61,6 +61,14 @@
         <item quantity="other">%1$s kodunu girin (%2$d saniye)</item>
         <item quantity="one">%1$s kodunu girin (%2$d saniye)</item>
     </plurals>
+    <plurals name="habit_executed_number_day">
+        <item quantity="other">%1$d gün önce kullanıldı</item>
+        <item quantity="one">%1$d gün önce kullanıldı</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+        <item quantity="other">%1$d gün önce hatırlandı</item>
+        <item quantity="one">%1$d gün önce hatırlandı</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
@@ -95,5 +103,13 @@
     <plurals name="remember_number_habit">
         <item quantity="other">%1$d desen hatırlandı</item>
         <item quantity="one">%1$d desen hatırlandı</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+        <item quantity="other">%1$d desen eklendi</item>
+        <item quantity="one">%1$d desen eklendi</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d desen bekliyor</item>
+        <item quantity="one">%1$d desen bekliyor</item>
     </plurals>
 </resources>

@@ -96,12 +96,11 @@ bulamıyor musunuz?"</string>
     <string name="camera_associate_success">Kamera bağlandı</string>
     <string name="camera_choose_device">Cihaz seç</string>
     <string name="camera_connecting">%s bu cihazın kamerasını kullanmak istiyor</string>
-    <string name="camera_connecting_device">%s cihazına bağlanılıyor</string>
     <string name="camera_disassociate">Kamera bağlantısı kesildi</string>
-    <string name="camera_disconnecting_device">%s ile bağlantı kesiliyor</string>
     <string name="camera_notify_string">Kamera bildirimi</string>
     <string name="camera_title">Kullanılabilir cihazlar aranıyor</string>
     <string name="can_not_associate">İşbirliği kurulamıyor</string>
+    <string name="cancel">İptal et</string>
     <string name="cancel_button">İptal et</string>
     <string name="car_air_con_back_switch_close">Arka koltuğun klimasını kapat</string>
     <string name="car_air_con_back_switch_open">Arka koltuğun klimasını aç</string>
@@ -122,6 +121,7 @@ bulamıyor musunuz?"</string>
     <string name="car_card_seat_back_left_seat">Sol (arka)</string>
     <string name="car_card_seat_back_middle_seat">Orta (arka)</string>
     <string name="car_card_seat_control_text">Koltuklar</string>
+    <string name="car_card_seat_heat_disabled">Geçici olarak kullanım dışı</string>
     <string name="car_card_seat_level_auto">Otomatik</string>
     <string name="car_card_seat_level_off">Kapalı</string>
     <string name="car_card_seat_level_one">Seviye %d</string>
@@ -356,6 +356,7 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_headset_error_headset_not_support">Kulaklığınız bu bilgisayara bağlanamıyor</string>
     <string name="circulate_headset_error_headset_not_worn">Lütfen kulaklıkları iki kulakla da kullanın</string>
     <string name="circulate_headset_error_headset_not_worn_both">Lütfen kulaklıkları iki kulakla da kullanın</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Bu özelliği kullanmak için kulaklığınızı takın</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"TV'nizde Bluetooth'u açın
 ve Xiaomi hesabınızda oturum açın"</string>
     <string name="circulate_headset_error_self_upgrade">Bu işlem tamamlanamadı. Önce Mi akıllı sesi güncelleyin</string>
@@ -478,6 +479,8 @@ bulamıyor musunuz?"</string>
     <string name="connect_settings_nfc_share">Öğeleri NFC aracılığıyla aktarın</string>
     <string name="connect_settings_not_opened">Kapalı</string>
     <string name="connect_settings_opened">Açık</string>
+    <string name="connect_settings_presentation_password_error">Yanlış şifre</string>
+    <string name="connect_settings_presentation_password_title">Lütfen yönetici şifresini girin</string>
     <string name="connect_settings_privacy_policy">Gizlilik politikası</string>
     <string name="connect_settings_relay_app">Uygulamalar</string>
     <string name="connect_settings_share_clipboard">Pano</string>
@@ -842,6 +845,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hm_always">Alışkanlık olarak kaydet</string>
+    <string name="hm_always_execute">Her zaman</string>
     <string name="hm_conflict_title">%1$s askıya alındı</string>
     <string name="hm_conflict_toast">"Mijia otomasyon görevleriyle çakışıyor. Lütfen görevleri güncellemek için Mijia'ya gidin"</string>
     <string name="hm_go_to_help">Yardımı görüntüle</string>
@@ -852,13 +856,19 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="hm_habit_info_empty_describe">"Davranışlarınızı sürekli algılayın ve cihazın alışkanlıklarınıza göre çalışmasını sağlayın.
 Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"</string>
     <string name="hm_habit_info_list_empty">Alışkanlıklarınızı öğrenme</string>
+    <string name="hm_has_ignored">Bu model başarıyla yoksayıldı</string>
+    <string name="hm_has_remembered">Bu modeli başarıyla hatırladım</string>
     <string name="hm_help">Yardım</string>
     <string name="hm_knew">Tamam</string>
     <string name="hm_more">Diğer</string>
+    <string name="hm_new_habit">Yeni desenler</string>
+    <string name="hm_new_habit_empty_title">Burada desen yok</string>
+    <string name="hm_not_notify">Bir daha gösterme</string>
     <string name="hm_pause_habit">Duraklatma alışkanlığı</string>
     <string name="hm_please_login_mi_account">Lütfen önce Xiaomi hesabına giriş yapın</string>
     <string name="hm_remember">Hatırla</string>
     <string name="hm_resume_habit">Alışkanlığı sürdürme</string>
+    <string name="hm_setstate_error">Bu işlem tamamlanamadı</string>
     <string name="hm_setting_mode">Mod</string>
     <string name="hm_setting_mode_subtitle">Açıldıktan sonra alışkanlıklar daha hızlı oluşturulabilir ancak güç tüketimi artacaktır</string>
     <string name="hm_setting_mode_title">Aşırı hız deneyimi modu</string>
@@ -873,7 +883,11 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="hm_time_not_executed">Henüz yürütülmedi</string>
     <string name="hm_time_recent_week">Son hafta</string>
     <string name="hm_time_today">Bugün</string>
+    <string name="hm_time_today_executed">"Bugün %s'de kullanıldı"</string>
+    <string name="hm_time_today_remembered">"Bugün %s'de hatırlandı"</string>
     <string name="hm_time_yesterday">Dün</string>
+    <string name="hm_time_yesterday_executed">"Dün %s'de kullanıldı"</string>
+    <string name="hm_time_yesterday_remembered">"Dün %s'de hatırlandı"</string>
     <string name="hm_toast_log_in">Lütfen önce Xiaomi hesabında oturum açın</string>
     <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
     <string name="hyper_mind">HyperMind</string>
@@ -882,7 +896,10 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="hyper_mind_close_warning_content">HyperMind kapatıldıktan sonra veri toplamayı ve kullanım alışkanlıklarınızı öğrenmeyi bırakacaktır. Halihazırda toplanmış olan verileri silmeniz gerekiyorsa <a href="%1$s">buraya dokunun</a></string>
     <string name="hyper_mind_close_warning_ok">Tamam</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
+    <string name="i_see">Tamam</string>
     <string name="icon_content_description">İletişim simgesi</string>
+    <string name="image_transfer_failed">Resim aktarılamadı</string>
+    <string name="install">Yükle</string>
     <string name="invisible_mode_dialog_content">Gizli moddayken yayınlamayı kullanamazsınız. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_pos">Kapat</string>
@@ -931,6 +948,9 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin</string>
     <string name="menu_new_display_open">Yeni pencerede aç</string>
     <string name="menu_pc_open">Bilgisayar programı ile açın</string>
+    <string name="message_connection_interrupted">Bilgisayarınızın ve tabletinizin bağlantı aralığında olduğundan vede Bluetooth ile wifi ağının açık olduğundan emin olun. Devam etmek için görevi bilgisayarınızda yeniden başlatın</string>
+    <string name="message_install">"Cihazlar arasında çizim yapabilmek için Mi Canvas'ı yükleyin"</string>
+    <string name="message_update">"Cihazlar arasında çizim yapabilmek için Mi Canvas'ı güncelleyin"</string>
     <string name="midnight">Gece</string>
     <string name="milink_required_permissions">android.permission.BLUETOOTH_SCAN;android.permission.BLUETOOTH_CONNECT;android.permission.BLUETOOTH_ADVERTISE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="mipaly_server_exit_touping">Lütfen önce mevcut ekran görüntüsünden çıkın</string>
@@ -1445,6 +1465,9 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="title_activity_permission">İzin etkinliği</string>
+    <string name="title_connection_interrupted">Bağlantı kesildi</string>
+    <string name="title_install">"Mi Canvas'ı yükle"</string>
+    <string name="title_update">"Mi Canvas'ı güncelle"</string>
     <string name="toast_guide_show_more">Daha fazla bilgi edinin</string>
     <string name="toast_guide_title">Yeni özelliklerimizi burada keşfedin</string>
     <string name="toast_invisible_mode">Gizli moddasınız. Şu anda yayını kullanamazsınız</string>
@@ -1470,6 +1493,7 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="tuesday_shortest">Sal</string>
     <string name="universal_clipboard_notification_persistent">Evrensel pano hizmeti</string>
     <string name="unlock_screen_to_authorize_camera">%s bu cihazın kamerasını kullanmak istiyor</string>
+    <string name="update">Güncelle</string>
     <string name="upgrade_app_name_version">%1$s | %2$s</string>
     <string name="upgrade_cancel">İptal et</string>
     <string name="upgrade_cancel_all">Güncellemeleri iptal et</string>
