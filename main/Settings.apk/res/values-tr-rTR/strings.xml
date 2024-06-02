@@ -8889,11 +8889,6 @@ Hizmetlerimizi kullanmadan önce %s sözleşmemizi okuyup kabul edin"</string>
     <string name="sos_privacy_policy_no_net_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="sos_privacy_policy_no_net_title">Ağa bağlanılamadı</string>
     <string name="sos_privacy_policy_revoke">İzni geri al</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Devam ederseniz acil durum aramasının gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir
-
-Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan onayınızı geri çekmeniz güvenlik hizmetlerini kabul etmeyi reddetme olarak değerlendirilecektir
-
-%s için onay şimdi geri çekilsin mi?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Dikkat</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="sos_privacy_revoke_failed_dialog_title">İzin geri alınamadı</string>
@@ -8936,7 +8931,7 @@ Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayal
     <string name="speed_label_slow">Yavaş</string>
     <string name="speed_label_very_fast">Çok hızlı</string>
     <string name="speed_mode">Hız modu</string>
-    <string name="speed_mode_noti_summary">Cihazınız ısınacak ve daha fazla güç tüketecektir.</string>
+    <string name="speed_mode_noti_summary">Cihazınız ısınacak ve daha fazla güç tüketecektir</string>
     <string name="speed_mode_noti_title">Hız moduna geçildi</string>
     <string name="speed_mode_summary">Güç tüketimi ve sıcaklık kontrolü üzerinde performansa öncelik verin</string>
     <string name="spell_checker_not_selected">Seçili değil</string>
