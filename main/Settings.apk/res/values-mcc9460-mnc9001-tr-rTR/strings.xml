@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_chinaunicom_3gnet_general">Wo geniş bant kullanıcıları internete bağlanıyor</string>
+    <string name="apn_chinaunicom_3gwap_general">Wo geniş bant kullanıcıları internete erişmek için cep telefonlarını kullanıyor</string>
+</resources>

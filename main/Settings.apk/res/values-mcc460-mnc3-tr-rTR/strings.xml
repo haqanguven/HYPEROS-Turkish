@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_change_failed_enable_sim_lock">"UIM PIN'i Değiştirilemiyor.
+ UIM LOCK'u etkinleştir"</string>
+    <string name="sim_change_pin">"UIM PIN'i"</string>
+    <string name="sim_change_succeeded">"UIM PIN'i başarıyla değiştirildi"</string>
+    <string name="sim_disable_sim_lock">UIM kartının kilidini açın</string>
+    <string name="sim_enable_sim_lock">UIM kartını kilitle</string>
+    <string name="sim_enter_new">"Yeni UIM PIN'i"</string>
+    <string name="sim_enter_old">"Eski UIM PIN'i"</string>
+    <string name="sim_enter_pin">"UIM PIN'i"</string>
+    <string name="sim_lock_change_not_supported">"UIM Kilidi Değiştirilemiyor.
+ UIM bunu desteklemiyor"</string>
+    <string name="sim_lock_settings">UIM kart kilidi ayarları</string>
+    <string name="sim_lock_settings_category">UIM kart kilidini ayarla</string>
+    <string name="sim_lock_settings_title">UIM kart kilidi</string>
+    <string name="sim_pin_change">"UIM PIN'ini değiştir"</string>
+    <string name="sim_pin_toggle">UIM kartını kilitle</string>
+    <string name="radioInfo_menu_viewADN">UIM adres defterini görüntüle</string>
+</resources>
