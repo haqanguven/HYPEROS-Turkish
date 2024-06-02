@@ -5441,8 +5441,8 @@ Bu izin reddedilirse sistem, uygulamanın bu tür görevleri arka planda ne kada
 <li>Google hesabınız</li>
 <li>Sistem ve uygulama verileri ile ayarları</li>
 <li>İndirilen uygulamalar</li></string>
-    <string name="main_clear_desc_also_erases_esim"><li>eSim'ler</li></string>
-    <string name="main_clear_desc_also_erases_external"><li>Müzik</li>
+    <string name="main_clear_desc_also_erases_esim"><li>eSim</li></string>
+    <string name="main_clear_desc_also_erases_external">"<li>Müzik</li>
 <li>Fotoğraflar</li>
 <li>Diğer kullanıcı verileri</li>"</string>
     <string name="main_clear_desc_erase_external_storage">"
