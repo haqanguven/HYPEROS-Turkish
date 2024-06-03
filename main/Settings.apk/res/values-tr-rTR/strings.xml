@@ -7522,7 +7522,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="request_manage_credentials_title"><b>^1</b> uygulamasının bu cihazda sertifika yüklemesine izin verilsin mi?</string>
     <string name="require_cellular_encryption_summary">Şifreleme daha güvenlidir ancak bazı konumlara bağlanamayabilirsiniz. Acil durum çağrıları için şifrelemeye asla gerek yoktur</string>
     <string name="require_cellular_encryption_title">Şifreleme gerektir</string>
-    <string name="requires_modern_control_center">Kontrol merkezinin yeni sürümüyle çalışır</string>
+    <string name="requires_modern_control_center">Kontrol merkezinin stil 2 seçeneği ile çalışır</string>
     <string name="reset_aaid">Reklam tanımlayıcıyı sıfırla</string>
     <string name="reset_app_preferences">Uygulama tercihlerini sıfırla</string>
     <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
