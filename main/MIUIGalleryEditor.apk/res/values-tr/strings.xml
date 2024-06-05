@@ -222,6 +222,7 @@ daireyi hareket ettirin"</string>
     <string name="beauty_face_talkback_size_selecter_level_one">Bir beden</string>
     <string name="beauty_face_talkback_size_selecter_level_three">Üç beden</string>
     <string name="beauty_face_talkback_size_selecter_level_two">İki beden</string>
+    <string name="beauty_i18n">@string/beauty_tip_portrait_not_recognized</string>
     <string name="beauty_skin_beauty">Cilt</string>
     <string name="beauty_skin_beauty_category_color">Cilt tonu</string>
     <string name="beauty_skin_beauty_category_color_boost">Ten</string>
@@ -929,6 +930,7 @@ daireyi hareket ettirin"</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi takip etmeye devam edin</string>
+    <string name="gallery_frame_cutout_tag">galleryFrameCutoutTag</string>
     <string name="gallery_frame_default_brand_format">%s </string>
     <string name="gallery_frame_default_loc_format" formatted="false">%s%s  %s%s</string>
     <string name="gallery_frame_default_model_format">%s</string>
@@ -1026,11 +1028,9 @@ daireyi hareket ettirin"</string>
     <string name="magic_error_adding_filter">Filtre uygulanamadı</string>
     <string name="magic_exporting">Kaydediliyor</string>
     <string name="magic_filter">Sihir</string>
-    <string name="magic_filter_dsc">Çarpıcı arka planlara sahip portreler oluşturun</string>
     <string name="magic_galery">Galeri</string>
     <string name="magic_hight">Yükseklik</string>
     <string name="magic_id_photo">Kimlik kartı</string>
-    <string name="magic_id_photo_dsc">Tek bir dokunuşla vesikalık fotoğraflar oluşturun</string>
     <string name="magic_idp_dsc">Kaydedilemedi</string>
     <string name="magic_idp_guide_tack">İyi bir fotoğraf nasıl çekilir</string>
     <string name="magic_idp_guide_text">Kimlik kartı</string>
@@ -1072,7 +1072,6 @@ daireyi hareket ettirin"</string>
     <string name="magic_ok">Tamam</string>
     <string name="magic_preview_1">Bir fotoğraf</string>
     <string name="magic_protrait_art">Sanat</string>
-    <string name="magic_protrait_art_dsc">Son teknoloji efektlerimizi deneyin</string>
     <string name="magic_recycler_empty_msg">Sonuçlar bulunamadı</string>
     <string name="magic_save">Kaydet</string>
     <string name="magic_save_ok">Başarıyla kaydedildi</string>
@@ -1298,8 +1297,8 @@ daireyi hareket ettirin"</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
@@ -1419,6 +1418,7 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_gallery_frame_darkmode_black">Siyah</string>
     <string name="photo_editor_gallery_frame_darkmode_white">Beyaz</string>
     <string name="photo_editor_gallery_frame_device_only">Bu özellik yalnızca bu cihazla çekilen fotoğraflarda kullanılabilir</string>
+    <string name="photo_editor_gallery_frame_icon_gps">Koordinatlar</string>
     <string name="photo_editor_gallery_frame_icon_location">Konum</string>
     <string name="photo_editor_gallery_frame_icon_time">Zaman</string>
     <string name="photo_editor_gallery_frame_m16_only">Yalnızca Note 12 Pro serisi ile yapılan resimler için desteklenir</string>

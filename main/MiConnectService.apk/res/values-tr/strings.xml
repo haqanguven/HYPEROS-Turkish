@@ -4,7 +4,7 @@
     <string name="a2dp_disconnect_success">Bu cihazda ses oynatılıyor</string>
     <string name="a2dp_not_pair">Cihaz bağlı değil</string>
     <string name="a2dp_not_pair_desc">"Hoparlörünüzde bluetooth'u açın.
-Hoparlörün donanım yazılımının güncel olduğundan emin olun."</string>
+Hoparlörün donanım yazılımının güncel olduğundan emin olun"</string>
     <string name="a2dp_not_pair_desc_same_wifi">"Her iki cihazı da aynı ağa bağlayın ve tekrar deneyin.
 Hoparlörünüzün donanım yazılımının güncel olduğundan emin olun"</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
