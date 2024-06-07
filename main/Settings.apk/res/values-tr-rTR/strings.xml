@@ -11440,6 +11440,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="infinite_scroll_title">Sonsuz kaydırma</string>
     <string name="application_titles_title">Uygulama başlıkları düzeni</string>
     <string name="folder_layout_title">Klasör düzeni</string>
+    <string name="folder_effect_title">Klasör açılış efekti</string>
     <string name="folder_blur_title">Klasör bulanıklık efekti</string>
     <string name="folder_close_title">Klasörleri otomatik kapat</string>
     <string name="classic_widget_title">Klasik araçlar</string>
