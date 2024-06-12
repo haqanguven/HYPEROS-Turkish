@@ -46,8 +46,12 @@
     <string name="actionbar_close_description">Kapat</string>
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınızı Xiaomi hesabınız ile senkronize etmek istiyor musunuz?</string>
+    <string name="add_excerpt_summary">Özet listesi ekle</string>
     <string name="added_to_clipboard">Kopyalandı</string>
     <string name="afternoon">ÖS</string>
+    <string name="ai_chat_declare_double_link"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyup kabul edin</Data></string>
+    <string name="ai_chat_dlg_content">Farklı senaryolardaki çeşitli bilgi kaynakları için bilgilerin hızlı bir şekilde toplanması ve özetlenmesinin yanı sıra bu bilgilerin arşivleme için birleşik bir girişte otomatik olarak oluşturulması ve sunulması işlevi elde edilecek</string>
+    <string name="ai_watermark">Yapay zeka tarafından üretin:</string>
     <string name="alarm_bar_title">Hatırlatıcı</string>
     <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
     <string name="alert_message_delete">%1$s silinsin mi?</string>
@@ -293,7 +297,12 @@
     <string name="evening">Öğleden sonra</string>
     <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun</string>
     <string name="excerpt">Bir alıntı oluştur</string>
+    <string name="excerpt_ares_limit">Heyecanınızı takdir ediyoruz ancak şu anda yoğun bir trafik yaşıyoruz. Görüntülemek veya daha sonra tekrar denemek için lütfen orijinal bağlantıya tıklayın</string>
     <string name="excerpt_bubble_tips">"Kopyalanan metin ve kaydedilen görüntüler, notlar'a kaydedilecektir"</string>
+    <string name="excerpt_link_bubble_tips">Notlara kaydetmek için dokunun</string>
+    <string name="excerpt_original_text">Orjinal metin:</string>
+    <string name="excerpt_summary_fail">İçerik ayrıştırma başarısız oldu. Görüntülemek veya daha sonra tekrar denemek için lütfen orijinal bağlantıya tıklayın</string>
+    <string name="excerpt_summary_huangfan">İçerik hassastır. Görüntülemek için lütfen orijinal bağlantıya tıklayın</string>
     <string name="excerpt_link_bubble_tips">"Notlar'a kaydetmek için dokunun"</string>
     <string name="excerpted_to_note">"Alıntı notlar'a kaydedildi"</string>
     <string name="excerpting">Bir alıntı oluşturuluyor</string>
@@ -764,6 +773,7 @@
     <string name="pm">ÖS</string>
     <string name="pref_category_title_quick_func">Hızlı özellikler</string>
     <string name="pref_excerpt_link_float">Bir bağlantı kopyalandığında bir alıntı oluşturmak için hatırlatıcı alın</string>
+    <string name="pref_excerpt_summary_link_float">Bağlantı her kopyalandığında kısayol çubuğu bekleyen bir özet hatırlatıcısı sağlar. Özeti çıkarmak için tıklayın</string>
     <string name="pref_permission_allowed">Onayla</string>
     <string name="pref_permission_manage">İzin ayrıntıları</string>
     <string name="pref_permission_manage_key_contact">Kişilere erişin</string>
@@ -777,6 +787,7 @@
     <string name="pref_title_cloud_trash_bin">Buluttaki silinmiş notlar</string>
     <string name="pref_title_common">Ek ayarlar</string>
     <string name="pref_title_excerpt_remind">Alıntı hatırlatıcıları</string>
+    <string name="pref_title_excerpt_summary_remind">Özet listesi</string>
     <string name="pref_title_font_size">Yazı tipi boyutu</string>
     <string name="pref_title_note_style">Stil</string>
     <string name="pref_title_quick_note">Hızlı notlar</string>
@@ -864,6 +875,7 @@
     <string name="setting_other">Diğer</string>
     <string name="setting_privacy">Gizlilik politikası</string>
     <string name="single_link_excerpt_saving">Öğeler kaydediliyor</string>
+    <string name="single_link_excerpt_summary_saving">Özet listesi oluşturuluyor</string>
     <string name="single_new_excerpt_title">Alıntılar</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -982,6 +994,9 @@
     <string name="time_picker_dialog_title">Saati ayarla</string>
     <string name="time_picker_label_hour">Saat</string>
     <string name="time_picker_label_minute">Dakika</string>
+    <string name="to_be_read_bubble_tips">Kopyalanan bağlantı ve metin özeti doğrudan notlara aktaracaktır</string>
+    <string name="to_be_read_link_bubble_tips">Özeti notlara kaydetmek için dokunun</string>
+    <string name="to_be_read_list">Özet listesi</string>
     <string name="to_view_alarm_content">Görüntülemek için dokunun</string>
     <string name="toast_cancel_to_insert_image">Resim eklenemedi</string>
     <string name="toast_excerpt_end">Alıntı başarıyla oluşturuldu</string>
@@ -1007,6 +1022,8 @@ Notlar uygulamasına SD kartınızdaki içerikleri okuma izni verin"</string>
     <string name="toast_refuse_to_use_record_audio">"Mikrofon izinleri kısıtlı
 Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">"Notlarınıza görüntü ekleyebilmesi için Notlar'a depolama alanına erişim izni verin"</string>
+    <string name="toast_show_no_network">Lütfen ağa bağlanın ve tekrar deneyin</string>
+    <string name="toast_show_xiaomi_account">Xiaomi hesabınıza giriş yapın ve tekrar deneyin</string>
     <string name="today">Bugün</string>
     <string name="todo_alert_title_delete">Tamamlanan görevleri sil</string>
     <string name="todo_audio_default_content">"[Ses görevi] "</string>

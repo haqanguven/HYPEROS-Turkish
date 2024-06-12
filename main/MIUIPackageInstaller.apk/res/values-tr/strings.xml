@@ -704,6 +704,11 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="net_work_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="net_work_error_retry">Tekrar dene</string>
+    <string name="new_unregistered_dialog_comment">Geliştirici olarak gerekli bilgileri yetkililere gönderdiyseniz %1$s yapabilirsiniz</string>
+    <string name="new_unregistered_dialog_comment_clickable">Reddet</string>
+    <string name="new_unregistered_dialog_content">"Bu uygulama mevcut bölgenizde desteklenmiyor olabilir veya dağıtım için tasarlanmamış olabilir. İlgili ICP kayıt bilgisi eksik. %1$s"</string>
+    <string name="new_unregistered_dialog_content_clickable">Kayıt politikası hakkında daha fazla bilgi edinin</string>
+    <string name="new_unregistered_dialog_title">ICP kayıt bilgisi bulunamadı</string>
     <string name="night">Akşam</string>
     <string name="no_considering">Henüz dikkate alma</string>
     <string name="no_install_because_32bit">Uygulama mağazası size uygulamanın 64 bit sürümünü sağladı. Lütfen onu yüklediğinizden emin olun</string>

@@ -24,9 +24,9 @@ Yenilemeye yardım etmemizi istiyor musunuz?"</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">"%1$s cihazında oluşturuldu
-toplam %2$d şarkı"</item>
+Toplam %2$d şarkı"</item>
         <item quantity="one">"%1$s cihazında oluşturuldu
-toplam %2$d şarkı"</item>
+Toplam %2$d şarkı"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d şarkı listeye eklendi</item>

@@ -147,8 +147,21 @@
     <string name="artist_home_search_hint">Sanatçıları ara</string>
     <string name="artist_is_empty">Sanatçı adı boş olamaz</string>
     <string name="artist_name">Sanatçı</string>
+    <string name="asm_account_exception">Bir hesap hatası oluştu</string>
     <string name="asm_batch_download_failed">İndirilemedi</string>
-    <string name="asm_buy_member_success">VIP üyelik başarıyla satın alındı</string>
+    <string name="asm_buy_member_success">VIP üyeliği başarıyla satın alındı</string>
+    <string name="asm_check_video_playing">Video oynatılıyor. Öğe oynatma listesine eklenemiyor</string>
+    <string name="asm_delete_all">Temizle</string>
+    <string name="asm_delete_all_data">Tüm verileri temizle</string>
+    <string name="asm_delete_all_data_failed">Veriler temizlenemedi. Tekrar deneyin</string>
+    <string name="asm_delete_all_data_loading">Yükleniyor</string>
+    <string name="asm_delete_all_data_no_net">Kimliğinizi doğrulamak ve verileri temizlemek için ağ bağlantısı gerekiyor. Ağa bağlanın ve tekrar deneyin</string>
+    <string name="asm_delete_all_data_success">Veriler başarıyla temizlendi</string>
+    <string name="asm_delete_all_data_tips">"Devam ederseniz şarkılar, şarkı listeleri ve göz atma geçmişi dahil tüm uygulama verilerini temizleyeceksiniz.
+Tüm üyelik avantajları ve ücretli şarkılar silinecek. Mevcut üyelikleriniz için geri ödeme yapılmaz, ancak sizden tekrar ücret alınmaz.
+Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz kapatılacaktır. Tüm veriler şimdi temizlensin mi?"</string>
+    <string name="asm_delete_data">Verileri temizle</string>
+    <string name="asm_delete_data_local_and_online">Çevrimdışı ve akış hizmeti verilerini temizle</string>
     <string name="asm_dialog_title_tips">VIP üyelik</string>
     <string name="asm_dialog_vip_confirm_text">Katıl</string>
     <string name="asm_dialog_vip_message">Yüksek kaliteli şarkıları dinlemek ve daha fazla içerik indirmek için bir VIP üyeliğe kaydolun</string>
@@ -1607,6 +1620,7 @@
     <string name="passport_talkback_switch_image_captcha">Resimli doğrulama koduna geç</string>
     <string name="passport_talkback_switch_voice_captcha">Sesli doğrulama koduna geç</string>
     <string name="passport_talkback_voice_captcha">Sesli doğrulama kodunu oynat</string>
+    <string name="passport_third_sns_service_unavailable">Hizmet kullanılamıyor. Uygulamanın yüklendiğinden ve engellenmediğinden emin olun</string>
     <string name="passport_ticket_send_by_second">%d gönder</string>
     <string name="passport_to_forget_password">Parolanızı mı unuttunuz?</string>
     <string name="passport_to_password_login">Şifre kullanarak giriş yapın</string>
@@ -2441,4 +2455,5 @@ Daha sonraki bir zamanda wifi ağına bağlanırsanız %s dokunarak indirebilirs
     <string name="youtube_tab_shorts">Kısalar</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Trendler</string>
+    <string name="ytb_turn_on_sound">Sesi açmak için dokunun</string>
 </resources>
