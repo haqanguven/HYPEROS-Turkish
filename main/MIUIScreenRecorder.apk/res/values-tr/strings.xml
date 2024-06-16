@@ -45,6 +45,7 @@
     <string name="button_clear_storage">Alan boşalt</string>
     <string name="button_confirm">Tamam</string>
     <string name="button_goon_recorder">Devam et</string>
+    <string name="camera_high_spec_recording">"%1$s'de video kaydedilirken ekran kaydedilemiyor"</string>
     <string name="cancel_edit">İptal et</string>
     <string name="cannot_change_frames">Kare hızı sadece sabit kare hızına sahip kayıtlar için özelleştirilebilir</string>
     <string name="cannot_change_parames">Kayıt sırasında parametreler değiştirilemiyor</string>
@@ -401,6 +402,7 @@
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="tap_to_view">Görüntülemek için dokunun</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>

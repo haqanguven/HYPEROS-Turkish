@@ -449,6 +449,8 @@ Videolar uygulamasının size temel hizmetleri sağlamak için gerekli kişisel 
     <string name="download_unable_tip">Bu öğe indirilemiyor</string>
     <string name="download_video">Video indiriliyor</string>
     <string name="downloading">İndiriliyor</string>
+    <string name="draw_ad_button_click_text">Açmak için sallayın veya dokunun</string>
+    <string name="draw_ad_button_slide_text">Ayrıntılar için kaydırın</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -553,14 +555,10 @@ Videolar uygulamasının size temel hizmetleri sağlamak için gerekli kişisel 
     <string name="feedback_activity_title">Geri bildirim</string>
     <string name="feedback_contact_empty">İletişim bilgilerinizi girin</string>
     <string name="feedback_contact_title">İletişim bilgileri</string>
-    <string name="feedback_detail_input_hint">Mesajınızı girin</string>
-    <string name="feedback_hint">Karşılaştığınız sorunu açıklayın</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-posta</string>
     <string name="feedback_hint_text">Karşılaştığınız sorunu açıklayın</string>
-    <string name="feedback_input_tip">Burada sorunlarınızı açıklayabilir veya tavsiyede bulunabilirsiniz</string>
     <string name="feedback_net_error">Gönderilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="feedback_sent">Gönder</string>
-    <string name="feedback_success">Başarıyla gönderildi</string>
     <string name="feedback_success_toast">Başarıyla gönderildi. Geri bildiriminiz için teşekkürler</string>
     <string name="feedback_tag_title">Kategori</string>
     <string name="feedback_text_empty_toast">Önce geri bildiriminizi girin</string>
@@ -861,7 +859,6 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="inline_mute_click_tip">Sesi açmak için dokunun</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
     <string name="input_new_pwd">Yeni şifreyi girin</string>
-    <string name="input_size_tips_new">En fazla %d karakter girebilirsiniz</string>
     <string name="isornot_your_mi_account">Bu Xiaomi hesabı sizin mi?</string>
     <string name="item_card_all_replies">Tüm yanıtlar</string>
     <string name="item_card_continue_play">Otomatik oynatma</string>
@@ -978,7 +975,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_zoom_adjust_button">Ekran modunu değiştir</string>
     <string name="lock_screen">Kilit ekranı</string>
     <string name="login">Oturum aç</string>
-    <string name="login_tip">Geri bildiriminize gönderdiğimiz cevapları almak için oturum açın</string>
     <string name="logo_neverthink">Küratör: Neverthink.tv</string>
     <string name="logout">Oturumu kapat</string>
     <string name="logout_account">Oturumu kapat</string>
@@ -1091,6 +1087,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="manager_request_continue">İzin ver</string>
     <string name="manager_request_tip">"Tekrar gösterme"</string>
     <string name="manager_request_title">"Bu dosyaya erişilemiyor"</string>
+    <string name="mangotv_episode">Bölüm %d</string>
     <string name="mangotv_feature_list_title3">Bölüm %s eklendi</string>
     <string name="mangotv_feature_more">Daha fazla</string>
     <string name="mangotv_feature_title1">Bölümler</string>
@@ -1300,8 +1297,8 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
-    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">y</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
@@ -1311,7 +1308,6 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="music_new_user_dialog_got_it">Tamam</string>
     <string name="music_new_user_dialog_tip">Videolara hoş geldiniz. Bu uygulama yerel bir video oynatıcı ve çevrim içi müzik ve video akışı hizmetleri sunar</string>
     <string name="my_favorite_channels">Favori kanallarım</string>
-    <string name="my_feedback_title">Geri bildirimim</string>
     <string name="native_body">Vücut</string>
     <string name="native_headline">Başlık</string>
     <string name="native_media_view">Medya görünümü</string>
@@ -1522,6 +1518,7 @@ Bu izni yalnızca aradığınız videoları bulmak için kullanacağız ve başk
     <string name="pip">Resim içinde resim</string>
     <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için Xiaomi sürümünü güncelleyin</string>
     <string name="play_at_normal_speed">1X hızda oynatılıyor</string>
+    <string name="play_at_speed">%.1fX hızında oynatılıyor</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Oynatma listesi oluştur</string>
     <string name="play_list_save_dialog_title">Çalma listesine ekle</string>
@@ -1847,7 +1844,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kart</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
-    <string name="submit">Gönder</string>
     <string name="subscribe">Abone ol</string>
     <string name="subscribe_author_recommend_btn">Abone ol</string>
     <string name="subscribe_author_recommend_title">Bu içerik oluşturucuların en yeni videolarını görmek için abone olun</string>
@@ -2000,7 +1996,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Bu ödül şu anda mevcut değil. Daha sonra tekrar deneyin</string>
     <string name="toast_m3u8_download_path_tip">m3u8 formatındaki içerik için indirme yolu değiştirilemiyor</string>
     <string name="toast_play_error_tip">Bu dosya oynatılamıyor</string>
-    <string name="toast_request_too_frequently">Çok hızlı değil</string>
     <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
@@ -2159,9 +2154,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
-    <string name="type_content">İçerik</string>
-    <string name="type_issue">Sorun</string>
-    <string name="type_suggestion">Öneri</string>
     <string name="ugc_no_net">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin</string>
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmiyor</string>

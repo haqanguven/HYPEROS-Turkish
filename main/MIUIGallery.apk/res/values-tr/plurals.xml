@@ -217,6 +217,10 @@
         <item quantity="other">%d seri çekimini silmek istiyor musun?</item>
         <item quantity="one">%d seri çekimini silmek istiyor musun?</item>
     </plurals>
+    <plurals name="delete_confirm_count_down">
+        <item quantity="other">Sil (%d saniye)</item>
+        <item quantity="one">Sil (%d saniye)</item>
+    </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d öğe silindi</item>
         <item quantity="one">%d öğe silindi</item>
@@ -687,6 +691,10 @@
     <plurals name="transfer_status_banner_msg_file_failed">
         <item quantity="other">"%1$d öğe aktarılamadı. İndirmek için i.mi.com'u ziyaret edin"</item>
         <item quantity="one">"%1$d öğe aktarılamadı. İndirmek için i.mi.com'u ziyaret edin"</item>
+    </plurals>
+    <plurals name="trash_purge_count_down">
+        <item quantity="other">Sil (%d saniye)</item>
+        <item quantity="one">Sil (%d saniye)</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>

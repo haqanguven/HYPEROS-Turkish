@@ -747,6 +747,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="local_mode">Çevrimdışı mod</string>
     <string name="local_mode_close">Çevrimdışı mod kapatılsın mı?</string>
     <string name="local_mode_close_desc">Çevrimiçi hizmetleri kullanmak istiyorsanız çevrimdışı modu kapatın. Şimdi kapatılsın mı?</string>
+    <string name="local_mode_close_tip">Bu duvar kağıdını ayarlamak için internet bağlantısı gereklidir. İnternet servisini kullanmak istiyorsanız yerel modu kapatmanız gerekmektedir. Kapatmayı onaylıyor musunuz?</string>
     <string name="local_mode_desc">Çevrimdışı mod yalnızca yerel içeriği kullanır ve çevrimiçi hizmetleri kullanmaz</string>
     <string name="local_mode_hint">"Çevrimdışı modu kullanıyorsunuz
 Kapatmak için dokunun"</string>
@@ -1087,13 +1088,14 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="percent_sign">%</string>
     <string name="personalize">Kişiselleştirme</string>
     <string name="personalize_alarm_ringtone_title">Alarmlar</string>
-    <string name="personalize_aod_title">Her zaman açık</string>
+    <string name="personalize_aod_title">Her zaman açık ekran</string>
+    <string name="personalize_aod_title_alternative">Her zaman açık ekran</string>
     <string name="personalize_call_ringtone_title">Zil sesleri</string>
     <string name="personalize_charge_style_title">Şarj oluyor</string>
     <string name="personalize_default_font">Varsayılan yazı tipi</string>
     <string name="personalize_fingerprint_style_title">Parmak izi</string>
     <string name="personalize_font_demo_content">Aa</string>
-    <string name="personalize_icon_title">Simgeler</string>
+    <string name="personalize_icon_title">Simge boyutu ve stilleri</string>
     <string name="personalize_item_more_setting">Ek ayarlar</string>
     <string name="personalize_notify_ringtone_title">Bildirimler</string>
     <string name="personalize_notify_style_title">Efektler</string>
@@ -1101,7 +1103,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="personalize_second_space_not_support_buy_widget">İkinci alanda araç satın alınamıyor</string>
     <string name="personalize_second_space_not_support_set_font">İkinci alanda yazı tipi değiştirilemiyor</string>
     <string name="personalize_theme_entrance">Temalar</string>
-    <string name="personalize_third_font">Yazı tipleri</string>
+    <string name="personalize_third_font">Yazı tipi ve metin boyutu</string>
     <string name="personalize_title">Duvar kağıdı ve kişiselleştirme</string>
     <string name="personalize_wallpaper_sub_title">Süper duvar kağıtları ve öne çıkan görüntüler</string>
     <string name="personalize_wallpaper_title">Duvar kağıtları</string>

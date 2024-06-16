@@ -45,10 +45,6 @@
         <item quantity="other">%d saniye geri sar</item>
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
-        <item quantity="one">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

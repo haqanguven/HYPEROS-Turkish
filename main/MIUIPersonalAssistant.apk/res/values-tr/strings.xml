@@ -803,6 +803,7 @@ Başlamak için araçlar ekleyin."</string>
     <string name="pa_recommend_card_text_des">%s. Daha fazlasını öğrenmek için araç mağazamızı açın</string>
     <string name="pa_recommend_card_title">Önerilen</string>
     <string name="pa_recommend_no_network">Önce uygulamayı indirin</string>
+    <string name="pa_record_number">ICP kayıt numarası: Pekin ICP No. 10046444-66A></string>
     <string name="pa_rtk_card_title">Gösterge paneli</string>
     <string name="pa_rtk_more_content_description">Seçenekler</string>
     <string name="pa_rtk_place_holder_text">Bu araç şimdilik panonuza taşındı</string>
