@@ -11426,6 +11426,8 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
+    <string name="list_view_animation_title">Liste animasyonu</string>
+    <string name="list_view_interpolator_title">liste interpolasyonu</string>
     <string name="charging_animations_title">Şarj animasyonları</string>
     <string name="full_charge_sound_title">Şarj doldu sesi</string>
     <string name="volume_button_title">Ses tuşları ayarları</string>

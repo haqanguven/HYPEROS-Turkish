@@ -465,6 +465,7 @@
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gcm_defaultSenderId">583617035067</string>
     <string name="global_search">Ara</string>
+    <string name="global_shelf">Uygulama bulucu</string>
     <string name="google_api_key">AIzaSyB2JDwRH0JkFz61laGlpkUqBP-M1tDCs0Y</string>
     <string name="google_app_id">1:583617035067:android:f62e0cc8504e98c934151e</string>
     <string name="google_crash_reporting_api_key">AIzaSyB2JDwRH0JkFz61laGlpkUqBP-M1tDCs0Y</string>
@@ -487,6 +488,7 @@
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_gesture_content_center">İçerik merkezi</string>
     <string name="home_gesture_global_search">Ara</string>
+    <string name="home_gesture_global_shelf">Uygulama bulucu</string>
     <string name="home_gesture_no_action">Yok</string>
     <string name="home_gesture_notification_and_control_center">Bildirim gölgesi ve kontrol merkezi</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
@@ -966,6 +968,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
+    <string name="system_shortcuts_dislike">Bu hoşuma gitmedi</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>

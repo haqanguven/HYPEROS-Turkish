@@ -1317,6 +1317,31 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Sağ</item>
         <item>Sol</item>
     </string-array>
+    <string-array name="list_view_animation_entries">
+        <item>Varsayılan</item>
+        <item>Dalga (Sol)</item>
+        <item>Dalga (Sağ)</item>
+        <item>Alfa</item>
+        <item>Ölçek</item>
+        <item>Yığın (Üst)</item>
+        <item>Yığın (Alt)</item>
+        <item>Açıl</item>
+        <item>Katla</item>
+        <item>Çevir (Sol)</item>
+        <item>Çevir (Sağ)</item>
+    </string-array>
+    <string-array name="list_view_interpolator_entries">
+        <item>Varsayılan</item>
+        <item>Hızlan</item>
+        <item>Yavaşla</item>
+        <item>Hızlan ve yavaşla</item>
+        <item>Bekle</item>
+        <item>Aşım</item>
+        <item>Aşımı tahmin et</item>
+        <item>Sıçra</item>
+        <item>Döngü</item>
+        <item>Doğrusal</item>
+    </string-array>
     <string-array name="charging_animations_entries">
         <item>Stil 1</item>
         <item>Stil 2</item>

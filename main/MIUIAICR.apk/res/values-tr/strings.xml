@@ -41,6 +41,25 @@
     <string name="about_MiAI_engine">Mi yapay zeka motoru hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="aireco_comm_reject">Şimdi değil</string>
+    <string name="aireco_comm_to_setting">Ayarlar</string>
+    <string name="aireco_intent_dialog_app_update_button_no">Şimdi değil</string>
+    <string name="aireco_intent_dialog_app_update_button_yes">Güncelle</string>
+    <string name="aireco_intent_dialog_app_update_title">Bir güncelleme mevcut</string>
+    <string name="aireco_intent_dialog_bluetooth_agree">Bu uygulamanın yakındaki cihazlara bağlanmasına izin verin ve her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_bluetooth_message">Ayarlarda Mi yapay zeka önerilerinin yakındaki cihazlara Bluetooth aracılığıyla bağlanmasına izin verin. En iyi sonuçları elde etmek için her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_bluetooth_title">İzinler gerekli</string>
+    <string name="aireco_intent_dialog_calendar_agree">Takvim erişimine izin verin ve her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_calendar_message">Ayarlarda Mi yapay zeka önerilerinin takvime erişmesine izin verin. En iyi sonuçları elde etmek için her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_calendar_title">İzinler gerekli</string>
+    <string name="aireco_intent_dialog_location_agree">Konum erişimine izin verin ve her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_location_message">Ayarlarda Mi yapay zeka önerilerinin konumunuza erişmesine izin verin. En iyi sonuçları elde etmek için her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_location_title">İzinler gerekli</string>
+    <string name="aireco_intent_dialog_notification_agree">Uygulamanın yakındaki cihazlara bağlanmasına izin verin ve her zaman izin veri seçin</string>
+    <string name="aireco_intent_dialog_notification_message">Ayarlar'da Mi yapay zeka önerilerinin bildirim göndermesine izin verin</string>
+    <string name="aireco_intent_dialog_notification_title">İzinler gerekli</string>
+    <string name="aireco_intent_dialog_op_gps_service_message">Mi yapay zeka önerilerinin tüm hizmet yelpazesini sunabilmesi için konumunuza erişmesi gerekiyor. Bu izni ayarlardan verebilirsiniz</string>
+    <string name="aireco_intent_dialog_op_gps_service_title">Konum hizmetlerini açın</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Mi yapay zeka motoru</string>
@@ -1812,6 +1831,7 @@
     <string name="privacy_banner_sub_title">Mi yapay zeka motoru, Xiaomi HyperMind ve Xiaoai önerisi için sistem düzeyinde durumsal farkındalık ve niyet tanıma yetenekleri sağlayan bir yapay zeka yetenek merkezidir. Gizliliğinize ve güvenliğinize değer veriyoruz. Bilgi toplama ve kullanımı, onaylamanız veya kapatmanıza izin vermeniz için size bildirilecektir. Güçlü uç taraf yapay zeka bilgi işlem yetenekleri, çoğu öğrenme ve bilgi işlem sürecinin yerel olarak tamamlanmasına olanak tanır</string>
     <string name="privacy_banner_title">Endişelenmeyin. Güvenlidir</string>
     <string name="privacy_cancel">İptal et</string>
+    <string name="privacy_cancel_not_do">İptal etme</string>
     <string name="privacy_cancel_privacy">Gizlilik politikası iznini geri al</string>
     <string name="privacy_cancel_privacy_title">Onayı geri al ve hizmeti iptal et</string>
     <string name="privacy_cancel_service">Oturum kapatma hizmeti</string>
@@ -1860,20 +1880,15 @@ Gizlilik ve güç tüketimi konusunda endişelenmenize gerek yok. Tüm bilgiler 
     <string name="privacy_problem_feedback">Sorun geri bildirimi</string>
     <string name="privacy_refuse">Reddet</string>
     <string name="privacy_request_background_location_permission_reason">Arka planda konumlandırma bilgilerine dayalı olarak seyahat önerileri, yolculuk kodları ve akıllı ev öneri hizmetleri sağlayın</string>
-    <string name="privacy_request_location_permission_dialog_hint">* Bu özelliği Ayarlar > Xiaoai önerileri > Gizlilik yönetimi > Konum bilgisine dayalı öğrenme ve tahmin bölümünden yönetebilirsiniz</string>
-    <string name="privacy_request_location_permission_dialog_reason">"Size akıllı öneri hizmetleri sunabilmek için konumlandırma iznini açtığınızda kesin coğrafi konum bilgilerinizi toplayacağız ve bu bilgileri yerel olarak öğreneceğiz
-Yukarıda bahsedilen akıllı öneri hizmeti her zaman izin ver izinlerini seçmek için arka plan konumuna dayanır
-Bu tür bilgileri sağlamadığınız takdirde size akıllı öneri hizmetlerini doğru ve eksiksiz olarak sağlayamayız"</string>
-    <string name="privacy_request_location_permission_dialog_title">Xiaoai'ye hassas konumlandırmanın kullanılmasını tavsiye etmesi için yetki verin</string>
+    <string name="privacy_request_location_permission_dialog_hint">null</string>
+    <string name="privacy_request_location_permission_dialog_reason">null</string>
+    <string name="privacy_request_location_permission_dialog_title">null</string>
     <string name="privacy_request_location_permission_reason">Konum bilgilerine dayalı olarak seyahat önerileri, yolculuk kodları ve akıllı ev öneri hizmetleri sağlayın</string>
     <string name="privacy_setting">Ayarlara git</string>
     <string name="privacy_tip_item_view_background_location">Arka planda konum izni yok. Lütfen her zaman izin veri seçin</string>
     <string name="privacy_tip_item_view_location">Önerilerin doğruluğunu artırmak için lütfen konum hizmetlerini açın</string>
     <string name="privacy_tip_item_view_location_permission_hint">Konum izni eksik. Lütfen her zaman izin veri seçin</string>
     <string name="privacy_tip_item_view_location_provider_hint">Önerilerin doğruluğunu artırmak için lütfen konum hizmetlerini açın</string>
-    <string name="privacy_update_content_new_user">1. Mi yapay zeka motoru, Xiaoai önerileri için durumsal farkındalık ve niyet tanıma yetenekleri sağlar. Bulunduğunuz sahneyi akıllıca algılayabilir, alışkanlıklarınızı öğrenebilir, doğru ve kişiselleştirilmiş hizmetler sağlayabilir</string>
-    <string name="privacy_update_content_old_user">"1. Mi yapay zeka motoru, Xiaoai önerileri için durumsal farkındalık ve niyet tanıma yetenekleri sağlar. Bulunduğunuz sahneyi akıllıca algılayabilir, alışkanlıklarınızı öğrenebilir, doğru ve kişiselleştirilmiş hizmetler sağlayabilir
-2. Bu yükseltmeden sonra Xiaoai'nin eski sürümünün önerdiği kullanıcı verileri kullanılmaya devam edilebilir ancak yerel bilişsel verilerin MiAI motorunda yeniden öğrenilmesi gerekir"</string>
     <string name="privacy_update_content_remind">Güncellenen Mi yapay zeka motoru gizlilik politikasını okuyup kabul ettiyseniz ürün ve hizmetlerimizi kullanmaya devam etmek için lütfen kabul ediyoruma tıklayın</string>
     <string name="privacy_update_content_title">"Sizlere daha iyi hizmet verebilmek amacıyla Mi yapay zeka motorunun gizlilik politikası aşağıdaki şekilde güncellendi:
 "</string>

@@ -200,4 +200,10 @@
         <item quantity="other">Araçta %1$d şirket</item>
         <item quantity="one">Araçta %1$d şirket</item>
     </plurals>
+    <plurals name="pa_travel_train_tip_delay_hour_min">
+        <item quantity="other">Tren %1$d saat %2$d dakika rötar yapıyor</item>
+    </plurals>
+    <plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="other">Tren %d dakika gecikti</item>
+    </plurals>
 </resources>

@@ -47,6 +47,7 @@
     <string name="actionbar_home_description">Geri</string>
     <string name="add_account_desc">Notlarınızı Xiaomi hesabınız ile senkronize etmek istiyor musunuz?</string>
     <string name="add_excerpt_summary">Özet listesi ekle</string>
+    <string name="add_pic_excerpt_summary">Resim özeti ekle</string>
     <string name="added_to_clipboard">Kopyalandı</string>
     <string name="afternoon">ÖS</string>
     <string name="ai_chat_declare_double_link"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyup kabul edin</Data></string>
@@ -298,13 +299,18 @@
     <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun</string>
     <string name="excerpt">Bir alıntı oluştur</string>
     <string name="excerpt_ares_limit">Heyecanınızı takdir ediyoruz ancak şu anda yoğun bir trafik yaşıyoruz. Görüntülemek veya daha sonra tekrar denemek için lütfen orijinal bağlantıya tıklayın</string>
-    <string name="excerpt_bubble_tips">"Kopyalanan metin ve kaydedilen görüntüler, notlar'a kaydedilecektir"</string>
+    <string name="excerpt_bubble_tips">Kopyalanan metin ve kaydedilen görüntüler notlara kaydedilecektir</string>
+    <string name="excerpt_image_ares_limit">Hevesinizi takdir ediyoruz ancak şu anda yoğun bir trafik yaşıyoruz. Lütfen orijinal resme bakın veya daha sonra tekrar deneyin</string>
+    <string name="excerpt_image_summary_fail">İçerik ayrıştırma başarısız oldu. Lütfen orijinal resmi inceleyin veya daha sonra tekrar deneyin</string>
+    <string name="excerpt_image_summary_huangfan">İçerik hassastır. Lütfen orijinal resme bakın</string>
     <string name="excerpt_link_bubble_tips">Notlara kaydetmek için dokunun</string>
+    <string name="excerpt_original_image">Orijinal resim:</string>
     <string name="excerpt_original_text">Orjinal metin:</string>
     <string name="excerpt_summary_fail">İçerik ayrıştırma başarısız oldu. Görüntülemek veya daha sonra tekrar denemek için lütfen orijinal bağlantıya tıklayın</string>
     <string name="excerpt_summary_huangfan">İçerik hassastır. Görüntülemek için lütfen orijinal bağlantıya tıklayın</string>
-    <string name="excerpt_link_bubble_tips">"Notlar'a kaydetmek için dokunun"</string>
-    <string name="excerpted_to_note">"Alıntı notlar'a kaydedildi"</string>
+    <string name="excerpt_summary_link_bubble_tips">Özeti notlara kaydetmek için dokunun</string>
+    <string name="excerpt_text_min">Özet oluşturmak için çok az metin var. Lütfen orijinal resme bakın</string>
+    <string name="excerpted_to_note">Alıntı notlara kaydedildi</string>
     <string name="excerpting">Bir alıntı oluşturuluyor</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
@@ -876,6 +882,7 @@
     <string name="setting_privacy">Gizlilik politikası</string>
     <string name="single_link_excerpt_saving">Öğeler kaydediliyor</string>
     <string name="single_link_excerpt_summary_saving">Özet listesi oluşturuluyor</string>
+    <string name="single_link_pic_excerpt_summary_saving">Resim özeti oluşturma işlemi devam ediyor</string>
     <string name="single_new_excerpt_title">Alıntılar</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -995,6 +1002,7 @@
     <string name="time_picker_label_hour">Saat</string>
     <string name="time_picker_label_minute">Dakika</string>
     <string name="to_be_read_bubble_tips">Kopyalanan bağlantı ve metin özeti doğrudan notlara aktaracaktır</string>
+    <string name="to_be_read_image_list">Resim özeti</string>
     <string name="to_be_read_link_bubble_tips">Özeti notlara kaydetmek için dokunun</string>
     <string name="to_be_read_list">Özet listesi</string>
     <string name="to_view_alarm_content">Görüntülemek için dokunun</string>

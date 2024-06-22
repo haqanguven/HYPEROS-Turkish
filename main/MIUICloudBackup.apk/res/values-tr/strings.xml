@@ -73,7 +73,7 @@
     <string name="backup_success">Başarıyla yedeklendi</string>
     <string name="backup_successfully">Başarıyla yedeklendi</string>
     <string name="backup_to_cloud">Uygulamayı yedekle</string>
-    <string name="backup_warning_reason_app_usage_denied">"Veriler senkronize edilemedi\u000d
+    <string name="backup_warning_reason_app_usage_denied">"Veriler senkronize edilemedi
 İzinler gereklidir"</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Yedeklenemiyor</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Yeteri kadar yer yok
@@ -425,7 +425,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="loading_user_backup">Kullanıcı yedeklemeleri yükleniyor</string>
     <string name="manage_and_restore_backups">Yedeklenen verileri yönetin ve geri yükleyin</string>
     <string name="manage_backups">Yedeklemeleri yönet</string>
-    <string name="manage_cloud_backups">Bulut yedeklemelerini yönetin</string>
+    <string name="manage_cloud_backups">Yedekleri yönet</string>
     <string name="managespace_delete_backup">Yedeği sil</string>
     <string name="manual_request_notification_permission_dialog_negative_button">Kapat</string>
     <string name="manual_request_notification_permission_dialog_positive_button">Ayarlar</string>
@@ -549,7 +549,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="provision_error_connect_title">Bağlanılamadı</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_restore_data">Öğeler geri yükleniyor</string>
-    <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">Atla</string>
     <string name="query_restore_description">Bu yedek dosyasını kullanarak ana ekranınızı ve uygulamaları geri yükleyin. Bu işlem uygulama verilerini cihazınızda yüklenmiş olan yinelenen uygulamaların üzerine yazacaktır. Yedek dosyasında yer almayan uygulamalar kullanılan en son ana ekrana taşınır</string>
     <string name="query_restore_summary">Bu cihaz için bir Xiaomi bulut yedeği bulundu. Ana ekran uygulamalarını ve ayarlarını geri yükle veya eski Xiaomi bulut yedeklerini silerek cihazı yeni bir cihaz olarak kullanılsın mı?</string>
@@ -587,15 +587,15 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_failed_reason_app_data_error">WeChat verileri geri yüklenemedi</string>
     <string name="restore_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın</string>
     <string name="restore_failed_reason_network_error">Ağ hatası. Bir iki dakika bekleyin ve tekrar deneyin</string>
-    <string name="restore_file_empty">Burada yedekleme yok</string>
+    <string name="restore_file_empty">Henüz yedek yok</string>
     <string name="restore_finished_notification_content">Yedeklenen ana ekran uygulamaları ve sistem ayarları</string>
     <string name="restore_from_cloud">Bulut yedeklemesinden geri yükle</string>
     <string name="restore_from_mimover">Mi taşıyıcıyı kullanarak eski cihazdan aktar</string>
     <string name="restore_from_this_device">Yedekleme seçin</string>
     <string name="restore_header_backup_size">Yedek verisi: %s</string>
     <string name="restore_header_msg">"WeChat verilerini geri yüklemeden önce bu cihazda WeChat'in kurulu olmadığından emin olun. Veriler geri yüklenirken WeChat'i açmayın veya kullanmayın"</string>
-    <string name="restore_header_title">Toplam boyut: %s</string>
-    <string name="restore_header_title2">Toplam yedekleme: %s</string>
+    <string name="restore_header_title">Toplam boyut:</string>
+    <string name="restore_header_title2">Toplam yedekleme:</string>
     <string name="restore_header_title_backup_time">Zaman</string>
     <string name="restore_home_screen_apps">Öğeleri geri yükle</string>
     <string name="restore_home_screen_apps_options">Veriyi geri yükle</string>

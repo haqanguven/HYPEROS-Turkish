@@ -470,10 +470,10 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="default_opening_attchemnt_mode">Varsayılan uygulamaları kullanarak ekleri aç</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">Varsayılan ayarlar</string>
-    <string name="default_signature">Mi telefonumdan gönderildi</string>
+    <string name="default_signature">Xiaomi cihazımdan gönderildi</string>
     <string name="default_signature_2">%s cihazımdan gönderildi</string>
-    <string name="default_signature_pad">"Mi Pad'imden gönderildi"</string>
-    <string name="default_signature_phone">Mi telefonumdan gönderildi</string>
+    <string name="default_signature_pad">Mi cihazımdan gönderildi</string>
+    <string name="default_signature_phone">Mi cihazımdan gönderildi</string>
     <string name="delete">Sil</string>
     <string name="delete_contact_content">Bu kişi şimdi silinsin mi?</string>
     <string name="delete_message_dialog_content">Bu e-postayı silmek ve göndereni engellemek ister misiniz?</string>
