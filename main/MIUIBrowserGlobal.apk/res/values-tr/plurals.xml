@@ -74,6 +74,30 @@
         <item quantity="other">%d saniye geri sar</item>
         <item quantity="one">%d saniye geri sar</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">%2$d hediye kutusu kazanın</item>
+        <item quantity="one">%2$d hediye kutusu kazanın</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">%1$d kez oyna. %2$s</item>
+        <item quantity="one">%1$d kez oyna. %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">%1$d saniye boyunca göz atın. %2$s</item>
+        <item quantity="one">%1$d saniye boyunca göz atın. %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">%2$d hediye kutusu kazanın</item>
+        <item quantity="one">%2$d hediye kutusu kazanın</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">%1$d dakika boyunca göz atın. %2$s</item>
+        <item quantity="one">%1$d dakika boyunca göz atın. %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Tebrikler. %d hediye kutusu kazandınız</item>
+        <item quantity="one">Tebrikler. %d hediye kutusu kazandınız</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d öğe</item>
         <item quantity="one">%1$d öğe</item>
