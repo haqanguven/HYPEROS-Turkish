@@ -48,11 +48,13 @@
     <string name="add_account_desc">Notlarınızı Xiaomi hesabınız ile senkronize etmek istiyor musunuz?</string>
     <string name="add_excerpt_summary">Özet listesi ekle</string>
     <string name="add_pic_excerpt_summary">Resim özeti ekle</string>
+    <string name="add_text_excerpt_summary">Metin özeti ekle</string>
     <string name="added_to_clipboard">Kopyalandı</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="ai_chat_declare_double_link"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a> okuyup kabul edin</Data></string>
     <string name="ai_chat_dlg_content">Farklı senaryolardaki çeşitli bilgi kaynakları için bilgilerin hızlı bir şekilde toplanması ve özetlenmesinin yanı sıra bu bilgilerin arşivleme için birleşik bir girişte otomatik olarak oluşturulması ve sunulması işlevi elde edilecek</string>
-    <string name="ai_watermark">Yapay zeka tarafından üretin:</string>
+    <string name="ai_createing_text">Yapay zeka üretiliyor</string>
+    <string name="ai_watermark">Yapay zeka tarafından üretildi:</string>
     <string name="alarm_bar_title">Hatırlatıcı</string>
     <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
     <string name="alert_message_delete">%1$s silinsin mi?</string>
@@ -88,7 +90,7 @@
     <string name="audio_dialog_mode_meeting_exit">Hayır</string>
     <string name="audio_dialog_mode_meeting_recognize_close">Ses tanıma kapalı</string>
     <string name="audio_dialog_mode_meeting_recognize_fail">Ses tanıma tamamlanamadı</string>
-    <string name="audio_dialog_mode_meeting_sum">Toplantı modu 4 farklı kişinin sesini tanımanıza olanak tanır. Beta sürümünde bazı tanıma hataları oluşabilir</string>
+    <string name="audio_dialog_mode_meeting_sum">Toplantı modu %1$d-%2$d farklı kişinin sesini tanımanıza olanak tanır. Beta sürümde bazı tanıma hataları meydana gelebilir</string>
     <string name="audio_dialog_mode_meeting_use">Başlat</string>
     <string name="audio_toast_file_invalid">Ses dosyası geçersiz</string>
     <string name="audio_toast_file_undownload">Ses dosyası tam indirilemedi veya kayıp</string>
@@ -183,13 +185,13 @@
     <string name="continuous_default_hint">Metni kopyalayın, resimleri ve ekran görüntülerini alıntı olarak kaydedin</string>
     <string name="continuous_new_excerpt_title">Yeni alıntı</string>
     <string name="copy">Kopyala</string>
-    <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına ve tüm özelliklerini kullanabilmesi için isteğe bağlı izinler vermesine izin ver.</string>
+    <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına ve tüm özelliklerini kullanabilmesi için isteğe bağlı izinler vermesine izin ver</string>
     <string name="cta_confirm_cancel">İzin verme</string>
     <string name="cta_confirm_ok">İzin ver</string>
     <string name="cta_dialog_message">Notlar normal olarak çalışabilmek amacıyla internet bağlantısı, ses kaydı ve kişilerinize erişim için izinlere ihtiyaç duyar. İzin verilsin mi?</string>
     <string name="cta_dialog_title">İzin gerekli</string>
     <string name="cta_v2_agree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
-    <string name="cta_v2_app_purpose_v12">"Notlar'a hoş geldiniz! Bu uygulamayı metin, görüntü ve ses içeren görevler ve notlar oluşturmak için kullanabilirsiniz."</string>
+    <string name="cta_v2_app_purpose_v12">"Notlar'a hoş geldiniz! Bu uygulamayı metin, görüntü ve ses içeren görevler ve notlar oluşturmak için kullanabilirsiniz"</string>
     <string name="cta_v2_app_purpose_v12_lite">"Notlar'a hoş geldiniz! Not ve görev oluşturmak için bu uygulamayı kullanabilirsiniz."</string>
     <string name="data_empty_note">Henüz not yok</string>
     <string name="data_empty_todo">Henüz görev yok</string>
@@ -197,7 +199,7 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Ay takvimi</string>
+    <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_alarm_reminder">Alarm</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="date_time_picker_has_not_set_alarm">Alarm kurulu değil</string>
@@ -207,7 +209,7 @@
     <string name="default_folder_name">Adsız klasör</string>
     <string name="default_update_documents">Bir güncelleme mevcut. Şimdi güncellensin mi?</string>
     <string name="delete_folder_dialog_tile">Klasörü sil</string>
-    <string name="dialog_button_cancel">İptal</string>
+    <string name="dialog_button_cancel">İptal et</string>
     <string name="dialog_button_close">Kapat</string>
     <string name="dialog_button_confirm">Tamam</string>
     <string name="dialog_button_confirm_delete">Sil</string>
@@ -228,7 +230,7 @@
     <string name="dlg_message_use_privacy_password">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli klasörler için çalışır</string>
     <string name="dlg_move_message">Taşınıyor</string>
     <string name="dlg_restore_message">Geri yükleniyor</string>
-    <string name="dlg_stick_message">İğneleniyor</string>
+    <string name="dlg_stick_message">Sabitleniyor</string>
     <string name="dlg_title_password_reset">Şifrenizin seviyesini yükseltin</string>
     <string name="dlg_title_set_password">Şifre oluştur</string>
     <string name="dlg_title_use_privacy_password">Gizlilik koruma şifresini kullan</string>
@@ -266,7 +268,7 @@
     <string name="doodle_tool_text">Metin ekle</string>
     <string name="doodle_tool_text_dialog_hint">Lütfen metin girin</string>
     <string name="doodle_tool_text_hint">Metin girmek için dokunun</string>
-    <string name="early_morning">ÖÖ</string>
+    <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -283,7 +285,7 @@
     <string name="edit_note_hint_title">Başlık</string>
     <string name="empty" />
     <string name="enable_sync">Senkronize et</string>
-    <string name="enable_sync_desc">Notlarınızı Xiaomi hesabınızla (%1$s) senkronize etmek istiyor musunuz?</string>
+    <string name="enable_sync_desc">Notlarınızı Xiaomi hesabınızla senkronize etmek istiyor musunuz? (%1$s)</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_contact_not_exist">Kişi mevcut değil</string>
@@ -397,7 +399,7 @@
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="hidden_notes_fragment_title">Gizli notlar</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint_cannot_view_hidden_note_content">Gizli not içerikleri görüntülenemiyor</string>
     <string name="hover_bold">MD: **Text** space</string>
     <string name="hover_font_first_level">MD: # space</string>
@@ -424,7 +426,7 @@
     <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
     <string name="insert_image_menu_take_photo_by_local_device">Bu cihazla fotoğraf çek</string>
     <string name="insert_image_menu_take_photo_by_remote_device">%1$s ile fotoğraf çek</string>
-    <string name="insert_image_size_limit_tip">"Bu görüntü %d MB'den fazla. Otomatik olarak sıkıştırıldı."</string>
+    <string name="insert_image_size_limit_tip">"Bu görüntü %d MB'den fazla. Otomatik olarak sıkıştırıldı"</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="last_excerpt_unfinish_hint">En son alıntı eksik</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
@@ -652,12 +654,12 @@
     <string name="mtrl_picker_invalid_format">Geçersiz biçim</string>
     <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık</string>
     <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
     <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
     <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
     <string name="mtrl_picker_save">Kaydet</string>
@@ -825,10 +827,10 @@
     <string name="repeat_mode_set_item_none">Asla</string>
     <string name="repeat_mode_set_item_normal_workday">Pazartesi-Cuma</string>
     <string name="repeat_mode_set_item_week">Her hafta (%s)</string>
-    <string name="repeat_mode_set_item_week_detail">Her hafta (%s)</string>
+    <string name="repeat_mode_set_item_week_detail">%s</string>
     <string name="repeat_mode_set_item_year">Her yıl (%s)</string>
-    <string name="repeat_mode_set_item_year_detail">Her yıl (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+    <string name="repeat_mode_set_item_year_detail">%s</string>
+    <string name="repeat_mode_set_item_year_detail_day">dd MMM</string>
     <string name="repeat_mode_set_title">Tekrar</string>
     <string name="repeat_mode_week">Her hafta</string>
     <string name="repeat_mode_year">Her yıl</string>
@@ -1005,6 +1007,7 @@
     <string name="to_be_read_image_list">Resim özeti</string>
     <string name="to_be_read_link_bubble_tips">Özeti notlara kaydetmek için dokunun</string>
     <string name="to_be_read_list">Özet listesi</string>
+    <string name="to_be_read_text_list">Metin özeti</string>
     <string name="to_view_alarm_content">Görüntülemek için dokunun</string>
     <string name="toast_cancel_to_insert_image">Resim eklenemedi</string>
     <string name="toast_excerpt_end">Alıntı başarıyla oluşturuldu</string>
@@ -1079,12 +1082,12 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="todo_schedule_time_today">Bugün</string>
     <string name="todo_schedule_time_tomorrow">Yarın</string>
     <string name="todo_schedule_time_yesterday">Dün</string>
-    <string name="todo_schedule_time_ymdhm">dd MM yyyy HH:mm</string>
+    <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
     <string name="todo_search_hint">Görev ara</string>
     <string name="todo_time_picker_title">Hatırlatıcı kur</string>
     <string name="todo_user_guide_tip1">Görevlere hoş geldiniz</string>
     <string name="todo_user_guide_tip2">Bu bir görev. Tamamlamak için kutuyu işaretleyebilirsiniz</string>
-    <string name="todo_user_guide_tip3">Bir görev oluşturmak için aşağıdaki artı işaretine dokunun. Ayrıca bir ses görevi de ekleyebilirsiniz</string>
+    <string name="todo_user_guide_tip3">Bir metin görevini düzenlemek için ona dokunmanız yeterlidir</string>
     <string name="todo_user_guide_tip5">Daima işinizin başında kalın ve önemli hiçbir şeyi kaçırmayın</string>
     <string name="todo_user_guide_tip6">Alt görevlerin bir kontrol listesini oluşturmak için girişe dokunun</string>
     <string name="todoalert_done">Tamam</string>
