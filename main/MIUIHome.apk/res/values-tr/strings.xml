@@ -112,7 +112,7 @@
     <string name="announce_for_open_folder">%1$s klasörü açıldı</string>
     <string name="announce_for_search_bar">Arama çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Uygulama kaldırma penceresi belirdi. İptal edin veya onaylayın</string>
-    <string name="announce_for_unchecked">%1$s, kontrol edilmedi</string>
+    <string name="announce_for_unchecked">%1$s kontrol edilmedi</string>
     <string name="announce_for_widget_span">En %1$d, boy %2$d</string>
     <string name="announce_for_xiaoai">Mi yapay zeka</string>
     <string name="app_already_exist">Uygulama zaten mevcut</string>
@@ -172,8 +172,8 @@
     <string name="branch_guide_title">Uygulaması çekmecesi ile tanışma</string>
     <string name="branch_guide_type_four_desc">Tek bir dokunuşla eski yollara dönebilirsiniz</string>
     <string name="branch_guide_type_four_main">Ana ekran ayarlarından iki mod arasında geçiş yapın</string>
-    <string name="branch_guide_type_four_step_one">1. Adım: Ayarları tıklayın</string>
-    <string name="branch_guide_type_four_step_two">2. Adım: Ana ekranı tıklayın</string>
+    <string name="branch_guide_type_four_step_one">1. adım: Ayarları tıklayın</string>
+    <string name="branch_guide_type_four_step_two">2. adım: Ana ekranı tıklayın</string>
     <string name="branch_guide_type_one_desc">Uygulama çekmecesi uygulamanızı yönetmenize yardımcı olur</string>
     <string name="branch_guide_type_one_main">Tüm uygulamalarınızı Uygulama çekmecesine koyacağız. Yerleşik arama ihtiyacınız olan her şeyi anında bulmanıza yardımcı olur</string>
     <string name="branch_key">Şube anahtarı</string>

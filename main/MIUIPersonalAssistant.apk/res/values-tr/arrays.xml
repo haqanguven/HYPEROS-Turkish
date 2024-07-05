@@ -288,11 +288,6 @@
         <item>Cumartesi</item>
         <item>Pazar</item>
     </string-array>
-    <string-array name="pa_service_delivery_dislike_option">
-        <item>Farklı bir zamanda öner</item>
-        <item>Daha az sıklıkla öner</item>
-        <item>Tekrar önerme</item>
-    </string-array>
     <string-array name="pa_stock_color_schema_value_array">
         <item>Kırmızı - yukarı. Yeşil - aşağı</item>
         <item>Yeşil - yukar. Kırmızı - aşağı</item>
