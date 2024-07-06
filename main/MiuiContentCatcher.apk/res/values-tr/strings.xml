@@ -46,7 +46,7 @@
     <string name="autofill_item_activity_label">Uygulama şifreleri</string>
     <string name="autofill_list_activity_label">Uygulama şifreleri</string>
     <string name="autofill_list_title">Şifreleri yönet</string>
-    <string name="autofill_password">Şifreleri otomatik olarak girin</string>
+    <string name="autofill_password">Şifreleri otomatik gir</string>
     <string name="autofill_password_activity_label">Doğrulama kodları</string>
     <string name="autofill_service_label">Şifreleri yönet</string>
     <string name="autofill_setting_activity_label">Şifreleri yönet</string>
