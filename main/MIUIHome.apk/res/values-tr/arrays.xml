@@ -423,11 +423,11 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>Kaydır</item>
-        <item>Çapraz</item>
-        <item>Yuvarla</item>
+        <item>Slayt</item>
+        <item>Çapraz solma</item>
+        <item>Takla</item>
         <item>Sayfa</item>
-        <item>Sıralı</item>
+        <item>Kademeli</item>
         <item>Döndür</item>
         <item>Küp</item>
     </string-array>

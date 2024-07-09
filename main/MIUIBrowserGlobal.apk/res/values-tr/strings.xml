@@ -227,6 +227,13 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="btn_copy">Kopyala</string>
     <string name="btn_open">Aç</string>
     <string name="business_num">%d</string>
+    <string name="call_notification_answer_action">Cevapla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Telefonu kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen bir aramayı göster</string>
     <string name="camera_permission_name">Kamerayı kullan</string>
     <string name="can_not_send_with_too_many">Bu kadar fazla öğe tek bir seferde gönderilemiyor</string>
     <string name="cancel">İptal et</string>
@@ -785,6 +792,10 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="experience_improve">Kullanıcı deneyimi programı</string>
     <string name="exported">Dışa aktarıldı</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="external_app_leave_incognito_leave">Kapat</string>
+    <string name="external_app_leave_incognito_stay">Devam et</string>
+    <string name="external_app_leave_incognito_warning">Bu internet sitesi gizli modun dışındaki bir uygulamayla bilgi paylaşmaya çalışıyor. Şimdi kapatılsın mı?</string>
+    <string name="external_app_leave_incognito_warning_title">Turn off Incognito mode?</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
@@ -1098,7 +1109,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="junk_files_found">Çöp bulundu</string>
     <string name="just_now">Şimdi</string>
     <string name="keep_intrercept">Durdur</string>
-    <string name="kindred_coupons_get_code">Get code</string>
+    <string name="kindred_coupons_get_code">Kodu al</string>
     <string name="kindred_coupons_terms">Şartlar ve koşulları görüntüleyin</string>
     <string name="kindred_coupons_title">Kuponlar</string>
     <string name="le_download_failed_server_error">Bir sunucu hatası nedeniyle indirilemedi</string>

@@ -597,7 +597,7 @@
     <string name="reset">Sıfırla</string>
     <string name="ringtone_all">Tüm zil sesleri</string>
     <string name="ringtone_dew">Sabah çiği</string>
-    <string name="ringtone_digital_timer">Saat</string>
+    <string name="ringtone_digital_timer">Zamanlayıcı</string>
     <string name="ringtone_dream">Hayal</string>
     <string name="ringtone_firefly">Havai fişekler</string>
     <string name="ringtone_weather">Hava durumu alarmı</string>
@@ -769,7 +769,7 @@
     <string name="timer_created">Zamanlayıcı başarıyla eklendi</string>
     <string name="timer_desc_use_brush_teeth">Diş fırçalama</string>
     <string name="timer_desc_use_facial_mask">Yüz maskesi</string>
-    <string name="timer_desc_use_sleep">Kestir</string>
+    <string name="timer_desc_use_sleep">Şekerleme</string>
     <string name="timer_display" formatted="false">%02d:%02d:%02d</string>
     <string name="timer_end_time">Zamanlayıcı %s süresinde durur</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
@@ -777,7 +777,7 @@
     <string name="timer_got_it_new">Sessizlik</string>
     <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
     <string name="timer_pause_timer">Zamanlayıcıyı durdur</string>
-    <string name="timer_ringtone">Saat zil sesi</string>
+    <string name="timer_ringtone">Zamanlayıcı zil sesi</string>
     <string name="timer_running">Zamanlayıcı çalışıyor</string>
     <string name="timer_start_alarm">Zaman doldu</string>
     <string name="timer_start_timer">Zamanlayıcı başlat</string>
