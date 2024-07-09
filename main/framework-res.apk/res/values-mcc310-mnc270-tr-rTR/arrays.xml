@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Wifi üzerinden arama yapmak ve kısa mesaj göndermek için öncelikle operatörünüzden wifi üzerinden aramayı açmasını isteyin. Ardından ayarlarda wifi aramasını tekrar açın</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Operatörünüze kaydolun</item>
-    </string-array>
-</resources>
