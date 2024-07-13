@@ -694,6 +694,7 @@ bireysel kırmızı zarfları ve grup kırmızı zarfları destekler"</string>
     <string name="apps_list_header_title_sms_access">Doğrulama kodlarına erişimi kısıtla</string>
     <string name="ask_create_shortcut">Ana ekran kısayolu oluşturulsun mu?</string>
     <string name="audio_optimization_summary">Sesi geliştirin ve konuşmalarda ortam gürültüsünü azaltın</string>
+    <string name="audio_optimization_summary_new">Oyun sırasında kulaklık ses kalitesini optimize edin ve aramalar sırasında gürültüyü azaltın</string>
     <string name="audio_optimization_title">Geliştirilmiş ses</string>
     <string name="auto_atsk_condition_battery_level_text_down">Pil seviyesi %s seviyesine ulaştığında</string>
     <string name="auto_atsk_condition_battery_level_text_up">Pil %s seviyesine kadar doldurulduğunda</string>
@@ -1416,10 +1417,16 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
+    <string name="cs_close_vt_camera_first_tips">Cihazlar arası kamera kullanılırken bu özellik kullanılamaz</string>
     <string name="cs_color_sense">Renk sıcaklığı</string>
+    <string name="cs_conversation_record_using">Kaydediliyor</string>
     <string name="cs_func_toast_headset">Bu özelliği kullanabilmek için kulaklığınızın bağlantısını kesin</string>
     <string name="cs_func_toast_light">Bu özelliği kullanabilmek için ön kameraya geçin</string>
     <string name="cs_func_toast_pickup">Bu özelliği kullanabilmek için görüntülü görüşmeye geçin</string>
+    <string name="cs_func_unavailable_tips">Aramalar sırasında bu özelliği kullanın</string>
+    <string name="cs_light_enhance_physical_options">Renk sıcaklığı</string>
+    <string name="cs_light_enhance_physical_title">Parlaklık</string>
+    <string name="cs_open_camera_first_tips">Bu özelliği kullanmak için kamerayı açın</string>
     <string name="cs_pickup_denoise_desc">Hoparlör veya kulaklık kullanırken gelen sesin gürültüsünü azaltın</string>
     <string name="cs_pickup_denoise_title">Gürültü azaltma</string>
     <string name="cs_pickup_multi_desc">%d derece ses alımı</string>
@@ -1433,12 +1440,19 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_pickup_vioce_print_unsupport_tips">Tek katılımcıyı seçmeden önce ses kaydını kaydedin</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Harici cihazların bağlantısını kesin ve tekrar deneyin</string>
     <string name="cs_pickup_voice_print_desc">Yalnızca tek kişiden gelen sesi alın</string>
+    <string name="cs_privacy_camera_global_settings_title">Arama gizliliği</string>
     <string name="cs_screen_translation_title">Ekran çevirisi</string>
     <string name="cs_simultaneous_interpretation_title">Yorumla</string>
     <string name="cs_title_pickup">Gürültü azaltma</string>
     <string name="cs_title_smart_subtitle">Altyazı transkripsiyonu</string>
     <string name="cs_title_ultraclear">Ultra HD mod</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Yeni arama araç kutusunda eşzamanlı tercümeyi ve diğer konferans görüşmesi araçlarını deneyin</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Yeni arama araç kutusundaki çeşitli konferans görüşmesi özelliklerini deneyin</string>
+    <string name="cs_tool_box_phone_guide_case_1">Yeni arama araç kutusundaki simültane tercümeyi ve diğer özellikleri deneyin</string>
+    <string name="cs_tool_box_phone_guide_case_2">Yeni arama araç kutusundaki çeşitli özellikleri deneyin</string>
     <string name="cs_voice_print">Ses kaydını kaydet</string>
+    <string name="cs_vt_camera_toast_case1">Kamerayı mevcut uygulamada aç</string>
+    <string name="cs_vt_camera_toast_case2">Yakınlarda uyumlu cihaz yok</string>
     <string name="cta_HIPS_Perm_Location_Desc">Bulunduğunuz yerle ilgili deprem erken uyarılarını görüntülemek için</string>
     <string name="cta_agree_desc">Hizmetlerimizi kullanabilmek için bu uygulamanın internete bağlanmasına ve yukarıda listelenen izinleri vermesine izin verin</string>
     <string name="cta_close_dialog_cancel">İptal et</string>
@@ -1906,6 +1920,7 @@ Bu özelliğin yalnızca referans olarak sağlandığını anlamalısınız. Ald
     <string name="ew_monitor_exit_title">Komut istemi</string>
     <string name="ew_monitor_have_been">Olundu</string>
     <string name="ew_monitor_info_title">Deprem izleme nedir?</string>
+    <string name="ew_monitor_join">Deprem izleme programına katıl</string>
     <string name="ew_monitor_join_number">Katılımcı sayısı</string>
     <string name="ew_monitor_join_path">Yol: Xiaomi Mobil - Mobil yönetici - Deprem uyarısı - Deprem izleme gönüllüsü</string>
     <string name="ew_monitor_my_content">Deprem izleme cep telefonunun düşük güçlü sensör aracılığıyla sismik dalgayı algıladıktan sonra sistemin deprem bilgisini yapay zeka algoritması aracılığıyla hızlı bir şekilde hesaplaması ve etkilenen bölgedeki insanlara mümkün olan en kısa sürede erken uyarı göndermesi anlamına gelir. Böylece daha fazla insan tehlikeden kaçınabilir ve kişisel güvenliklerini koruyabilir</string>
@@ -2442,6 +2457,8 @@ gönüllüsü"</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_award_noti_message">Ödüller almak için oyun hızlandırıcıda barış için oyun arka plan güncellemelerini açın</string>
     <string name="gb_award_noti_title">Barış için oyun ödülleri burada</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Sistem genelinde ultimate modu açıkken oyun hızlandırıcıda dengeli moda geçilemiyor. Pil ayarlarını güvenlikte değiştirebilirsiniz.&lt;br>&lt;a href=\"#\">Güvenliği aç&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Sistem genelinde ultimate modu açıkken oyun hızlandırıcıda dengeli moda geçilemiyor. Pil ayarlarını düvenlikte değiştirebilirsiniz. &lt;br>&lt;a href=\"#\">Güvenliği aç&lt;/a>"</Data></string>
     <string name="gb_bar_high">Yüksek</string>
     <string name="gb_bar_low">Düşük</string>
     <string name="gb_bar_mid">Normal</string>
@@ -2599,6 +2616,8 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_predownload_receive_tips">Ödül almak için arka plan güncellemelerini açın</string>
     <string name="gb_predownload_receiving">Alınıyor</string>
     <string name="gb_predownload_title">Arka plan güncellemeleri</string>
+    <string name="gb_setting_dock_toast">Ön kamera asistanı özellikleri artık arama araç kutusunda mevcut</string>
+    <string name="gb_setting_dock_toast_2">Ön kamera asistanı özellikleri artık arama araç kutusunda mevcut</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
     <string name="gb_shoulder_guide_message1">Açılır tetikleyici aracılığıyla kullanmak için [L] öğesini herhangi bir işlevsel konuma getirin</string>
     <string name="gb_shoulder_guide_message2">Eylem [1] düğmeye basılarak etkinleştirilir. Eylem [2] düğme bırakılarak etkinleştirilir</string>
@@ -2670,6 +2689,8 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_turbo_wonder_subtitle">Harika operasyonların akıllı kaydı</string>
     <string name="gb_vision_enhance">Geliştirilmiş görseller</string>
     <string name="gb_vision_enhance_desc">Görüntü kalitesini ve performansını artırın</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Geliştirilmiş kare hızı
+%dFPS"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">"Akıllı kare hızı
 %dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Kare hızını arttır</string>
@@ -2742,9 +2763,21 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gd_dock_shortcut_splitescreen">Bölünmüş ekran</string>
     <string name="gd_setting_conversation">Konferans araçları</string>
     <string name="gd_setting_conversation_desc">Tam ekran sesli ve görüntülü aramalarda kullanım için çeşitli özellikler sağlar</string>
+    <string name="gd_setting_dock_activity_title">Kenar araç kutusu</string>
+    <string name="gd_setting_dock_call_summary">Sesli ve görüntülü arama özellikleri</string>
+    <string name="gd_setting_dock_call_title">Arama araç kutusu</string>
+    <string name="gd_setting_dock_game_summary">Oyun oynarken ekranı ve performansı iyileştirin</string>
+    <string name="gd_setting_dock_game_summary_new">Oyun oynarken ekranı ve performansı iyileştirin</string>
+    <string name="gd_setting_dock_summary">Bir uygulamayı tam ekran kullanırken diğer uygulamaları kayan pencerelerde açın</string>
+    <string name="gd_setting_dock_title">Kenar çubuğu</string>
+    <string name="gd_setting_dock_video_summary">Video izlerken Dolby Atmos gibi efektleri kullanın</string>
+    <string name="gd_setting_dock_video_summary_new">Video izlerken araçları ve efektleri kullanın</string>
+    <string name="gd_setting_group_custom_conversation_apps">Aramalar için ses kaydını kaydedin</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Oyunlar</string>
     <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
     <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Video uygulamaları</string>
     <string name="gd_setting_group_title_switch">Sahneler</string>
     <string name="gd_setting_gtb">Oyun oynarken göster</string>
     <string name="gd_setting_gtb_desc">Oyun için özel özellikler</string>
@@ -2765,11 +2798,17 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="get_phone_num_fail">Bilinmeyen telefon numarası</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_pad">Pencereyi hareket ettirmek için göstergeyi basılı tutun</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranı kullanmak için yana sürükleyin
 · Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun.
+· Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya bölünmüş ekranı kullanmak için yan tarafa sürükleyin.
+· Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
 · Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Kenar çubuğunu açmak için kaydırın ve kayan bir pencerede açmak için bir uygulamaya dokunun.
+Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="global_satisfaction_notification_button">Oran</string>
     <string name="global_satisfaction_notification_channel">Kullanıcı memnuniyeti anketi</string>
     <string name="global_satisfaction_notification_subhead">Bize deneyiminizden bahsedin</string>
@@ -3442,6 +3481,17 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
@@ -4029,6 +4079,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_fast_charge_switch_summary_new">Birlikte verilen şarj cihazı bağlandığında ve pil ayarlanan seviyenin altına düştüğünde şarj hızını artırmayı hatırlatın</string>
     <string name="pc_fast_charge_switch_title">Şarj hızını arttır</string>
     <string name="pc_fast_charge_switch_toast_message">Bu cihazı bir sonraki şarj edişinizde değişiklikler uygulanacaktır</string>
+    <string name="pc_fast_charge_temp_remider">"Şarj hızını otomatik olarak düzenlemek için açın. Bu özellik yalnızca Xiaomi'nin sağladığı şarj cihazlarıyla çalışır. Cihazınız şarj sırasında ısınabilir"</string>
     <string name="pc_fast_charge_title">Şarj hızını arttır</string>
     <string name="pc_going_to_exit_extreme_mode">Hazırda bekletme modundan çıkılıyor</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
@@ -4063,7 +4114,7 @@ kapat"</string>
     <string name="pc_keywords_reverse_charge">Tersine şarj etme</string>
     <string name="pc_keywords_sleep_mode">Uyku modu</string>
     <string name="pc_keywords_sleep_protect">Uyku sırasında pil koruması</string>
-    <string name="pc_keywords_sleep_save_mode">Gece Pil tasarrufu</string>
+    <string name="pc_keywords_sleep_save_mode">Gece pil tasarrufu</string>
     <string name="pc_keywords_summary_battery_protect">Pilin eskimesini azaltmak için sistem, gereksiz sürekli şarjı azaltmak amacıyla günlük şarj rutininizden bilgi alır</string>
     <string name="pc_keywords_summary_low_power_consume">Belirli senaryolarda 5G bağlantısının daha az güç tüketmesini sağlayın</string>
     <string name="pc_keywords_summary_navigation">Navigasyon uygulamalarını kullanırken, pil seçilen seviyeye ulaştığında şarj işlemi otomatik olarak durdurulacaktır</string>
@@ -4117,9 +4168,19 @@ kapat"</string>
     <string name="pc_search_keywords_capacity">Pil kapasitesi</string>
     <string name="pc_search_keywords_property">Performans</string>
     <string name="pc_settings_title">Pil &amp; performans ayarları</string>
+    <string name="pc_smart_charge_button_summary">"Pil ömrünü uzatmak için sistem cihazınızı nasıl şarj ettiğinizi öğrenecek ve pil seviyesi %1$s'a ulaştığında şarjı durduracaktır"</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">"Cihazınız ısındı. Pil seviyesi %1$s'a ulaştığında şarj işlemi durdurulacak"</string>
+    <string name="pc_smart_charge_notify_summary_navagition">"Geziniliyor. Pil seviyesi %1$s'a ulaştığında şarj işlemi durdurulacak"</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">"Şarj işlemi %s'de duracak"</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Pil ömrünü uzatmak için bu cihazın pili araca bağlıyken mevcut seviyenin üzerine çıkmayacak</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Bir daha gösterme</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Pil koruması</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Pil ömrünü uzatmak için bu cihazın pili araca bağlıyken mevcut seviyenin üzerine çıkmayacak</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Pil koruması</string>
+    <string name="pc_smart_charge_title">Akıllı şarj</string>
     <string name="pc_smart_discharge_checkbox_summary">Navigasyon uygulamaları kullanılırken pil seçilen bir düzeye ulaştığında şarj işlemi otomatik olarak duracaktır. Pil tasarrufu veya ultra pil tasarrufu açıkken bu özellik çalışmaz</string>
-    <string name="pc_smart_discharge_checkbox_title">Otomatik bağlantı kesme şarj ediliyor</string>
-    <string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme ayarları</string>
+    <string name="pc_smart_discharge_checkbox_title">Otomatik şarj bağlantısını kes</string>
+    <string name="pc_smart_discharge_drop_down_title">Otomatik bağlantı kesme seviyesi</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Pili korumak için navigasyon uygulamaları kullanılırken şarj işlemi seçilen seviyede otomatik olarak duracaktır</string>
     <string name="pc_smart_discharge_protect_notifi_summary2">Pili korumak için navigasyon uygulamalarını kullanırken şarj işlemi seçilen seviyede otomatik olarak durdurulacaktır</string>
     <string name="pc_smart_discharge_protect_notifi_title">Şarj otomatik kesme açık</string>
@@ -4129,6 +4190,8 @@ kapat"</string>
     <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
     <string name="pc_suggest_open_fast_charge">%dW hızlı şarjı açın</string>
     <string name="pc_temperature_too_high">Cihaz aşırı ısındı</string>
+    <string name="pc_this_time_charge_full">Bu sefer tamamen şarj edildi</string>
+    <string name="pc_this_time_charge_full_work">Neredeyse tamamen şarj edildi</string>
     <string name="pc_timely_charge_summary">"Pil %1$s'nin altında. Pil seviyesi düşükken cihazın aşırı ısınması durumunda bu durum pile zarar verebilir"</string>
     <string name="pc_timely_charging_title">Cihazınızı şarj edin</string>
     <string name="pc_to_phone_install">USB üzerinden %s yüklemesi engellendi</string>
@@ -4152,6 +4215,7 @@ kapat"</string>
     <string name="percentage">%%%d</string>
     <string name="perfermance_optimization_summary">Aşırı ısınma ve donanım ile ilgili sorunlardan kaçının</string>
     <string name="perfermance_optimization_title">Performans optimizasyonu</string>
+    <string name="performance_frame_enhance_super_display_tips">Gelişmiş kare hızı ve süper çözünürlük aynı anda çalışamaz. Bunlardan birini açmak diğerini kapatacaktır</string>
     <string name="performance_frame_insert_super_display_tips">Akıllı kare hızı ve süper çözünürlük aynı anda etkili olamaz. Birini açmak diğerini kapatacaktır</string>
     <string name="perm_intercept_content">%1s uygulamasına aşağıdaki izin verilsin mi?</string>
     <string name="perm_intercept_notification_title">"%1s'nin bildirim kullanmasına izin vermek bu uygulamanın aşağıdaki işlemleri yapmasına izin verir:"</string>
@@ -4374,6 +4438,9 @@ kapat"</string>
     <string name="permission_usage_virtual_contacts_once">%1$s | Bu uygulama boş bir kişi döndürdü</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Bu uygulama boş bir arama durumu döndürdü</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Bu uygulama boş bir mesaj döndürdü</string>
+    <string name="permission_warning_for_cancel">İptal et</string>
+    <string name="permission_warning_for_ensure">İzin ver</string>
+    <string name="permission_warning_for_risk">İzin vermeye karar verirseniz gizliliğinizi korumak için boş mesajlar uygulamaya iade edilecektir</string>
     <string name="permission_with_SMS_and_MMS">Mesaj ve multimedya mesajı ile ilgili izinler</string>
     <string name="permission_with_call_and_contact">Aramalar, kişiler ve arama kayıtları ile ilgili izinler</string>
     <string name="permission_with_read_write_clipboard">Uygulamaların öğelere erişmesine ve panoya kaydetmesine izin verin</string>
@@ -5027,6 +5094,8 @@ kapat"</string>
     <string name="privacy_empty_location">Bugün konuma erişilmedi</string>
     <string name="privacy_empty_record">Bugün ses kaydedilmedi</string>
     <string name="privacy_empty_storage">Bugün depolama alanına erişilmedi</string>
+    <string name="privacy_extra_provision_positive_btn">Kabul et</string>
+    <string name="privacy_extra_provision_title">Uzatma hizmetleri</string>
     <string name="privacy_flares_behavior_recent">Uygulama davranışı</string>
     <string name="privacy_flares_capsule_current">%1s | Şimdi</string>
     <string name="privacy_flares_capsule_recent">%1s | Son günlerde</string>
@@ -5106,6 +5175,7 @@ kapat"</string>
     <string name="privacy_provision_summary">Gizlilik koruması ürünlerimizin tasarımının arkasındaki taahhüttür</string>
     <string name="privacy_provision_text">Gizliliğinize saygı göstermeye ve onu korumaya kararlıyız. Bilgi güvenliği alanında araştırma ve geliştirmeye öncelik veren Xiaomi, verilerinizi koruyan yöntemleri, uygulamaları ve teknik çözümleri geliştirmeye devam ediyor. Ayrıca gizlilik kazanmanızı sağlamak için en son başarılarımızı ortaklarımızla paylaşıyoruz</string>
     <string name="privacy_provision_title">Gizlilik</string>
+    <string name="privacy_provison_no_network">Önce ağa bağlanın</string>
     <string name="privacy_recommend_category">Kişiselleştirme</string>
     <string name="privacy_recommend_summary">Kişiselleştirilmiş içerik önerileri alın</string>
     <string name="privacy_recommend_title">Kişiselleştirilmiş öneriler</string>
@@ -5411,7 +5481,14 @@ kapat"</string>
     <string name="sd_insert_summary">Takmak için SD kartı takın</string>
     <string name="sd_mount">SD kartı tak</string>
     <string name="sd_mount_summary" />
-    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_keyword_apply">Uygulama</string>
+    <string name="search_keyword_applybar">Uygulama yuvası</string>
+    <string name="search_keyword_call">Ara</string>
+    <string name="search_keyword_sidebar">Kenar çubuğu</string>
+    <string name="search_keyword_tool">Araçlar</string>
+    <string name="search_keyword_tools">Araç Kutusu</string>
+    <string name="search_keyword_voice">Ses</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Uygulama bulunamadı</string>
     <string name="secondart_setting_title">Kırmızı zarf hatırlatma ayarları</string>
@@ -6556,6 +6633,8 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="toast_cleaner_cloudscan">Temizleyici çevrimiçi virüs veritabanını kullanacak</string>
     <string name="toast_dark_mode_fixed">Başarıyla düzeltildi. Değişiklikleri uygulamak için bu sayfayı kapatın</string>
     <string name="toast_flow_notification">Veri kullanımı bildirimleri etkinleştirildi</string>
+    <string name="toast_gamembox_unenable_pad">Önce güvenlikte oyun hızlandırıcıyı açın</string>
+    <string name="toast_gamembox_unenable_phone">Önce güvenlikte oyun hızlandırıcıyı açın</string>
     <string name="toast_garbage_lib">Temizleyici için otomatik güncellemeler etkinleştirildi</string>
     <string name="toast_keyword_blank">Bir anahtar kelime girmeniz gerekmektedir</string>
     <string name="toast_keyword_exist">Anahtar kelime eklendi</string>
@@ -6921,8 +7000,16 @@ Bu özellik pil tasarrufu veya ultra pil tasarrufu açıkken çalışmaz"</strin
     <string name="wakepath_delete_all_tips">"Devam ederseniz her uygulamaya diğer uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
     <string name="wakepath_delete_app_start_all">"Devam ederseniz, %s'e başka uygulamaları açma izni vermeniz gerekecek. Yine de devam edilsin mi?"</string>
     <string name="wakepath_delete_app_start_other_app">"Devam ederseniz %2$s'yi açmak için %1$s'a tekrar izin vermeniz gerekecek. Yine de devam edilsin mi?"</string>
-    <string name="wakepath_manager_title">Zincir başlangıcı</string>
-    <string name="warn_function_no_work"><u>Kırmızı zarf geldiğinde hatırlatılamaz</u></string>
+    <string name="wakepath_manager_allow_list">İzin verildi</string>
+    <string name="wakepath_manager_allow_start">İzin verildi</string>
+    <string name="wakepath_manager_checkbox_desc">%1$s uygulamasının diğer uygulamaları başlatmasına izin verin</string>
+    <string name="wakepath_manager_checkbox_title">Zincir başlangıcına izin ver</string>
+    <string name="wakepath_manager_empty_list">Hiçbir uygulamanın başlatılmasına izin verilmiyor</string>
+    <string name="wakepath_manager_reject_list">Sınırlı</string>
+    <string name="wakepath_manager_reject_toast">Bu uygulamanın diğer uygulamaları başlatmasına izin vermek için ayarlarda zincir başlangıcını yönet ifadesini arayın</string>
+    <string name="wakepath_manager_title">Zincir başlangıcını yönet</string>
+    <string name="warn_function_no_work">&lt;u>Kırmızı bir zarf geldiğinde normal bir hatırlatma alamaz mısın?&lt;/u></string>
+    <string name="warningcenter_accurate_area_title">Etkilenmiş bölge</string>
     <string name="warningcenter_action_check">Görünüm</string>
     <string name="warningcenter_alert_home">Konum</string>
     <string name="warningcenter_alert_room">Ev</string>
@@ -6993,6 +7080,7 @@ Bu özellik pil tasarrufu veya ultra pil tasarrufu açıkken çalışmaz"</strin
     <string name="warningcenter_disaster_search_hint">Uyarı türü/bölgesi/veren kurum</string>
     <string name="warningcenter_disaster_search_keywords">Hava durumu uyarıları</string>
     <string name="warningcenter_disaster_senlinhuoxian">Orman yangın sigortası</string>
+    <string name="warningcenter_disaster_service_area">Hizmet kapsamı</string>
     <string name="warningcenter_disaster_taifeng">Kasırga</string>
     <string name="warningcenter_disaster_title">Afet uyarısı</string>
     <string name="warningcenter_disaster_type_all">Tüm türler</string>

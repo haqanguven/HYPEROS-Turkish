@@ -520,6 +520,8 @@ cihazınızı sola eğin"</string>
 cihazınızı sağa eğin"</string>
     <string name="satellite_guide_searching">Uydu aranıyor</string>
     <string name="satellite_guide_searching_floating">Aranıyor</string>
+    <string name="satellite_guide_searching_fold">Uydu aranıyor. Cihazı açmayın</string>
+    <string name="satellite_guide_searching_unfold">Uydu aranıyor. Cihazı katlamayın</string>
     <string name="satellite_guide_signal">Daha iyi bir sinyal için cihazınızı hafifçe yukarı aşağı hareket ettirin</string>
     <string name="satellite_guide_up">"Uydu simgesini mavi alana koymak için
 cihazınızı yukarı eğin"</string>
@@ -528,7 +530,6 @@ cihazınızı yukarı eğin"</string>
     <string name="satellite_latitude_longitude">"Mevcut konum: "</string>
     <string name="satellite_location_deny_permission_msg">Tiantong uydu iletişimlerini açmak için konum erişimine izin verin</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
-    <string name="satellite_satellite_fold_tip">Uyduları daha verimli bulmak için cihazınızı katlayın</string>
     <string name="satellite_satellite_service_redirection">Etkinleştir</string>
     <string name="satellite_satellite_service_tip">Doğrudan uydu bağlantı hizmetini etkinleştirmediğiniz anlaşılıyor. Etkinleştirmeden sonra uyduları aramayı deneyin</string>
     <string name="satellite_service_provider">Çin Telekom tarafından sağlanmıştır</string>

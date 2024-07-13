@@ -761,9 +761,12 @@
     <string name="tuesday_shortest">S</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="voice_print_change_in_call">Aramalar sırasında ses kayıtları değiştirilemiyor</string>
     <string name="voice_print_delete">Ses kaydını sil</string>
     <string name="voice_print_delete_dialog_message">Veriler silindikten sonra kurtarılamaz</string>
     <string name="voice_print_dialog_message">Ses izi kaydı gerekli. Şimdi kaydetmek istiyor musunuz? </string>
+    <string name="voice_print_dialog_negative">Çıkış</string>
+    <string name="voice_print_dialog_positive">Kayıt</string>
     <string name="voice_print_dialog_title">Gürültüyü en üst düzeyde azaltmak için mikrofonu açın</string>
     <string name="voice_print_finish">Bitir</string>
     <string name="voice_print_name_change">Sesli baskı adını değiştirin</string>
@@ -771,6 +774,8 @@
     <string name="voice_print_note_description" formatted="false">Ses izi gürültüsü azaltma ses gürültüsünü azaltmak için kullanıcının benzersiz ses özelliklerini kullanan bir teknolojidir. Teknoloji bireyin sesindeki tonlama, perde ve konuşma hızı gibi benzersiz akustik özelliklere dayanır. Bu teknolojiyi kullanmadan önce sesinizi yaklaşık %d ila %d saniye boyunca kaydetmeniz gerekir. Sistem sesinizi öğrenecek. Yalnızca sizin sesinizi koruyarak ve arka plandaki gürültüyü ve diğer insanların seslerini filtreleyerek görüşmede olacaksınız</string>
     <string name="voice_print_note_device">Lütfen kaydetmeden önce harici cihazın bağlantısını kesin</string>
     <string name="voice_print_note_environment">Sessiz bir ortamda, aşağıdaki metni sabit hızda okumak için aşağıdaki düğmeyi basılı tutun</string>
+    <string name="voice_print_note_generate_error">Ses izi oluşturulamadı. Tekrar kaydedin</string>
+    <string name="voice_print_note_generating">Ses izi tanınıyor</string>
     <string name="voice_print_note_in_call">Arama sırasında ses kaydı yapılamaz</string>
     <string name="voice_print_num">Ses izi %s</string>
     <string name="voice_print_pref_name">Sesli baskı kaydı</string>

@@ -532,6 +532,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Varsayılan kilit ekranı duvar kağıdına geçme</string>
     <string name="cancel_download_btn_text">Dur</string>
     <string name="cancel_hint">İşlem iptal edildi</string>
+    <string name="cannot_delete">"Artık silemezsin~"</string>
     <string name="cannot_remove_creator">Oluşturan kişi kaldırılamıyor</string>
     <string name="cannot_send_message">Mesaj gönderilemiyor</string>
     <string name="cannot_send_message_reason">Geçerli alıcı yok</string>
@@ -1786,6 +1787,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="loading">Yükleniyor</string>
     <string name="loading_dots">Yükleniyor</string>
     <string name="loading_dual_tip">Çift fotoğraf yükleniyor</string>
+    <string name="loading_error">Yükleme başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="loading_fail">İndirilemedi</string>
     <string name="loading_fail_sync_off">İndirmek için Xiaomi bulut ile senkronizasyonu açın</string>
     <string name="loading_fail_sync_off_message">Fotoğraflar yüklenemiyor. Xiaomi bulut ile senkronizasyon özelliği kapalı</string>
@@ -1795,6 +1797,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="loading_gif_thumbnail">GIF küçük resmi indiriliyor</string>
     <string name="loading_image">İmaj indirliyor</string>
     <string name="loading_image_thumbnail">Küçük resim indiriliyor</string>
+    <string name="loading_map">Harita bileşenleri yükleniyor</string>
     <string name="loading_members">Üyeler yükleniyor</string>
     <string name="loading_suspend">İndirme duraklatıldı. Wifi kullanılabilir olduğunda devam edilecektir</string>
     <string name="loading_text_format" formatted="false">Fotoğraflardan gizli bilgiler kaldırılıyor (%d/%d)</string>
@@ -1942,6 +1945,10 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
     <string name="miuix_appcompat_cancel_description">İptal et</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Bulutla senkronizasyon kapalı</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Öğeleri senkronize etmek için uçtan uca korumayı açın</string>
+    <string name="miuix_appcompat_cloud_state_finished">Bulutla başarıyla senkronize edildi</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Bulutla senkronize ediliyor</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
@@ -2024,6 +2031,7 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="monthly_pets_title">Kürklü arkadaşlar</string>
     <string name="monthly_sports_title">Enerji dolu</string>
     <string name="monthly_travel_title">%1$s içindeki geziler</string>
+    <string name="moods_journal">Ruh halleri dergisi</string>
     <string name="more">Daha fazla</string>
     <string name="more_album_hint">, vb.</string>
     <string name="more_album_tip">Diğer albümler</string>

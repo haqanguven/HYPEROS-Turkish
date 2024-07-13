@@ -370,7 +370,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
     <string name="google_app_id">1:630236635882:android:04e152f122e4397796ed93</string>
     <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_login">Google ile giriş yap</string>
+    <string name="google_login">Google ile oturum aç</string>
     <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="has_no_new_version">Güncel</string>
     <string name="health_action_activate">Etkinleştir</string>

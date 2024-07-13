@@ -268,6 +268,13 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">"Not:
 ·Gelişmiş görseller Pil tasarrufu açıkken veya cihazınız aşırı ısındığında kullanılamaz
 ·Akıllı kare hızı oyununuz saniyede en az %d kare gösterecek şekilde ayarlandığında en iyi sonuçları gösterir"</item>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Not:
+· Pil tasarrufu açıkken veya cihazınız aşırı ısındığında gelişmiş görseller kullanılamayacaktır.
+· Geliştirilmiş kare hızı oyununuz saniyede en az %d kare görüntüleyecek şekilde ayarlandığında en iyi sonuçları gösterir"</item>
+        <item quantity="one">"Not:
+· Pil tasarrufu açıkken veya cihazınız aşırı ısındığında gelişmiş görseller kullanılamayacaktır.
+· Geliştirilmiş kare hızı oyununuz saniyede en az %d kare görüntüleyecek şekilde ayarlandığında en iyi sonuçları gösterir"</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Ses değiştiriciyi şimdi deneyin

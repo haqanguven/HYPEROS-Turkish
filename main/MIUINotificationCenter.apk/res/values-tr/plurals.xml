@@ -29,6 +29,10 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">%d dakika önce</item>
     </plurals>
+    <plurals name="aon_on_confirm">
+        <item quantity="other">Tamam (%d saniye)</item>
+        <item quantity="one">Tamam (%d saniye)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

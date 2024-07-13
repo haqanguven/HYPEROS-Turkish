@@ -34,7 +34,6 @@
     <string name="aon_message">Çok kişili bakış algılama hizmetinin verilebilmesi amacıyla kayan bildirim görüntülendiğinde ön kamera kullanılmakta olup toplanan görüntüler yalnızca ekrana bakan kişi sayısının yerel analizi için kullanılmaktadır. Ön kamera meşgul olduğunda bildirim içeriği varsayılan olarak gizlenecektir</string>
     <string name="aon_on_cancel">İptal et</string>
     <string name="aon_on_confirm">Onayla</string>
-    <string name="aon_seconds">Saniye</string>
     <string name="aon_title">Açıklamalar ve ipuçları</string>
     <string name="app_name">Bildirimler</string>
     <string name="channel_keyguard_hide_content">Tüm bildirimleri göster ancak içeriği gizle</string>
@@ -310,6 +309,8 @@
     <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
     <string name="notification_aon_summary">Birden fazla kişi telefona baktığında bildirim içeriğini gizle</string>
     <string name="notification_aon_title">Değişken bildirimlerin akıllı gösterimi</string>
+    <string name="notification_aon_title_aon">AON bildirimleri</string>
+    <string name="notification_aon_title_hide">Bildirimleri gizle</string>
     <string name="notification_display_setting">Bildirim stili</string>
     <string name="notification_display_style">Bildirim stili</string>
     <string name="notification_fold_description1">Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir</string>

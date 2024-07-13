@@ -88,6 +88,10 @@
         <item quantity="other">%1$s saat</item>
         <item quantity="one">%1$s saat</item>
     </plurals>
+    <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="one">%1$d saat</item>
+    </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%1$s dakika</item>
         <item quantity="one">%1$s dakika</item>
@@ -95,6 +99,10 @@
     <plurals name="sleep_duration_min_avg">
         <item quantity="other">%1$s dakika</item>
         <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d dakika</item>
+        <item quantity="one">%1$d dakika</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Erteleme aralığı %d dakika olarak değiştirildi</item>
@@ -140,12 +148,26 @@
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>
     </plurals>
+    <plurals name="timezone_search_hour">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="timezone_search_min">
+        <item quantity="other">%1$d</item>
+    </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
         <item quantity="other">+%s saat</item>
         <item quantity="one">+%s saat</item>
     </plurals>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$d saat</item>
+        <item quantity="one">+%1$d saat</item>
+    </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
         <item quantity="other">-%s saat</item>
         <item quantity="one">-%s saat</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$d saat</item>
+        <item quantity="one">-%1$d saat</item>
     </plurals>
 </resources>

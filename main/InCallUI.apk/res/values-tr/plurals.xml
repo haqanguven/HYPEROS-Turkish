@@ -30,8 +30,8 @@
         <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="antispam_marked_count">
-        <item quantity="other">%d Xiaomi kullanıcı tarafından rapor edildi</item>
-        <item quantity="one">%d Xiaomi kullanıcı tarafından rapor edildi</item>
+        <item quantity="other">%d xiaomi kullanıcı tarafından rapor edildi</item>
+        <item quantity="one">%d xiaomi kullanıcı tarafından rapor edildi</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
         <item quantity="other">%1$s saniye içinde kapatılıyor</item>

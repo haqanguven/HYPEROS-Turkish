@@ -300,6 +300,8 @@
     <string name="evening">Öğleden sonra</string>
     <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun</string>
     <string name="excerpt">Bir alıntı oluştur</string>
+    <string name="excerpt_ares_block">Birden fazla ihlal ve işlevsellik devre dışı bırakıldı</string>
+    <string name="excerpt_ares_block_tmp">Birden fazla ihlal durumunda işlev geçici olarak devre dışı bırakılır</string>
     <string name="excerpt_ares_limit">Heyecanınızı takdir ediyoruz ancak şu anda yoğun bir trafik yaşıyoruz. Görüntülemek veya daha sonra tekrar denemek için lütfen orijinal bağlantıya tıklayın</string>
     <string name="excerpt_bubble_tips">Kopyalanan metin ve kaydedilen görüntüler notlara kaydedilecektir</string>
     <string name="excerpt_image_ares_limit">Hevesinizi takdir ediyoruz ancak şu anda yoğun bir trafik yaşıyoruz. Lütfen orijinal resme bakın veya daha sonra tekrar deneyin</string>
