@@ -1328,7 +1328,7 @@ Uygulamalar:
     <string name="beauty_camera">Görüntülü aramalar için güzelleştir</string>
     <string name="beauty_camera_summary">Görüntülü aramalar sırasında güzelleştirme seçeneklerini gösterir</string>
     <string name="beauty_camera_switch">Güzelleştir</string>
-    <string name="beauty_fc_assistant">Ön kamera asistanı</string>
+    <string name="beauty_fc_assistant">Kenar araç kutusu</string>
     <string name="billing_cycle">Veri uyarısı ve sınırı</string>
     <string name="billing_cycle_days_left">{count, plural, =1 {# gün kaldı} other {# gün kaldı} }</string>
     <string name="billing_cycle_less_than_one_day_left">1 günden az kaldı</string>
