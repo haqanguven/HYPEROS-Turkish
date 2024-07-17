@@ -5065,8 +5065,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_mode_screen_title">Konum modu</string>
     <string name="location_mode_sensors_only_description">Konumu belirlemek için GPS kullanın</string>
     <string name="location_mode_sensors_only_title">Yalnızca cihaz</string>
-    <string name="location_modem_summary">Operatörler baz istasyonları aracılığıyla konumunuzu öğrenecek</string>
-    <string name="location_modem_title">Konum bilgilerini operatörle paylaş</string>
+    <string name="location_modem_summary">Konum bilgileriniz operatörlerin baz istasyonları aracılığıyla öğrenilecektir</string>
+    <string name="location_modem_title">Operatör ile paylaş</string>
     <string name="location_neighborhood_level">Uygulamalara yaklaşık konumunuzu belirlemek için wifi ve mobil ağlar gibi kaynaklardan gelen verileri kullanma izin ver</string>
     <string name="location_neighborhood_level_wifi">Konum wifi tarafından belirlendi</string>
     <string name="location_network_based">Wifi &amp; mobil ağ</string>
