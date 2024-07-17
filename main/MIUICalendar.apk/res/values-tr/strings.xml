@@ -59,6 +59,7 @@
     <string name="account_name_calendar">Takvim</string>
     <string name="account_not_exist">Hesap mevcut değil</string>
     <string name="account_read_only">Etkinlik bu hesapta salt okunur</string>
+    <string name="account_read_only_birthday">Bu etkinlik salt görüntülenebilir. Kişilerde düzenleyin</string>
     <string name="account_type">com.android.calendar</string>
     <string name="action_bar_cancel">İptal et</string>
     <string name="action_bar_confirm">Tamam</string>
@@ -128,6 +129,7 @@
     <string name="auth_notification_error_ssl_invalid">SSL geçersiz. Devam edilsin mi?</string>
     <string name="auth_notification_error_ssl_not_yet_valid">SSL henüz geçerli değil. Devam edilsin mi?</string>
     <string name="auth_notification_error_ssl_untrusted">SSL güvenilmeyen. Devam edilsin mi?</string>
+    <string name="auto_import_birthday_from_contact">Kişilerin doğum günlerini içe aktar</string>
     <string name="autumn_begins">Sonbahar başlangıcı</string>
     <string name="autumn_begins_tradition">Sonbahar başlangıcı</string>
     <string name="autumn_equinox">Sonbahar bitişi</string>
@@ -337,6 +339,7 @@
     <string name="delete_menu_item">Etkinlikleri sil</string>
     <string name="delete_recurring_event_title">%s silinsin mi?</string>
     <string name="delete_this_event_title">Bu etkinlik silinsin mi?</string>
+    <string name="description_auto_import_birthday_from_contact">Kişilerin doğum günlerini otomatik olarak içe aktar ve görüntüle</string>
     <string name="description_calendar">Sistem uygulamaları/Takvim</string>
     <string name="description_calendar_edit_event">Sistem uygulamaları/Takvim/Ajanda</string>
     <string name="description_calendar_huangli" />
@@ -1022,10 +1025,12 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="premission_description_cannot_access_ringtone">Zil seslerini kullanabilmek için önce gerekli izinleri verin</string>
     <string name="premission_description_cannot_import_schedule">Takvim dosyalarını içe aktarabilmek için önce gerekli izinleri verin</string>
     <string name="premission_description_cannot_obtain_contact">Kişilere erişebilmek için önce gerekli izinleri verin</string>
+    <string name="premission_description_cannot_obtain_contact_new">Bu uygulamanın kişilerinize erişmesine izin verin ve doğum günü bilgilerinin hemen güncellenebildiğinden emin olmak için Yalnızca uygulamayı kullanırken izin ver seçeneğini seçin</string>
     <string name="premission_description_cannot_save_picture">Fotoğraf ve videoları kaydedebilmek için önce gerekli izinleri verin</string>
     <string name="premission_description_contact">Kişilerinizin doğum günlerini görüntülemek içindir</string>
     <string name="premission_description_notice">Etkinlikler ve tatiller hakkında bildirim göndermek içindir</string>
     <string name="premission_description_notice_manager">Etkinlikler ve tatiller için bildirimler</string>
+    <string name="premission_description_read_contact">Doğum günü bilgilerinin hemen güncellenebildiğinden emin olmak için yalnızca uygulamayı kullanırken izin veri seçin</string>
     <string name="premission_description_read_contacts">Kişilerinizin doğum günlerini göstermek içindir</string>
     <string name="premission_description_read_phone_state">Aramalar sırasında alarmları otomatik olarak susturmak içindir</string>
     <string name="premission_description_read_write_storage">Bu cihazdaki dosyalara ve fotoğraflara erişmek ve bunları kaydetmek içindir</string>
@@ -1046,8 +1051,6 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="pull_refresh_progress_load_finish">Başarıyla yüklendi</string>
     <string name="pull_refresh_progress_loading">Yükleniyor</string>
     <string name="pull_refresh_progress_release_to_load">Yüklemek için serbest bırakın</string>
-    <string name="qq_application_id" />
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="receive_net_mock_success">Başarılı oldu</string>
     <string name="recommend_card_add">Şimdi abone ol</string>
     <string name="recommend_card_adding">Abonelik</string>
@@ -1114,7 +1117,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="save_to_local_success_message">Kaydedildi</string>
     <string name="saving_event">Etkinlik kaydedildi</string>
     <string name="saving_event_with_guest">Güncellemeler gönderiliyor</string>
-    <string name="search_calendar">Tarih;Güneş Dönemleri;Ay takvimi;Almanak;Fal;Ajanda;Toplantı;Hatırlatıcı;Gezi;Tatil;Doğum günü;2016;2017;Bahar bayramı;Yeni Yıl Günü;Uluslararası İşçi Bayramı;Güz ortası bayramı</string>
+    <string name="search_calendar">Tarih;Güneş dönemleri;Ay takvimi;Almanak;Fal;Ajanda;Toplantı;Hatırlatıcı;Gezi;Tatil;Doğum günü;2016;2017;Bahar bayramı;Yeni Yıl Günü;Uluslararası İşçi Bayramı;Güz ortası bayramı</string>
     <string name="search_calendar_edit_event">Toplantı;Hatırlatıcı;Ajanda</string>
     <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Takvim;Ajanda;Hatırlatıcı</string>

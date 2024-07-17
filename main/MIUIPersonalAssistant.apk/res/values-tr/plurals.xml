@@ -213,5 +213,6 @@
     </plurals>
     <plurals name="pa_travel_train_tip_delay_min">
         <item quantity="other">Tren %d dakika gecikti</item>
+        <item quantity="one">Tren %d dakika gecikti</item>
     </plurals>
 </resources>
