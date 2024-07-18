@@ -315,8 +315,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d dakika boyunca işlem yapılmadığında güç tasarrufu yapmak için ekran parlaklığını otomatik olarak azaltın</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">Tebrikler. %s Paskalya yumurtasının kilidini açtınız</item>
-        <item quantity="one">Tebrikler. %s Paskalya yumurtasının kilidini açtınız</item>
+        <item quantity="other">Tebrikler. %s paskalya yumurtasının kilidini açtınız</item>
+        <item quantity="one">Tebrikler. %s paskalya yumurtasının kilidini açtınız</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -378,8 +378,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d uygulama bulundu</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">%d risk bulundu. Şimdi düzelt</item>
-        <item quantity="one">%d risk bulundu. Şimdi düzelt</item>
+        <item quantity="other">%d risk bulundu</item>
+        <item quantity="one">%d risk bulundu</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">%d uygulamanın veri kullanımı takip ediliyor</item>
@@ -582,8 +582,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">" dakika"</item>
     </plurals>
     <plurals name="pc_battery_replacement_service_day">
-        <item quantity="other">%d-gün</item>
-        <item quantity="one">%d-gün</item>
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d öğe</item>
@@ -606,16 +606,16 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%s dakika</item>
     </plurals>
     <plurals name="pc_main_power_manager_day">
-        <item quantity="other">Tamamen şarj olmasına %s gün</item>
-        <item quantity="one">Tamamen şarj olmasına %s gün</item>
+        <item quantity="other">Tamamen şarj olana kadar %s gün kaldı</item>
+        <item quantity="one">Tamamen şarj olana kadar %s gün kaldı</item>
     </plurals>
     <plurals name="pc_main_power_manager_hour">
-        <item quantity="other">Tamamen şarj olmasına %s saat</item>
-        <item quantity="one">Tamamen şarj olmasına %s saat</item>
+        <item quantity="other">Tamamen şarj olana kadar %s saat kaldı</item>
+        <item quantity="one">Tamamen şarj olana kadar %s saat kaldı</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">Tamamen şarj olmasına %s dakika</item>
-        <item quantity="one">Tamamen şarj olmasına %s dakika</item>
+        <item quantity="other">Tamamen şarj olana kadar %s dakika kaldı</item>
+        <item quantity="one">Tamamen şarj olana kadar %s dakika kaldı</item>
     </plurals>
     <plurals name="pc_main_sub_battery_text_day">
         <item quantity="other">%s gün kaldı</item>
@@ -1123,7 +1123,7 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     </plurals>
     <plurals name="privacy_risk_result_photo_sensitive_msg">
         <item quantity="other">%d fotoğraf özel veya hassas bilgiler içerebilir</item>
-        <item quantity="one">d fotoğraf özel veya hassas bilgiler içerebilir</item>
+        <item quantity="one">%d fotoğraf özel veya hassas bilgiler içerebilir</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
         <item quantity="other">Gizliliğinizi koruyan %d özellik kapatıldı</item>
