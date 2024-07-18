@@ -531,7 +531,7 @@ Cihaz uygulamanız, telefonunuzun veya tabletinizin kilidini açmadan bazı ciha
 
 Ayarlarda istediğiniz zaman değişiklik yapabilirsiniz"</string>
     <string name="controls_settings_show_controls_dialog_title">Cihazlar kilit ekranından gösterilsin mi ve kontrol edilsin mi?</string>
-    <string name="controls_settings_trivial_controls_dialog_message">"Telefonunuzun veya tabletinizin kilidini açmadan bazı cihazları kontrol edebilirsiniz. Cihaz uygulamanız hangi cihazların bu şekilde kontrol edilebileceğini belirler"</string>
+    <string name="controls_settings_trivial_controls_dialog_message">Telefonunuzun veya tabletinizin kilidini açmadan bazı cihazları kontrol edebilirsiniz. Cihaz uygulamanız hangi cihazların bu şekilde kontrol edilebileceğini belirler</string>
     <string name="controls_settings_trivial_controls_dialog_title">Cihazlar kilit ekranından kontrol edilsin mi?</string>
     <string name="controls_structure_tooltip">Daha fazlasını görmek için kaydırın</string>
     <string name="controls_tile_locked">Cihaz kilitli</string>
@@ -712,7 +712,7 @@ Bunlar silindikten sonra telefonunuzun kilidini açmak veya kimliğinizi doğrul
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="font_scale_percentage">%%%1$d</string>
+    <string name="font_scale_percentage">%% %1$d</string>
     <string name="font_scaling_dialog_title">Yazı boyutu</string>
     <string name="font_scaling_larger">Büyüt</string>
     <string name="font_scaling_smaller">Küçült</string>
@@ -730,7 +730,6 @@ Bunlar silindikten sonra telefonunuzun kilidini açmak veya kimliğinizi doğrul
     <string name="format_month_day_week">dd MMM, EEE</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, geleneksel Çin takvimine göre tarih: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, tatil: %4$s</string>
-    <string name="format_number_hour_desc">%s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Tatil: %1$s, geleneksel Çin takvimine göre tarih: %2$s</string>
     <string name="format_week_day_style1">d EE</string>
     <string name="format_week_day_style1_desc">%1$s, ayın günü: %2$s</string>
@@ -975,11 +974,11 @@ Daha fazla bilgi için dokunun</string>
     <string name="keyguard_missing_sim_message_short">Sim kart yok</string>
     <string name="keyguard_network_locked_message">Ağ kilitli</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Kullanılamayan Sim kartı</string>
-    <string name="keyguard_plugged_in">Şarj oluyor</string>
-    <string name="keyguard_plugged_in_charging_fast">Hızlı şarj</string>
-    <string name="keyguard_plugged_in_charging_slowly">Yavaş şarj</string>
-    <string name="keyguard_plugged_in_dock">%s • Şarj ünitesi</string>
-    <string name="keyguard_plugged_in_incompatible_charger">%s • Şarj aksesuarıyla ilgili sorun</string>
+    <string name="keyguard_plugged_in">%s • Şarj oluyor</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Hızlı şarj oluyor</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Yavaş şarj oluyor</string>
+    <string name="keyguard_plugged_in_dock">%s • Şarj oluyor</string>
+    <string name="keyguard_plugged_in_incompatible_charger">%s • Şarj aksesuarıyla ilgili sorun var</string>
     <string name="keyguard_plugged_in_wireless">%s • Kablosuz olarak şarj ediliyor</string>
     <string name="keyguard_sim_error_message_short">Geçersiz kart</string>
     <string name="keyguard_sim_locked_message">Sim kartı kilitli</string>
@@ -1045,8 +1044,8 @@ Daha fazla bilgi için dokunun</string>
     <string name="letterbox_education_got_it">Tamam</string>
     <string name="letterbox_education_reposition_text">Bir uygulamayı yeniden konumlandırmak için yanına çift dokunun</string>
     <string name="letterbox_education_split_screen_text">Bölünmüş ekran için başka bir uygulamayı sürükleyin</string>
-    <string name="letterbox_reachability_reposition_text">"İki kez hafifçe vurun
-bu uygulamayı taşı"</string>
+    <string name="letterbox_reachability_reposition_text">"Bu uygulamayı taşımak için
+iki kez dokunun"</string>
     <string name="letterbox_restart_cancel">İptal et</string>
     <string name="letterbox_restart_dialog_checkbox_title">Bir daha gösterme</string>
     <string name="letterbox_restart_dialog_description">Ekranınızda daha iyi görünmesi için uygulamayı yeniden başlatabilirsiniz ancak ilerleme durumunuzu veya kaydedilmemiş değişiklikleri kaybedebilirsiniz</string>

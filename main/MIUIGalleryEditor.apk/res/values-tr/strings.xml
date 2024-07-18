@@ -1310,7 +1310,7 @@ daireyi hareket ettirin"</string>
     <string name="movie_template_travel">Seyahat</string>
     <string name="movie_template_xmas">Noel</string>
     <string name="movie_video_long">Daha uzun video</string>
-    <string name="movie_video_short">10 saniye video</string>
+    <string name="movie_video_short">%d saniye</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>

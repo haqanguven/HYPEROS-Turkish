@@ -71,6 +71,7 @@
     <string name="app_info_version_replace">Sürüm: %1$s -> %2$s</string>
     <string name="app_installing_not_allow">"%1$s yüklemesini engellendi. "</string>
     <string name="app_installing_not_allow_1">"%1$s'in uygulama yüklemesi engellendi. "</string>
+    <string name="app_installing_not_allow_2">Kurulum engellendi. Tercihlerinizi değiştirmek için Ayarlarda Bilinmeyen uygulamaları yükleyin ifadesini arayın</string>
     <string name="app_name">Mi paket yükleyici</string>
     <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı</string>
     <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
@@ -671,7 +672,7 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="mtrl_picker_invalid_format_example">Örneğin: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Kullan: %1$s</string>
     <string name="mtrl_picker_invalid_range">Geçersiz aralık</string>
-    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">%1$s yılına git</string>
     <string name="mtrl_picker_navigate_to_year_description">%1$d yılına gidin</string>
     <string name="mtrl_picker_out_of_range">Kapsama alanı dışında: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
