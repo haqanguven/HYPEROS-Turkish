@@ -1995,7 +1995,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_settings_page_title">Duvar kağıdı</string>
     <string name="wallpaper_share_alert">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="wallpaper_static">Statik</string>
-    <string name="wallpaper_subject_version">Mi</string>
+    <string name="wallpaper_subject_version">MI</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Ayarlar</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Uygula</string>
     <string name="warning_miui_optimization_closed_dialog_message">Xiaomi optimizasyonunu açmamışsınız gibi görünüyor. Bu olmadan bu tema uygulandığında düzgün çalışmaz. Yine de uygulayabilir veya ayarlarda Xiaomi optimizasyonunu açabilirsiniz</string>

@@ -319,7 +319,7 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Uygulama aktarımı</item>
-        <item>Ara bağlantı/Uygulama aktarımı</item>
+        <item>Ara bağlantı veya uygulama aktarımı</item>
         <item>Uygulamaları aktarma, aktarma, aktarma</item>
     </string-array>
     <string-array name="settings_search_relay_call">
@@ -344,7 +344,7 @@
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ana ekran+</item>
-        <item>Ara bağlantı/Ana ekran+</item>
+        <item>Ara bağlantı veya ana ekran+</item>
         <item>Ana ekran+, Mi akıllı ses, ekran paylaşımı</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">

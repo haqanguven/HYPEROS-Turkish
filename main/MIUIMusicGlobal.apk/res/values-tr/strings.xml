@@ -322,7 +322,7 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="change_download_quality">İndirme kalitesini değiştir</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chart_first_song">1.%s</string>
     <string name="chart_second_song">2.%s</string>
     <string name="chart_third_song">3.%s</string>
@@ -1752,7 +1752,7 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="privacy_desc">Gizlilik politikası (Zorunlu)</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_title_asm">Müzik dünyası parmaklarınızın ucunda</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=tr_TR</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_request_desc">"Müziğin çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. %1$s Gizlilik politikamızda topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden müziğin gizlilik politikasına verdiğiniz izni geri çekebilirsiniz
 Müziği kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %1$s Gizlilik politikamızı okuyun ve kabul edin
 Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız. Bununla birlikte temel işlevler hâlâ kullanılabilir olacaktır"</string>
