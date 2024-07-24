@@ -2760,17 +2760,17 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gd_setting_conversation">Konferans araçları</string>
     <string name="gd_setting_conversation_desc">Tam ekran sesli ve görüntülü aramalarda kullanım için çeşitli özellikler sağlar</string>
     <string name="gd_setting_dock_activity_title">Kenar araç kutusu</string>
-    <string name="gd_setting_dock_call_summary">Sesli ve görüntülü arama özellikleri</string>
+    <string name="gd_setting_dock_call_summary">Sesli ve görüntülü arama özelliklerini içerir</string>
     <string name="gd_setting_dock_call_title">Arama araç kutusu</string>
     <string name="gd_setting_dock_game_summary">Oyun oynarken ekranı ve performansı iyileştirin</string>
     <string name="gd_setting_dock_game_summary_new">Oyun oynarken ekranı ve performansı iyileştirin</string>
     <string name="gd_setting_dock_summary">Bir uygulamayı tam ekran kullanırken diğer uygulamaları kayan pencerelerde açın</string>
-    <string name="gd_setting_dock_title">Kenar çubuğu</string>
+    <string name="gd_setting_dock_title">Kenar araç kutusu</string>
     <string name="gd_setting_dock_video_summary">Video izlerken Dolby Atmos gibi efektleri kullanın</string>
     <string name="gd_setting_dock_video_summary_new">Video izlerken araçları ve efektleri kullanın</string>
     <string name="gd_setting_group_custom_conversation_apps">Aramalar için ses kaydını kaydedin</string>
-    <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
-    <string name="gd_setting_group_custom_gtb_apps_new">Oyunlar</string>
+    <string name="gd_setting_group_custom_gtb_apps">Oyun uygulamaları</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Oyun uygulamaları</string>
     <string name="gd_setting_group_custom_settings">Kişiselleştirme</string>
     <string name="gd_setting_group_custom_vtb_apps">Video uygulamaları</string>
     <string name="gd_setting_group_custom_vtb_apps_new">Video uygulamaları</string>
@@ -2803,7 +2803,7 @@ ve ses değiştiricimizi keşfedin"</string>
 · Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun.
 · Pencereyi hareket ettirmek için göstergeyi basili tutun"</string>
-    <string name="global_dock_guide_desc_without_split_screen_new">"Kenar çubuğunu açmak için kaydırın ve kayan bir pencerede açmak için bir uygulamaya dokunun.
+    <string name="global_dock_guide_desc_without_split_screen_new">"Kenar araç kutusunu açmak için kaydırın ve kayan bir pencerede açmak için bir uygulamaya dokunun.
 Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="global_satisfaction_notification_button">Oran</string>
     <string name="global_satisfaction_notification_channel">Kullanıcı memnuniyeti anketi</string>
@@ -2874,7 +2874,7 @@ Pencereyi hareket ettirmek için göstergeyi basılı tutun"</string>
     <string name="gs_game_performance">Performans</string>
     <string name="gs_game_record_intro_tips">* Oyun oturumu kaydı yalnızca belirli uyumlu oyunlar için kullanılabilir</string>
     <string name="gs_game_shortcut">Daha akışkan bir oyun deneyiminin keyfini çıkarın</string>
-    <string name="gs_gamebox">Oyun içi kısayollar</string>
+    <string name="gs_gamebox">Oyun araç kutusu</string>
     <string name="gs_gamebox_detail">Oyun içi kısayol panelini göster</string>
     <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string>
     <string name="gs_only_self_start_for_list">Oyun oynarken pil tasarrufu yapmak için arka plan işlemlerini kısıtla</string>
@@ -3691,7 +3691,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="news_change">Değiştir</string>
     <string name="nickname">Kullanıcı adı</string>
     <string name="night">Akşam</string>
-    <string name="no_game">Oyunlar bulunamadı</string>
+    <string name="no_game">Oyun bulunamadı</string>
     <string name="no_lucky_money">Kırmızı zarf alınmadı</string>
     <string name="no_open">Şimdi değil</string>
     <string name="no_privacy_permission">Gizlilik politikasına onay gerekli değil</string>
@@ -5467,7 +5467,7 @@ kapat"</string>
     <string name="search_keyword_apply">Uygulama</string>
     <string name="search_keyword_applybar">Uygulama yuvası</string>
     <string name="search_keyword_call">Ara</string>
-    <string name="search_keyword_sidebar">Kenar çubuğu</string>
+    <string name="search_keyword_sidebar">Kenar araç kutusu</string>
     <string name="search_keyword_tool">Araçlar</string>
     <string name="search_keyword_tools">Araç Kutusu</string>
     <string name="search_keyword_voice">Ses</string>

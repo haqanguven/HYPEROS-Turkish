@@ -1081,7 +1081,7 @@ Cihazınızın normal şekilde çalışması için burada listelenen uygulamalar
     <string name="background_process_stop_description">Bu tekrar gerekirse diye hâlâ çalışan eski bir uygulama işlemidir. Genellikle bunu durdurmanız gerekmez</string>
     <string name="background_restrict_app_dialog_message">Bu uygulamanın arkaplan ağ erişimini kısıtlamanız uygulamanın normal olarak çalışmasına, mesaj almasına, içerik indirmesine engel olabilir. Erişim yinede kısıtlansın mı?</string>
     <string name="background_traffic">Arka plan %s</string>
-    <string name="backtouch_enable_title">Sesi arkada ayarla</string>
+    <string name="backtouch_enable_title">Arkadaki ses seviyesini ayarla</string>
     <string name="backup_at_once">Yedekle</string>
     <string name="backup_calling_enable_dialog_incompatible_nw_type">Hücresel internet üzerinden sesi açmak için lütfen tercih edilen ağ türünü LTE, NR veya Global gibi bir ağ türüne ayarlayın</string>
     <string name="backup_calling_setting_summary">"%1$s kullanılamıyorsa veya dolaşım yapılıyorsa %1$s aramaları için mobil veri SIM'inizi kullanın"</string>
@@ -8604,7 +8604,7 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="shut_down_find_device_network_failure_content">Cihazı bul kapatılamıyor. Cihazınızın internet bağlantısı olduğundan emin olun</string>
     <string name="shut_down_find_device_network_failure_title">Ağa bağlanılamıyor</string>
     <string name="shuting_down_find_device">Cihazı bul kapatılıyor</string>
-    <string name="sidebar_setting">Kenar çubuğu ayarları</string>
+    <string name="sidebar_setting">Kenar araç kutusu ayarları</string>
     <string name="silent_duration">Süre</string>
     <string name="silent_mode">Sessiz mod</string>
     <string name="silent_mode_disable_media">Tümü sessiz</string>

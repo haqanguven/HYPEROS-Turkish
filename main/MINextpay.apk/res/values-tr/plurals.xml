@@ -29,6 +29,10 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">%d dakika önce</item>
     </plurals>
+    <plurals name="card_list_item_transfer_in_card">
+        <item quantity="other">Aralarından seçim yapabileceğiniz %1$s kartınız var</item>
+        <item quantity="one">Aralarından seçim yapabileceğiniz %1$s kartınız var</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

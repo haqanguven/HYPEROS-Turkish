@@ -465,7 +465,6 @@
     <string name="gadget_weather_title">Hava durumu</string>
     <string name="gcm_defaultSenderId">583617035067</string>
     <string name="global_search">Ara</string>
-    <string name="global_shelf">Uygulama bulucu</string>
     <string name="google_api_key">AIzaSyB2JDwRH0JkFz61laGlpkUqBP-M1tDCs0Y</string>
     <string name="google_app_id">1:583617035067:android:f62e0cc8504e98c934151e</string>
     <string name="google_crash_reporting_api_key">AIzaSyB2JDwRH0JkFz61laGlpkUqBP-M1tDCs0Y</string>
@@ -488,7 +487,6 @@
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_gesture_content_center">İçerik merkezi</string>
     <string name="home_gesture_global_search">Ara</string>
-    <string name="home_gesture_global_shelf">Uygulama bulucu</string>
     <string name="home_gesture_no_action">Yok</string>
     <string name="home_gesture_notification_and_control_center">Bildirim gölgesi ve kontrol merkezi</string>
     <string name="home_gesture_notification_bar">Bildirimler</string>
@@ -606,7 +604,6 @@ Arttırılmış güvenlik"</string>
     <string name="mi_wallpaper">Xiaomi temalar</string>
     <string name="midnight">Gece</string>
     <string name="minus_one_screen">Uygulama kasası</string>
-    <string name="mishow_layout_path">demo_phone_layout</string>
     <string name="miui_screen_config_title">Ana ekran ayarları</string>
     <string name="miui_setting_config_title">Ana ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Değiştir</string>
