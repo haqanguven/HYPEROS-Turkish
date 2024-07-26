@@ -937,6 +937,8 @@ Neden: %s"</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_category_group_collapse">Daralt</string>
+    <string name="miuix_navigator_category_group_expand">Genişlet</string>
     <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
