@@ -641,11 +641,11 @@
     <string name="sound_id_hz_high">Tiz %d Hz</string>
     <string name="sound_id_hz_low">Bas %d Hz</string>
     <string name="sound_id_hz_media">Orta seviye %d Hz</string>
-    <string name="sound_id_music_one_description">Işık | %ds</string>
+    <string name="sound_id_music_one_description">Işık | %d saniye</string>
     <string name="sound_id_music_one_title">Yağmurlu şehir</string>
-    <string name="sound_id_music_three_description">Melodik | %ds</string>
+    <string name="sound_id_music_three_description">Melodik | %d saniye</string>
     <string name="sound_id_music_three_title">İz</string>
-    <string name="sound_id_music_two_description">Ritmik | %ds</string>
+    <string name="sound_id_music_two_description">Ritmik | %d saniye</string>
     <string name="sound_id_music_two_title">Gece ateşi</string>
     <string name="sound_id_no_effect_msg">Kişiselleştirilmiş ses kullanmayın</string>
     <string name="sound_id_notice_headset_change_msg">Görünüşe göre farklı bir çift kulaklık kullanıyorsunuz. Test durduruldu</string>

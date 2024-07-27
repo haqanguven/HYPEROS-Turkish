@@ -1477,7 +1477,7 @@ Mesaj uzunluğunu kontrol etmek için her tıbbi kart öğesinin yalnızca ilk 5
     <string name="voice_report_wiredon">Kulaklıklarla</string>
     <string name="wait_for_sp_mark_as_read">Yükleniyor</string>
     <string name="wap_push_title">"[WAP Push] "</string>
-    <string name="warning_show">%ds içinde gönder</string>
+    <string name="warning_show">%d saniye içinde gönder</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Çarşamba</string>

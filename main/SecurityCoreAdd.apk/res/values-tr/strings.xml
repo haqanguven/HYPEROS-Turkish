@@ -84,8 +84,6 @@ bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="back_tap">Geri dokunma</string>
     <string name="back_triple_tap">Üçlü geri dokunma</string>
     <string name="bind_device">Cihazları bağla</string>
-    <string name="bottom_bar_smallwindow_drag_text">Sabitlemek için buraya sürükleyin</string>
-    <string name="bottom_bar_smallwindow_text">Sabitlemek için serbest bırakın</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
     <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
@@ -98,11 +96,6 @@ bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="bt_enable_pair_connect_ok">Bağlan</string>
     <string name="bt_enable_pair_connect_succceed">Başarıyla bağlanıldı</string>
     <string name="bt_enable_pair_connecting">Bağlanıyor</string>
-    <string name="bubble_app_empty_page">Bu cihazda konuşma balonlarını destekleyen uygulamalar bulunamadı</string>
-    <string name="bubble_app_manage">Konuşma balonlarını yönet</string>
-    <string name="bubble_notification">Konuşma balonları</string>
-    <string name="bubble_notification_switch">Konuşma balonlarını göster</string>
-    <string name="bubble_notification_switch_desc">Kayan bir pencerede bir mesajlaşma uygulaması ekranın kenarında gizlendiğinde gelen mesajları baloncuklar halinde göster</string>
     <string name="builtin_keyboard_settings_title">Fiziksel klavye</string>
     <string name="button_input_password">Şifre girin</string>
     <string name="button_text_next_step">Sonraki</string>
@@ -245,7 +238,6 @@ bu özellik ikinci alana otomatik olarak eklenecektir"</string>
     <string name="contact_titile_text">"Özel mesajları dilediğiniz zaman görüntüleyebilmek için
 mesajları ikinci alanda göster"</string>
     <string name="contact_us">Bize ulaşın</string>
-    <string name="contentDescription">Pencereyi taşı</string>
     <string name="continueButton">Devam et</string>
     <string name="convenience_key_category_title">Sistem kontrolü</string>
     <string name="copy">Kopyala</string>
@@ -282,11 +274,7 @@ mesajları ikinci alanda göster"</string>
     <string name="delete_phone_fingerprint">İkinci alan parmak izini sil</string>
     <string name="delete_src_file">Dosyaları sil</string>
     <string name="delete_src_photo">Fotoğrafları sil</string>
-    <string name="desktop_btn_cancel">İptal et</string>
-    <string name="desktop_btn_continue">Başlat</string>
-    <string name="desktop_mode_guide_summary">İş modu uygulama yuvasındaki simgelerine dokunarak birden çok uygulamayı kayan pencerelerde açmanıza olanak tanır</string>
-    <string name="desktop_mode_guide_title">İş modu</string>
-    <string name="dialog_message_service_error">Yetki iptal edilemedi ve fabrika verilerine sıfırlama işlemi gerçekleştirilemedi. Tekrar deneyin</string>
+    <string name="dialog_message_service_error">Yetkilendirme iptal edilemedi ve fabrika verilerine sıfırlama gerçekleştirilemedi. Tekrar deneyin</string>
     <string name="dialog_tip_need_network">Yetkilendirmeyi iptal etmek için cihazınızın internete bağlanması gerekiyor</string>
     <string name="dialog_title">Dikkat</string>
     <string name="dialog_title_service_error">Sunucu hatası</string>
@@ -300,9 +288,6 @@ mesajları ikinci alanda göster"</string>
     <string name="diy_suppression_summary">Kaza ile dokunmaların yok sayılacağı kenarların yakınındaki alan boyutunu ayarla</string>
     <string name="diy_suppression_title">Özel</string>
     <string name="do_not_ask">Tekrar sorma</string>
-    <string name="dock_location_left">Sol</string>
-    <string name="dock_location_right">Sağ</string>
-    <string name="dock_location_title">Uygulama yuvası konumu</string>
     <string name="dont_import">Şimdi değil</string>
     <string name="double_click_power_key">Güç tuşuna çift basın</string>
     <string name="double_click_volume_down_when_lock">Ekran kilitlendiğinde Ses kısma tuşuna çift basın</string>
@@ -392,21 +377,6 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="fingerprint_double_tap">Parmak izi sensörüne çift dokunun</string>
     <string name="fingerprint_number_upper_limit">Çok fazla başarısız kilit açma denemesi</string>
     <string name="fingerprint_removal_failed">Parmak izi silinemedi</string>
-    <string name="flashback_background_start_switch_summary">Uygulamalar arka planda çalışırken otomatik olarak önemli bilgileri içeren bilgi kartları oluşturun</string>
-    <string name="flashback_background_start_switch_title">Bilgi kartlarını otomatik olarak oluştur</string>
-    <string name="flashback_baidu_map_summary">Rotayı göster</string>
-    <string name="flashback_didi_summary">Yolculuk bilgilerini göster</string>
-    <string name="flashback_meituan_summary">Teslimat bilgilerini göster</string>
-    <string name="flashback_meituan_waimai_summary">Teslimat bilgilerini göster</string>
-    <string name="flashback_open_switch_summary">Uygulamalar kayan pencereler olarak görüntülendiğinde önemli bilgileri göster</string>
-    <string name="flashback_open_switch_title">Uygulama bilgi kartları</string>
-    <string name="flashback_shansong_summary">Teslimat ilerleme durumunu göster</string>
-    <string name="flashback_status_close">Kapalı</string>
-    <string name="flashback_status_open">Açık</string>
-    <string name="flashback_summary">Uygulamalar kayan pencereler olarak görüntülendiğinde önemli bilgileri göster</string>
-    <string name="flashback_support_apps_title">Kullanılabilir uygulamalar</string>
-    <string name="flashback_title">Uygulama bilgi kartları</string>
-    <string name="flashback_wangzhe_summary">Yeniden diriliş geri sayımını göster</string>
     <string name="flip_expand_screen_partial_screen_shot_disable">Yalnızca iç ekranda desteklenir</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
@@ -460,117 +430,14 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="fold_screen_settings">Katlanabilir cihazlara yönelik özellikler</string>
     <string name="forbid_create">Bakım modu yalnızca ana kullanıcı alanında oluşturulabilir</string>
     <string name="fp_nav_center_back_to_home_title">Ana ekrana dönmek için ana sayfa düğmesine dokunun</string>
-    <string name="freeform_demo_back">Geri</string>
-    <string name="freeform_demo_final_over">Bitti</string>
-    <string name="freeform_demo_final_restart">Baştan başla</string>
-    <string name="freeform_demo_final_title">Hareketli olmaya hazırsınız</string>
-    <string name="freeform_demo_go_on">Sonraki</string>
-    <string name="freeform_demo_next_tutorial">Sonraki</string>
-    <string name="freeform_demo_previous_tutorial">Geri</string>
-    <string name="freeform_demo_title_finish">Güzel</string>
-    <string name="freeform_demo_title_skip">Atla</string>
-    <string name="freeform_guide_dialog_freeform_controller_summary">"Kayan bir pencereyi hareket ettirmek için üst kenarından sürükleyin
-veya daha fazla seçeneği görüntülemek için dokunun"</string>
-    <string name="freeform_guide_dialog_freeform_resize_summary">Yeniden boyutlandırmak için alt köşeleri sürükleyin</string>
-    <string name="freeform_guide_dialog_freeform_title">Kayan pencereler</string>
-    <string name="freeform_guide_dialog_split_double_summary">"Alt orta kısımdan yukarıya doğru kaydırın
-Her iki uygulamayı da kapatmak için ekranın üzerine tıklayın"</string>
-    <string name="freeform_guide_dialog_split_single_summary">"Alt orta kısımdan yukarıya doğru kaydırın
-Bir uygulamanın kapatılmasını istiyorum"</string>
-    <string name="freeform_guide_dialog_split_title">Bölünmüş ekran</string>
-    <string name="freeform_guide_dialog_start_button">Başlat</string>
-    <string name="freeform_guide_dialog_step_button">Sonraki</string>
-    <string name="freeform_guide_drag_fullscreen_title">Tam ekran moduna geçmek için sürükleyin</string>
-    <string name="freeform_guide_drag_split_title">Bölünmüş ekran veya tam ekran moduna geçmek için sürükleyin</string>
-    <string name="freeform_guide_drag_summary">Görüntüleme modları arasında geçiş yapmak için pencereleri belirtilen alanlara sürükleyin</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_summary">Basılı tutun ve ardından kayan pencerenin işlem çubuğunu aşağı çekin</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Kayan pencereleri tam ekran modunda görüntüleme</string>
-    <string name="freeform_guide_free_drag_summary">Metni, resimleri veya dosyaları desteklenen uygulamaların farklı pencereleri arasında sürükleyin</string>
-    <string name="freeform_guide_free_drag_title">Öğeleri pencereler arasında sürükleyin</string>
-    <string name="freeform_guide_free_drag_title_phone">Diğer uygulamalara kopyalamak için sürükleyin</string>
-    <string name="freeform_guide_how_to_free_drag_summary_phone">Resme basılı tutun ve başka bir uygulamaya sürükleyin</string>
-    <string name="freeform_guide_move_and_close_summary">Pencereyi hareket ettirmek için üst kenarından sürükleyin veya kapatmak için oraya dokunun</string>
-    <string name="freeform_guide_move_and_close_title">Kayan pencereleri taşıma ve kapatma</string>
-    <string name="freeform_guide_move_summary">Sürüklemek için kayan bir pencerenin işlem çubuğunu basılı tutun</string>
-    <string name="freeform_guide_move_title">Kayan pencereleri hareket ettirme</string>
-    <string name="freeform_guide_move_to_small_freeform_window_summary">Kayan pencereyi ekranın köşesine sürükleyin</string>
-    <string name="freeform_guide_move_to_small_freeform_window_title">Kayan pencereleri simge durumuna küçültme</string>
-    <string name="freeform_guide_multiple_window_settings_summary">İşlem çubuğuna dokunarak desteklenen uygulamalarda yeni pencereler açabilirsiniz</string>
-    <string name="freeform_guide_multiple_window_summary">"Yeni bir pencere açmak için yuvada bir uygulama simgesini basılı tutun
-* Bu özellik Noylar, Mail, Tarayıcı ve WPS ile çalışır"</string>
-    <string name="freeform_guide_multiple_window_title">Birden çok pencere aç</string>
-    <string name="freeform_guide_notification_drop_down_summary">Bir bildirimin işlem çubuğunu basılı tutun ve ardından aşağı çekin</string>
-    <string name="freeform_guide_notification_drop_down_title">Kayan pencereleri açma</string>
-    <string name="freeform_guide_replace_and_close_split_summary">Bölünmüş ekranda pencerelerden birini veya her ikisini birden kapatın</string>
-    <string name="freeform_guide_replace_and_close_split_title">Bölünmüş ekranda pencereleri kapat</string>
-    <string name="freeform_guide_resize_pad_summary">Kayan pencereye geçmek ve boyutunu ayarlamak için köşeyi sürükleyin</string>
-    <string name="freeform_guide_resize_pad_title">Pencereleri yeniden boyutlandırma</string>
-    <string name="freeform_guide_resize_summary">Yeniden boyutlandırmak için pencereleri köşelerinden sürükleyin</string>
-    <string name="freeform_guide_resize_title">Pencereleri yeniden boyutlandırma</string>
-    <string name="freeform_guide_settings">Kayan pencereler</string>
-    <string name="freeform_guide_slide_to_small_freeform_settings_summary">"Pencerenin alt kısmını basılı tutun ve sağ üst köşeye sürükleyin
-Bu özellik yalnızca sistem navigasyonu hareketlere ayarlandığında çalışır"</string>
-    <string name="freeform_guide_slide_to_small_freeform_settings_summary_squarehot">"Pencerenin alt kısmını basılı tutun ve ekranın üst kenarına sürükleyin
-Bu özellik yalnızca sistem navigasyonu hareketlere ayarlandığında çalışır"</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Pencerenin alt kısmını basılı tutun ve ekranın üst kenarına sürükleyin.
-Bu özellik yalnızca sistem navigasyonu hareketlere ayarlandığında çalışır."</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Bir uygulamayı simge durumuna küçültün</string>
-    <string name="freeform_guide_slide_up_to_close_summary">Kayan bir pencerenin işlem çubuğundan yukarı kaydırın</string>
-    <string name="freeform_guide_slide_up_to_close_title">Kayan pencereleri kapatma</string>
-    <string name="freeform_guide_split_screen_combination_fold">Bölünmüş ekran kombinasyonu</string>
-    <string name="freeform_guide_split_screen_combination_settings_fold">Bölünmüş ekran kombinasyonu</string>
-    <string name="freeform_guide_split_screen_combination_summary">Kombinasyon için bir kısayol oluşturmak üzere Son Kullanılanlar'da Bölünmüş ekran önizlemesini basılı tutun</string>
-    <string name="freeform_guide_split_screen_combination_summary_fold">İç ekrandaki uygulama yuvasını kullanarak Bölünmüş ekran kombinasyonları için kısayollar oluşturun</string>
-    <string name="freeform_guide_split_screen_combination_summary_pad">Uygulama dock'unu kullanarak Bölünmüş ekran kombinasyonları için kısayollar oluşturun</string>
-    <string name="freeform_guide_split_screen_combination_title">Bölünmüş ekran kombinasyonu</string>
-    <string name="freeform_guide_tip_controller">Yeni bir pencere açmak için dokunun</string>
-    <string name="freeform_guide_tip_dock">Kayan bir pencerede açmak için ortaya sürükleyin</string>
-    <string name="freeform_guide_tip_dock_browser">Yeni bir pencere açmak için basılı tutun</string>
-    <string name="freeform_guide_tip_dock_email">Yeni bir pencere açmak için basılı tutun</string>
-    <string name="freeform_guide_tip_dock_note">Yeni bir pencere açmak için basılı tutun</string>
-    <string name="freeform_guide_tip_dock_wps">Yeni bir pencere açmak için basılı tutun</string>
-    <string name="freeform_guide_tip_down">Eylem çubuğunu basılı tutun ve ardından kapatmak için yukarı kaydırın</string>
-    <string name="freeform_guide_tip_notification">Kayan bir pencerede açmak için aşağı çekin</string>
-    <string name="freeform_guide_tip_pin">Eylem çubuğunu basılı tutun ve ardından simge durumuna küçültmek için pencereyi hızlıca kenara sürükleyin</string>
-    <string name="freeform_guide_tip_pin_up">Kayan bir pencerede açmak için içeri doğru sürükleyin</string>
-    <string name="freeform_guide_tip_sidebar">"Basılı tutun,
-ardından taşımak için sürükleyin"</string>
-    <string name="freeform_guide_tip_sidedock">Dock'u göstermek için dışarı doğru kaydırın</string>
-    <string name="freeform_guide_tip_split">Bölünmüş ekrana geçmek için yana sürükleyin</string>
-    <string name="freeform_guide_tip_window_top">Pencereyi simge durumuna küçültmek için pencerenin üst kısmını basılı tutun, ardından hızla ekranın kenarına sürükleyin</string>
-    <string name="freeform_guide_to_sidehide_settings_summary">Uygulamayı gizlemek için hızlıca ekranın kenarına sürükleyin</string>
-    <string name="freeform_guide_to_sidehide_summary">Pencereyi eylem çubuğundan tutarak hızla ekranın kenarına sürükleyin</string>
-    <string name="freeform_guide_to_sidehide_summary_pad">Uygulamayı gizlemek için hızlıca ekranın kenarına sürükleyin</string>
-    <string name="freeform_guide_to_sidehide_title">Kayan pencereleri gizleme</string>
-    <string name="freeform_guide_vedio_description">Kayan pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun</string>
-    <string name="freeform_recommend_open_switch_summary">Kullanım senaryolarına göre uygulamaları Bölünmüş ekranda veya kayan pencerelerde açma önerileri alın</string>
-    <string name="freeform_recommend_open_switch_summary_fold">Bazı senaryolarda, önerilen uygulamalar dış ekranda kayan bir pencerede, iç ekranda ise kayan bir pencerede veya Bölünmüş ekranda açılacaktır</string>
-    <string name="freeform_recommend_open_switch_summary_phone">Bazı senaryolarda önerilen uygulamalar kayan bir pencerede açılacaktır</string>
-    <string name="freeform_recommend_open_switch_title">Akıllı öneriler</string>
-    <string name="freeform_slide_to_small_freeform">Kayan pencereyi simge durumuna küçült</string>
-    <string name="freeform_slide_to_small_freeform_summary">Eylem çubuğunu basılı tutun ve bir köşeye sürükleyin</string>
-    <string name="freeform_vedio_description">"· Bir bildirimi basılı tutun ardından kayan bir pencerede açmak için aşağı çekin
-· Uygulamaları seçmek için son kullanılanlarda kayan pencerelere dokunun"</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Kayan bir pencerede açmak için kenar çubuğundaki bir uygulamaya dokunun
-· Bir uygulamayı kayan bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranı kullanmak için yan tarafa sürükleyin"</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Bir uygulamayı kullanırken, başka bir uygulamayı kenar çubuğundan ekranın ortasına sürükleyerek kayan bir pencerede açın veya bölünmüş ekranı kullanmak için yan tarafa sürükleyin</string>
-    <string name="freeform_vedio_description_pad">Kayan pencereleri açmak için öğeleri yuvanın dışına sürükleyin</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">Cuma</string>
-    <string name="fullscreen_slide_to_small_freeform">Bir uygulamayı simge durumuna küçültün</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Ekranın alt kısmından sağ üst köşeye doğru kaydırın</string>
-    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Ekranın altından üst kenarına doğru kaydırın</string>
     <string name="function_not_support">Bu cihazda desteklenmiyor</string>
-    <string name="gd_setting_title">Kenar çubuğu</string>
     <string name="gesture_disabled">Kapalı</string>
     <string name="gesture_enable">Açık</string>
-    <string name="gesture_fullscreen_to_splitscreen">Bölünmüş ekrana geç</string>
     <string name="gesture_function_dialog_message">%1$s, %2$s için kullanılır. %3$s ile değiştirilsin mi?</string>
     <string name="gesture_hint_call">Arama yanıtlanıyor</string>
     <string name="gesture_hint_endcall">Arama sonlandırılıyor</string>
@@ -588,9 +455,6 @@ ardından taşımak için sürükleyin"</string>
     <string name="gesture_hint_swipe_up">Yukarı kaydırın</string>
     <string name="gesture_hint_trigger">Hareketi tanıma</string>
     <string name="gesture_settings_title">Hareket kısayolları</string>
-    <string name="gesture_split_left_to_right_summary">Üç parmağınızla sağa kaydırın</string>
-    <string name="gesture_split_right_to_left_summary">Üç parmağınızla sola kaydırın</string>
-    <string name="gesture_to_split_screen">Hareketler</string>
     <string name="global_stylus_summary">Herhangi bir metin alanına yazın ve el yazınızı metne çevirin (Yalnızca İngilizce ve Çince desteklenmektedir)</string>
     <string name="global_stylus_title">Yazı</string>
     <string name="global_stylus_title_beta">Yazıcı (Beta)</string>
@@ -662,25 +526,6 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home_app">Başlatıcı</string>
     <string name="home_key">Ana ekran</string>
-    <string name="how_to_close_or_fullscreen_freeform">Kayan pencereleri kapatma veya tam ekran moduna geçme</string>
-    <string name="how_to_create_split_screen_combination">Bölünmüş ekran kombinasyonu oluşturma</string>
-    <string name="how_to_create_split_screen_combination_summary">Kombinasyonu basılı tutun ve ana ekrana ekleyin</string>
-    <string name="how_to_drop_down_to_fullscreen">Tam ekran moduna geç</string>
-    <string name="how_to_drop_down_to_fullscreen_summary">Basılı tutun ve ardından kayan pencerenin eylem çubuğunu aşağı çekin</string>
-    <string name="how_to_hang_freeform">Kayan pencereleri simge durumuna küçültme</string>
-    <string name="how_to_hang_to_small_freeform">Kayan pencereyi simge durumuna küçült</string>
-    <string name="how_to_hang_to_small_freeform_summary">Kayan pencereyi ekranın köşesine sürükleyin</string>
-    <string name="how_to_move_freeform">Kayan pencereleri hareket ettirme</string>
-    <string name="how_to_move_freeform_window">Kayan pencereyi hareket ettirme</string>
-    <string name="how_to_move_freeform_window_summary">Sürüklemek için kayan bir pencerenin eylem çubuğunu basılı tutun</string>
-    <string name="how_to_notification_drop_down">Kayan bir pencere açın</string>
-    <string name="how_to_notification_drop_down_summary">Bir bildirimin işlem çubuğunu basılı tutun ve ardından aşağı çekin</string>
-    <string name="how_to_open_freeform">Bildirimleri kayan bir pencerede açma</string>
-    <string name="how_to_slide_up_to_close">Kayan pencereyi kapat</string>
-    <string name="how_to_slide_up_to_close_summary">Kayan bir pencerenin işlem çubuğundan yukarı kaydırın</string>
-    <string name="how_to_split_screen_combination">Bölünmüş ekran kombinasyonu</string>
-    <string name="how_to_split_screen_combination_summary_pad">Uygulama dock'unu kullanarak Bölünmüş ekran kombinasyonları için kısayollar oluşturun</string>
-    <string name="how_to_use_freeform">Kayan pencereler nasıl kullanılır</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="imageData">Fotoğraflar</string>
     <string name="immediately_go">Şimdi git</string>
@@ -783,7 +628,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="ks_dialog_reset_conflict_text">Sıfırlanamıyor. Bu kombinasyon zaten alınmış</string>
     <string name="ks_dialog_reset_text_app">Uygulamaları açmak için varsayılan kısayol tercihleri geri yüklenecektir. Özel kısayollarınız silinecektir. Yine de geri yüklensin mi?</string>
     <string name="ks_dialog_reset_text_system">Varsayılan sistem kısayolu tercihleri şimdi geri yüklensin mi?</string>
-    <string name="ks_dialog_title">Aç %s</string>
+    <string name="ks_dialog_title">%s aç</string>
     <string name="ks_launch_control_center">Kontrol merkezi</string>
     <string name="ks_launch_notification_center">Bildirim çubuğu</string>
     <string name="ks_launch_recents_tasks">Son kullanılanları aç</string>
@@ -903,11 +748,6 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="mi_pay_summary">Ulaşım kartı/Mi ödeme/Anahtar kartı</string>
     <string name="mi_pay_summary_without_nfc">Mi ödeme</string>
     <string name="midnight">Gece</string>
-    <string name="miui_bubbles_notification">Konuşma balonları</string>
-    <string name="miui_bubbles_notification_status_opened">Açık</string>
-    <string name="miui_desktop_mode_settings">İş modu</string>
-    <string name="miui_desktop_mode_settings_title">İş modu</string>
-    <string name="miui_desktop_mode_video_description">Uygulamaları kayan pencerelerde açmak için yuvadaki uygulama simgelerine dokunun. İş modunu kontrol merkezinden açıp kapatabilirsiniz</string>
     <string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
     <string name="miui_keyboard_back_light">@string/keyboard_back_light</string>
     <string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
@@ -1044,9 +884,6 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="mtrl_timepicker_cancel">İptal et</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
-    <string name="multi_window_cvw_summary">Kayan pencereye geçmek ve boyutunu ayarlamak için köşeyi sürükleyin</string>
-    <string name="multi_window_cvw_summary_global">Kayan pencereye geçmek ve boyutunu ayarlamak için köşeyi sürükleyin</string>
-    <string name="multi_window_cvw_title">Yüzen pencere</string>
     <string name="mute">Sessiz mod</string>
     <string name="natural_scroll">Doğal kaydırma</string>
     <string name="natural_scroll_summary">İçerik parmağınızla birlikte kayar</string>
@@ -1088,12 +925,9 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="open_maintenance_mode_msg_sub">Veri yedekleme</string>
     <string name="open_maintenance_mode_tips">Az önce bakım modunu kapattınız ve ilgili veriler siliniyor. Lütfen daha sonra tekrar deneyin</string>
     <string name="opened">Açık</string>
-    <string name="operation_guide_settings_title">Yüzen pencereler nasıl kullanılır?</string>
-    <string name="operation_guide_title">Öğreticiler</string>
     <string name="other">Diğer</string>
     <string name="otherSettings">Diğer ayarlar</string>
     <string name="other_advanced_settings">Ek ayarlar</string>
-    <string name="other_operations_title">Diğer eğitimler</string>
     <string name="passWordGuardSummary">Bir şifre kullanarak ikinci alana kilit ekranından giriş yapın</string>
     <string name="passwordProtect">Şifre</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
@@ -1101,8 +935,6 @@ Tuşa %s saniye basarsanız onun yerine kapatma menüsünü açacaksınız"</str
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="pin_toast">Bu uygulamanın sabitlemesini kaldırmak için ekranın altından yukarı kaydırın ve duraklatın</string>
-    <string name="pin_toast_nav">Bu uygulamanın sabitlemesini kaldırmak için geri ve önizleme düğmelerini basılı tutun</string>
     <string name="please_diff_finger_print">"İlk ve ikinci alanda farklı parmak izlerinin kullanıldığından emin olun
 Aksi halde ikinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="pm">ÖS</string>
@@ -1116,10 +948,6 @@ Aksi halde ikinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="power_key_how_start_detail">Güç tuşuna basın ve 0.5 saniye boyunca basılı tutun. Konuşmak için tuşu bırakın</string>
     <string name="power_key_start_enjoy">Google asistanı kullanmaya başla</string>
     <string name="power_key_start_guide">Tam ekran cihazlarda güç tuşu kullanarak Google asistanı başlatma</string>
-    <string name="pref_key_bubble_settings_manage_apps">pref_key_bubble_settings_manage_apps</string>
-    <string name="pref_key_bubble_settings_switch">pref_key_bubble_settings_switch</string>
-    <string name="pref_key_g_bubble_settings_notification">pref_key_g_bubble_settings_notification</string>
-    <string name="pref_key_g_bubble_settings_preview">pref_key_group_bubble_settings_preview</string>
     <string name="pref_volume_launch_camera_summary">Kamerayı başlatmak için ses kısma tuşuna iki kez basın</string>
     <string name="pref_volume_launch_camera_title">Kamerayı başlat</string>
     <string name="pref_volume_wake_summary">Ses tuşlarına basmak cihazı uyandırır</string>
@@ -1257,7 +1085,7 @@ Verilerinizi ayırın ve güvenliğini sağlayın"</string>
     <string name="show_private_msg_summary">Özel mesajları ikinci alanda görüntüle</string>
     <string name="single_key_use">Tek tuş</string>
     <string name="single_key_use_summary">"Diğer 2 tuş tarafından gerçekleştirilen işlevler için ana ekran tuşunu kullanın
-Geri dönmek için Ana ekran tuşuna dokunun
+Geri dönmek için ana ekran tuşuna dokunun
 Son kullanılanları açmak için çift dokunun"</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -1303,7 +1131,6 @@ Son kullanılanları açmak için çift dokunun"</string>
     <string name="space_des_default">Şifrelenmiş verileri içeren izole alan</string>
     <string name="space_finger_sub_text">Daha hızlı geçiş yapmak için İkinci alan parmak izi belirleyin</string>
     <string name="space_name_default">İş alanı</string>
-    <string name="split_operation_guide_title">Bölünmüş ekran nasıl kullanılır?</string>
     <string name="split_screen">Ekran bölmeyi aç</string>
     <string name="startSet">Ayarla</string>
     <string name="startTransfer">Taşı</string>
@@ -1418,7 +1245,6 @@ ikinci alan parmak izi kullanın"</string>
     <string name="switching_contacts">Kişiler taşınıyor</string>
     <string name="switching_files">Dosyalar taşınıyor</string>
     <string name="switching_photos">Fotoğraflar taşınıyor</string>
-    <string name="tablet_screen_settings">Tabletler için özellikler</string>
     <string name="temporary_no_set">Şimdi değil</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
@@ -1462,9 +1288,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="the_water_lantern_festival">Su feneri festivali</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">Sesli yardımcıyı tam ekran modunda başlat (Görsel tuş yok)</string>
     <string name="this_function_can_not_use_in_second_space">Bu özellik sadece ilk alanda kullanılabilir</string>
-    <string name="third_fingers_slide_horizontally_into_splitscreen_fold">Bölünmüş ekranı açmak için üç parmağınızla iç ekranda yatay olarak kaydırın</string>
-    <string name="third_fingers_slide_horizontally_into_splitscreen_pad">Bölünmüş ekranı açmak için üç parmağınızla yatay olarak kaydırın</string>
-    <string name="third_gesture_down">3 parmağınızı aşağı kaydırın</string>
+    <string name="three_gesture_down">3 parmağınızı aşağı kaydırın</string>
     <string name="three_gesture_horizontal">%d parmakla yatay olarak kaydırın</string>
     <string name="three_gesture_long_press">%d parmak ile basın ve basılı tutun</string>
     <string name="three_gesture_pc_mode">PC modunu aç</string>

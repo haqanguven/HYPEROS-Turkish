@@ -35,7 +35,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">ÖS</string>
     <string name="agree_button">Kabul et</string>
-    <string name="agree_revoke_permission_title">İzinleri geri çek</string>
+    <string name="agree_revoke_permission_title">İzini geri al</string>
     <string name="alert_button_agree_and_continue">Kabul et</string>
     <string name="alert_button_deny">Reddet</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite bilgisayarda bir yedek oluşturmak için izin ister. İzin verilsin mi?</string>

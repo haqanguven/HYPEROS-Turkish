@@ -592,11 +592,11 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_from_cloud">Bulut yedeklemesinden geri yükle</string>
     <string name="restore_from_mimover">Mi taşıyıcıyı kullanarak eski cihazdan aktar</string>
     <string name="restore_from_this_device">Yedekleme seçin</string>
-    <string name="restore_header_backup_size">Yedek verisi: %s</string>
+    <string name="restore_header_backup_size">Boyut</string>
     <string name="restore_header_msg">"WeChat verilerini geri yüklemeden önce bu cihazda WeChat'in kurulu olmadığından emin olun. Veriler geri yüklenirken WeChat'i açmayın veya kullanmayın"</string>
-    <string name="restore_header_title">Toplam boyut:</string>
-    <string name="restore_header_title2">Toplam yedekleme:</string>
-    <string name="restore_header_title_backup_time">Zaman</string>
+    <string name="restore_header_title">Yedek boyutu</string>
+    <string name="restore_header_title2">Cihazlar</string>
+    <string name="restore_header_title_backup_time">Tarih</string>
     <string name="restore_home_screen_apps">Öğeleri geri yükle</string>
     <string name="restore_home_screen_apps_options">Veriyi geri yükle</string>
     <string name="restore_network_pause">Mobil veriyi kurtarmak için duraklatıldı. Devam etmek için dokunun</string>
