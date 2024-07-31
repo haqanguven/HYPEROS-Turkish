@@ -89,14 +89,14 @@ Yeniden etkinleştirme işlemi için yeni Sim kartınız (%s) ile bağlantılı 
     <string name="explain_activate_register_xiaomi_account_title">Xiaomi hesabı oluşturun</string>
     <string name="explain_activate_send_sms_permission_msg">"%s'i etkinleştirmek için cihazınızın aktivasyon mesajı gönderme iznine ihtiyacı var. Operatörünüz bu mesaj için sizden ücret alacaktır"</string>
     <string name="explain_send_sms_permission_button">Doğrula</string>
-    <string name="privacy_revoke_failed_msg_tip">Önce bu hizmetin telefon numaranıza erişmesine izin verin.</string>
+    <string name="privacy_revoke_failed_msg_tip">Önce bu hizmetin telefon numaranıza erişmesine izin verin</string>
     <string name="privacy_revoke_tips">Yetkiyi iptal ettikten sonra uygulama verilerinizi toplamayı durduracak ve tüm verilerinizi sunucularından silecektir. Xiaomi bulut, Mi mesaj ve diğer mesajlaşma özellikleriyle senkronizasyon artık kullanılamayacak. Yetki yine de iptal edilsin mi?</string>
     <string name="sim_activate_failed">Hizmet etkinleştirilemedi</string>
     <string name="sim_activate_notificat_channel">Etkinleştirme bildirimleri</string>
     <string name="sim_activate_prepare">Hizmeti etkinleştirin</string>
     <string name="sim_activated_failed_msg">Hizmet etkinleştirilemedi. Tekrar denemek için dokunun</string>
-    <string name="sim_unactived_feature_title">%s etkinleştirilmedi</string>
-    <string name="sim_unactived_msg">Bu hizmet etkinleştirilmedi. Tekrar denemek için dokunun</string>
-    <string name="sim_unactived_register_xiaomi_account_feature_title">Xiaomi hesabı oluşturulmadı</string>
+    <string name="sim_unactivated_feature_title">%s etkinleştirilmedi</string>
+    <string name="sim_unactivated_msg">Bu hizmet etkinleştirilmedi. Tekrar denemek için dokunun</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">Xiaomi hesabı oluşturulamadı</string>
     <string name="waiting_sim_in_service">"Sim'in etkinleştirilmesi bekleniyor"</string>
 </resources>

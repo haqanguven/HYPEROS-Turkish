@@ -455,6 +455,7 @@ Oluşturulan kayıtları dosyalarda görüntüleyebilirsiniz"</string>
     <string name="gesture_hint_swipe_up">Yukarı kaydırın</string>
     <string name="gesture_hint_trigger">Hareketi tanıma</string>
     <string name="gesture_settings_title">Hareket kısayolları</string>
+    <string name="global_stylus_native_summary">Herhangi bir metin alanına yazın ve el yazınızı metne dönüştürün (Sadece bazı giriş yöntemleri tarafından desteklenir)</string>
     <string name="global_stylus_summary">Herhangi bir metin alanına yazın ve el yazınızı metne çevirin (Yalnızca İngilizce ve Çince desteklenmektedir)</string>
     <string name="global_stylus_title">Yazı</string>
     <string name="global_stylus_title_beta">Yazıcı (Beta)</string>
@@ -498,6 +499,7 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="guide_contact_suc_sub_title_desc">İkinci alanda yalnızca özel kişi ve mesajlar görüntülenir</string>
     <string name="guide_contact_suc_title_desc">Başarıyla ayarlandı</string>
     <string name="guide_contact_title_desc">Özel öğeler ikinci alanda görüntülensin mi?</string>
+    <string name="guide_insert_blank_tip">Karakterleri ayırmak için dikey bir çizgi çizin. Birleştirmek için tekrarlayın</string>
     <string name="guide_media_play_pause">Video ve sesi oynatın ve duraklatın</string>
     <string name="guide_media_process">Oynatma ilerlemesini ayarlayın</string>
     <string name="guide_media_volume">Medya ses düzeyini ayarlayın</string>
@@ -510,6 +512,11 @@ Mesajlar yalnızca ikinci alanca görüntülenir"</string>
     <string name="guide_start_text">İki alan. Tek cihaz</string>
     <string name="guide_swipe_right_left">Yatay olarak kaydırın</string>
     <string name="guide_swipe_up_down">Yukarı ve aşağı kaydırın</string>
+    <string name="handwriting_enable_dialog_cancel">İptal et</string>
+    <string name="handwriting_enable_dialog_confirm">Ayarlar</string>
+    <string name="handwriting_enable_dialog_message">Mevcut klavye Scribe uygulamasını desteklemiyor. Tercihlerinizi ayarlardan değiştirebilirsiniz</string>
+    <string name="handwriting_enable_dialog_title">Scribe kapalı</string>
+    <string name="handwriting_enable_dialog_unprompt">Bir daha gösterme</string>
     <string name="has_created_second_space">"Şimdi ikinci alan açabilirsiniz
 İki alan. Tek cihaz"</string>
     <string name="heavenly_stems_bing">3</string>
@@ -542,6 +549,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="import_photo_suc">Fotoğraflar içe aktarıldı</string>
     <string name="input_space_finger">Şimdi oluştur</string>
     <string name="input_space_password">Şimdi oluştur</string>
+    <string name="inputmethod_switch_automatic">Scribe açıldığında giriş yöntemi otomatik olarak değiştirilecektir</string>
     <string name="instagram_send">İnstagram ile paylaş</string>
     <string name="install">Yükle</string>
     <string name="install_error">Yüklenemedi. Tekrar deneyin</string>
@@ -1218,6 +1226,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="support_current_inputmethod">Mevcut klavye</string>
     <string name="sure_to_use">Onayla</string>
     <string name="switchDataSummary">Öğeleri alanlar arasında taşıyın</string>
     <string name="switch_apps_settings">Uygulama ayarları</string>
@@ -1422,6 +1431,7 @@ kendi uygulamasını hak ediyor"</string>
     <string name="xspace_introduce">Tavsiye edilen</string>
     <string name="xspace_label">Çift uygulamalar</string>
     <string name="xspace_loading_msg">Uygulamalar yükleniyor</string>
+    <string name="xspace_manager_restrictions_add_user">Bu özellik cihaz yöneticiniz veya şirket politikanız tarafından kısıtlanmıştır</string>
     <string name="xspace_notification">Çift uygulama bildirimleri</string>
     <string name="xspace_notification_button">Dene</string>
     <string name="xspace_notification_error">Çift WeChat uygulamasında oturum açın ve tekrar deneyin</string>

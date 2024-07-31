@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Güç modu</string>
+	<string name="help_resource">Pil ömrünü uzatabilecek, güç tüketimi deneyimi sunabilecek ve daha iyi performans güç modları sağlayacaktır</string>
+    <string name="power_save_mode_option_deep">Derin mod</string>
+    <string name="power_save_mode_option_light">Açık modu</string>
+    <string name="power_save_mode_option_medium">Orta mod</string>
+    <string name="power_save_mode_option_none">Hiçbiri</string>
+</resources>

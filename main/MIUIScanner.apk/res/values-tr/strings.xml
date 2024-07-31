@@ -65,6 +65,7 @@
     <string name="birthday">Doğum günü:</string>
     <string name="black_and_white">Siyah ve beyaz</string>
     <string name="blog">Weibo</string>
+    <string name="bluetooth_auracast_fg_title">Ses yayını</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="business_card">İş kartı</string>
     <string name="business_card_title">İş kartını karenin içerisine hizalayın</string>
@@ -536,6 +537,9 @@
     <string name="mihome_install_title">Mi ev uygulamasını yükleyin</string>
     <string name="mihome_update_message">Mevcut Mi ev uygulama sürümü çok düşük. Lütfen güncelleyin ve tekrar deneyin</string>
     <string name="mihome_update_title">Mi ev uygulamasını güncelleyin</string>
+    <string name="milink_toast_des">"Sisteminiz HyperOS'a yükseltilmedi. Lütfen HyperOS olmayan sürüm QR kodunu tarayın"</string>
+    <string name="milink_update_des">[Ara bağlantı hizmeti] uygulamasını en son sürüme yükseltmek için lütfen uygulama mağazasına gidin ve tekrar deneyin</string>
+    <string name="milink_update_title">Yükselt</string>
     <string name="mipayin_dialog_more">Daha fazla</string>
     <string name="mipayin_dialog_title">Aç</string>
     <string name="miracast_connect">Yansıt</string>
@@ -675,6 +679,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="no_one_phone">Geçerli bir telefon numarası girin</string>
     <string name="no_payment_software_installed">"Hiçbir ödeme uygulaması yüklü değil. Önce Mi ödeme, WeChat veya Alipay'i yükleyin"</string>
     <string name="no_storage">Dahili depolama alanı yok</string>
+    <string name="no_support_multi_window">Barkod okuyucu bölünmüş ekran veya yüzen pencereleri desteklemiyor</string>
     <string name="no_support_to_translate_type">Bu dil desteklenmiyor</string>
     <string name="noon">Öğlen</string>
     <string name="not_camera_permissions_hint">Bu özelliği kullanabilmek için kamera izinlerini verin</string>

@@ -493,6 +493,7 @@
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.BLUETOOTH_CONNECT;android.permission.POST_NOTIFICATIONS;android.permission.READ_CALL_LOG;android.permission.READ_MEDIA_AUDIO;android.permission.READ_PHONE_STATE</string>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
     <string name="satellite_call_failed">Sinyal kesildi. Tekrar deneyin</string>
+    <string name="satellite_cancel">İptal et</string>
     <string name="satellite_debug_antenna">Anten</string>
     <string name="satellite_debug_azimuth">Azimut</string>
     <string name="satellite_debug_compass">Pusula</string>
@@ -529,6 +530,7 @@ cihazınızı yukarı eğin"</string>
     <string name="satellite_knew">Tamam</string>
     <string name="satellite_latitude_longitude">"Mevcut konum: "</string>
     <string name="satellite_location_deny_permission_msg">Tiantong uydu iletişimlerini açmak için konum erişimine izin verin</string>
+    <string name="satellite_ok">Kullan</string>
     <string name="satellite_satellite_accessory">Tiantong uydu sinyal geliştirme aksesuarlarını kullanıyorum</string>
     <string name="satellite_satellite_service_redirection">Etkinleştir</string>
     <string name="satellite_satellite_service_tip">Doğrudan uydu bağlantı hizmetini etkinleştirmediğiniz anlaşılıyor. Etkinleştirmeden sonra uyduları aramayı deneyin</string>

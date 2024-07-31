@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="danmu_preview_text_default">
+		<item>Görünmeyen bilgi yoktur. Sadece cevap vermek istemeyen kişiler vardır</item>
+        <item>Birinden hoşlanırsanız mesajınızı hızlandırmadan edemezsiniz</item>
+        <item>Black Shark ile bekar olmaya mahkum</item>
+        <item>Muhtemelen kız arkadaşın yoktur</item>
+        <item>Neden mesajıma cevap vermiyorsun. Neden senin mesajını bekleyemiyorum. İyi geceler</item>
+        <item>İyi bir arkadaşın mesajı saniyeler içinde yanıtlaması gerekmez mi?</item>
+        <item>İzleme. E-spor sevgiyi hak etmiyor</item>
+    </string-array>
+    <string-array name="danmu_preview_text_new">
+		<item>Bana bir şeyleri nasıl yapacağımı mı öğretiyorsun?</öğe>
+        <item>Thunder Gaba, Kuş Votkası!</öğe>
+        <item>Ben çok aptalım, nasıl zeki ve yetenekli bir kız kardeşim olabilir! (Diş ağzı)</item>
+        <item>Birlikte yürüyüşe çıkmak ister misin?</öğe>
+        <item>Ye Qinghui (Ye'nin gençliği geri döndü)</item>
+        <item>Demek aşk gidiyor. Değil mi? </öğe>
+        <item>Sütlü çayı yumuşak içmelisin. Kuzeybatı rüzgarını içmem için beni rahatsız etme</item>
+        <item>Rol modelim</item>
+        <item>Sence hala şansım var mı?</öğe>
+        <item>Bir dahaki sefere emin olun</item>
+    </string-array>
+</resources>

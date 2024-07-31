@@ -2013,7 +2013,7 @@
         <item>Düşük güç tüketimi</item>
     </string-array>
     <string-array name="health_n60_ecg_situation_array_list">
-<item>Uyuyor</item>
+        <item>Uyuyor</item>
         <item>Egzersiz yapmak</item>
         <item>Yemek yemek</item>
         <item>Dinleniyor</item>
@@ -2023,62 +2023,62 @@
         <item>Diğer</item>
     </string-array>
     <string-array name="health_n60_ecg_symptom_array_list">
-        <item>Chest pain</item>
-        <item>Angina</item>
-        <item>Chest tightness</item>
-        <item>Chest discomfort</item>
-        <item>Shortness of breath</item>
-        <item>Rapid/shallow breathing</item>
-        <item>Palpitations</item>
-        <item>Anxiety</item>
-        <item>Rapid heartbeat</item>
-        <item>Difficulty breathing</item>
-        <item>Chest pain in areas besides the heart</item>
-        <item>Fatigue</item>
-        <item>Night sweats</item>
-        <item>Dizziness/fainting</item>
-        <item>Nausea</item>
-        <item>Snoring</item>
-        <item>Other</item>
+        <item>Göğüs ağrısı</item>
+        <item>Anjina, göğüs ağrısı</item>
+        <item>Göğüs sıkışması</item>
+        <item>Göğüs rahatsızlığı</item>
+        <item>Nefes darlığı</item>
+        <item>Hızlı nefes</item>
+        <item>Çarpıntı</item>
+        <item>Kaygı</item>
+        <item>Hızlı kalp atışı</item>
+        <item>Nefes alma zorluğu</item>
+        <item>Kalp dışındaki bölgelerde göğüs ağrısı</item>
+        <item>Yorgunluk</item>
+        <item>Gece terlemeleri</item>
+        <item>Baş dönmesi/bayılma</item>
+        <item>Mide bulantısı</item>
+        <item>Horlama</item>
+        <item>Diğer</item>
     </string-array>
     <string-array name="health_n60_label_situation">
-        <item>Sleeping</item>
-        <item>Exercising</item>
-        <item>Eating</item>
-        <item>Resting</item>
-        <item>When exhausted</item>
-        <item>When active</item>
-        <item>Using the toilet</item>
+        <item>Uyku</item>
+        <item>Egzersiz</item>
+        <item>Yeme</item>
+        <item>Dinlenme</item>
+        <item>Yorgunken</item>
+        <item>Aktifken</item>
+        <item>Tuvaleti kullanıyorken</item>
     </string-array>
     <string-array name="health_n60_label_symptom">
-        <item>Chest tightness</item>
-        <item>Chest tightness</item>
-        <item>Angina</item>
-        <item>Shortness of breath</item>
-        <item>Rapid/shallow breathing</item>
-        <item>Chest pain</item>
-        <item>Palpitations</item>
-        <item>Anxiety</item>
-        <item>Difficulty breathing</item>
-        <item>Anxiety</item>
-        <item>Rapid heartbeat</item>
-        <item>Chest pain in areas besides the heart</item>
-        <item>Night sweats</item>
-        <item>Fatigue</item>
-        <item>Dizziness/fainting</item>
-        <item>Nausea</item>
-        <item>Snoring</item>
-        <item>Other</item>
+        <item>Göğüs sıkışması</item>
+        <item>Göğüs sıkışması</item>
+        <item>Anjina, göğüs ağrısı</item>
+        <item>Nefes darlığı</item>
+        <item>Hızlı nefes</item>
+        <item>Göğüs ağrısı</item>
+        <item>Çarpıntı</item>
+        <item>Kaygı</item>
+        <item>Nefes alma zorluğu</item>
+        <item>Kaygı</item>
+        <item>Hızlı kalp atışı</item>
+        <item>Kalp dışındaki bölgelerde göğüs ağrısı</item>
+        <item>Gece terlemeleri</item>
+        <item>Yorgunluk</item>
+        <item>Baş dönmesi/bayılma</item>
+        <item>Mide bulantısı</item>
+        <item>Horlama</item>
+        <item>Diğer</item>
     </string-array>
     <string-array name="health_n60_label_time">
-        <item>Daily</item>
-        <item>Once every 3-5 days</item>
-        <item>Only once</item>
+        <item>Günlük</item>
+        <item>Her 3-5 günde</item>
+        <item>Sadece bir kez</item>
     </string-array>
     <string-array name="health_n60_label_title">
-        <item>Symptoms</item>
-        <item>When symptoms occur</item>
-        <item>Symptom frequency</item>
+        <item>Belirtiler</item>
+        <item>Belirtiler ortaya çıktığında</item>
+        <item>Belirti sıklığı</item>
     </string-array>
     <string-array name="health_sleep_evaluation_daily_sleep_arr">
         <item>Kısa uykunuzu 30 dakika ile sınırlandırmak uykuya daha iyi dalmanıza yardımcı olur</item>
@@ -2267,8 +2267,8 @@
         <item>@string/nfc_entrance_card_name_company</item>
     </string-array>
     <string-array name="passport_account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Erkek</item>
+        <item>Kadın</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -2300,20 +2300,20 @@
         <item>Z</item>
     </string-array>
     <string-array name="relative_care_system_recommendation_identity_label">
-        <item>Dad</item>
-        <item>Mom</item>
-        <item>Father-in-law</item>
-        <item>Mother-in-law</item>
-        <item>Paternal grandfather</item>
-        <item>Paternal grandmother</item>
-        <item>Maternal grandfather</item>
-        <item>Maternal grandmother</item>
-        <item>Son</item>
-        <item>Daughter</item>
-        <item>Younger sister</item>
-        <item>Older sister</item>
-        <item>Younger brother</item>
-        <item>Older brother</item>
+        <item>Baba</item>
+        <item>Anne</item>
+        <item>Kayınpeder</item>
+        <item>Kayınvalide</item>
+        <item>Babanın babası</item>
+        <item>Babanın annesi</item>
+        <item>Annenin babası</item>
+        <item>Annenin annesi</item>
+        <item>Erkek evlat</item>
+        <item>Kız evlat</item>
+        <item>Kız kardeş</item>
+        <item>Abla</item>
+        <item>Erkek kardeş</item>
+        <item>Ağabey</item>
     </string-array>
     <string-array name="settingitem_date_week">
         <item>Pazartesi</item>
@@ -2372,19 +2372,19 @@
     <string-array name="userinfo_Height_unit">
         <item>cm</item>
     </string-array>
-    <string-array name="userinfo_blood_types">
+    <string-array name="userinfo_blood_types_combination">
         <item>A</item>
         <item>B</item>
         <item>AB</item>
         <item>O</item>
-        <item>A(-)</item>
-        <item>A(+)</item>
-        <item>B(-)</item>
-        <item>B(+)</item>
-        <item>AB(-)</item>
-        <item>AB(+)</item>
-        <item>O(-)</item>
-        <item>O(+)</item>
+        <item>A–</item>
+        <item>A+</item>
+        <item>B–</item>
+        <item>B+</item>
+        <item>AB–</item>
+        <item>AB+</item>
+        <item>O–</item>
+        <item>O+</item>
     </string-array>
     <string-array name="userinfo_contact_relation_array">
         <item>Ayarlanmadı</item>
