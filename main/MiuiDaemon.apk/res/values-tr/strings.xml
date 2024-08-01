@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="action_settings">Ayarlar</string>
+	<string name="app_name">Sistem arka plan programı</string>
+	<string name="not_show_again">Bir dahaki sefere otomatik olarak yükle</string>
+	<string name="size_byte">B</string>
+	<string name="size_giga_byte">GB</string>
+	<string name="size_kilo_byte">KB</string>
+	<string name="size_mega_byte">MB</string>
+	<string name="size_peta_byte">PB</string>
+	<string name="size_tera_byte">TB</string>
+	<string name="submit_dialog_cancel">İptal et</string>
+	<string name="submit_dialog_confirm">Yükle</string>
+	<string name="submit_dialog_content">Bu sorunu bulup çözmemize yardımcı olacak günlükler yüklensin mi? Günlükler konumunuzla ilgili bilgiler de dahil olmak üzere kişisel bilgilerinizi içerebilir</string>
+	<string name="submit_dialog_title">Bir hata oluştu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Sakin olun ve yakınınızda bir sığınak arayın</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Sakin olun ve yakınınızda bir sığınak arayın</string>
+    <string name="etws_primary_default_message_others">Yerel yönetim tarafından uyarı yayınlandı. Yakında daha fazla bilgi geliyor</string>
+    <string name="etws_primary_default_message_test">Acil durum mesajları testi</string>
+    <string name="etws_primary_default_message_tsunami">Kıyı bölgelerinizden ve nehir kıyılarından derhal yüksek zemin gibi daha güvenli yerlere tahliye olun</string>
+</resources>
