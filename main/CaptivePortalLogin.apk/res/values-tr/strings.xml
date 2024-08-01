@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_abort">Geri</string>
+    <string name="action_bar_label">Ağda oturum aç</string>
+    <string name="action_bar_title">"%1$s'de oturum aç"</string>
+    <string name="action_continue">Devam et</string>
+    <string name="action_do_not_use_network">Bu ağı kullanma</string>
+    <string name="action_use_network">Bu ağı olduğu gibi kullan</string>
+    <string name="app_name">Sabit portal girişi</string>
+    <string name="call_notification_answer_action">Cevap</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen bir arama taranıyor</string>
+    <string name="cancel_pending_downloads">İndirme iptal edildi</string>
+    <string name="channel_description_download_progress">Dosya indirmelerinin ilerlemesini gösteren bildirimler</string>
+    <string name="channel_description_downloads">Tamamlanan veya iptal edilen indirmeleri gösteren bildirimler</string>
+    <string name="channel_name_download_progress">İndirme ilerleme durumu</string>
+    <string name="channel_name_downloads">İndirmeler</string>
+    <string name="custom_scheme_example">Örneğin: Oturum açma sayfası kimlik doğrulaması için belirli bir uygulama gerektirebilir</string>
+    <string name="custom_scheme_warning">Denediğiniz ağ katılmak başka bir uygulamayı açmayı talep ediyor</string>
+    <string name="download_completed">İndirme tamamlandı</string>
+    <string name="downloading_paramfile">%1$s indiriliyor</string>
+    <string name="error_continue_via_browser">Tarayıcı üzerinden yine de devam et</string>
+    <string name="error_downloading_paramfile">%1$s indirilemedi</string>
+    <string name="file_too_large_cancel_download">Dosya çok büyük. İndirme iptal edildi</string>
+    <string name="no_bypass_error_vpnwarning">Ayrıca cihaz şu anda bir VPN çalıştırdığı için bu hatayı atlatmak mümkün değil</string>
+    <string name="ok">Tamam</string>
+    <string name="page_info">Sayfa bilgisi</string>
+    <string name="page_info_address">Adres:</string>
+    <string name="ssl_error_date_invalid">Bu sertifikanın tarihi geçersiz</string>
+    <string name="ssl_error_example">Örneğin: Giriş sayfası gösterilen kuruluşa ait olmayabilir</string>
+    <string name="ssl_error_expired">Bu sertifikanın süresi doldu</string>
+    <string name="ssl_error_invalid">Bu sertifika geçersiz</string>
+    <string name="ssl_error_mismatch">Sitenin adı sertifikadaki adla eşleşmiyor</string>
+    <string name="ssl_error_not_yet_valid">Bu sertifika henüz geçerli değil</string>
+    <string name="ssl_error_unknown">Bilinmeyen sertifika hatası</string>
+    <string name="ssl_error_untrusted">Bu sertifika güvenilir bir yetkiliden değil</string>
+    <string name="ssl_error_view_certificate">Görüntüle sertifika</string>
+    <string name="ssl_error_warning">Katılmaya çalıştığınız ağda güvenlik sorunları var</string>
+    <string name="ssl_security_warning_title">Güvenlik uyarısı</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
