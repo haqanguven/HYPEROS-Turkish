@@ -990,6 +990,17 @@ Cihaz ne kadar çok kullanılırsa alışkanlık öğrenme o kadar doğru olur"<
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
@@ -1501,6 +1512,7 @@ Oyunları yayınlamadan önce oyun hızlandırıcıyı açtığınızdan emin ol
     <string name="upgrade_now">Yükselt</string>
     <string name="upgrade_phone_device_tip">* Güncellemeler Xiaomi telefon tarafından sağlanmaktadır</string>
     <string name="upgrade_scan">Güncellemeleri kontrol et</string>
+    <string name="upgrade_set_menu">Ayarlar</string>
     <string name="upgrade_start">Güncelle</string>
     <string name="upgrade_start_all">Güncelle</string>
     <string name="upgrade_title">Bağlı cihazları güncelle</string>
