@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRenk</string>
+    <string name="qcolor_summary">QTI gelişmiş renk modu</string>
+    <string name="qcolor_title">QRenk</string>
+</resources>

@@ -215,6 +215,7 @@
     <string name="alert_back_milink_hangup_tips_content_vb">Ekran kapalıyken ve uygulama arka planda çalışırken yayın kesintiye uğramaz. Ekranı tekrar açmak için güç düğmesine basabilirsiniz</string>
     <string name="all_address_choose_hint">Bu bölgedeki bütün numaralar</string>
     <string name="allow_all">Tümüne izin ver</string>
+    <string name="allow_device_id_access">Cihaz kimliğini kullanabilen uygulamaları seçin</string>
     <string name="allow_notify">allow_notify</string>
     <string name="allow_onetime">Bir kez izin ver</string>
     <string name="allow_tips_smart_task">allow_tips_smart_task</string>
@@ -1449,6 +1450,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="cs_tool_box_phone_guide_case_1">Yeni arama araç kutusundaki simültane tercümeyi ve diğer özellikleri deneyin</string>
     <string name="cs_tool_box_phone_guide_case_2">Yeni arama araç kutusundaki çeşitli özellikleri deneyin</string>
     <string name="cs_voice_print">Ses kaydını kaydet</string>
+    <string name="cs_voice_search">voiceprint</string>
     <string name="cs_vt_camera_toast_case1">Kamerayı mevcut uygulamada aç</string>
     <string name="cs_vt_camera_toast_case2">Yakınlarda uyumlu cihaz yok</string>
     <string name="cta_HIPS_Perm_Location_Desc">Bulunduğunuz yerle ilgili deprem erken uyarılarını görüntülemek için</string>
@@ -1555,10 +1557,26 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="descx_quick_scan_preparation">Yükleniyor</string>
     <string name="detail_app_button">Uygulama bilgisi</string>
     <string name="details_subtitle">Kullanım ayrıntıları</string>
+    <string name="device_id">Kişiselleştirilmiş öneriler için cihaz kimliği</string>
+    <string name="device_id_app_manager_dialog_continue">Devam et</string>
+    <string name="device_id_app_manager_dialog_message">Bazı uygulamaların aktivitelerinizi izlemesine izin verdiniz. Şimdi izlemeyi durdurabilirsiniz</string>
+    <string name="device_id_app_manager_dialog_stop">Durdur</string>
+    <string name="device_id_app_manager_switch_sub_title">Bu özellik kapalıyken tüm yeni izleme istekleri otomatik olarak reddedilecektir</string>
+    <string name="device_id_app_manager_switch_title">Uygulamaların izleme isteğinde bulunmasına izin ver</string>
+    <string name="device_id_app_manager_tips">Uygulamalar kişiselleştirilmiş reklam önerileri ve diğer özellikler sağlamak için izleme tanımlayıcılarını kullanarak farklı uygulamalar ve internet sitelerindeki etkinliklerinizi izleyebilir</string>
+    <string name="device_id_app_manager_title">Uygulama izlemeyi yönet</string>
+    <string name="device_id_manager_tips">Sistem gizliliğinizi korumak için cihaz tanımlayıcıları yerine uygulamalara sıfırlanabilir izleme tanımlayıcıları sağlar (OAID)</string>
+    <string name="device_id_manager_title">İzleme tanımlayıcısını yönet</string>
+    <string name="device_id_reset">İzleme tanımlayıcısını sıfırla</string>
+    <string name="device_id_reset_msg">Sıfırlamanın ardından bu cihaza yeni bir tanımlayıcı atanacaktır</string>
+    <string name="device_id_str">Mevcut izleme tanımlayıcısı: %s</string>
     <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>
     <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek ile kişisel bilgilerinizin açığa çıkmasına neden olabilir
 Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanabilir"</string>
     <string name="device_manager_apply_step_3">İlerlemeden önce tüm olası riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi başlatılsın mı?</string>
+    <string name="device_oaid">Sanal kimliği yönet</string>
+    <string name="device_oaid_desc">Benzersiz tanımlayıcınız yerine sistem, yüklü uygulamalara sanal bir kimlik sağlayacaktır (OAID). Uygulamaların davranışlarınızı ve tercihlerinizi izlemesini önler ve gizliliğinizi korur</string>
+    <string name="device_oaid_title">Sanal kimlik</string>
     <string name="dialog_app_roaming_message">%1$s dolaşım sırasında mobil veri kullanamıyor. Uluslararası dolaşımdayken yalnızca istisnalar listesine eklemiş olduğunuz uygulamalar mobil veri kullanabilir</string>
     <string name="dialog_app_roaming_title">%1$s veri dolaşımını kullanamıyor</string>
     <string name="dialog_btn_delete_icon">Kaldır</string>
@@ -3824,10 +3842,13 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="numeric_recording_intro_header">Şifre girin</string>
     <string name="numeric_retry_button_text">İptal et</string>
     <string name="numeric_settings_help_how_to_record">Pin nasıl ayarlanır</string>
+    <string name="oaid_apps_summary">Bireysel uygulamalar için erişime izin verin veya erişimi kısıtlayın</string>
     <string name="oaid_apps_title">Sanal kimliği yönet</string>
     <string name="oaid_reset_content_tip">Sanal kimliği kapatırsanız bazı uygulamalar normal şekilde kullanılamayabilir ve veri kayıplarına neden olabilir. Lütfen dikkatli olun</string>
     <string name="oaid_reset_final_tip">Sanal kimliği kapatmak istediğinizden emin misiniz?</string>
-    <string name="oaid_tips_content">Sanal Kimlikler davranışınızı izlemek ve reklamları sizin için kişiselleştirmek için kullanılabilir. Hangi uygulamaların sanal kimliğinize erişmesine izin verileceğini seçebilirsiniz. Erişimi kısıtlarsanız reklam önerilerinin alakasız hale gelebileceğini veya uygulamaların normal şekilde çalışmayabileceğini unutmayın</string>
+    <string name="oaid_string">"Mevcut sanal kimlik:
+%1s"</string>
+    <string name="oaid_tips_content">Sanal kimlikler davranışınızı izlemek ve reklamları sizin için kişiselleştirmek için kullanılabilir. Hangi uygulamaların sanal kimliğinize erişmesine izin verileceğini seçebilirsiniz. Erişimi kısıtlarsanız reklam önerilerinin alakasız hale gelebileceğini veya uygulamaların normal şekilde çalışmayabileceğini unutmayın</string>
     <string name="offline_voice_input">Çevrimdışı ses girişi</string>
     <string name="offline_voice_input_detail">Ses girişi için internete ihtiyacınız olmayacak</string>
     <string name="ok">Tamam</string>
@@ -5383,6 +5404,16 @@ kapat"</string>
     <string name="reset_data_dialog_message">Bu cihaz Xiaomi hesabınızla ilişkilendirilmemiş. Şifre geri yüklenemez veya sıfırlanamaz. Tüm önemsiz öğeleri yedekleyin ve sıfırlama işlemi yapın. Tüm veriler kalıcı olarak silinecek ve fabrika ayarlarına sıfırlama sırasında SD kartınız formatlanacaktır</string>
     <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>
     <string name="reset_data_title">Şifre geri yüklenemiyor</string>
+    <string name="restore_device_id_content">Kişiselleştirilmiş öneriler sıfırlanacak</string>
+    <string name="restore_device_id_title">Cihaz kimliğini sıfırla</string>
+    <string name="restore_dialog_content">Mevcut cihaz kimliğinizi sıfırlamak kişiselleştirilmiş önerileri de sıfırlayacaktır. Şimdi sıfırlansın mı?</string>
+    <string name="restore_dialog_positive">Sıfırla</string>
+    <string name="restore_dialog_title">Dikkat</string>
+    <string name="restore_oaid_content">Davranış ve tercih kayıtlarınızı temizlemek için sanal kimliğinizi sıfırlayın</string>
+    <string name="restore_oaid_dialog_content">Birden fazla uygulama sanal kimliğinizi kullanıyor. Şimdi sıfırlarsanız uygulama verilerinizin bir kısmı kaybolabilir veya kullanılamaz hale gelebilir. Sanal kimliği yine de sıfırlamak istiyor musunuz?</string>
+    <string name="restore_oaid_positive">Sıfırla</string>
+    <string name="restore_oaid_positive_step">Sıfırla (%1$d)</string>
+    <string name="restore_oaid_title">Sanal kimliği sıfırla</string>
     <string name="result_autoscan_header">Ödeme takibi</string>
     <string name="result_autoscan_info">Ödeme uygulamaları başlatıldığında sistemi otomatik olarak takip et</string>
     <string name="result_sms_header">Mesajlaşma riskleri tespit edildi</string>
