@@ -7872,7 +7872,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="screen_shot">Ekran görüntüsü kaydet</string>
     <string name="screen_time_category_for_slot">%s için ekran süresi</string>
     <string name="screen_time_category_last_full_charge">Son tam şarjdan bu yana geçen ekran süresi</string>
-    <string name="screen_timeout">Uyku</string>
+    <string name="screen_timeout">Uyku modu</string>
     <string name="screen_timeout_subtitle">Statik içeriğin uzun süre görüntülenmesi renklerin düzensiz olmasına neden olabilir</string>
     <string name="screen_timeout_summary">%1$s sonra</string>
     <string name="screen_timeout_summary_not_set">Ayarlanmadı</string>
@@ -8088,7 +8088,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="search_theme_settings_title">Temalar;Tema;Kişiselleştirme;Kişiselleştir</string>
     <string name="search_title_font_settings">yazı tipi boyutu; yazı tipi kalınlığı; yazı tipi stili</string>
     <string name="search_touch_assistant">Hızlı erişim;Dokunma yardımcısı</string>
-    <string name="search_touch_sensitive_title">Eldiven modu;eldivenler;eldiven</string>
+    <string name="search_touch_sensitive_title">Dokunma hassasiyeti;dokunmalar;dokunma</string>
     <string name="search_trusted_credentials">Güvenilir kimlikler;Uygulama imzası;Uygulama imzaları;Kimlikler;İmza</string>
     <string name="search_tts_settings_title">Metin konuşma çıktısı;Metin konuşma</string>
     <string name="search_turn_on_security_lock">Ekran kilidini seç;Ekran kilidi;Ekran kilidi ekle;ekrankilidi</string>
@@ -9638,12 +9638,12 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine taşınabilir depolama
     <string name="total_size_label">Toplam</string>
     <string name="touch_assistant">Hızlı erişim</string>
     <string name="touch_filtered_warning">Bir uygulama bir izin isteğinin anlaşılmasını engellediğinden ayarlar yanıtınızı doğrulayamıyor</string>
-    <string name="touch_sensitive_summary">Ekranı baskıya ekstra duyarlı hale getirin</string>
-    <string name="touch_sensitive_title">Eldiven modu</string>
+    <string name="touch_sensitive_summary">Dokunma hassasiyetini en duyarlı hale getirin</string>
+    <string name="touch_sensitive_title">Dokunma hassasiyeti</string>
     <string name="touch_sensitive_turn_off_cancel">İptal et</string>
     <string name="touch_sensitive_turn_off_confirm">Tamam</string>
-    <string name="touch_sensitive_turn_off_summary">Cep modu da kapatılsın mı?</string>
-    <string name="touch_sensitive_turn_off_title">Eldiven modunu kapat</string>
+    <string name="touch_sensitive_turn_off_summary">Kapatılsın mı?</string>
+    <string name="touch_sensitive_turn_off_title">Dokunma hassasiyetini kapat</string>
     <string name="touch_sounds_title">Dokunma sesi</string>
     <string name="touch_title">Dokunma</string>
     <string name="track_frame_time">Profil GPU çözümleme</string>

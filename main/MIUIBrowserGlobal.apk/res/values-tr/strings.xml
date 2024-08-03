@@ -795,7 +795,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="external_app_leave_incognito_leave">Kapat</string>
     <string name="external_app_leave_incognito_stay">Devam et</string>
     <string name="external_app_leave_incognito_warning">Bu internet sitesi gizli modun dışındaki bir uygulamayla bilgi paylaşmaya çalışıyor. Şimdi kapatılsın mı?</string>
-    <string name="external_app_leave_incognito_warning_title">Turn off Incognito mode?</string>
+    <string name="external_app_leave_incognito_warning_title">Gizli mod kapatılsın mı?</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>

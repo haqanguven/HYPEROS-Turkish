@@ -80,7 +80,13 @@
     <string name="afternoon">ÖS</string>
     <string name="agreement_desc">Kullanıcı sözleşmesi (Zorunlu)</string>
     <string name="alaka_required">Dinlemek için bu şarkıyı satın almalısınız</string>
-    <string name="alarm_clock_recommend_desc">Her güne yeni bir şarkıyla uyanın</string>
+    <string name="alarm_clock_album_modify_fail">Değiştirilemedi</string>
+    <string name="alarm_clock_audio_name">Sabah hava durumu</string>
+    <string name="alarm_clock_audio_text_city">"Bugün %1$s'de hava durumu: %2$s"</string>
+    <string name="alarm_clock_audio_text_date">Günaydın. Bugün %1$s</string>
+    <string name="alarm_clock_audio_text_temperature">Sıcaklık: %1$s</string>
+    <string name="alarm_clock_click_hint">Bugünün hava durumunu dinlemek için dokunun</string>
+    <string name="alarm_clock_recommend_desc">Her gün yeni bir şarkıyla uyanın</string>
     <string name="alarm_clock_recommend_switch">Önerilen şarkı alarmı</string>
     <string name="alarm_clock_ringtones_successful">Alarm başarıyla ayarlandı</string>
     <string name="album_cover">Albüm kapağı</string>
@@ -1362,6 +1368,7 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="network_error_and_retry">Bağlanamadı. Dokunup yeniden deneyin</string>
     <string name="network_request_error">Ağa bağlanamıyor</string>
     <string name="network_settings_error">Ağa bağlanamıyor</string>
+    <string name="network_tip_title">Yeni müziklerden oluşan bir dünyayı yayınlayın</string>
     <string name="network_traffic">Veri kullanımı</string>
     <string name="next_time">Sonraki zaman</string>
     <string name="next_to_play">Bir sonraki</string>
@@ -1869,6 +1876,7 @@ mutlu ol"</string>
     <string name="set_ringtones_failed">Zil Sesi yapılamadı</string>
     <string name="set_ringtones_successful">%s zil sesi olarak ayarla</string>
     <string name="setting_feature_setting">Özellik ayarı</string>
+    <string name="setting_open">Aç</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_search_key_notification">Müzik bildirimleri;Müzik;Bildirimler;şarkılar</string>
     <string name="settings_search_path_advance">Sistem uygulamaları/Müzik/Hizmet ve ayarlar/Gelişmiş ayarlar</string>

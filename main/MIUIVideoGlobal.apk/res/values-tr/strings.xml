@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="CronetProviderClassName">com.google.android.gms.net.PlayServicesCronetProvider</string>
     <string name="Earlier">Daha önce</string>
     <string name="HA_AFFILIATE_ID">1268</string>
     <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
