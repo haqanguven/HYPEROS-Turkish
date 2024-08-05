@@ -308,12 +308,12 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
-        <item quantity="one">Bu özellik güç tasarrufu yapmak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
+        <item quantity="other">Bu özellik güç tasarrufu sağlamak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
+        <item quantity="one">Bu özellik güç tasarrufu sağlamak için %d dakika işlem yapılmadığında ekran parlaklığını otomatik olarak düşürür. Bu özellik açık kalsın mı?</item>
     </plurals>
     <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">%d dakika işlem yapılmadığında güç tasarrufu yapmak için ekran parlaklığını otomatik olarak azaltın</item>
-        <item quantity="one">%d dakika boyunca işlem yapılmadığında güç tasarrufu yapmak için ekran parlaklığını otomatik olarak azaltın</item>
+        <item quantity="other">%d dakika işlem yapılmadığında güç tasarrufu sağlamak için ekran parlaklığını otomatik olarak azaltın</item>
+        <item quantity="one">%d dakika boyunca işlem yapılmadığında güç tasarrufu sağlamak için ekran parlaklığını otomatik olarak azaltın</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">Tebrikler. %s paskalya yumurtasının kilidini açtınız</item>
