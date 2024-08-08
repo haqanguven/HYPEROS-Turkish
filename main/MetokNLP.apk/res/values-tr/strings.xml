@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ağ konum sağlayıcısı</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Konum hizmetlerini iyileştirmek için baz istasyonu değişiklikleriyle ilgili bilgilere erişin</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Konum servislerini size sunmak için baz istasyonuna wifi ve konum bilgilerine erişin</string>
+</resources>

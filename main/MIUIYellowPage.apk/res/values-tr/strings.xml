@@ -404,7 +404,7 @@ Yine de kapatılsın mı?"</string>
     <string name="turn_on_auto_update_antispam_data_summary">%s tarihinde güncellendi</string>
     <string name="turn_on_auto_update_antispam_data_title">Veri tabanını otomatik olarak güncelle</string>
     <string name="turn_on_online_antispam_enable">Aç</string>
-    <string name="turn_on_online_antispam_summary">Bilinmeyen numaraları tanımlamak için Arayan kimliğini açın</string>
+    <string name="turn_on_online_antispam_summary">Bilinmeyen numaraları tanımlamak için arayan kimliğini açın</string>
     <string name="turn_on_online_antispam_title">Arayan kimliğini aç</string>
     <string name="turn_on_phone_event_dialog_title">Arayan kimliği veritabanını güncelle</string>
     <string name="turn_on_smart_antispam_summary">Arama geçmişi ve mesajlarınızdaki bilinmeyen numaraları tespit etmek amacıyla karşıya yükleyin</string>
