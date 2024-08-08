@@ -230,7 +230,7 @@
     <string name="ew_detail_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_detail_receive_warn_time_message">%s saniye</string>
     <string name="ew_detail_receive_warn_time_title">Başlangıçtan önceki zaman</string>
-    <string name="ew_monitor_slogan">"Deprem izleme\u000d
+    <string name="ew_monitor_slogan">"Deprem izleme
 programımıza katılın"</string>
     <string name="ew_save_title">Kaydet</string>
     <string name="ew_share_logo_title">Deprem uyarısı</string>
@@ -436,10 +436,10 @@ programımıza katılın"</string>
     <string name="gtb_dialog_privacy_voice_tips">\"Xunyou oyun sesi değiştirici <a href="%1$s">Gizlilik politikasını</a>"'nı okudum ve kabul ettim\" "</string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou oyun sesi değiştirici</string>
     <string name="guide_desc_1">Ebeveynler bebek kullanımını tamamen kavrar ve yönetir</string>
-    <string name="guide_desc_2">"Öne çıkan özel çocuk uygulaması\u000d
+    <string name="guide_desc_2">"Öne çıkan özel çocuk uygulaması
 Büyüme eşliğinde güvenli ve kalitelidir"</string>
     <string name="guide_desc_3">İki dilli eğitim, animasyon, çocuk şarkıları vb.</string>
-    <string name="guide_desc_4">"Mesaj karşıtı kesinti, aşırı trafik ve cevapsız aramalar\u000d
+    <string name="guide_desc_4">"Mesaj karşıtı kesinti, aşırı trafik ve cevapsız aramalar
 Güvenli ve daha güvenli"</string>
     <string name="guide_title_1">Vizyon koruma zaman yönetimi</string>
     <string name="guide_title_2">Yapboz çocuk uygulaması eğlenceli</string>
@@ -696,8 +696,8 @@ Güvenli ve daha güvenli"</string>
     <string name="privacy_prompt_traffic_purchase_message">Telefon numaranız ve operatör bilgileriniz veri satın alma seçenekleri hakkında daha fazla bilgi almak amacıyla şifrelenecek ve Mi sunucularına yüklenecektir.</string>
     <string name="privacy_title">Gizlilik politikası</string>
     <string name="privacy_update">Gizlilik politikası güncellemesi</string>
-    <string name="privacy_update_content" formatted="false">"Çocuk alanının gizlilik politikası aşağıdaki şekilde güncellenmiştir\u000d
-%s\u000d
+    <string name="privacy_update_content" formatted="false">"Çocuk alanının gizlilik politikası aşağıdaki şekilde güncellenmiştir
+%s
 Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="project_id">securityadd-adf33</string>
     <string name="recall_confirm">Onayla</string>
@@ -778,7 +778,9 @@ Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="superpower_dialog_app_select_title">Uyarı</string>
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_exit_hint">Ultra pil tasarrufu kapatılıyor</string>
+    <string name="superpower_exit_low_temperature_hint">Soğuğa dayanıklılık modu kapatılıyor</string>
     <string name="superpower_incharging">Şarj oluyor</string>
+    <string name="superpower_low_temp_mode_take_effect">Soğuğa dayanıklılık modu açık</string>
     <string name="superpower_progress_battery_last">%s kalan</string>
     <string name="superpower_progress_left_time">%1$d saat %2$d dakika</string>
     <string name="superpower_search_hint">Uygulama ara</string>

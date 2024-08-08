@@ -1172,7 +1172,7 @@ güvenilirlik ve güvenlik"</string>
     <string name="settings_security_mode_service_title_3">Uygulamanın gizliliğe erişimini kontrol edin ve kişisel bilgi güvenliğini koruyun</string>
     <string name="settings_security_mode_service_title_4">Ödeme risklerini belirleyin ve mobil sahtekarlığına karşı koruyun</string>
     <string name="settings_security_mode_status_off_msg">Kapalı</string>
-    <string name="settings_security_mode_status_on_msg">Mi koruma korumaya devam ediyor</string>
+    <string name="settings_security_mode_status_on_msg">Mi koruma açık</string>
     <string name="settings_security_mode_title_off_msg">Mi koruma</string>
     <string name="side_sheet_accessibility_pane_title">Yan sayfa</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
@@ -1219,6 +1219,8 @@ güvenilirlik ve güvenlik"</string>
     <string name="sure_close_enhance_safe_guard_des">Cep telefonunuzun güvenliğini korumak için gelişmiş koruma, Xiaomi uygulama mağazası güvenlik denetimini geçemeyen uygulamaları filtreleyebilir ve yaptığınız her kurulumu koruyabilir</string>
     <string name="sure_install">Yüklediğinizden emin misiniz?</string>
     <string name="sure_ok">Tamam</string>
+    <string name="tango_dialog_content">%1$d bit uygulamaları yükleyebilmek için uygulama uyumluluk modunu açın</string>
+    <string name="tango_dialog_title">Uygulama uyumluluk modu</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>

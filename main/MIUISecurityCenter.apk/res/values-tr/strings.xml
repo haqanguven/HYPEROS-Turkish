@@ -1420,6 +1420,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
     <string name="cs_color_sense">Renk sıcaklığı</string>
     <string name="cs_conversation_record_using">Kaydediliyor</string>
+    <string name="cs_func_toast_bluetooth_headset">Bu özelliği kullanabilmek için Bluetooth kulaklıklarınızı çıkarın</string>
     <string name="cs_func_toast_headset">Bu özelliği kullanabilmek için kulaklığınızın bağlantısını kesin</string>
     <string name="cs_func_toast_light">Bu özelliği kullanabilmek için ön kameraya geçin</string>
     <string name="cs_func_toast_pickup">Bu özelliği kullanabilmek için görüntülü görüşmeye geçin</string>
@@ -4143,6 +4144,8 @@ kapat"</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
     <string name="pc_low_temp_charge_summary">Şarj cihazını bağlı tutun ve normal şekilde şarj etmek için ekran kapandıktan sonra pilin ısınmasını bekleyin</string>
     <string name="pc_low_temp_charge_title">Düşük sıcaklıkta şarj</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Ortam sıcaklığı aşırı düşük olduğunda pil ömrünü uzatmak için cihaz performansını sınırlayın</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Soğuğa dayanıklılık modu</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$s dakika eklendi. Yaklaşık %2$s gün kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$s dakika eklendi. Yaklaşık %2$s gün %3$s saat kaldı</string>
@@ -6267,6 +6270,9 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
+    <string name="superpower_notification_low_temp_btn_txt">Aç</string>
+    <string name="superpower_notification_low_temp_summary">Soğuğa dayanıklılık modu ultra pil tasarrufu açıkken ve ortam sıcaklığı aşırı düşükken daha fazla pil tasarrufu sağlayabilir</string>
+    <string name="superpower_notification_low_temp_title">Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_notification_new_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_notification_time_12">dd MMMM EEEE</string>
@@ -6274,6 +6280,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_notification_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_progress_content">Ultra pil tasarrufu açılıyor</string>
     <string name="superpower_progress_left_time">%1$d saat %2$d dakika</string>
+    <string name="superpower_progress_low_temp_content">Soğuğa dayanıklılık modu açılıyor</string>
     <string name="superpower_progress_switch_home">Karanlık temaya geçiş</string>
     <string name="superpower_progress_title">Kalan süre</string>
     <string name="superpower_progress_turndown_brightness">Ekran parlaklığını azalt</string>
