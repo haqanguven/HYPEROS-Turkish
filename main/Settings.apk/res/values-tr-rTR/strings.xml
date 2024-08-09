@@ -4142,6 +4142,8 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="game_booster_title">Oyun hızlandırıcı</string>
     <string name="game_controller_settings_category">Oyun denetleyici</string>
     <string name="game_storage_settings">Oyunlar</string>
+    <string name="gaze_lock_screen_summary">Varlığınız algılandığında cihaz kilidi açık kalacak ve ekrandan uzaklaştığınızda kilitlenecektir</string>
+    <string name="gaze_lock_screen_title">Varlığı algıla</string>
     <string name="gd_setting_title">Akıllı araç kutusu</string>
     <string name="general_category_title">Genel</string>
     <string name="general_notification_header">Yönetin</string>
@@ -5989,6 +5991,8 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_type_style_title">Yazma stili</string>
     <string name="miui_updater">Sistem güncelleyici</string>
     <string name="miui_userguide">Kullanım kılavuzu</string>
+    <string name="miui_visual_perception_summary">Cihazınızın varlığınızı hissetmesini ve daha rahat kilitleme veya kilit açma seçenekleri seçmesini sağlar</string>
+    <string name="miui_visual_perception_title">Algılama</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
