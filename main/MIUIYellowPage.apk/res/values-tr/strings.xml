@@ -270,7 +270,7 @@ Devam etmeden önce "<a href="https://privacy.mi.com/yellowpage/en_US" style="te
     <string name="obtain_location_information">Konuma eriş</string>
     <string name="obtain_location_information_summary">Mevcut yerel hizmetleri göstermek içindir</string>
     <string name="permission_description_title">İzin ayrıntıları</string>
-    <string name="permission_notice_cta_desc_purpose">Sarı sayfalara hoş geldiniz! Bu uygulamayı arayan kimliklerini tanımak ve olası sahte aramaları belirlemek için kullanabilirsiniz. Bu uygulamanın normal çalışabilmesi için internete bağlanması gerekir</string>
+    <string name="permission_notice_cta_desc_purpose">Sarı sayfalara hoş geldiniz! Bu uygulamayı arayan kimliklerini tanımak ve olası sahte aramaları belirlemek için kullanabilirsiniz. Bu uygulamanın normal çalışabilmesi için internete bağlanması gerekir.</string>
     <string name="permission_notice_cta_desc_runtime">Uygulamayı kullanıyorken size ek hizmetler sunabilmemiz için aşağıdaki izinlere ihtiyaç duyabiliriz: arama geçmişini düzenleme, cihazda depolanan fotoğraf ve dosyalara erişme, konuma erişme. İzin tercihlerinizi istediğiniz zamana Ayarlar menüsünden ayarlayabilirsiniz</string>
     <string name="permission_notice_desc_title">İzin gerekli</string>
     <string name="permission_notice_privacy_change_desc">Gizlilik politikasının yeni sürümünü kabul etmezseniz sarı sayfaları kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını kabul ediyor musunuz?</string>
@@ -411,7 +411,7 @@ Yine de kapatılsın mı?"</string>
     <string name="turn_on_smart_antispam_title">Arayan kimliği</string>
     <string name="user_agreement2">" Hizmet şartları"</string>
     <string name="user_agreement4">Gizlilik politikası</string>
-    <string name="user_notice_all_purpose_yellowpage">Sarı sayfalara hoş geldiniz! Bu uygulamayı arayan kimliklerini tanımak ve olası sahte aramaları belirlemek için kullanabilirsiniz. Bu uygulamanın normal çalışmasına izin vermek için telefon ve kişilerin internete bağlanması gerekir</string>
+    <string name="user_notice_all_purpose_yellowpage">Sarı sayfalara hoş geldiniz! Bu uygulamayı arayan kimliklerini tanımak ve olası sahte aramaları belirlemek için kullanabilirsiniz. Bu uygulamanın normal çalışmasına izin vermek için telefon ve kişilerin internete bağlanması gerekir.</string>
     <string name="user_notice_dialog_title">Uyarı</string>
     <string name="user_notice_permission_desc_location">Mevcut yerel hizmetleri göstermek için</string>
     <string name="user_notice_permission_desc_read_call_log">Sarı sayfaların kişi ayrıntılarında arama geçmişini göstermek için</string>

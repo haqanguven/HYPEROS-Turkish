@@ -1763,7 +1763,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="eletric_key_protect_electric_announcement">Dolandırıcılığa karşı koruma</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Bilinmeyen numaraları tanımlayabilmek için gerekli izinleri verin</string>
     <string name="eletric_no_grant_dialog_negative_button">İptal et</string>
-    <string name="eletric_no_grant_dialog_positive_button">Ayarlar</string>
+    <string name="eletric_no_grant_dialog_positive_button">Tamam</string>
     <string name="eletric_no_grant_dialog_title">Gerekli izinler</string>
     <string name="eletric_risk_call_identification">Aramaları koru</string>
     <string name="eletric_risk_call_identification_announcement">Bilinmeyen numaralardan arama alırken olası riskler hakkında bilgiler alırsınız</string>
