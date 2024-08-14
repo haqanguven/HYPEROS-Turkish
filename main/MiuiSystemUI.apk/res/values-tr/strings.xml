@@ -306,6 +306,8 @@
     <string name="bluetooth_battery_level">%1$s pil</string>
     <string name="bluetooth_battery_level_untethered">Sol pil %1$s. Sağ pil %2$s</string>
     <string name="bluetooth_connected">%1$s bağlandı</string>
+    <string name="bluetooth_connected_no_a2dp">Bağlandı %1$s (Medya yok)</string>
+    <string name="bluetooth_connected_no_headset">Bağlandı %1$s (Telefon yok)</string>
     <string name="bluetooth_connecting">Bağlanıyor</string>
     <string name="bluetooth_disconnected">Bağlantı kesildi</string>
     <string name="bluetooth_disconnecting">Bağlantı kesiliyor</string>
@@ -1526,10 +1528,15 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="qr_code_scanner_updating_secondary_label">Güncelleniyor</string>
     <string name="qs_alarm_tile_no_alarm">Alarm kurulu değil</string>
     <string name="qs_bill_message_balance">%1$s %2$s kaldı</string>
-    <string name="qs_bill_message_unit_cny">CNY</string>
+    <string name="qs_control_big_tile_click_cellular_tether_tip">İkinci alandan çıkın ve tekrar deneyin</string>
+    <string name="qs_control_big_tile_connect_share_network_fail">Mobil veri ağına bağlanılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="qs_control_big_tile_state_closed">Kapalı</string>
     <string name="qs_control_big_tile_state_connected">Bağlı</string>
     <string name="qs_control_big_tile_state_connecting">Bağlanılıyor</string>
     <string name="qs_control_big_tile_state_opening">Açılıyor</string>
+    <string name="qs_control_big_tile_state_tethered_wifi">Telefonun wifi sinyalini kullanıyor</string>
+    <string name="qs_control_big_tile_state_tethered_wlan">Telefonun wifi sinyalini kullanıyor</string>
+    <string name="qs_control_big_tile_state_unavailable">Kullanılamıyor</string>
     <string name="qs_customize_remove">Kaldır</string>
     <string name="qs_customize_title">Düzenle</string>
     <string name="qs_edit">Düzenle</string>
@@ -1577,6 +1584,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Kapat</string>
     <string name="quick_settings_cellular_detail_title">Mobil veri</string>
     <string name="quick_settings_cellular_detail_unable_change">Arama sırasında ayarlanamıyor</string>
+    <string name="quick_settings_cellular_state_change_message_connected">Mobil veri ağına bağlandı</string>
+    <string name="quick_settings_cellular_state_change_message_disconnected">Mobil veri şebekesinden bağlantı kesildi</string>
     <string name="quick_settings_cellular_state_change_message_off">Mobil veri kapalı</string>
     <string name="quick_settings_cellular_state_change_message_on">Mobil veri açık</string>
     <string name="quick_settings_color_correction_label">Renk düzeltmesi</string>

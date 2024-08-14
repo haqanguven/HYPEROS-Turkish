@@ -30,7 +30,6 @@
     <string name="activity_resolver_use_always">Her zaman</string>
     <string name="activity_resolver_use_once">Sadece bir kere</string>
     <string name="activity_resolver_work_profiles_support">"%1$s iş profilini desteklemiyor"</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Amaç çözümleyici</string>
     <string name="call_notification_answer_action">Yanıtla</string>
     <string name="call_notification_answer_video_action">Video</string>
@@ -41,8 +40,6 @@
     <string name="call_notification_screening_text">Gelen aramayı tarama</string>
     <string name="chooseActivity">Bir eylem seçin</string>
     <string name="chooser_no_direct_share_targets">Paylaşımda bulunulacak önerilen kişi yok</string>
-    <string name="config_defaultNearbySharingComponent">@android:string/config_defaultNearbySharingComponent</string>
-    <string name="config_systemImageEditor">@android:string/config_systemImageEditor</string>
     <string name="exclude_link">Bağlantıyı hariç tut</string>
     <string name="exclude_text">Metni hariç tut</string>
     <string name="file_preview_a11y_description">Dosya önizleme küçük resmi</string>
@@ -88,7 +85,6 @@
     <string name="sharing_videos_only">{count, plural, =1 {Sadece video} other {Sadece video} }</string>
     <string name="sharing_videos_with_link">{count, plural, =1 {Bağlantıyla birlikte video paylaşılıyor} other {# bağlantıyla birlikte video paylaşılıyor} }</string>
     <string name="sharing_videos_with_text">{count, plural, =1 {Metinle birlikte video paylaşılıyor} other {# metinle birlikte video paylaşılıyor} }</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unpin_specific_target">%1$s'ın sabitlemesini kaldır</string>
     <string name="usb_device_resolve_prompt_warn">Bu uygulamaya kayıt izni verilmedi ancak bu USB cihazı aracılığıyla ses yakalayabilir.</string>
     <string name="use_a_different_app">Farklı bir uygulama kullanın</string>

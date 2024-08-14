@@ -11428,12 +11428,13 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="switch_layout_second_title">Stil 1 (Açılır düzen)</string>
     <string name="control_center_location_title">Stil 2 (Aşağı kaydırma konumu)</string>
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+    <string name="privacy_notices_icons_title">Gizlilik bildirim simgelerini gizle</string>
     <string name="unread_notifications_title">Okunmamış bildirimler</string>
     <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>
-    <string name="list_view_interpolator_title">Liste interpolasyonu</string>
+    <string name="list_view_interpolator_title">liste interpolasyonu</string>
     <string name="charging_animations_title">Şarj animasyonları</string>
     <string name="full_charge_sound_title">Şarj doldu sesi</string>
     <string name="volume_button_title">Ses tuşları ayarları</string>

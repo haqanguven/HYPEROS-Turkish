@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessing_notification_title">%1$s dosyasından dosyalara erişiliyor</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">MTP ana bilgisayar</string>
     <string name="call_notification_answer_action">Yanıtla</string>
     <string name="call_notification_answer_video_action">Video</string>
@@ -40,7 +39,5 @@
     <string name="downloads_app_label">İndirmeler</string>
     <string name="error_busy_device">Diğer cihaz meşgul. Kullanılabilir olana kadar dosyaları aktaramazsınız</string>
     <string name="error_locked_device">Dosya bulunamadı. Diğer cihaz kilitlenebilir. Öyleyse kilidini açın ve tekrar deneyin</string>
-    <string name="root_name">%1$s %2$s</string>
     <string name="search_menu_title">Ara</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

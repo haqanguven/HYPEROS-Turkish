@@ -27,16 +27,13 @@
     <string name="accessibility_menu_service_name">Erişilebilirlik menüsü</string>
     <string name="accessibility_menu_settings_name">Erişilebilirlik menüsü ayarları</string>
     <string name="accessibility_menu_summary">Geniş menü aracılığıyla kontrol cihazı</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="assistant_label">Asistan</string>
     <string name="assistant_utterance">Asistan</string>
     <string name="brightness_down_label">Parlaklık azaltıldı</string>
     <string name="brightness_percentage_label">Parlaklık %%%1$s</string>
     <string name="brightness_up_label">Parlaklık artırıldı</string>
     <string name="copy">Kopyala</string>
-    <string name="empty_content" />
     <string name="expand_button_title">Gelişmiş</string>
-    <string name="help_url">https://support.google.com/accessibility/android/answer/9078941</string>
     <string name="lockscreen_label">Kilit ekranı</string>
     <string name="music_volume_percentage_label">Müzik ses seviyesi %%%1$s</string>
     <string name="next_button_content_description">Sonraki ekrana git</string>
@@ -53,7 +50,6 @@
     <string name="recent_apps_label">Son uygulamalar</string>
     <string name="screenshot_label">Ekran resmi</string>
     <string name="screenshot_utterance">Ekran resmi al</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="volume_down_label">Sesi azalt</string>

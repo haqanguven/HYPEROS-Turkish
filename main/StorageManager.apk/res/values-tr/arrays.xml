@@ -2,7 +2,7 @@
 <resources>
     <string-array name="animator_duration_scale_entries">
         <item>Kapalı</item>
-        <item>0.5x</item>
+        <item>5x</item>
         <item>1x</item>
         <item>1.5x</item>
         <item>2x</item>
@@ -234,9 +234,9 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Kapalı</item>
-        <item>0,5x</item>
+        <item>5x</item>
         <item>1x</item>
-        <item>1,5x</item>
+        <item>1.5x</item>
         <item>2x</item>
         <item>5x</item>
         <item>10x</item>
@@ -248,17 +248,6 @@
         <item>İtalyanca konuşma sentezine bir örnektir</item>
         <item>İspanyolca konuşma sentezine bir örnektir</item>
         <item>Çince konuşma sentezine bir örnektir</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Çok yavaş</item>
-        <item>Yavaş</item>
-        <item>Normal</item>
-        <item>Hızlı</item>
-        <item>Daha hızlı</item>
-        <item>Çok hızlı</item>
-        <item>Seri</item>
-        <item>Çok seri</item>
-        <item>En hızlı</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
         <item>Sola taşı</item>
@@ -318,7 +307,7 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>
-        <item>0.5x</item>
+        <item>5x</item>
         <item>1x</item>
         <item>1.5x</item>
         <item>2x</item>

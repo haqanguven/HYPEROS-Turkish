@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qti wifi hizmeti</string>
+    <string name="channel_name">Qti wifi hizmeti</string>
+    <string name="notif_text">Qti wifi hizmeti çalışıyor</string>
+    <string name="notif_title">Qti wifi hizmeti</string>
+    <string name="perm_desc">"QTI_Wifi API'lerine erişim"</string>
+    <string name="perm_label">QC QTI_Wifi</string>
+</resources>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="androidx_startup">androidx.startup</string>
-    <string name="app_version">120</string>
     <string name="close_app">Kapalı</string>
     <string name="close_drawer">Gezinme menüsünü kapat</string>
     <string name="close_sheet">Sayfayı kapat</string>
@@ -21,7 +19,6 @@
     <string name="range_end">Aralık sonu</string>
     <string name="range_start">Aralık başlangıcı</string>
     <string name="selected">Seçili</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tab">Sekme</string>
     <string name="template_percent">Yüzde %1$d</string>
 </resources>

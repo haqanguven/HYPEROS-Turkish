@@ -86,4 +86,8 @@
         <item quantity="one">"
 %d deneme kaldı"</item>
     </plurals>
+    <plurals name="satellite_low_battery">
+        <item quantity="other">"Pil seviyesi %1$s'nin altında. Tiantong uydusu iletişiminden %2$d saniye içinde çıkılıyor"</item>
+        <item quantity="one">Pil seviyesi %1$s'nin altında. Tiantong uydusu iletişiminden %2$d saniye içinde çıkılıyor</item>
+    </plurals>
 </resources>

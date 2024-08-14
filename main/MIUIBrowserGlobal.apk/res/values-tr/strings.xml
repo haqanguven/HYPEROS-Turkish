@@ -1403,7 +1403,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Tarih Seç</string>
+    <string name="mtrl_picker_date_header_title">Tarih seç</string>
     <string name="mtrl_picker_date_header_unselected">Seçili tarih</string>
     <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
     <string name="mtrl_picker_invalid_format">Geçersiz biçim</string>

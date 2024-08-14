@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XRVD</string>
+    <string name="first_fragment_label">İlk parça</string>
+    <string name="hello_first_fragment">Merhaba ilk parça</string>
+    <string name="hello_second_fragment">Merhaba ikinci parça: %1$s</string>
+    <string name="next">Sonraki</string>
+    <string name="previous">Önceki</string>
+    <string name="second_fragment_label">İkinci parça</string>
+    <string name="title_activity_x_r_v_d_test">XRVD test</string>
+</resources>

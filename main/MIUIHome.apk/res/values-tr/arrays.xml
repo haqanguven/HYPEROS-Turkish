@@ -460,7 +460,6 @@
         <item>Negatif ekran öneri kartı haritası</item>
         <item>Yapay itme</item>
         <item>Masaüstü kısayolunu değiştir</item>
-        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_add_way">
         <item>Seçici ayrıntıları sayfasından sürükleyip bırakın</item>
@@ -473,7 +472,6 @@
         <item>Filtre sayfasından sürükleyip bırakın</item>
         <item>Kartı kategori sayfasından sürükleyip kaydırın</item>
         <item>Arama sonuçları sayfasından sürükleyip bırakın</item>
-        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_default_source">
         <item>Varsayılan olmayan</item>
@@ -488,13 +486,11 @@
         <item>Çevrimdışına it</item>
         <item>Başarısız oldu</item>
         <item>Diğer</item>
-        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_source">
         <item>Varsayılan düzen</item>
         <item>Aktif olarak ekle</item>
         <item>Operasyonel izinsiz giriş</item>
-        <item>Kart değiştir</item>
     </string-array>
     <string-array name="widget_drag_type_name">
         <item>Masaüstü</item>

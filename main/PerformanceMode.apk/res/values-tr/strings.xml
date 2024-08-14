@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Performans modu</string>
+	<string name="help_resource">Çoğu senaryoda daha iyi performans sağlayacaktır ancak aynı zamanda biraz daha yüksek güç tüketimi olacaktır</string>
+	<string name="turn_off_fail">Performans modu hatasını kapatın</string>
+	<string name="turn_off_invalid_handle">Geçersiz tanıtıcı param</string>
+	<string name="turn_off_now">Şimdi kapat</string>
+	<string name="turn_on_fail">Performans modunu açma hatası</string>
+	<string name="turn_on_now">Şimdi aç</string>
+</resources>

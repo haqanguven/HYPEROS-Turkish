@@ -81,6 +81,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">Sesli arama yapılıyorken görüntülü arama yapılamıyor</string>
     <string name="can_not_dial_while_vt_prompt">Görüntü arama yapılıyorken aranamıyor</string>
     <string name="cancel">İptal et</string>
+    <string name="cant_call_due_to_dsdstransition_invalid_sub">Hesap şu anda geçerli olmadığından arama yapılamıyor</string>
     <string name="cant_call_due_to_no_supported_service">Bu tür aramaları destekleyen arama hesapları olmadığı için arama yapılamıyor</string>
     <string name="cant_call_due_to_ongoing_call">Devam eden %1$s aramanız nedeniyle telefon araması yapılamıyor</string>
     <string name="cant_call_due_to_ongoing_calls">Devam eden %1$s aramanız nedeniyle telefon araması yapılamıyor</string>
@@ -350,6 +351,8 @@
     <string name="respond_via_sms_failure_format">%s adlı kişiye mesaj gönderilemedi</string>
     <string name="respond_via_sms_setting_title">Hızlı yanıtlar</string>
     <string name="respond_via_sms_setting_title_2">Hızlı yanıtları düzenle</string>
+    <string name="satellite_only_support_one_call">Uydu iletişimi kullanılırken daha fazla arama eklenemez</string>
+    <string name="satellite_thermal_hangup_now">Cihaz aşırı ısınmış. Arama yapmadan önce soğumasını bekleyin</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>

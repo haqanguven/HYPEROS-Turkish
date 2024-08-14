@@ -495,7 +495,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_account">Cihazınızdaki hesaplara erişin:</string>
     <string name="permission_account_introduction">Xiaomi hesabı ile giriş yapmak içindir</string>
     <string name="permission_application_package_introduction">Kurulum paketlerini ayrıştırma ve tarama ve depolamaya erişmek içindir</string>
-    <string name="permission_application_scope_description">"We only use these permissions when performing security verification, and won't use them for any other purpose."</string>
+    <string name="permission_application_scope_description">Bu izinleri yalnızca güvenlik doğrulaması gerçekleştirirken kullanıyoruz ve başka hiçbir amaçla kullanmayız</string>
     <string name="permission_authority_describe">Bu cihazda yüklü uygulamaların listesine erişin</string>
     <string name="permission_authority_describe_applist_summary">Uygulama izinlerini yönetmek içindir</string>
     <string name="permission_backup">Depolama alanına erişme</string>
@@ -612,6 +612,8 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_write_device_store">Öğeleri cihaz deposuna kaydedin</string>
     <string name="permission_write_device_store_summary">İndirilen kaynak yapılandırma dosyalarını önbelleğe almak içindir</string>
     <string name="permission_xunlei_introduction">Xunlei hizmetleri sağlamak amacıyla sistem hesaplarına giriş yapmak ve yönetmek içindir</string>
+    <string name="phone_introduction">Bu uygulamayı virüsleri bulup etkisiz hale getirmek, arama veya mesajları engellemek, oyun performansını optimize etmek, pil tasarrufu yapmak ve ayrıca uygulamaları, izinleri, veri kullanımını ve daha fazlasını yönetmek için kullanabilirsiniz</string>
+    <string name="phone_name_security">Güvenlik</string>
     <string name="phone_service_introduction">Telefon cihazınızın arama yapmasına, mesaj gönderip almasına ve şebekeye bağlanmasına olanak tanıyan temel bir hizmettir</string>
     <string name="pm">ÖS</string>
     <string name="poco_agree_terms_other">(POCO başlatıcı gizlilik politikası ve kullanıcı sözleşmesi dahildir)</string>
@@ -619,6 +621,8 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="poco_launcher_user_agreement">POCO başlatıcı kullanıcı sözleşmesi</string>
     <string name="position_header">Konum bilgilerini paylaş</string>
     <string name="position_subheading">Konum bilgisi</string>
+    <string name="power_and_performance">Pil ve performans</string>
+    <string name="power_and_performance_introduction">Bu servis temel pil yönetimi, kullanım istatistikleri, güç tasarrufu özellikleri ve daha fazlasını sağlar</string>
     <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
     <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
@@ -637,6 +641,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier sistem süreçlerini yöneten bir hizmettir</string>
     <string name="read_application_info">Uygulama bilgilerine erişme</string>
     <string name="read_sms_and_mms">Mesaj ve multimedyaya erişme</string>
     <string name="recommend_font">MiSans</string>
@@ -810,6 +815,7 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="terms_of_use_label_use_location_and_network_global">"Xiaomi'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki hizmetler ağa bağlanacak ve konumunuza erişecektir:"</string>
     <string name="terms_of_use_label_use_network_china">"Xiaomi'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki hizmetler şebekeye bağlanacaktır:"</string>
     <string name="terms_of_use_label_wallpaper">Duvar kağıdı</string>
+    <string name="terms_of_use_label_webview">Android sistem internet görünümü</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Bu özelliği kullanmadan önce facemoji klavyesinin gizlilik politikasını kabul etmeniz gerekir"</string>

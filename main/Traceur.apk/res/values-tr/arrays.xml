@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="select_logpersist_summaries">
+        <item>Kapalı</item>
+        <item>Tüm günlük arabellekleri</item>
+        <item>Radyo günlüğü arabellekleri hariç tümü</item>
+        <item>Yalnızca çekirdek günlük arabelleği</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Doğrulanıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
+</resources>

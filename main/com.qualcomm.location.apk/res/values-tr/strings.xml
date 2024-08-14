@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Bu donanıma özgüdür ve yalnızca OEM uygulamalarına veya hizmetlerine atanmalıdır</string>
+    <string name="label">IZAT hizmetlerine ve kaynaklarına erişim izni verildi</string>
+</resources>

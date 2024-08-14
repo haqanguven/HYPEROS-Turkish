@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appdesc_dcf">DCF izinlerini tanımlamak için DCF apk</string>
+    <string name="applabel_dcf">dcf</string>
+    <string name="permdesc_dcf">Bir uygulamanın Bluetooth gibi kablosuz teknolojileri kullanarak içerik paylaşmasına izin verir. Uygulamanın yalnızca daha önce erişim izni verdiği içeriği yayınlamasına izin verilir</string>
+    <string name="permgroupdesc_dcf">Uzak cihazlarla içerik paylaşın</string>
+    <string name="permgrouplab_dcf">İçeriği paylaş</string>
+    <string name="permlabel_dcf">Uzak cihazlarla içerik paylaşın</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sim_export_success_toast_fmt">
+        <item quantity="other">%d SIM kişisi dışa aktarıldı</item>
+        <item quantity="one">1 SIM kişisi dışa aktarıldı</item>
+    </plurals>
+</resources>
