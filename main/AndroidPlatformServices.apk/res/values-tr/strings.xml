@@ -41,9 +41,9 @@
     <string name="auth_app_permission_ok_footnote">"Devam ederek bu uygulamaya ve Google'a, bilgilerinizi kendi hizmet şartlarına ve gizlilik politikalarına uygun bir şekilde kullanmaları için izin vermiş olursunuz."</string>
     <string name="auth_cant_add_work_account_message">Bu türdeki hesap, kuruluşunuz tarafından yönetilir.</string>
     <string name="auth_captcha_instructions">Gördüğünüz metni buraya yazın:</string>
-    <string name="auth_common_downloading">İndiriliyor…</string>
+    <string name="auth_common_downloading">İndiriliyor</string>
     <string name="auth_common_go_back">Geri Git</string>
-    <string name="auth_common_switch_accounts">Hesap Değiştir</string>
+    <string name="auth_common_switch_accounts">Hesap değiştir</string>
     <string name="auth_d2d_source_alert_verify_lock_button">Kilitle ve doğrula</string>
     <string name="auth_d2d_source_copy_notice">Hesaplar ve veriler diğer cihazınıza kopyalansın mı?</string>
     <string name="auth_d2d_source_lock_bt_off_notice">Doğrulamanızdan sonra, cihazlarınızın iletişim kurabilmesi için Bluetooth açılacaktır.</string>
@@ -240,7 +240,7 @@ Bu özelliğin kapatılması, bilgi-eğlence sisteminizin sistem güncellemeleri
     <string name="common_learn_more">Daha fazla bilgi</string>
     <string name="common_list_apps_menu_help_and_feedback">Yardım ve geri bildirim</string>
     <string name="common_location_settings_title">Konum</string>
-    <string name="common_login_activity_task_title">Oturum açılıyor...</string>
+    <string name="common_login_activity_task_title">Oturum açılıyor</string>
     <string name="common_login_error_title">Oturum açılamadı</string>
     <string name="common_next">İleri</string>
     <string name="common_no_devices_found">Cihaz bulunamadı</string>
@@ -272,7 +272,7 @@ Bu özelliğin kapatılması, bilgi-eğlence sisteminizin sistem güncellemeleri
     <string name="degraded_recoverability_notif_title">Cihaz üzerinde şifreleme uyarısı</string>
     <string name="degraded_recoverability_screen_content">Google şifrenizi yakın zamanda değiştirdiniz. Cihaz üzerinde şifreleme için Google şifrenizi güncelledikten sonra şifrelerinizin kilidini açabilirsiniz. &lt;br/>&lt;br/>&lt;a href=%1$s> Cihaz üzerinde şifreleme hakkında daha fazla bilgi &lt;/a></string>
     <string name="degraded_recoverability_screen_title">Cihaz üzerinde şifreleme için Google şifrenizi girin</string>
-    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_a11y_label">Hata: Geçersiz</string>
     <string name="fido_account_selection_title">%s ile kullanılacak bir Google hesabı seçin</string>
     <string name="fido_begin_button">Başla</string>
     <string name="fido_ble_device_icon_content_description">Bluetooth cihaz bulundu</string>
@@ -662,21 +662,21 @@ Bu özelliğin kapatılması, bu cihazın, sistem güncellemeleri ve güvenlik g
     <string name="smartdevice_intro_text_with_location">"Diğer cihazınızı kurmak için telefonunuzun Bluetooth'u ve kablosuz ağ taramaları kullanılabilir. Bunlar da konum veya yakınlığı belirlemek için kullanılacak veriler içerebilir. Açık değilse Bluetooth açılacaktır"</string>
     <string name="smartdevice_intro_title_auto">Arabaya bağlanın</string>
     <string name="smartdevice_look_for_other_device">Bu adı eski cihazınızda bulun</string>
-    <string name="smartdevice_magicwand_cancel_signin">Oturum Açma</string>
+    <string name="smartdevice_magicwand_cancel_signin">Oturum açma</string>
     <string name="smartdevice_magicwand_confirm_signin">Oturum açma işlemi başlatıldı</string>
-    <string name="smartdevice_magicwand_consent_detail">Başka bir cihazda oturum açma işlemini tamamlamak için <b>Oturum aç</b>"'a dokunun."</string>
+    <string name="smartdevice_magicwand_consent_detail">Başka bir cihazda oturum açma işlemini tamamlamak için <b>Oturum aç</b>"'a dokunun"</string>
     <string name="smartdevice_magicwand_consent_title">Oturum açmayı tamamlayın</string>
-    <string name="smartdevice_magicwand_error_detail">Bir sorun oluştu ve Google, bu telefondan oturumunuzu açamadı.</string>
+    <string name="smartdevice_magicwand_error_detail">Bir sorun oluştu ve Google bu telefondan oturumunuzu açamadı</string>
     <string name="smartdevice_magicwand_fingerprint_detail">"Hesabınızda oturum açmak için bir QR kodunu taradınız.
 
-Güvenliğiniz için, başka bir cihazda oturum açanın siz olduğunu onaylamak üzere parmak izini doğrulayın."</string>
-    <string name="smartdevice_magicwand_lockscreen_description">Bu fazladan adım bu cihazın güvenli olduğunu doğrulamaya yardımcı olur.</string>
+Güvenliğiniz için başka bir cihazda oturum açanın siz olduğunu onaylamak üzere parmak izini doğrulayın"</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Bu fazladan adım bu cihazın güvenli olduğunu doğrulamaya yardımcı olur</string>
     <string name="smartdevice_magicwand_lockscreen_verification_text">"Hesabınızda oturum açmak için bir QR kodunu taradınız.
 
-Güvenliğiniz için, başka bir cihazda oturum açanın siz olduğunu onaylamak üzere ekran kilidi deseninizi girin."</string>
-    <string name="smartdevice_magicwand_selectaccount_description">tarayıcınıza devam etmek için</string>
-    <string name="smartdevice_magicwand_success_detail">Diğer cihazınızda tarayıcınıza geri dönün.</string>
-    <string name="smartdevice_pairing_verify_confirm">Eşleşiyorlarsa ^1 öğesine dokunun.</string>
+Güvenliğiniz için başka bir cihazda oturum açanın siz olduğunu onaylamak üzere ekran kilidi deseninizi girin"</string>
+    <string name="smartdevice_magicwand_selectaccount_description">Tarayıcınıza devam etmek içindir</string>
+    <string name="smartdevice_magicwand_success_detail">Diğer cihazınızda tarayıcınıza geri dönün</string>
+    <string name="smartdevice_pairing_verify_confirm">Eşleşiyorlarsa ^1 öğesine dokunun</string>
     <string name="smartdevice_pairing_verify_shapes_title_source">Yeni cihazınızdaki şekilleri doğrulayın</string>
     <string name="smartdevice_pairing_verify_shapes_title_target">Eski cihazınızdaki şekilleri doğrulayın</string>
     <string name="smartdevice_problem_copying">Veriler diğer cihazınıza kopyalanırken bir sorun oldu</string>
@@ -686,7 +686,7 @@ Güvenliğiniz için, başka bir cihazda oturum açanın siz olduğunu onaylamak
     <string name="smartdevice_reverify_body">Yeni bir kod alacaksınız</string>
     <string name="smartdevice_reverify_body_auto">Bir sorun oldu. Arabanıza bağlanmak için <b>Anladım</b>"'a dokunun.
 
-Yeni bir bildirim almazsanız araç ekranınızda sağlanan web sitesini ziyaret ederek oturum açabilirsiniz."</string>
+Yeni bir bildirim almazsanız araç ekranınızda sağlanan internet sitesini ziyaret ederek oturum açabilirsiniz"</string>
     <string name="smartdevice_reverify_title">Tekrar doğrulanmaya çalışılsın mı?</string>
     <string name="smartdevice_search_again">Tekrar ara</string>
     <string name="smartdevice_searching_for_devices">Cihazlar aranıyor</string>
@@ -700,32 +700,32 @@ Yeni bir bildirim almazsanız araç ekranınızda sağlanan web sitesini ziyaret
     <string name="smartdevice_setup_show_password">Şifreyi göster</string>
     <string name="smartdevice_setup_title_verify_code_source">Yeni cihazınızdaki kodu doğrulama</string>
     <string name="smartdevice_setup_title_verify_code_target">Eski cihazınızdaki kodu doğrulama</string>
-    <string name="smartdevice_target_hotphrase_instructions">&lt;b>\"^1, ^2.\" deyin&lt;/b>&lt;br/>&lt;br/> İsterseniz bunun yerine arama kutusuna &lt;b>\"^2\"&lt;/b> yazabilirsiniz.</string>
+    <string name="smartdevice_target_hotphrase_instructions">&lt;b>\"^1, ^2.\" deyin&lt;/b>&lt;br/>&lt;br/> İsterseniz bunun yerine arama kutusuna &lt;b>\"^2\"&lt;/b> yazabilirsiniz</string>
     <string name="smartdevice_type_typing_ok_google">Sesli komut çalışmazsa arama kutusuna yazmayı deneyin. &lt;b>\"^1\"&lt;/b> yazın</string>
     <string name="smartdevice_use_another_account">Başka bir hesap kullan</string>
     <string name="smartdevice_verify_phone">Cihazınızı doğrulayın</string>
-    <string name="smartdevice_web_deeplink_failed_description">"Tarayıcıda yazdığınız URL'nin doğru olduğundan emin olun."</string>
+    <string name="smartdevice_web_deeplink_failed_description">Tarayıcıda yazdığınız bağlantının doğru olduğundan emin olun</string>
     <string name="smartdevice_wifi_cannot_connect_description">Bu cihazın kurulumunda yalnızca açık ağlar ve WPA/WPA2 ağları kullanılabilir</string>
     <string name="smartdevice_wifi_cannot_connect_title">Kablosuz ağ kullanılamıyor</string>
-    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Kablosuz bağlantı aramak için Konum özelliğini açın.
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Kablosuz bağlantı aramak için konum özelliğini açın.
 
-Bunu daha sonra istediğiniz zaman Ayarlar'da değiştirebilirsiniz."</string>
+Bunu daha sonra istediğiniz zaman Ayarlar'da değiştirebilirsiniz"</string>
     <string name="smartdevice_wifi_unavailable_due_to_location_title">Kablosuz ağlar aranamıyor</string>
-    <string name="smartdevice_wifi_unavailable_text">"Ağları aramak için, açık değillerse Kablosuz ve konum özelliklerinin açılması gerekmektedir.
+    <string name="smartdevice_wifi_unavailable_text">"Ağları aramak için açık değillerse kablosuz ve konum özelliklerinin açılması gerekmektedir.
 
-Bu seçeneği daha sonra istediğiniz zaman Ayarlar'da değiştirebilirsiniz."</string>
+Bu seçeneği daha sonra istediğiniz zaman ayarlarda değiştirebilirsiniz"</string>
     <string name="sud_back_button_label">Geri</string>
     <string name="sud_more_button_label">Daha fazla</string>
     <string name="sud_next_button_label">İleri</string>
-    <string name="uncertified_notification_expired_content">Google uygulamaları ve hizmetleri bu cihazda artık çalışmayacak. Daha fazla bilgi edinmek için dokunun.</string>
+    <string name="uncertified_notification_expired_content">Google uygulamaları ve hizmetleri bu cihazda artık çalışmayacak. Daha fazla bilgi edinmek için dokunun</string>
     <string name="uncertified_notification_expired_title">Kayıt süresi doldu</string>
     <string name="uncertified_notification_expiring_title">Kayıt süresi doluyor</string>
-    <string name="v7_preference_off">KAPALI</string>
-    <string name="v7_preference_on">AÇIK</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="work_profile_will_fail_description">"%1$s
 
 Bu hesap, kuruluşunuz tarafından yönetildiği için kişisel profilinize eklenemez.
 
-Yönetilen hesabınızı, evrak çantası rozetiyle işaretlenmiş iş uygulamalarında kullanabilirsiniz."</string>
+Yönetilen hesabınızı evrak çantası rozetiyle işaretlenmiş iş uygulamalarında kullanabilirsiniz"</string>
     <string name="work_profile_will_fail_title">Hesap eklenemiyor</string>
 </resources>
