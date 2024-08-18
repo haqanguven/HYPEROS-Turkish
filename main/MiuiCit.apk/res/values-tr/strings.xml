@@ -49,10 +49,16 @@
     <string name="app_name">Xiaomi cit</string>
     <string name="audio_spk_cal_wait">Kalibrasyon</string>
     <string name="audio_spk_def">Hoparlörleri kalibre edin</string>
+    <string name="auto_bottom_left_high_speaker">Sol taraf alt tweeter</string>
+    <string name="auto_bottom_left_low_speaker">Sol taraf alt woofer</string>
+    <string name="auto_bottom_right_low_speaker">Sağ taraf alt woofer</string>
     <string name="auto_frontflash_description">Tüm ön flaş ışıkları açık. Geçmek için tıklayın. Aksi takdirde başarısız olmak için tıklayın</string>
     <string name="auto_frontflash_title">Ön kamera flaş testi</string>
     <string name="auto_rearflash_description">Tüm arka kamera flaş ışıkları açık. Geçmek için tıklayın. Aksi takdirde başarısız olmak için tıklayın</string>
     <string name="auto_rearflash_title">Arka kamera flaş testi</string>
+    <string name="auto_top_left_high_speaker">Sol taraf üst tweeter</string>
+    <string name="auto_top_left_low_speaker">Sol taraf üst woofer</string>
+    <string name="auto_top_right_low_speaker">Sağ taraf üst woofer</string>
     <string name="aux_mic_check_record_tip">"Kaydediliyor. Lütfen cihazın altındaki AUX MIC'e bir şeyler söyleyin"</string>
     <string name="back_mic_check_record_tip">Kayıt yapılıyor. Lütfen cihazın arkasındaki mikrofona bir şeyler söyleyin</string>
     <string name="battery_authentic">Pil doğrulama</string>
@@ -63,7 +69,7 @@
     <string name="battery_plug_wirelee_title">Kablosuz şarj testi</string>
     <string name="battery_plugin_wirelee">Kablosuz şarj bağlı</string>
     <string name="battery_plugout_wirelee">Lütfen kablosuz şarjı bağlayın</string>
-    <string name="battery_reverse_wireless_charge_success">Ters kablosuz şarj başarısı</string>
+    <string name="battery_reverse_wireless_charge_success">Ters kablosuz şarj başarılı oldu</string>
     <string name="battery_reverse_wireless_charge_summary">Ters kablosuz şarj testi</string>
     <string name="battery_reverse_wireless_charge_time_out">Ters kablosuz şarj zaman aşımı</string>
     <string name="battery_reverse_wireless_charge_title">Ters kablosuz şarj</string>
@@ -160,20 +166,37 @@ Cihazı kalibre etmeden önce düz bir yüzeye yerleştirin"</string>
     <string name="cit_audio_hw_check_title">Ses donanımı kontrol testi</string>
     <string name="cit_audio_lb_auxmic_to_earpiece_title">Yardımcı mikrofon hoparlör geri bildirim testi</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Arka mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Arka mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_check_track_tip">Şu anda kayıt çalınıyor. Lütfen herhangi bir ses olup olmadığını kontrol edin</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Ana mikrofon hoparlör geri bildirim testi</string>
-    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Yardımcı mikrofondan alıcıya geri bildirim testi
+    <string name="cit_audio_lb_mainmic_to_speaker_title">Ana mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">Yan alt mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">Yan üst mikrofon hoparlör geri bildirim testi</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Aux mikrofonu alıcıya geri bildirim testi.
 
-Cihazı sanki arama yapıyormuş gibi tutun, yardımcı mikrofonla konuşun ve alıcıdan ses duymalısınız"</string>
-    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Arka mikrofondan alıcıya geri bildirim testi
+Cihazı sanki bir arama yapıyormuş gibi tutun, aux mikrofonuna konuşun, alıcıdan ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Arka mikrofondan alıcıya geri bildirim testi.
 
-Cihazı arama yapıyormuş gibi tutun, arka mikrofona konuşun ve alıcıdan ses duymalısınız"</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Ana mikrofondan alıcıya geri bildirim testi
+Cihazı sanki bir arama yapıyormuş gibi tutun, arka mikrofona konuşun, alıcıdan ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Arka mikrofondan hoparlöre geri bildirim testi.
 
-Cihazı arama yapıyormuş gibi tutun, ana mikrofona konuşun alıcıdan ses duymalısınız"</string>
-    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Üst mikrofondan alıcıya geri bildirim testi
+Arka mikrofona konuşun, hoparlörden ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Ana mikrofondan alıcıya geri bildirim testi.
 
-Cihazı arama yapıyormuş gibi tutun, üst mikrofona konuşun ve alıcıdan ses duymalısınız."</string>
-    <string name="cit_audio_lb_topmic_to_earpiece_title">Üst mikrofon hoparlörü geri bildirim testi</string>
+Cihazı sanki bir arama yapıyormuş gibi tutun, ana mikrofona konuşun, alıcıdan ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Ana mikrofondan hoparlöre geri bildirim testi.
+
+Ana mikrofona konuşun, hoparlörden ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Yan alt mikrofondan hoparlöre geri bildirim testi.
+
+Yan alt mikrofona konuşun, hoparlörden ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Yan üst mikrofondan hoparlöre geri bildirim testi.
+
+Yan üst mikrofona konuşun, hoparlörden ses duymalısınız"</string>
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Üst mikrofondan alıcıya geri bildirim testi.
+
+Cihazı sanki bir arama yapıyormuş gibi tutun, üst mikrofona konuşun, alıcıdan ses duymalısınız"</string>
+<string name="cit_audio_lb_topmic_to_earpiece_title">Üst mikrofon hoparlör geri bildirim testi</string>
     <string name="cit_audio_spk_cal_valueF0">F0:</string>
     <string name="cit_audio_spk_cal_valueRe">Bak:</string>
     <string name="cit_audio_spk_cal_valueT">Sıcaklık:</string>
@@ -301,6 +324,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_front_dual_camera_check_title">Ön Bokeh kamera</string>
     <string name="cit_front_sub_camera_check_title">Ön yardımcı kamera</string>
     <string name="cit_front_sub_camera_check_title_fold">Alt ekran ön kamera</string>
+    <string name="cit_front_ultra_camera_check_title">Ön Ultra kamera</string>
     <string name="cit_get_signature_failed">imza alınamadı</string>
     <string name="cit_gps_check_summary">Karşılık gelen GPS bilgisi aşağıda görüntülenmelidir</string>
     <string name="cit_gps_check_title">GPS</string>
@@ -333,6 +357,10 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_headset_pull_finish">Kulaklık bağlantısı kesildi</string>
     <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesildi. Test tamamlandı</string>
     <string name="cit_headset_right_hph_val">Riht kanal empedans değeri：</string>
+    <string name="cit_high_accdata_sensor_check_summary">X, Y, Z koordinatları için değerler aşağıda görünmelidir. Lütfen testi yapmadan önce telefonunuzu masaüstüne düz bir şekilde yerleştirin</string>
+    <string name="cit_high_accdata_sensor_check_title">Yüksek ivme ölçer</string>
+    <string name="cit_high_accdata_sensor_graph_title">Yüksek İvme ölçer grafiği</string>
+    <string name="cit_high_accelermeter_sensor_cali_title">Yüksek aralıklı ivme sensörü kalibrasyon testi</string>
     <string name="cit_horn_motor_test">Horn motor test</string>
     <string name="cit_hvdcp_charger_in">(USB_HVDCP) yoluyla şarj</string>
     <string name="cit_init_fp_fod_test_tip">Init parmak izi test oOrtamı</string>
@@ -348,6 +376,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
     <string name="cit_leds_check_title">Bildirim ışığı</string>
     <string name="cit_light_sensor_check_summary">DAC değeri aşağıda görünmelidir. Lütfen ışık sensörünü test edin</string>
     <string name="cit_light_sensor_check_title">Işık sensörü</string>
+    <string name="cit_lpd_test">LPD test</string>
     <string name="cit_macro_camera_check_title">Makro kamera</string>
     <string name="cit_magnetic_info_hint">Lütfen cihazı 8 şekli gibi döndürün</string>
     <string name="cit_magnetic_sensor_check_summary">X,Y,Z için değer koordinatları aşağıda görünmelidir</string>
@@ -361,7 +390,7 @@ Testten önce kulaklığı takmanız gerekir"</string>
 Test sırasında ekranı kapatmayın"</string>
     <string name="cit_nfc_check_tip">Kartı cihazın arkasının üst kısmına koyun</string>
     <string name="cit_nfc_check_title">NFC testi</string>
-    <string name="cit_no_sim_check_title">Sim Kart Yok</string>
+    <string name="cit_no_sim_check_title">Sim kart Yok</string>
     <string name="cit_otg_not_supported">Bu cihaz OTG testini desteklemiyor</string>
     <string name="cit_pass">Geçildi</string>
     <string name="cit_pencil_reverse_wireless_charger_summary">Testi başlatmak için lütfen kalemi tablonun sağ algılama alanına yerleştirin</string>
@@ -376,6 +405,7 @@ Test sırasında ekranı kapatmayın"</string>
 Ultrasonik mesafe sensörü: Lütfen cihaza cevap verme eylemini simüle edin
 Alt test alanı yaklaşırken 0.0 değerini ve uzaklaşırken 5.0 değerini gösteriyorsa test başarılıdır. Aksi takdirde test başarısız olur"</string>
     <string name="cit_proximity_sensor_cali_title">Yakınlık sensörü kalibrasyon testi</string>
+    <string name="cit_proximity_sensor_check_second_screen_title">Second Proximity sensor</string>
     <string name="cit_proximity_sensor_check_summary">"Yakınlık sensörünü elinizle kapatın, ardından elinizi uzaklaştırın. Elinizi sensörden uzaklaştırdığınızda değer 0,0'dan artmalıdır
 Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından emin olun (Örneğin: Koruyucu ekran örtüsü veya eldivenler)"</string>
     <string name="cit_proximity_sensor_check_title">Yakınlık sensörü</string>
@@ -411,6 +441,14 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_start_calibration">Ayarla</string>
     <string name="cit_sub_display_check_title">Alt ekran</string>
     <string name="cit_sub_touch_panel_test_title">Sub dokunma sensörü</string>
+    <string name="cit_tele_5x_cali">Tele kamera PdfOffset kalibrasyonu</string>
+    <string name="cit_tele_5x_cali_reset">Sıfırla</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">Sıfırlandı</string>
+    <string name="cit_tele_5x_cali_success_toast">Kalibrasyon başarılı oldu</string>
+    <string name="cit_tele_5x_cali_tip">"1. Sorunun ultra telefoto bulanıklığından kaynaklandığını doğrulayın
+2. Kalibre et düğmesine tıklayın
+3. Ultra telefoto odak bulanıklığı sorununun kalibrasyondan önce ve sonra iyileşip iyileşmediğini belirleyin
+4. Sorun düzelmezse sıfırla düğmesine tıklayın"</string>
     <string name="cit_tele_camera_check_title">Tele kamera</string>
     <string name="cit_test_results">Geçmiş test sonucu</string>
     <string name="cit_tfcard_available_szie">Mevcut boyut</string>
@@ -435,6 +473,7 @@ Kalibrasyon yaparken sensör ile eliniz arasında hiçbir şey olmadığından e
     <string name="cit_tool_asdiv_title">ASDIV ayarı</string>
     <string name="cit_tool_bluetooth">Bluetooth test aracı</string>
     <string name="cit_tool_bluetooth_br_tx_msg">Bluetooth BR/EDR TX test moduna girin:</string>
+    <string name="cit_tool_bluetooth_dbam">Bluetooth DBAM test moduna girin</string>
     <string name="cit_tool_bluetooth_dut">Bluetooth test moduna girin</string>
     <string name="cit_tool_bluetooth_enhanced">Bluetooth gelişmiş testine girin</string>
     <string name="cit_tool_bluetooth_le_enhanced_run">Çalıştır</string>
@@ -698,12 +737,19 @@ Adım 3: Seçilen MBN'yi yüklemek için etkinleştir düğmesine tıklayın
     <string name="cit_touch_fw_mode">FW modu</string>
     <string name="cit_touch_panel_nead_pencil_tip">Lütfen tekrar test etmek için kurşun kalem kullanın</string>
     <string name="cit_touch_panel_test_title">Dokunmatik sensör</string>
+    <string name="cit_touch_panel_test_title_N8">Dokunmatik sensör</string>
     <string name="cit_touch_thp_mode">THP modu</string>
     <string name="cit_touch_work_mode_test_help">"Kullanım talimatları
 dokunmatik modu THP moduna veya FW moduna geçirmek için düğmeyi tıklayın"</string>
     <string name="cit_touch_work_mode_test_title">Dokunmatik anahtarlama THP modu testi</string>
     <string name="cit_touch_work_summary">THP modunu değiştirir</string>
     <string name="cit_touch_work_switch_tips">Ekrana dokunmayın ve mod değiştirme işleminin tamamlanmasını bekleyin</string>
+    <string name="cit_tt_cali_bin_check_title">Çip kalibrasyon dosyası içerik tespiti</string>
+    <string name="cit_tt_chip_detection_title">Tian-tong çip yerinde algılama</string>
+    <string name="cit_tt_close_satelite_tip">Lütfen uydu telefonu fonksiyonunu kapalı tutun</string>
+    <string name="cit_tt_description">Çip ile ilgili fonksiyonlar tespit ediliyor. Lütfen telefonu çalıştırmayınız</string>
+    <string name="cit_tt_rx_check_title">Çip RX alım yolu tespiti</string>
+    <string name="cit_tt_tx_check_title">Çip TX iletim yolu tespiti</string>
     <string name="cit_ultra_camera_check_title">Ultra kamera</string>
     <string name="cit_usb_OTG_error_condition">"USB cihazı takıldı ancak cihaz bilgisi alınamıyor
 Test başarısız oldu"</string>
@@ -727,7 +773,7 @@ Test başarısız oldu"</string>
     <string name="cit_version_check_title">Sürüm bilgisini kontrol edin</string>
     <string name="cit_vga_camera_cameralist_fail">Hata: Kamera listesi eşleşmiyor</string>
     <string name="cit_vibrator_check">Titreşim testi</string>
-    <string name="cit_vibrator_check_summary">"Uzun veya kısa vibratör testte rastgele ortaya çıkıyor
+    <string name="cit_vibrator_check_summary">"Uzun veya kısa titreşim testte rastgele ortaya çıkıyor
 Lütfen farklı titreşim koşullarına göre doğru düğmeyi seçin"</string>
     <string name="cit_vice_display_check_summary">"Küçük ekran görüntüsü açıldıktan sonra ve ekranı aydınlatmak için çift tıklayın
 Renklerin tüm ekranda tutarlı bir şekilde görüntülendiğini onaylayın. Düzensiz parlak noktalar ve karanlık noktalar olmadığından emin olun"</string>
@@ -757,9 +803,9 @@ Renklerin tüm ekranda tutarlı bir şekilde görüntülendiğini onaylayın. D�
     <string name="enrol">Kaydol</string>
     <string name="enrolCount">Kayıt sayısı</string>
     <string name="enrolQuality">Kayıt kalitesi</string>
-    <string name="enrollment_error_tip">The fingerprint entry card control strategy is triggered, please ensure that the fingerprints are clear and clean, or exit the current test item and start the test again.</string>
+    <string name="enrollment_error_tip">Parmak izi giriş kartı kontrol stratejisi tetiklendi. Lütfen parmak izlerinin temiz ve açık olduğundan emin olun veya mevcut test öğesinden çıkıp testi tekrar başlatın</string>
     <string name="failed_to_get_permission">Bulut denetimi algılama başarısız oldu ve bazı işlevler kayboldu</string>
-    <string name="fingerprint_input_title">parmak izi giriş testi</string>
+    <string name="fingerprint_input_title">Parmak izi giriş testi</string>
     <string name="firstplug_mic_check_record_tip">Kaydı durdurun. Kulaklığı taktıktan sonra sonucu onaylayın</string>
     <string name="fod_check_start_error">"Sensör kontrol programı başlatılamıyor
 Test başarısız oldu"</string>
@@ -888,6 +934,8 @@ Kalibre etme başarısından sonra armatürü cihaza yakın ve cihazdan uzakta k
     <string name="test_horn_motor_summary">"İki rastgele sayı duyacaksınız
 Lütfen duyduğunuz sayıya göre uygun düğmeye tıklayın
 Farklı titreşim koşullarına göre doğru düğmeyi seçin"</string>
+    <string name="test_integration_speaker">Entegrasyon hoparlör testi</string>
+    <string name="test_integration_summary">Altı hoparlör sırayla seste döngüye giriyor. Sese dikkat edin ve dikey ekran durumunu korurken anormal olup olmadığını belirleyin</string>
     <string name="test_main_mic">Ana mikrofon</string>
     <string name="test_second_flash">İkinci flaş testi</string>
     <string name="test_sidebottom_mic">Yan alt mikrofon</string>

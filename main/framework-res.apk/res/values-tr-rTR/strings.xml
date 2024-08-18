@@ -281,14 +281,14 @@ Bu kısayolu Ayarlar > Erişilebilirlikte başka bir özellikle değiştirebilir
     <string name="app_blocked_message">%1$s şu anda kullanılamıyor</string>
     <string name="app_blocked_title">Uygulama kullanılamıyor</string>
     <string name="app_category_accessibility">Erişebilirlik</string>
-    <string name="app_category_audio">Müzik ve ses</string>
+    <string name="app_category_audio">Müzik &amp; ses</string>
     <string name="app_category_game">Oyunlar</string>
-    <string name="app_category_image">Fotoğraflar ve görüntüler</string>
-    <string name="app_category_maps">Haritalar ve navigasyon</string>
-    <string name="app_category_news">Haberler ve dergiler</string>
+    <string name="app_category_image">Fotoğraflar &amp; görüntüler</string>
+    <string name="app_category_maps">Haritalar &amp; navigasyon</string>
+    <string name="app_category_news">Haberler &amp; dergiler</string>
     <string name="app_category_productivity">Verimlilik</string>
-    <string name="app_category_social">Sosyal ağ ve iletişim</string>
-    <string name="app_category_video">Filmler ve video</string>
+    <string name="app_category_social">Sosyal ağ &amp; iletişim</string>
+    <string name="app_category_video">Filmler &amp; video</string>
     <string name="app_info">Uygulama bilgileri</string>
     <string name="app_not_found">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
     <string name="app_running_notification_text">Daha fazla bilgi edinmek veya uygulamayı durdurmak için dokunun</string>
@@ -431,7 +431,7 @@ Bu kısayolu Ayarlar > Erişilebilirlikte başka bir özellikle değiştirebilir
     <string name="contentServiceSync">Senkronize</string>
     <string name="contentServiceSyncNotificationTitle">Senkronize edilemiyor</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Çok fazla sayıda %s içeriği silinmeye çalışıldı</string>
-    <string name="content_description_sliding_handle">Kayan tutma yeri. Dokunun ve basılı tutun</string>
+    <string name="content_description_sliding_handle">Kayan tutma yeri. Dokunun &amp; basılı tutun</string>
     <string name="conversation_single_line_image_placeholder">Bir resim gönderdi</string>
     <string name="conversation_title_fallback_group_chat">Grup sohbeti</string>
     <string name="conversation_title_fallback_one_to_one">Konuşma</string>
@@ -511,7 +511,7 @@ Kulaklık ses seviyesi önerilenden yüksek olduğundan işitme duyunuza zarar v
     <string name="dismiss_action">Reddet</string>
     <string name="display_manager_built_in_display_name">Yerleşik ekran</string>
     <string name="display_manager_hdmi_display_name">HDMI ekran</string>
-    <string name="display_manager_overlay_display_name">Yer paylaşımı numarası. %1$d</string>
+    <string name="display_manager_overlay_display_name">Kaplama #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, güvenli</string>
     <string name="display_rotation_camera_compat_toast_after_rotation">Daha iyi bir görünüm için döndürün</string>
     <string name="display_rotation_camera_compat_toast_in_multi_window">"Daha iyi bir görünüm için %s'yi tam ekranda açın"</string>
@@ -604,11 +604,11 @@ Kulaklık ses seviyesi önerilenden yüksek olduğundan işitme duyunuza zarar v
     <string name="ext_media_status_unsupported">Desteklenmiyor</string>
     <string name="ext_media_unmount_action">Çıkar</string>
     <string name="ext_media_unmountable_notification_message">Düzeltmek için dokunun</string>
-    <string name="ext_media_unmountable_notification_title">%s medyasında sorun oluştu</string>
+    <string name="ext_media_unmountable_notification_title">%s ile ilgili sorun</string>
     <string name="ext_media_unmounting_notification_message">Çıkarmayın</string>
     <string name="ext_media_unmounting_notification_title">%s çıkarılıyor</string>
-    <string name="ext_media_unsupported_notification_message">Bu cihaz bu %s ortamını desteklemiyor. Desteklenen bir biçimde kurmak için dokunun</string>
-    <string name="ext_media_unsupported_notification_title">Desteklenmeyen %s</string>
+    <string name="ext_media_unsupported_notification_message">Ayarlamak için dokunun</string>
+    <string name="ext_media_unsupported_notification_title">%s algılandı</string>
     <string name="extract_edit_menu_button">Düzenle</string>
     <string name="face_acquired_dark_glasses_detected_alt">Koyu renk gözlükler algılandı. Yüzünüz tamamen görünür olmalıdır</string>
     <string name="face_acquired_insufficient">Doğru yüz verileri yakalanamadı. Tekrar deneyin</string>
@@ -764,7 +764,7 @@ Parmak izinizi ayarlarken hafifçe dokunmayı deneyin"</string>
     <string name="gpsVerifNo">Hayır</string>
     <string name="gpsVerifYes">Evet</string>
     <string name="grant_credentials_permission_message_footer">Bu isteğe izin vermek istiyor musunuz?</string>
-    <string name="grant_credentials_permission_message_header">Aşağıdaki bir veya daha fazla uygulama şimdi ve ileride hesabınıza erişmek için izin istiyor.</string>
+    <string name="grant_credentials_permission_message_header">Aşağıdaki bir veya daha fazla uygulama şimdi ve ileride hesabınıza erişmek için izin istiyor</string>
     <string name="grant_permissions_header_text">Erişim isteği</string>
     <string name="granularity_label_character">karakter</string>
     <string name="granularity_label_line">Satır</string>
@@ -845,7 +845,6 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="js_dialog_before_unload_positive_button">Bu sayfadan ayrıl</string>
     <string name="js_dialog_before_unload_title">Gezinmeyi onayla</string>
     <string name="js_dialog_title">%s adresindeki sayfada şunlar belirtiliyor:</string>
-    <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboard_layout_notification_more_than_three_selected_message">Klavye düzeni %1$s, %2$s, %3$s olarak ayarlandı. Değiştirmek için dokunun</string>
     <string name="keyboard_layout_notification_multiple_selected_message">Klavyeleri görüntülemek için dokunun</string>
     <string name="keyboard_layout_notification_multiple_selected_title">Fiziksel klavyeler yapılandırıldı</string>
@@ -904,7 +903,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="kg_invalid_sim_pin_hint">4-8 rakamdan oluşan bir PIN girin</string>
     <string name="kg_invalid_sim_puk_hint">PUK kodu 8 basamaklı bir sayı olmalıdır</string>
     <string name="kg_login_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
-\""<b>google.com/accounts/recovery</b> adresini ziyaret edin"</string>
+<b>google.com/accounts/recovery</b> adresini ziyaret edin"</string>
     <string name="kg_login_checking_password">Hesap denetleniyor</string>
     <string name="kg_login_instructions">Kilidi açmak için Google hesabınızla oturum açın</string>
     <string name="kg_login_invalid_input">Geçersiz kullanıcı adı veya şifre</string>
@@ -978,7 +977,7 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
     <string name="lockscreen_failed_attempts_now_wiping">Telefon kilidini %d defa yanlış bir şekilde açmaya çalıştınız. Telefon şimdi fabrika varsayılanına sıfırlanacak</string>
     <string name="lockscreen_forgot_pattern_button_text">Deseni unuttunuz mu?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
-\""<b>google.com/accounts/recovery</b> adresini ziyaret edin"</string>
+<b>google.com/accounts/recovery</b> adresini ziyaret edin"</string>
     <string name="lockscreen_glogin_checking_password">Denetleniyor</string>
     <string name="lockscreen_glogin_forgot_pattern">Hesap kilidini açma</string>
     <string name="lockscreen_glogin_instructions">Kilidi açmak için Google hesabınızla oturum açın</string>
@@ -1034,7 +1033,7 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="low_memory">Telefonun depolama alanı dolu. Yer açmak için bazı dosyaları silin</string>
     <string name="managed_profile_app_label">"%1$s işine geç"</string>
     <string name="managed_profile_label">İş profiline geç</string>
-    <string name="managed_profile_label_badge">%1$s (İş)</string>
+    <string name="managed_profile_label_badge">%1$s İş</string>
     <string name="managed_profile_label_badge_2">İş için 2. %1$s</string>
     <string name="managed_profile_label_badge_3">İş için 3. %1$s</string>
     <string name="matches_found">{ count, plural, =1 {# eşleşme} other {# {Toplam}} }</string>
@@ -1051,7 +1050,6 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="media_route_status_in_use">Kullanımda</string>
     <string name="media_route_status_not_available">Yok</string>
     <string name="media_route_status_scanning">Taranıyor</string>
-    <string name="mediasize_na_foolscap">İptal et</string>
     <string name="mediasize_na_gvrnmt_letter">Hükümet mektubu</string>
     <string name="mediasize_na_index_3x5">Dizin kartı 3x5</string>
     <string name="mediasize_na_index_4x6">Dizin kartı 4x6</string>
@@ -1077,25 +1075,24 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="menu_sym_shortcut_label">Sembol+</string>
     <string name="mic_access_off_toast">Mikrofon kapalı</string>
     <string name="mic_access_on_toast">Mikrofon açık</string>
-    <string name="midnight">Gece yarısı</string>
     <string name="mime_type_apk">Android uygulaması</string>
     <string name="mime_type_audio">Ses</string>
-    <string name="mime_type_audio_ext">%1$s ses dosyası</string>
+    <string name="mime_type_audio_ext">%1$s ses</string>
     <string name="mime_type_compressed">Arşiv</string>
-    <string name="mime_type_compressed_ext">%1$s arşiv dosyası</string>
+    <string name="mime_type_compressed_ext">%1$s arşiv</string>
     <string name="mime_type_document">Doküman</string>
-    <string name="mime_type_document_ext">%1$s doküman dosyası</string>
+    <string name="mime_type_document_ext">%1$s doküman</string>
     <string name="mime_type_folder">Klasör</string>
     <string name="mime_type_generic">Dosya</string>
-    <string name="mime_type_generic_ext">%1$s dosyası</string>
+    <string name="mime_type_generic_ext">%1$s dosya</string>
     <string name="mime_type_image">Resim</string>
-    <string name="mime_type_image_ext">%1$s resim dosyası</string>
-    <string name="mime_type_presentation">Sunu</string>
-    <string name="mime_type_presentation_ext">%1$s sunu dosyası</string>
+    <string name="mime_type_image_ext">%1$s resim</string>
+    <string name="mime_type_presentation">Sunum</string>
+    <string name="mime_type_presentation_ext">%1$s sunum</string>
     <string name="mime_type_spreadsheet">E-tablo</string>
-    <string name="mime_type_spreadsheet_ext">%1$s e-tablo dosyası</string>
+    <string name="mime_type_spreadsheet_ext">%1$s e-tablo</string>
     <string name="mime_type_video">Video</string>
-    <string name="mime_type_video_ext">%1$s video dosyası</string>
+    <string name="mime_type_video_ext">%1$s video</string>
     <string name="miniresolver_call">Ara</string>
     <string name="miniresolver_call_in_work">İş uygulamasından mı aradınız?</string>
     <string name="miniresolver_call_information">Kuruluşunuz yalnızca iş uygulamalarından arama yapmanıza izin veriyor</string>
@@ -1127,7 +1124,7 @@ Yeni bir SIM kart almak için hizmet sağlayıcınızla görüşün"</string>
     <string name="mobile_no_internet">Mobil ağın internet erişimi yok</string>
     <string name="more_item_label">Diğer</string>
     <string name="move_button_text">Tüm pencereyi taşıyabilmek için çerçeve düğmesine dokunun</string>
-    <string name="mte_override_notification_message">Performans ve kararlılık etkilenebilir. Devre dışı bırakmak için yeniden başlatın. arm64.memtag.bootctl kullanılarak etkinleştirildiyse, bunu önceden yok olarak ayarlayın</string>
+    <string name="mte_override_notification_message">Performans ve kararlılık etkilenebilir. Devre dışı bırakmak için yeniden başlatın. arm64.memtag.bootctl kullanılarak etkinleştirildiyse bunu önceden yok olarak ayarlayın</string>
     <string name="mte_override_notification_title">Deneysel MTE etkin</string>
     <string name="music_recognition_manager_service">Müzik tanıma yöneticisi hizmeti</string>
     <string name="muted_by">%1$s bazı sesleri kapatıyor</string>
@@ -1150,9 +1147,9 @@ Gelişmiş bildirimler, kişi adları ve mesajlar gibi kişisel bilgiler dahil o
     <string name="network_switch_metered_detail">%2$s ağının internet erişimi olmadığında cihaz %1$s ağını kullanır. Bunun için ödeme alınabilir</string>
     <string name="network_switch_metered_toast">%1$s ağından %2$s ağına geçildi</string>
     <string name="network_switch_type_name_unknown">Bilinmeyen ağ türü</string>
-    <string name="new_app_action">%1$s uygulamasını aç</string>
+    <string name="new_app_action">%1$s aç</string>
     <string name="new_app_description">%1$s kaydetmeden kapanacak</string>
-    <string name="new_sms_notification_content">Görüntülemek için SMS uygulamasını açın</string>
+    <string name="new_sms_notification_content">Görüntülemek için mesaj uygulamasını açın</string>
     <string name="new_sms_notification_title">Yeni mesajlarınız var</string>
     <string name="next_button_label">İleri</string>
     <string name="noApplications">Bu eylemi hiçbir uygulama gerçekleştiremez</string>
@@ -1224,7 +1221,7 @@ Gelişmiş bildirimler, kişi adları ve mesajlar gibi kişisel bilgiler dahil o
     <string name="number_picker_decrement_button">Azalt</string>
     <string name="number_picker_increment_button">Artır</string>
     <string name="number_picker_increment_scroll_action">Artırmak için yukarı, azaltmak için aşağı kaydırın</string>
-    <string name="number_picker_increment_scroll_mode">%s dokunun ve basılı tutun</string>
+    <string name="number_picker_increment_scroll_mode">%s dokunun &amp; basılı tutun</string>
     <string name="old_app_action">%1$s uygulamasına geri dön</string>
     <string name="older">Daha eski</string>
     <string name="oneMonthDurationPast">1 ay önce</string>
