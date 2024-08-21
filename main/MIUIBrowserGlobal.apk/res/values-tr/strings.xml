@@ -494,7 +494,7 @@ Senkronizasyonu durdurmak için kapatın"</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom">Bağlantı adresi girin</string>
     <string name="custom_head_card_text">Her zaman harika şeylerin olmak üzere olduğuna inanın</string>
-    <string name="custom_head_card_text_incognito">"Gizli moddasınız
+    <string name="custom_head_card_text_incognito">"Gizli moddasınız.
 Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyecektir"</string>
     <string name="custom_page_guide_content">Yer imleri, ayarlar ve araçlar burada</string>
     <string name="customize">Özelleştir</string>
@@ -1474,7 +1474,6 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="mw_actionbar_textselection_title">Metin seç</string>
     <string name="mw_actionbar_web_search">İnternet araması</string>
     <string name="mw_add_to_dictionary">Sözlüğe ekle</string>
-    <string name="mw_androidx_startup">androidx.startup</string>
     <string name="mw_autofill_popup_content_description">Otomatik doldurma penceresi görüntüleme</string>
     <string name="mw_call_notification_answer_action">Cevap</string>
     <string name="mw_call_notification_answer_video_action">Video</string>

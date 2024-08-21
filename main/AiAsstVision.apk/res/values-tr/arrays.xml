@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="runtime_permission_desc">
+        <item>Konuşma çevirisi gibi işlevler için konuşma tanıma</item>
+    </string-array>
+    <string-array name="tone_setting_entries">
+        <item>Melissa</item>
+        <item>Matt</item>
+    </string-array>
+</resources>

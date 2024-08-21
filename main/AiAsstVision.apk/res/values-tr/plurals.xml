@@ -4,13 +4,13 @@
         <item quantity="other">1 saat önce</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 saat önce</item>
+        <item quantity="other">%d saat önce</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">1 saat içerisinde</item>
+        <item quantity="other">%d saat içinde</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Yarım saat içerisinde</item>
@@ -20,21 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">%d dakika içerisinde</item>
-        <item quantity="one">1 dakika içerisinde</item>
+        <item quantity="one">%d dakika içerisinde</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
-        <item quantity="one">1 dakika önce</item>
-    </plurals>
-    <plurals name="announce_for_drag">
-        <item quantity="other">%1$d öğe sürükleniyor</item>
-        <item quantity="one">%1$d öğe sürükleniyor</item>
-    </plurals>
-    <plurals name="announce_for_unread">
-        <item quantity="other">%1$s gelen okunmamış %2$s</item>
+        <item quantity="one">%d dakika önce</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -60,27 +53,11 @@
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dakika önce</item>
+        <item quantity="other">" %d dakika önce"</item>
         <item quantity="one">1 dakika önce</item>
     </plurals>
-    <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">%1$d uygulama kaldırılsın mı?</item>
-        <item quantity="one">%1$d uygulama kaldırılsın mı?</item>
-    </plurals>
-    <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">Sayfa %1$d, %2$d uygulama</item>
-        <item quantity="one">Sayfa %1$d, %2$d uygulama</item>
-    </plurals>
-    <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">%1$d uygulama kaldırılsın mı?</item>
-        <item quantity="one">%1$d uygulama kaldırılsın mı?</item>
-    </plurals>
-    <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">%1$d uygulama kaldırılamıyor</item>
-        <item quantity="one">%1$d uygulama kaldırılamıyor</item>
-    </plurals>
-    <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">%1$d uygulama kaldırıldı</item>
-        <item quantity="one">%1$d uygulama kaldırıldı</item>
+    <plurals name="title_select_nums">
+        <item quantity="other">%1$s öğe seçildi</item>
+        <item quantity="one">%1$s öğe seçildi</item>
     </plurals>
 </resources>
