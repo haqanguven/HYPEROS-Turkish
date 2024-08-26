@@ -151,6 +151,7 @@
     <string name="desktop_switch_is_closed">Ana ekran+ kapalı</string>
     <string name="device_busy">Cihaz meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="device_max_screen_count_toast">Bu cihaz aynı anda yalnızca iki pencere açmayı destekler</string>
+    <string name="device_screen_fold_switch_tip">Bunun yerine bu eylemi iç ekrandan gerçekleştirin</string>
     <string name="display_max_screen_count_toast">Bu sürümde en fazla 3 pencere açabilirsiniz</string>
     <string name="display_not_support_secondary_toast">Bu uygulama yeni bir pencerede açılamıyor</string>
     <string name="download_aborted">Kesintiye uğrayan bağlantı nedeniyle aktarım yapılamadı"</string>
@@ -202,6 +203,9 @@
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fold_photograph_prompt_dialog_ok">Tamam</string>
+    <string name="fold_photograph_prompt_message">İç ekrandan kamerayı kullanın</string>
+    <string name="fold_photograph_prompt_notification_title">Notlar için cihazlar arası kamerayı kullanın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -240,7 +244,6 @@
     <string name="invisible_mode_toast">Önce gizli modu kapatın</string>
     <string name="keyboard_error_subtitle">%s tarihinde kilidi açın</string>
     <string name="keyboard_error_title">Çok fazla deneme</string>
-    <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">Geri</string>
     <string name="keyboard_key_exit">Çıkış</string>
     <string name="keyboard_key_space">Boşluk</string>
@@ -255,7 +258,8 @@
 Bu sayfayı kapatın ve tekrar deneyin"</string>
     <string name="loading_view_load_timeout">Bağlantı kesildi</string>
     <string name="loading_view_load_timeout_close">Anladım</string>
-    <string name="loading_view_load_timeout_sub_china">Her iki cihazda da wifi ağının açık olduğundan ve birbirlerine yakın olduklarından emin olun. Bilgisayarınızda başka bir oturum başlatabilirsiniz</string>
+    <string name="loading_view_load_timeout_sub_china">Her iki cihazda da wifi ağının açık olduğundan ve birbirlerine yakın olduklarından emin olun.
+Bilgisayarınızda başka bir oturum başlatabilirsiniz"</string>
     <string name="lock_layout_sub">Devam etmek için kilidi açın</string>
     <string name="lock_layout_title">Bilgisayar kilitli</string>
     <string name="lockscreen_access_pattern_area">Desen alanının kilidini açın</string>
@@ -388,9 +392,10 @@ Bu sayfayı kapatın ve tekrar deneyin"</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">"Cihazları bağlamak için önce bu cihazda Wifi ve Bluetooth'u açın. Şimdi açılsın mı?"</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Bilgisayara bağlanılamadı. Her iki cihazda da Wifi ve Bluetooth'un açık olduğundan emin olun"</string>
     <string name="nfc_no_xiaomi_account">Görünüşe göre Xiaomi hesabınızda oturum açmamışsınız. Öğeleri aktarmak için tabletinizde kullandığınız Xiaomi hesabında oturum açın</string>
-    <string name="nfc_wifi_and_bluetooth_china">Wifi ve Bluetooth'u açın</string>
+    <string name="nfc_wifi_and_bluetooth_china">"Wifi ve Bluetooth'u açın"</string>
     <string name="night">Akşam</string>
     <string name="noon">Öğlen</string>
+    <string name="not_find_car_to_mirror">Uygulamaları aktarabileceğim bir araç bulunamadı</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_description_download">Bildirim gölgesinde indirme ilerlemesini göster</string>
     <string name="notification_channel_name_download">İndirme ilerlemesini göster</string>
@@ -491,7 +496,6 @@ Bu sayfayı kapatın ve tekrar deneyin"</string>
     <string name="privacy_pad_describe_change_wifi_state">Ekran içeriğini yayınlamak içindir</string>
     <string name="privacy_pad_describe_record_audio">Yayın sırasında ses oynatmayı başka bir cihaza aktarmak içindir</string>
     <string name="privacy_pad_describe_storage">Cihazlar arasında öğeleri aktarmak içindir</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="relay_msg_photo_text">Galeriye başarıyla kaydedildi</string>
     <string name="relay_msg_photo_title">Yeni resim</string>
     <string name="relay_msg_screenshot_text">Galeriye başarıyla kaydedildi</string>
@@ -569,6 +573,7 @@ Bu sayfayı kapatın ve tekrar deneyin"</string>
     <string name="settings_page">Ana ekran+</string>
     <string name="settings_page_default_seat">Telefon ekranı konumu</string>
     <string name="settings_pc">Bilgisayara bağlan</string>
+    <string name="settings_pc_handoff_title">Bilgisayara bağlan</string>
     <string name="settings_pc_use_tile">Bu özellik hakkında</string>
     <string name="settings_permission_description">İzin ayrıntıları</string>
     <string name="settings_phone">Telefon</string>
@@ -698,6 +703,10 @@ telefonunuzun kilidini açın"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
+    <string name="upgrade_car_not_tip">Tekrar gösterme</string>
+    <string name="upgrade_car_ok">Tamam</string>
+    <string name="upgrade_car_version_msg">Telefonunuzu evinize bağlayabilmek için evinizin sistemini Ayarlar > Sistem > Sistem sürümünden 1.2.3 veya sonraki bir sürüme güncelleyin</string>
+    <string name="upgrade_car_version_title">Evinizin sistemini güncelleyin</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="verbose_mode">Ayrıntılı mod</string>

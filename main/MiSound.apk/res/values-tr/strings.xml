@@ -184,8 +184,8 @@
     <string name="effect_selection">Ses efektleri</string>
     <string name="effect_selection_headset">Kulaklık efektleri</string>
     <string name="effect_virtual_surround">Sanal sürükleyici ses</string>
-    <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatma için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
-    <string name="effect_virtual_surround_summary_spk">Ses ve video oynatma için ses derinliğini zenginleştirin</string>
+    <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatmak için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
+    <string name="effect_virtual_surround_summary_spk">Ses ve video oynatmak için ses derinliğini zenginleştirin</string>
     <string name="end_wireless_transmission">Durdur</string>
     <string name="eq_auto">Özel</string>
     <string name="eq_blues">Hüzün</string>

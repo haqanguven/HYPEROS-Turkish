@@ -507,8 +507,8 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
     <string name="pref_summary_tone_setting">Metinden sese yanıtlar kullanılırken kullanılacak tonu seçin</string>
     <string name="pref_title_auto_export_to_notes">Otomatik dışa aktarmalar</string>
     <string name="pref_title_distinguish_speaker">Konuşmacıları ayırt edin</string>
-    <string name="pref_title_floating_window_background">Kayan pencere arka planı</string>
-    <string name="pref_title_know_ai_translate">Alt yazılar hakkında</string>
+    <string name="pref_title_floating_window_background">Arka plan rengi</string>
+    <string name="pref_title_know_ai_translate">Hakkında</string>
     <string name="pref_title_recognition_and_translation">Tanıma ve çeviri</string>
     <string name="pref_title_shortcut">Ana ekran kısayolu</string>
     <string name="pref_title_sound_source">Ses kaynağı</string>
@@ -517,12 +517,12 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
     <string name="preference_category_help_and_feedback_title">Hizmetler ve geri bildirim</string>
     <string name="preference_category_title_permission_authorization">Gizlilik ve izinler</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="preference_floating_window_background_summary">Kayan pencere alt yazıları için bir arka plan rengi seçin</string>
+    <string name="preference_floating_window_background_summary">Kayan pencere alt yazıları için arka plan rengi seçin</string>
     <string name="preference_permission_title">İzinler</string>
     <string name="preference_recognition_summary">Kaynak dili seçin</string>
-    <string name="preference_revoke_authorization_title">İznin geri çekilmesi</string>
-    <string name="preference_sound_source_summary">Sistem oynatma veya mikrofon</string>
-    <string name="preference_text_size_summary">Kayan pencereler alt yazıları için metin boyutu</string>
+    <string name="preference_revoke_authorization_title">İzni geri çek</string>
+    <string name="preference_sound_source_summary">Sistem sesi veya mikrofon</string>
+    <string name="preference_text_size_summary">Kayan pencere alt yazıları için metin boyutu seçin</string>
     <string name="preference_translation_summary">Hedef dili seçin</string>
     <string name="privacy_policy_text">Gizlilik politikası</string>
     <string name="privacy_statement"><Data>Devam etmeden önce &lt;a href =%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik politikası&lt;/a> anlaşmalarımızı okuyun ve kabul edin</Data></string>
@@ -546,8 +546,8 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
 İzni geri çekerseniz artık Mi yapay zeka Çeviri hizmetlerini kullanamayacaksınız. İleride bu hizmetleri kullanmak isterseniz Gizlilik Politikamızı tekrar kabul etmeniz gerekir. İzin şimdi geri çekilsin mi?"</string>
     <string name="revoke_privacy_no_network_content_text">İznin geri çekilebilmesi için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="revoke_privacy_no_network_good_text">Tamam</string>
-    <string name="revoke_privacy_text">İznin geri çekilmesi</string>
-    <string name="revoke_privacy_title_text">İznin geri çekilmesi</string>
+    <string name="revoke_privacy_text">İzni geri çek</string>
+    <string name="revoke_privacy_title_text">İzni geri çek</string>
     <string name="revoke_privacy_toast_text">İzin başarıyla geri çekildi</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
@@ -584,7 +584,7 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
     <string name="setting_page_title_text">Yapay zeka alt yazılar</string>
     <string name="setting_window_title_text">Yapay zeka alt yazılar</string>
     <string name="settings_content_description">Ayarları aç</string>
-    <string name="settings_search_ai_subtitle_summary">Mi yapay zeka/Mi yapay zeka çeviri/Alt yazılar hakkında</string>
+    <string name="settings_search_ai_subtitle_summary">Mi yapay zeka/Mi yapay zeka çeviri/Hakkında</string>
     <string name="settings_search_ai_translate_function_summary">Mi yapay zeka çeviri/Uygulama özelliği</string>
     <string name="settings_search_ai_translate_summary">Mi yapay zeka/Mi yapay zeka çeviri</string>
     <string name="share_image_title_text_src">Orijinal</string>

@@ -11430,6 +11430,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
     <string name="privacy_icon_title">Gizlilik simgesini gizle</string>
     <string name="battery_icon_title">Pil simgesini gizle</string>
+    <string name="battery_icon_summary">Değişikliklerin uygulanması için cihazınızı yeniden başlatmanız gerekmektedir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>

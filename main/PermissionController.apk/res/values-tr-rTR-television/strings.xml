@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="current_permission_template">%1$s / %2$s</string>
     <string name="additional_permissions_decor_title">Ek izinler</string>
     <string name="app_permissions_decor_title">Uygulama izinleri</string>
     <string name="grant_dialog_button_deny_dont_ask_again">Reddet ve bir daha sorma</string>

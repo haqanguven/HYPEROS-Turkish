@@ -45,7 +45,7 @@
     <string name="additional_permissions">Ek izinler</string>
     <string name="additional_permissions_description">Uygulamalara tanımlanan izinler</string>
     <string name="additional_permissions_label">Ek izinler</string>
-    <string name="additional_permissions_more">{count,plural, =1{# izin daha}other{# izin daha}}</string>
+    <string name="additional_permissions_more">{count, plural, =1 {# izin daha} other {# izin daha} }</string>
     <string name="adjust_user_sensitive_globally_summary">Sistem uygulaması izin kullanımlarını durum çubuğu, kontrol paneli ve başka yerlerde göster</string>
     <string name="adjust_user_sensitive_globally_title">Sistem uygulaması kullanımını göster</string>
     <string name="adjust_user_sensitive_per_app_header">Şu öğelere ilişkin kullanımı göster</string>
@@ -81,9 +81,9 @@
     <string name="app_permission_location_accuracy">Tam konumu kullan</string>
     <string name="app_permission_location_accuracy_subtitle">Tam konum kapalıyken uygulamalar yaklaşık konumunuza erişebilir</string>
     <string name="app_permission_manager">İzin yöneticisi</string>
-    <string name="app_permission_most_recent_denied_summary">Şu anda reddedildi. Son erişim: %1$s</string>
+    <string name="app_permission_most_recent_denied_summary">Şu anda reddedildi / Son erişim: %1$s</string>
     <string name="app_permission_most_recent_summary">Son erişim: %1$s</string>
-    <string name="app_permission_never_accessed_denied_summary">Reddedildi. Hiç erişmedi</string>
+    <string name="app_permission_never_accessed_denied_summary">Reddedildi / Hiç erişmedi</string>
     <string name="app_permission_never_accessed_summary">Hiç erişmedi</string>
     <string name="app_permission_rationale_message">Veri güvenliği</string>
     <string name="app_permission_title">%1$s izni</string>
@@ -159,7 +159,7 @@
     <string name="available">İzin verildi</string>
     <string name="back">Geri</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama konumunuza her zaman erişebilir. Değiştirmek için dokunun</string>
-    <string name="background_location_access_reminder_notification_title">%s arka planda konumunuza erişti</string>
+    <string name="background_location_access_reminder_notification_title">%s, arka planda konumunuza erişti</string>
     <string name="blocked">Engellendi</string>
     <string name="blocked_camera_title">Cihaz kamerası engellenmiş</string>
     <string name="blocked_location_title">Cihaz konumu kapalı</string>
@@ -179,7 +179,6 @@
     <string name="call_notification_incoming_text">Gelen arama</string>
     <string name="call_notification_ongoing_text">Devam eden arama</string>
     <string name="call_notification_screening_text">Gelen arama süzülüyor</string>
-    <string name="camera_toggle_enable_config">camera_toggle_enabled</string>
     <string name="camera_toggle_label_qs">Kamera erişimi</string>
     <string name="camera_toggle_title">Kamera erişimi</string>
     <string name="camera_usage_qs">Son kamera kullanımını göster</string>
@@ -211,8 +210,8 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="data_sharing_updates_subtitle">Bu uygulamalar konum verilerinizi paylaşma şekillerini değiştirdi. Daha önce paylaşmadıkları konum verilerinizi paylaşmaya başlamış olabilecekleri gibi reklam ya da pazarlama için paylaşmaya başlamış da olabilirler</string>
     <string name="data_sharing_updates_summary">Konum verilerinizi paylaşma şekillerini değiştiren uygulamaları inceleyin</string>
     <string name="data_sharing_updates_title">Konum için veri paylaşımı güncellemeleri</string>
-    <string name="days">{count,plural, =1{1 gün}other{# gün}}</string>
-    <string name="days_ago">{count,plural, =0{Bugün}=1{1 gün önce}other{# gün önce}}</string>
+    <string name="days">{count, plural, =1 {1 gün} other {# gün} }</string>
+    <string name="days_ago">{count, plural, =0 {Bugün} =1{1 gün önce} other {# gün önce} }</string>
     <string name="default_app_no_apps">Uygulama yok</string>
     <string name="default_app_none">Yok</string>
     <string name="default_app_search_keyword">Varsayılan uygulamalar</string>
@@ -229,10 +228,10 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="deny_read_media_visual_warning">"Bu uygulama Android'in daha eski bir sürümü için tasarlandı. Bu uygulamanın fotoğraf ve videolara erişimine izin vermezseniz müzik ve diğer ses içeriklerine erişim de reddedilir"</string>
     <string name="dest_title">Hedef başlığı</string>
     <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
-    <string name="duration_used_days">{count,plural, =1{# gün}other{# gün}}</string>
-    <string name="duration_used_hours">{count,plural, =1{# saat}other{# saat}}</string>
-    <string name="duration_used_minutes">{count,plural, =1{# dakika}other{# dakika}}</string>
-    <string name="duration_used_seconds">{count,plural, =1{# saniye}other{# saniye}}</string>
+    <string name="duration_used_days">{count, plural, =1 {# gün} other {# gün} }</string>
+    <string name="duration_used_hours">{count, plural, =1 {# saat} other {# saat} }</string>
+    <string name="duration_used_minutes">{count, plural, =1 {# dakika} other {# dakika} }</string>
+    <string name="duration_used_seconds">{count, plural, =1 {# saniye} other {# saniye} }</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="encryption_unaware_confirmation_message">Not: Cihazınızı yeniden başlatırsanız ve ekran kilidi kullanıyorsanız, cihazınızın kilidini açmadan bu uygulama başlayamaz</string>
     <string name="error_a11y_label">Hata: Geçersiz</string>
@@ -269,7 +268,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="granted_permission_decision">%1$s uygulamasının %2$s erişimine izin verdiniz</string>
     <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
     <string name="home_missing_work_profile_support">İş profili desteklenmiyor</string>
-    <string name="hours">{count,plural, =1{# saat}other{# saat}}</string>
+    <string name="hours">{count, plural, =1 {# saat} other {# saat} }</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="incident_report_channel_name">Hata ayıklama verilerini paylaş</string>
     <string name="incident_report_dialog_allow_label">İzin ver</string>
@@ -326,7 +325,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="learn_more_content_description">%1$s hakkında daha fazla bilgi</string>
     <string name="loading">Yükleniyor</string>
     <string name="location_settings">Konum ayarları</string>
-    <string name="location_settings_subtitle">Konum erişimi olan uygulama ve hizmetlere göz atın.</string>
+    <string name="location_settings_subtitle">Konum erişimi olan uygulama ve hizmetlere göz atın</string>
     <string name="location_warning">%1$s bu cihaz için konum hizmetlerinin bir sağlayıcısıdır. Konum erişimi konum ayarlarından değiştirilebilir</string>
     <string name="manage_permission">İzni yönet</string>
     <string name="manage_permission_summary">Uygulamaların %1$s bilgilerinize erişimini kontrol edin</string>
@@ -374,7 +373,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="mic_toggle_title">Mikrofon erişimi</string>
     <string name="microphone_toggle_label_qs">Mikrofon erişimi</string>
     <string name="microphone_usage_qs">Son mikrofon kullanımını göster</string>
-    <string name="minutes">{count,plural, =1{# dakika}other{# dakika}}</string>
+    <string name="minutes">{count, plural, =1 {# dakika} other {# dakika} }</string>
     <string name="months_ago">%1$d ay önce</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
@@ -450,8 +449,8 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="other_permissions_label">Diğer izinler</string>
     <string name="other_use">Diğer kullanım:</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-    <string name="perm_toggle_description">Uygulamalar ve hizmetler için</string>
-    <string name="perm_usage_adv_info_summary_more_items">%1$s, %2$s ve %3$s tane daha</string>
+    <string name="perm_toggle_description">Uygulamalar ve hizmetler içindir</string>
+    <string name="perm_usage_adv_info_summary_more_items">%1$s, %2$s ve %3$s daha fazla</string>
     <string name="perm_usage_adv_info_title">Diğer izinleri göster</string>
     <string name="permgroup_list_microphone_and_camera">Mikrofon ve Kamera</string>
     <string name="permgroupbackgroundrequest_camera"><b>%1$s</b> uygulamasının resim çekmesine ve video kaydı yapmasına izin verilsin mi?</string>
@@ -509,15 +508,15 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="permission_description_summary_generic">Bu izne sahip uygulamalar şunu yapabilir: %1$s</string>
     <string name="permission_description_summary_location">Bu izne sahip uygulamalar bu cihazın konumuna erişebilir</string>
     <string name="permission_description_summary_microphone">Bu izne sahip uygulamalar sesleri kaydedebilir</string>
-    <string name="permission_description_summary_nearby_devices">Bu izne sahip uygulamalar, yakındaki cihazları keşfedip bağlanabilir ve bu cihazların göreli konumunu belirleyebilir</string>
+    <string name="permission_description_summary_nearby_devices">Bu izne sahip uygulamalar yakındaki cihazları keşfedip bağlanabilir ve bu cihazların göreli konumunu belirleyebilir</string>
     <string name="permission_description_summary_phone">Bu izne sahip uygulamalar telefon aramaları yapabilir ve telefon aramalarını yönetebilir</string>
     <string name="permission_description_summary_read_media_aural">Bu izne sahip uygulamalar cihazınızda müzik ve diğer ses dosyalarına erişebilir</string>
     <string name="permission_description_summary_read_media_visual">Bu izne sahip uygulamalar cihazınızda fotoğraf ve videolara erişebilir</string>
     <string name="permission_description_summary_sensors">Bu izne sahip uygulamalar hayati belirtilerinizle ilgili sensör verilerine erişebilir</string>
     <string name="permission_description_summary_sms">Bu izne sahip uygulamalar mesajları gönderebilir ve görüntüleyebilir</string>
     <string name="permission_description_summary_storage">Bu izne sahip uygulamalar, cihazınızdaki fotoğraflara, medyalara ve dosyalara erişebilir</string>
-    <string name="permission_group_usage_subtitle_24h">%1$s izin grubunuzun, son 24 saat içinde uygulamalar tarafından kullanımının zaman çizelgesi</string>
-    <string name="permission_group_usage_subtitle_7d">%1$s izin grubunuzun, son 7 gün içinde uygulamalar tarafından kullanımının zaman çizelgesi</string>
+    <string name="permission_group_usage_subtitle_24h">%1$s izin grubunuzun son 24 saat içinde uygulamalar tarafından kullanımının zaman çizelgesi</string>
+    <string name="permission_group_usage_subtitle_7d">%1$s izin grubunuzun son 7 gün içinde uygulamalar tarafından kullanımının zaman çizelgesi</string>
     <string name="permission_group_usage_title">%1$s kullanımı</string>
     <string name="permission_history_category_today">Bugün</string>
     <string name="permission_history_category_yesterday">Dün</string>
@@ -525,14 +524,14 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="permission_rationale_data_sharing_device_manufacturer_message">Geliştirici bu cihazın üreticisine bu uygulamanın veri paylaşım yöntemleri hakkında bilgi sağladı. Geliştirici bu bilgiyi zaman içinde güncelleyebilir</string>
     <string name="permission_rationale_data_sharing_source_message">Geliştirici %1$s uygulama mağazasına bu uygulamanın veri paylaşımı yöntemleri hakkında bilgi sağladı. Geliştirici bu bilgiyi zaman içinde güncelleyebilir</string>
     <string name="permission_rationale_data_sharing_source_title">Veri paylaşımı bilgilerinin kaynağı</string>
-    <string name="permission_rationale_data_sharing_varies_message">Veri uygulamaları uygulama sürümünüz, kullanımınız, bölgeniz ve yaşınıza göre değişiklik gösterebilir. Veri paylaşımı hakkında daha fazla bilgi</string>
+    <string name="permission_rationale_data_sharing_varies_message">Veri uygulamaları uygulama sürümünüz, kullanımınız, bölgeniz ve yaşınıza göre değişiklik gösterebilir. Veri paylaşımı hakkında <annotation id="link">daha fazla bilgi</annotation></string>
     <string name="permission_rationale_data_sharing_varies_message_without_link">Veri uygulamaları uygulama sürümünüz, kullanımınız, bölgeniz ve yaşınıza göre değişiklik gösterebilir</string>
     <string name="permission_rationale_location_purpose_title">Bu uygulama konum verilerini paylaşabilir:</string>
     <string name="permission_rationale_location_settings_title">Konum verileriniz</string>
     <string name="permission_rationale_location_title">Veri paylaşımı ve konum</string>
     <string name="permission_rationale_message_location">Bu uygulama konum verilerini üçüncü taraflarla paylaşabileceğini belirtti</string>
     <string name="permission_rationale_permission_data_sharing_varies_title">Veri paylaşımı değişir</string>
-    <string name="permission_rationale_permission_settings_message">Bu uygulamanın erişimini gizlilik ayarlarından değiştirebilirsiniz</string>
+    <string name="permission_rationale_permission_settings_message">Bu uygulamanın erişimini <annotation id="link">gizlilik ayarlarından</annotation> değiştirebilirsiniz</string>
     <string name="permission_rationale_purpose_account_management">Hesap yönetimi</string>
     <string name="permission_rationale_purpose_advertising">Reklam veya pazarlama</string>
     <string name="permission_rationale_purpose_analytics">Analizler</string>
@@ -549,7 +548,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="permission_revoked_count">%1$d izin devre dışı</string>
     <string name="permission_revoked_none">hiçbiri devre dışı değil</string>
     <string name="permission_search_keyword">izinler</string>
-    <string name="permission_subtitle_all_files">Tüm Dosyalar</string>
+    <string name="permission_subtitle_all_files">Tüm dosyalar</string>
     <string name="permission_subtitle_background">Her zaman izin veriliyor</string>
     <string name="permission_subtitle_media_only">Medya</string>
     <string name="permission_subtitle_only_in_foreground">Yalnızca uygulama kullanılırken</string>
@@ -572,9 +571,9 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="permission_usage_bar_chart_title_last_day">Son 24 saat içinde gerçekleşen izin kullanımı</string>
     <string name="permission_usage_bar_chart_title_last_hour">Son 1 saat içinde gerçekleşen izin kullanımı</string>
     <string name="permission_usage_bar_chart_title_last_minute">Son 1 dakika içinde gerçekleşen izin kullanımı</string>
-    <string name="permission_usage_last_n_days">{count,plural, =1{Son # gün}other{Son # gün}}</string>
-    <string name="permission_usage_last_n_hours">{count,plural, =1{Son # saat}other{Son # saat}}</string>
-    <string name="permission_usage_last_n_minutes">{count,plural, =1{Son # dakika}other{Son # dakika}}</string>
+    <string name="permission_usage_last_n_days">{count, plural, =1 {Son # gün} other {Son # gün} }</string>
+    <string name="permission_usage_last_n_hours">{count, plural, =1 {Son # saat} other {Son # saat} }</string>
+    <string name="permission_usage_last_n_minutes">{count, plural, =1 {Son # dakika} other {Son # dakika} }</string>
     <string name="permission_usage_list_title_any_time">Herhangi bir zamanda gerçekleşen en son erişim</string>
     <string name="permission_usage_list_title_last_15_minutes">Son 15 dakika için gerçekleşen en son erişim</string>
     <string name="permission_usage_list_title_last_7_days">Son 7 gün içindeki en son erişimler</string>
@@ -582,11 +581,11 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="permission_usage_list_title_last_hour">Son 1 saat içinde gerçekleşen en son erişim</string>
     <string name="permission_usage_list_title_last_minute">Son 1 dakika içinde gerçekleşen en son erişim</string>
     <string name="permission_usage_preference_label">{count,plural, =1{1 uygulama tarafından kullanıldı}other{# uygulama tarafından kullanıldı}}</string>
-    <string name="permission_usage_preference_summary_not_used_in_past_n_days">{count,plural, =1{Son # gün içinde kullanılmadı}other{Son # gün içinde kullanılmadı}}</string>
-    <string name="permission_usage_preference_summary_not_used_in_past_n_hours">{count,plural, =1{Son # saat içinde kullanılmadı}other{Son # saat içinde kullanılmadı}}</string>
+    <string name="permission_usage_preference_summary_not_used_in_past_n_days">{count, plural, =1 {Son # gün içinde kullanılmadı} other {Son # gün içinde kullanılmadı} }</string>
+    <string name="permission_usage_preference_summary_not_used_in_past_n_hours">{count, plural, =1 {Son # saat içinde kullanılmadı} other {Son # saat içinde kullanılmadı} }</string>
     <string name="permission_usage_refresh">Yenile</string>
     <string name="permission_usage_title">Gizlilik kontrol paneli</string>
-    <string name="permission_usage_view_details">Tümünü kontrol panelinde göster</string>
+    <string name="permission_usage_view_details">"Tümünü Kontrol Paneli'nde göster"</string>
     <string name="permission_warning_template"><b>%1$s</b> uygulamasına %2$s için izin verilsin mi?</string>
     <string name="permissions_removed_category_title">İzinleri kaldırılmış</string>
     <string name="permissions_removed_qs">İzin kaldırıldı</string>
@@ -596,7 +595,7 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="post_drive_permission_decision_reminder_summary_1_app_1_permission">Sürüş sırasında %1$s uygulamasına %2$s erişim izni verdiniz</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_2_permissions">Sürüş sırasında %1$s uygulamasına %2$s ve %3$s erişim izni verdiniz</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_multi_permission">Sürüş sırasında %2$s uygulamasına %1$d izin verdiniz</string>
-    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count,plural, =1{Sürüş sırasında %1$s uygulamasına ve # uygulamaya daha erişim izni verdiniz}other{Sürüş sırasında %1$s uygulamasına ve # uygulamaya daha erişim izni verdiniz}}</string>
+    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count, plural, =1 {Sürüş sırasında %1$s uygulamasına &amp; # uygulamaya daha erişim izni verdiniz}other{Sürüş sırasında %1$s uygulamasına ve # uygulamaya daha erişim izni verdiniz} }</string>
     <string name="post_drive_permission_decision_reminder_title">Son izinleri kontrol edin</string>
     <string name="precise_image_description">Tam konum</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
@@ -632,28 +631,28 @@ Veri paylaşımı yöntemleri uygulama sürümüne, kullanıma, bölgeye ve yaş
     <string name="role_automotive_navigation_description">Önemli yer araması ve adım adım navigasyon yardımı sunan uygulamalar</string>
     <string name="role_automotive_navigation_label">Varsayılan navigasyon uygulaması</string>
     <string name="role_automotive_navigation_request_description">Herhangi bir izin gerekli değil</string>
-    <string name="role_automotive_navigation_request_title">%1$s varsayılan navigasyon uygulamanız olarak ayarlansın mı?</string>
+    <string name="role_automotive_navigation_request_title">%1$s, varsayılan navigasyon uygulamanız olarak ayarlansın mı?</string>
     <string name="role_automotive_navigation_short_label">Navigasyon uygulaması</string>
     <string name="role_browser_description">İnternete erişmenizi sağlayan ve dokunduğunuz bağlantıları görüntüleyen uygulamalar</string>
     <string name="role_browser_label">Varsayılan tarayıcı</string>
     <string name="role_browser_request_description">Herhangi bir izin gerekli değil</string>
-    <string name="role_browser_request_title">%1$s varsayılan tarayıcı uygulamanız olarak ayarlansın mı?</string>
+    <string name="role_browser_request_title">%1$s, varsayılan tarayıcı uygulamanız olarak ayarlansın mı?</string>
     <string name="role_browser_short_label">Tarayıcı uygulaması</string>
     <string name="role_call_redirection_description">Giden aramalarını başka bir telefon numarasına yönlendirmenize olanak tanıyan uygulamalar</string>
     <string name="role_call_redirection_label">Varsayılan arama yönlendirme uygulaması</string>
     <string name="role_call_redirection_request_description">Herhangi bir izin gerekli değil</string>
-    <string name="role_call_redirection_request_title">%1$s varsayılan arama yönlendirme uygulamanız olarak ayarlansın mı?</string>
+    <string name="role_call_redirection_request_title">%1$s, varsayılan arama yönlendirme uygulamanız olarak ayarlansın mı?</string>
     <string name="role_call_redirection_short_label">Arama yönlendirme uygulaması</string>
     <string name="role_call_screening_description">Hem gelen aramaları tanımlamaya hem de spam, otomatik aramaları veya istenmeyen numaraları engellemeye olanak tanıyan uygulamalar</string>
-    <string name="role_call_screening_label">Varsayılan arayan kimliği ve spam uygulaması</string>
+    <string name="role_call_screening_label">Varsayılan arayan kimliği &amp; spam uygulaması</string>
     <string name="role_call_screening_request_description">Herhangi bir izin gerekli değil</string>
     <string name="role_call_screening_request_title">%1$s varsayılan arayan kimliği ve spam uygulamanız olarak ayarlansın mı?</string>
-    <string name="role_call_screening_short_label">Arayan kimliği ve spam uygulaması</string>
+    <string name="role_call_screening_short_label">Arayan kimliği &amp; spam uygulaması</string>
     <string name="role_companion_device_computer_description">Bu hizmet telefonunuzdaki fotoğraf, medya ve bildirimleri diğer cihazlarla paylaşır</string>
     <string name="role_dialer_description">Cihazınızda telefon aramaları almanıza ve yapmanıza olanak tanıyan uygulamalar</string>
     <string name="role_dialer_label">Varsayılan telefon uygulaması</string>
     <string name="role_dialer_request_description">Arama kaydına erişim sağlar ve mesaj gönderir</string>
-    <string name="role_dialer_request_title">%1$s varsayılan telefon uygulamanız olarak ayarlansın mı?</string>
+    <string name="role_dialer_request_title">%1$s, varsayılan telefon uygulamanız olarak ayarlansın mı?</string>
     <string name="role_dialer_search_keywords">Çevirici</string>
     <string name="role_dialer_short_label">Telefon uygulaması</string>
     <string name="role_emergency_description">Tıbbi bilgilerinizi kaydetmenize ve acil durumda müdahale eden kişilerin bu bilgilere erişmesine; önemli meteoroloji olayları ve salgınlarla ilgili uyarılar almanıza, yardıma ihtiyacınız olduğunda başkalarına bilgi vermeye olanak tanıyan uygulamalar</string>
@@ -704,7 +703,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="safety_status_preference_title_and_summary_content_description">Güvenlik ve gizlilik durumu. %1$s. %2$s</string>
     <string name="search_menu">Ayarlarda arayın</string>
     <string name="search_menu_title">Ara</string>
-    <string name="seconds">{count,plural, =1{# saniye}other{# saniye}}</string>
+    <string name="seconds">{count, plural, =1 {# saniye} other {# saniye} }</string>
     <string name="security_settings">Güvenlik Ayarları</string>
     <string name="security_settings_button_label_qs">Diğer ayarlar</string>
     <string name="sensor_permissions_qs">İzinler</string>
@@ -714,7 +713,6 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="settingslib_learn_more_text">Daha fazla bilgi</string>
     <string name="shares_location_with_third_parties">Konum verileriniz artık üçüncü taraflarla paylaşılıyor</string>
     <string name="shares_location_with_third_parties_for_advertising">Konum verileriniz artık reklam ve pazarlama amacıyla üçüncü taraflarla paylaşılıyor</string>
-    <string name="show_access_notifications_default_config">show_access_notifications</string>
     <string name="show_clip_access_notification_summary">Uygulamalar kopyaladığınız metne, resimlere veya diğer içeriklere eriştiğinde mesaj gösterilsin</string>
     <string name="show_clip_access_notification_title">Panoya erişimi göster</string>
     <string name="show_password_summary">Yazarken karakterleri kısa süreliğine göster</string>
@@ -743,7 +741,7 @@ Bazı güvenlik ve acil durum uygulamalarının doğru şekilde çalışabilmesi
     <string name="unused_apps_label">İzinleri kaldırıp yer aç</string>
     <string name="unused_apps_label_v2">Kullanılmayan uygulama etkinliğini duraklat</string>
     <string name="unused_apps_notification_content">İzinler ve geçici dosyalar kaldırıldı, bildirimler durduruldu. İncelemek için dokunun</string>
-    <string name="unused_apps_notification_title">{count,plural, =1{# kullanılmayan uygulama}other{# kullanılmayan uygulama}}</string>
+    <string name="unused_apps_notification_title">{count, plural, =1 {# kullanılmayan uygulama} other {# kullanılmayan uygulama} }</string>
     <string name="unused_apps_page_summary">"Uygulama birkaç ay kullanılmazsa:
 
 • Verilerinizi korumak için izinler kaldırılır

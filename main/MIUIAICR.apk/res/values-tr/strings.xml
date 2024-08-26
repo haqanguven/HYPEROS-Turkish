@@ -798,9 +798,9 @@ Gizlilik ve güç tüketimi konusunda endişelenmenize gerek yok. Tüm bilgiler 
 2. Resmi geliştiricilerle birebir iletişim kurma fırsatı
 3. Mi yapy zeka motorunu temel alan yeni işlevleri deneyimlemeye öncelik verin"</string>
     <string name="privacy_user_experience_banner_title">Mi yapay zeka motorunun daha iyi öğrenmesine yardımcı olun</string>
-    <string name="privacy_withdraw">Geri al</string>
-    <string name="privacy_withdraw_content">Mi yapay zeka motoru gizlilik politikasına verdiğiniz izni geri alırsanız diğer yasa ve yönetmeliklerin kişisel bilgilerin saklanma süresini açıkça öngördüğü durumlar dışında kişisel bilgilerinizi toplamayı durduracağız ve uygulama tarafından toplanan kişisel bilgileri yasal hükümlere uygun olarak sileceğiz. Xiaomi HyperMind ve Xiaoai öneri hizmetlerinin sağlanması gerekli kişisel bilgilerin toplanmasına dayandığından onayınızı geri alırsanız size Xiaomi HyperMind ve Xiaoai öneri hizmetlerini sağlamaya devam etmemizi kabul etmediğiniz kabul edilecektir</string>
-    <string name="privacy_withdraw_title">Geri al</string>
+    <string name="privacy_withdraw">İzni geri çek</string>
+    <string name="privacy_withdraw_content">Mi yapay zeka motoru gizlilik politikasına verdiğiniz izni geri çekerseniz diğer yasa ve yönetmeliklerin kişisel bilgilerin saklanma süresini açıkça öngördüğü durumlar dışında kişisel bilgilerinizi toplamayı durduracağız ve uygulama tarafından toplanan kişisel bilgileri yasal hükümlere uygun olarak sileceğiz. Xiaomi HyperMind ve Xiaoai öneri hizmetlerinin sağlanması gerekli kişisel bilgilerin toplanmasına dayandığından onayınızı geri alırsanız size Xiaomi HyperMind ve Xiaoai öneri hizmetlerini sağlamaya devam etmemizi kabul etmediğiniz kabul edilecektir</string>
+    <string name="privacy_withdraw_title">İzni geri çek</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>
     <string name="saturday_shortest">Cts</string>

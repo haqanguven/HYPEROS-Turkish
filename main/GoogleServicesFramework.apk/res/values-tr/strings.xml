@@ -207,7 +207,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="sendTalkMsg_perm_desc">Buluttan cihaza gönderilen sunucu mesajları ve senkronizasyon bildirimleri için kullanılır. Google konuşma bu hizmeti mesaj alışverişi yapmak ve durum senkronizasyonu için kullanır. Kötü niyetli bir uygulama bu hizmeti aşırı miktarda veri iletmek için kullanabilir</string>
     <string name="sendTalkMsg_perm_label">Mesaj alıp verir ve Google sunucularından gelen senkronizasyon bildirimlerini alır</string>
-    <string name="sharedUserLabel">Google Hizmetleri</string>
+    <string name="sharedUserLabel">Google hizmetleri</string>
     <string name="software_update_ready">Yazılım güncellemesi hazır</string>
     <string name="software_update_title">Yazılım güncellemesi</string>
     <string name="text_obfuscation_toggle_caption">Şifreyi gizle</string>
@@ -215,7 +215,7 @@
     <string name="unable_to_download">Güncelleme indirilemedi</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="verify_network">Ağ ayarlarınızı doğrulayın ve tekrar deneyin.</string>
+    <string name="verify_network">Ağ ayarlarınızı doğrulayın ve tekrar deneyin</string>
     <string name="verifying">Doğrulanıyor</string>
     <string name="verifying_description">Sistemi güncel tutmak önemlidir. Yeni sistem yazılımı mevcut ve şu anda indiriliyor. Tamamlandığında güncelleme otomatik olarak uygulanacaktır</string>
     <string name="wo_perm_desc">Google konuşma içerik sağlayıcısına veri yazabilir</string>

@@ -466,7 +466,7 @@ Bu işlem dosyalardaki öğelerinizi etkilemeyecektir"</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="tip_capture_location">"Konum: "</string>
-    <string name="tip_capture_time">"Taken on: "</string>
+    <string name="tip_capture_time">"Alındı: "</string>
     <string name="tip_file_info">"Dosya bilgisi: "</string>
     <string name="tip_file_path">"Dosya yolu: "</string>
     <string name="tip_screenshot_package_info">"Uygulama adı: "</string>
