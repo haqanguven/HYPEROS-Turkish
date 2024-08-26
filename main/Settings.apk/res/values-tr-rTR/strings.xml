@@ -5886,7 +5886,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_lab_feature_applied">Uygulandı</string>
     <string name="miui_lab_feature_off">Kapat</string>
     <string name="miui_lab_feature_on">Aç</string>
-    <string name="miui_lab_features">Xiaomi laboratuvar özellikleri</string>
+    <string name="miui_lab_features">Laboratuvar özellikleri</string>
     <string name="miui_lab_gallery_search_desc">Gelişmiş resim arama</string>
     <string name="miui_lab_gallery_search_title">Galeride fotoğraf bul</string>
     <string name="miui_lab_gesture_desc">Gezinme için tam ekran hareketlerini kullanın</string>
@@ -5894,7 +5894,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_lab_install_drive_mode_error">Yüklenemedi. Tekrar deneyin</string>
     <string name="miui_lab_install_drive_mode_summary">Araç modu bir sistem uygulamasıdır. Kurulum için internet bağlantısı gerekmez</string>
     <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string>
-    <string name="miui_lab_settings">Xiaomi laboratuvar</string>
+    <string name="miui_lab_settings">Laboratuvar</string>
     <string name="miui_lab_slogan">Öğren, araştır ve keşfet</string>
     <string name="miui_master_clear_prompt_battery_low">Pil %1$s değerinin altında olduğunda fabrika ayarlarına sıfırlama yapılamaz. Devam etmeden önce cihazınızı şarj edin.</string>
     <string name="miui_master_clear_summary">Telefon üzerindeki tüm verileri siler</string>
@@ -11424,13 +11424,14 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_menu_by_region">Bölgeye göre seç</string>
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
+    <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+    <string name="battery_icon_style_title">Pil simgesi stili</string>
+    <string name="battery_icon_title">Pil simgesini gizle</string>
+    <string name="battery_icon_summary">Değişikliklerin uygulanması için cihazınızı yeniden başlatmanız gerekmektedir</string>
+    <string name="privacy_icon_title">Gizlilik simgesini gizle</string>
     <string name="switch_layout_first_title">Stil 1 (İlk düzen)</string>
     <string name="switch_layout_second_title">Stil 1 (Açılır düzen)</string>
     <string name="control_center_location_title">Stil 2 (Aşağı kaydırma konumu)</string>
-    <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
-    <string name="privacy_icon_title">Gizlilik simgesini gizle</string>
-    <string name="battery_icon_title">Pil simgesini gizle</string>
-    <string name="battery_icon_summary">Değişikliklerin uygulanması için cihazınızı yeniden başlatmanız gerekmektedir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>

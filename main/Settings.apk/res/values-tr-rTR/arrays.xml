@@ -1301,6 +1301,10 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
+    <string-array name="battery_icon_style_entries">
+        <item>Stil 1</item>
+        <item>Stil 2</item>
+    </string-array>
     <string-array name="switch_layout_first_entries">
         <item>3 simge</item>
         <item>4 simge</item>
