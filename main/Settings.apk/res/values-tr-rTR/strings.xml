@@ -5876,7 +5876,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>
 
     <string name="miui_lab_ai_cloud_closed">Yapay zeka ön yükleme henüz kullanılabilir değil</string>
-    <string name="miui_lab_ai_preload_desc">Yapay zeka ön yükleme uygulamaların daha hızlı açılmasını sağlar</string>
+    <string name="miui_lab_ai_preload_desc">Yapay zeka ön yükleme ile uygulamaların daha hızlı açılmasını sağlayın</string>
     <string name="miui_lab_ai_preload_title">Yapay zeka ön yükleme</string>
     <string name="miui_lab_aiasst_call_screen_desc">İpuçları ile bağlandı</string>
     <string name="miui_lab_aiasst_call_screen_title">İpuçları araması</string>
