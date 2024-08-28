@@ -184,8 +184,8 @@
     <string name="effect_selection">Ses efektleri</string>
     <string name="effect_selection_headset">Kulaklık efektleri</string>
     <string name="effect_virtual_surround">Sanal sürükleyici ses</string>
-    <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatmak için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
-    <string name="effect_virtual_surround_summary_spk">Ses ve video oynatmak için ses derinliğini zenginleştirin</string>
+    <string name="effect_virtual_surround_summary">Kulaklık takılıyken ses ve video oynatılırken ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
+    <string name="effect_virtual_surround_summary_spk">Ses ve video oynatılırken ses derinliğini zenginleştirin</string>
     <string name="end_wireless_transmission">Durdur</string>
     <string name="eq_auto">Özel</string>
     <string name="eq_blues">Hüzün</string>
@@ -480,11 +480,11 @@
     <string name="music_open_customized_sound_title">Ses ayarı</string>
     <string name="music_please_input_head_set">Başlamadan önce kulaklığınızı bağlayın</string>
     <string name="music_rename">Yeniden adlandır</string>
-    <string name="music_rename_for_sound">Bu hazır ayarı yeniden adlandır</string>
+    <string name="music_rename_for_sound">Bu ön ayarı yeniden adlandır</string>
     <string name="music_save">Kaydet</string>
     <string name="music_sound">Ön ayar</string>
-    <string name="music_sound_for_mine">Özel hazır ön ayar</string>
-    <string name="music_sound_num">Özel hazır ön ayar: %s</string>
+    <string name="music_sound_for_mine">Özel ön ayar</string>
+    <string name="music_sound_num">Özel ön ayar: %s</string>
     <string name="music_sound_sample">Sistem ön ayar</string>
     <string name="music_sure_to_delete_sound_msg">Seçilen ön ayarlar şimdi silinsin mi?</string>
     <string name="music_thirty_to_sixty_years" formatted="false">%d-%d yaşında</string>
