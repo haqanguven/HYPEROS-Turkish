@@ -1127,6 +1127,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="button_text_let_me_select">Tamam</string>
     <string name="button_text_next_step">Sonraki</string>
     <string name="button_text_next_step_timer">Sonraki adım (%d)</string>
+    <string name="button_text_once_accept">Bir kez izin ver</string>
     <string name="button_text_open_now">Aç</string>
     <string name="button_text_reject">Reddet</string>
     <string name="button_text_trust">Bu ağa güven</string>
