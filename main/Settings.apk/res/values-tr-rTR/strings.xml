@@ -4332,7 +4332,7 @@ Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir"</string>
     <string name="haptic_experience_details">Dokunsal geri bildirim &amp; erişilebilirlik</string>
     <string name="haptic_feedback_enable_title">Dokunma titreşimi</string>
     <string name="haptic_feedback_level">Titreşim</string>
-    <string name="haptic_feedback_progress">Dokunsal geri bildirim düzeyi</string>
+    <string name="haptic_feedback_progress">Dokunsal geri bildirim seviyesi</string>
     <string name="haptic_feedback_summary">Hareketlere ve sistem kontrollerine dokunsal yanıt alın</string>
     <string name="haptic_feedback_title">Dokunsal geri bildirim</string>
     <string name="haptic_fingerprint_unlock_16_content_description">Parmak iziyle kilit aç</string>
@@ -11435,7 +11435,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>
-    <string name="list_view_interpolator_title">liste interpolasyonu</string>
+    <string name="list_view_interpolator_title">Liste interpolasyonu</string>
     <string name="lockscreen_powermenu_title">Güç menüsü</string>
     <string name="lockscreen_powermenu_summary">Kilit ekranında güç menüsünü etkinleştirir veya devre dışı bırakır</string>
     <string name="unread_notifications_title">Okunmamış bildirimler</string>

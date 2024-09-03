@@ -199,7 +199,7 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_save">Genel bir zil sesi ayarlamak için bitti düğmesine dokunun</string>
     <string name="close">Kapat</string>
-    <string name="closed_high_refresh_options">Yüksek yenileme hızı</string>
+    <string name="closed_high_refresh_options">Yüksek yenileme hızı kullanmayan uygulamalar</string>
     <string name="color_gamut">Renk aralığı</string>
     <string name="common_brushtail">Brushtail keseli sıçan</string>
     <string name="common_ostrich">Devekuşu</string>
@@ -220,7 +220,7 @@
     <string name="crowned_hornbill">Taçlı kartallar</string>
     <string name="cu_confirm">Ayarla</string>
     <string name="customize_high_refresh_summary">"Bu özellik %d Hz'e kadar yenileme hızını destekler. Uygun yenileme hızı cihaz tercihlerine göre otomatik olarak seçilebilir"</string>
-    <string name="customize_high_refresh_title">Yüksek yenileme hızı kullanan uygulamalar</string>
+    <string name="customize_high_refresh_title">Yüksek yenileme hızı</string>
     <string name="customize_radio_btn_summary">Seçilen yenileme hızını tercih et</string>
     <string name="customize_radio_btn_title">Özel</string>
     <string name="dall_sheep">Dağ koyunu</string>
@@ -334,7 +334,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d - %d dakika</string>
     <string name="focus_mode_timer_pick_dialog_title">Süreyi girin</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
-    <string name="follow_apps_settings">Uygulama ayarlarına göre</string>
+    <string name="follow_apps_settings">Varsayılan</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
     <string name="footer_global_fps">"
 %1$d. Performans modunu açtığınızda yenileme hızı sistemin maksimum %2$d Hz'sine değiştirilecektir. Yüksek yenileme hızına sahip uygulama ayarları geçici olarak kullanılamayacak"</string>
@@ -575,7 +575,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="notification_sound">Bildirim sesleri</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Zeytin babun</string>
-    <string name="opened_high_refresh_options">Yüksek yenileme hızı</string>
+    <string name="opened_high_refresh_options">Yüksek yenileme hızı kullanan uygulamalar</string>
     <string name="orange_winged_amazon">Turuncu kanatlı amazon</string>
     <string name="orca">Katil balina</string>
     <string name="ostrich_info">"Devekuşları yaşayan kara hayvanlarının en büyük yumurtalarını bırakan Afrika'nın uçamayan büyük kuşlarıdır"</string>
@@ -591,7 +591,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="pcl_access_title">Ebeveyn denetimleri için şifreyi doğrulayın</string>
     <string name="pcl_ad_split_screen_title">Kilidi açmak için Bölünmüş ekrandan çıkın</string>
     <string name="pcl_add_account_ignore">Şimdi değil</string>
-    <string name="pcl_add_account_title_part">"E-posta adresinizi eklememeyi seçip şifrenizi unutursanız şifrenizi yalnızca fabrika ayarlarına sıfırlama işlemi gerçekleştirdikten sonra sıfırlayabilirsiniz"</string>
+    <string name="pcl_add_account_title_part">E-posta adresinizi eklememeyi seçip şifrenizi unutursanız şifrenizi yalnızca fabrika ayarlarına sıfırlama işlemi gerçekleştirdikten sonra sıfırlayabilirsiniz</string>
     <string name="pcl_app_control_start_summary">Çocuklarınızın cihazlarını güvenli ve sorumlu bir şekilde kullandığından emin olun</string>
     <string name="pcl_app_control_start_title">Ebeveyn denetimlerini açın</string>
     <string name="pcl_app_is_launching">Uygulama başlatılıyor</string>
@@ -641,7 +641,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="pcl_need_to_unlock_wrong">Şifreler eşleşmiyor. Tekrar deneyin</string>
     <string name="pcl_net_code_failure">Doğrulama kodunun süresi doldu</string>
     <string name="pcl_net_code_frequently">Çok fazla doğrulama kodu isteği</string>
-    <string name="pcl_net_code_verify_fail">"E-posta adresi doğrulanamadı"</string>
+    <string name="pcl_net_code_verify_fail">E-posta adresi doğrulanamadı</string>
     <string name="pcl_net_email_invalid">Geçersiz e-posta adresi</string>
     <string name="pcl_net_request_common_error">Ağ isteği hatası</string>
     <string name="pcl_net_time_error">Sistem zamanı hatası. Konumunuz için varsayılan saati kullanın</string>

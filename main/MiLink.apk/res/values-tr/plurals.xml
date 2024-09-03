@@ -104,12 +104,4 @@
         <item quantity="other">%1$d desen hatırlandı</item>
         <item quantity="one">%1$d desen hatırlandı</item>
     </plurals>
-    <plurals name="remembered_number_habit">
-        <item quantity="other">%1$d desen eklendi</item>
-        <item quantity="one">%1$d desen eklendi</item>
-    </plurals>
-    <plurals name="un_remember_number_habit">
-        <item quantity="other">%1$d desen bekliyor</item>
-        <item quantity="one">%1$d desen bekliyor</item>
-    </plurals>
 </resources>

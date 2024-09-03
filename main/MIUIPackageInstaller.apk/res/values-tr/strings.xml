@@ -960,6 +960,7 @@ Aşağıdaki senaryolarda güvenlik risklerini etkili bir şekilde önleyebilir:
     <string name="permission_name_write_calendar">Takvime yazın</string>
     <string name="permission_name_write_external_storage">Telefon belleğine yazın</string>
     <string name="permission_num">%1$s</string>
+    <string name="permissoion_management">İzin yönetimi</string>
     <string name="please_input_install_app_name">Uygulama adını girin</string>
     <string name="please_input_phone_password">Kilit ekranı şifresini girin</string>
     <string name="please_input_phone_password_short">Kilit ekranı şifresini girin</string>

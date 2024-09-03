@@ -43,16 +43,6 @@
         <item>Ara bağlantı/Ağ yardımı</item>
         <item>Ağ yardımı, internet paylaşımı, erişim noktası paylaşımı</item>
     </string-array>
-    <string-array name="settings_search_relay_network_2">
-        <item>Kablosuz bağlantı</item>
-        <item>Ara bağlantı veya kablosuz bağlantı</item>
-        <item>Ağ yardımı, bağlanma, erişim noktası paylaşımı veya kablosuz bağlantı</item>
-    </string-array>
-    <string-array name="settings_search_relay_network_global">
-        <item>Ağ senkronizasyonuc</item>
-        <item>Ara bağlantı veya ağ senkronizasyonu</item>
-        <item>Ağ yardımı, bağlanma, erişim noktası paylaşımı veya ağ senkronizasyonu</item>
-    </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ana ekran+</item>
         <item>Ara bağlantı veya ana ekran+</item>
