@@ -7344,7 +7344,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="private_dns_mode_provider_exposed_hostname">Keşfedilebilir</string>
     <string name="private_dns_mode_provider_failure">Bağlanılamadı</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcının sunucu adını girin</string>
-    <string name="private_dns_title">Private DNS</string>
+    <string name="private_dns_title">Özel DNS</string>
     <string name="private_gallery_need_to_unlock">Şifrenizi girin:</string>
     <string name="private_gallery_recording_intro_header">Kilit açma deseni çizin:</string>
     <string name="private_gallery_reset_by_account">Şifrenizi sıfırlamak için Xiaomi hesabınızda oturum açın</string>
