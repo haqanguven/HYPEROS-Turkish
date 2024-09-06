@@ -31,8 +31,8 @@
     <string name="access_photos_and_videos">Fotoğraflara ve videolara erişin</string>
     <string name="action_collapse">Gizle</string>
     <string name="action_expand">Göster</string>
-    <string name="action_mode_switcher_grid_description">Izgara görünümü</string>
-    <string name="action_mode_switcher_list_description">Liste görünümü</string>
+    <string name="action_mode_switcher_grid_description">Izgara</string>
+    <string name="action_mode_switcher_list_description">Liste</string>
     <string name="action_settings_description">Ayarlar</string>
     <string name="action_to_link">Bağlantıyı aç</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -404,7 +404,7 @@
     <string name="menu_pc_open">Bilgisayar programı ile aç</string>
     <string name="menu_restore">Geri yükle</string>
     <string name="menu_send_to_desktop">Ana ekrana yerleştir</string>
-    <string name="menu_stick">İğnele</string>
+    <string name="menu_stick">Sabitle</string>
     <string name="menu_title_select_folder">Klasör seç</string>
     <string name="menu_unhide">Gizliliği kaldır</string>
     <string name="menu_unstick">İğneyi kaldır</string>
@@ -592,7 +592,7 @@
     <string name="new_audio_create_talkback_des">Bir metin notu oluşturmak için dokunun. Bir sesli not oluşturmak için basın ve basılı tutun. Kaydı durdurmak ve notu oluşturmak için tuşu bırakın veya iptal etmek için kaydırın</string>
     <string name="new_data_empty_note">Henüz öğe yok</string>
     <string name="new_lite_audio_create_talkback_des">Not oluşturmak için dokunun</string>
-    <string name="new_sync_desc_state_disable">Notlar, görevler ve daha fazlası için bulut senkronizasyonunu açın</string>
+    <string name="new_sync_desc_state_disable">Senkronizasyonu aç</string>
     <string name="night">Akşam</string>
     <string name="no_network">Ağa bağlanılamıyor</string>
     <string name="noon">Öğlen</string>
@@ -693,9 +693,9 @@
     <string name="pref_permission_manage_key_recording">Ses kaydı</string>
     <string name="pref_permission_manage_key_storage">Depolama alanına erişin</string>
     <string name="pref_permission_not_allowed">Onaylama</string>
-    <string name="pref_quick_note_desc">Not ve görev oluşturmak, ayrıca kopyalanan bağlantıları, metinleri vede görüntüleri notlara kaydetmek için ekranın kenarındaki kısayolu kullanın</string>
+    <string name="pref_quick_note_desc">Not ve görev oluşturmak, kopyalanan bağlantıları, metinleri vede görüntüleri notlara kaydetmek için ekranın kenarındaki kısayolu kullanın</string>
     <string name="pref_remind_type_summary_new">Sessiz modu yoksay ve alarm kapatılana kadar ses çalmaya devam et</string>
-    <string name="pref_remind_type_summary_new_2">Sessiz veya rahatsız etme modu açıkken bile ses çal</string>
+    <string name="pref_remind_type_summary_new_2">Sessiz veya rahatsız etme modu açıkken bile ses oynatılır</string>
     <string name="pref_remind_type_title_new">Yüksek öncelik hatırlatmaları</string>
     <string name="pref_title_cloud_trash_bin">Buluttaki silinmiş notlar</string>
     <string name="pref_title_common">Ek ayarlar</string>
@@ -706,7 +706,7 @@
     <string name="pref_title_quick_note">Hızlı notlar</string>
     <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="privacy_preference">ICP kayıt numarası: Pekin ICP No. 10046444-74A</string>
+    <string name="privacy_preference">ICP kayıt numarası: HyperOSPro</string>
     <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
@@ -832,10 +832,10 @@
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">P</string>
     <string name="super_summary_fail">Özet oluşturulamıyor</string>
-    <string name="super_summary_loading">Süper özet oluşturma işlemi devam ediyor</string>
+    <string name="super_summary_loading">Özet oluşturuluyor</string>
     <string name="super_summary_not_generate">Özet oluşturulamadı</string>
-    <string name="super_summary_save_fail">Kaydetme başarısız oldu</string>
-    <string name="super_summary_success">Notlara kaydedildi</string>
+    <string name="super_summary_save_fail">Kaydedilemedi</string>
+    <string name="super_summary_success">Kaydedildi</string>
     <string name="super_text_summary_huangfan">İçerik hassastır. Lütfen orijinal metne bakın</string>
     <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
     <string name="sync_desc_state_complete">Bulut ile senkronize edildi</string>
@@ -920,7 +920,7 @@
     <string name="toast_excerpt_end">Alıntı başarıyla oluşturuldu</string>
     <string name="toast_excerpt_no_content">Alıntı yok</string>
     <string name="toast_excerpt_open_note">Alıntılı not açıldı</string>
-    <string name="toast_excerpt_saved">"Alıntı notlar'a kaydediliyor"</string>
+    <string name="toast_excerpt_saved">Alıntı notlara kaydediliyor</string>
     <string name="toast_message_add_image_fail">Resim eklenemedi</string>
     <string name="toast_notes_delete_success">Başarıyla silindi</string>
     <string name="toast_notes_hidden_edit">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı doğru çekin</string>

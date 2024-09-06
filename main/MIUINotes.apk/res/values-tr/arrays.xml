@@ -24,7 +24,7 @@
         <item>Çok büyük</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Oluşturulma tarihine göre</item>
-        <item>Değiştirilme tarihine göre</item>
+        <item>Oluşturma</item>
+        <item>Değiştirme</item>
     </string-array>
 </resources>

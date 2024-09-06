@@ -81,6 +81,10 @@ Toplam %2$d şarkı"</item>
         <item quantity="other">%d indirme işlemi devam ediyor</item>
         <item quantity="one">%d indirme işlemi devam ediyor</item>
     </plurals>
+    <plurals name="asm_downloading_songs">
+        <item quantity="other">%1$s şarkı indiriliyor</item>
+        <item quantity="one">%1$s şarkı indiriliyor</item>
+    </plurals>
     <plurals name="asm_main_slide_songlist_num">
         <item quantity="other">%1$d şarkı</item>
         <item quantity="one">%1$d şarkı</item>

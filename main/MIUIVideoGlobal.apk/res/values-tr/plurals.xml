@@ -29,6 +29,14 @@
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">%d dakika önce</item>
     </plurals>
+    <plurals name="bi_exist_playlist_toast1">
+        <item quantity="other">%d video başarıyla eklendi</item>
+        <item quantity="one">%d video başarıyla eklendi</item>
+    </plurals>
+    <plurals name="bi_exist_playlist_toast2">
+        <item quantity="other">Bu oynatma listesinde zaten %d video var</item>
+        <item quantity="one">Bu oynatma listesinde zaten %d video var</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">%d yanıtı görüntüle</item>
         <item quantity="one">%d yanıtı görüntüle</item>
@@ -83,6 +91,10 @@
     <plurals name="local_longpress_speed_chenge_tip">
         <item quantity="other">%sX hızında oynatılıyor. Normal hızda oynatmak için bırakın</item>
         <item quantity="one">%sX hızında oynatılıyor. Normal hızda oynatmak için bırakın</item>
+    </plurals>
+    <plurals name="local_video_delete_confirm_text">
+        <item quantity="other">Devam ederseniz seçtiğiniz tüm %s öğeler kalıcı olarak silinecektir. Yine de silinsin mi?</item>
+        <item quantity="one">Devam ederseniz seçtiğiniz tüm %s öğeler kalıcı olarak silinecektir. Yine de silinsin mi?</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d klasör</item>
@@ -211,5 +223,13 @@
     <plurals name="video_view_count">
         <item quantity="other">%d görüntüleme</item>
         <item quantity="one">%d görüntüleme</item>
+    </plurals>
+    <plurals name="vip_diaolg_pay_episoed">
+        <item quantity="other">Bölüm satın alınıyor %d</item>
+        <item quantity="one">Bölüm satın alınıyor %d</item>
+    </plurals>
+    <plurals name="vip_validity_date">
+        <item quantity="other">Geçerlilik süresi: %d gün</item>
+        <item quantity="one">Geçerlilik süresi: %d gün</item>
     </plurals>
 </resources>

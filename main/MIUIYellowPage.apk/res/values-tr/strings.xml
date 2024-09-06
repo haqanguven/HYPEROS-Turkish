@@ -436,6 +436,7 @@ Yine de kapatılsın mı?"</string>
     <string name="withdraw_privacy_success">İzin başarıyla geri çekildi</string>
     <string name="write_delete_call_log">Arama geçmişini düzenle</string>
     <string name="write_delete_call_log_summary">Arayan kimliği veri tabanını güncellemek içindir</string>
+    <string name="yellowpage_information_ipc">ICP kayıt numarası: HyperOSPro</string>
     <string name="yellowpage_navigation_network_location_enable">İzin ver</string>
     <string name="yellowpage_navigation_network_location_enable_later">Şimdi değil</string>
     <string name="yellowpage_navigation_network_location_enabled">Konum erişimi açık. Konum erişimini dilediğiniz zaman ayarlardan kapatabilirsiniz</string>

@@ -174,6 +174,7 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="asm_dialog_vip_confirm_text">Katıl</string>
     <string name="asm_dialog_vip_message">Yüksek kaliteli şarkıları dinlemek ve daha fazla içerik indirmek için bir VIP üyeliğe kaydolun</string>
     <string name="asm_disable_song_click_tip">Bu şarkı telif hakkı sorunlarından dolayı mevcut değil</string>
+    <string name="asm_download">İndir</string>
     <string name="asm_download_all_start_label">Tümünü devam ettir</string>
     <string name="asm_download_all_stop_label">Tümünü duraklat</string>
     <string name="asm_download_allow_abort">İptal et</string>
@@ -197,8 +198,11 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="asm_download_storage_not_enough">Yetersiz cihaz depolama alanı</string>
     <string name="asm_download_success">%1$s indirildi</string>
     <string name="asm_download_title">İndirilenleri yönet</string>
+    <string name="asm_dp_load_error">Veriler yüklenemedi</string>
+    <string name="asm_dp_load_unsupport">Bu ürün bölgenizde mevcut değil</string>
     <string name="asm_during_the_payment">Ödeme durumu kontrol ediliyor</string>
     <string name="asm_fail_play_song">Şarkı indirilemedi</string>
+    <string name="asm_full_tracks">Tam parçalar</string>
     <string name="asm_google_connect_failed">"Ödeme tamamlanamadı. Play Store'da oturum açtığınızdan emin olun"</string>
     <string name="asm_google_no_goods">Ürün bilgisi alınamadı</string>
     <string name="asm_google_not_login">"Google Play'de oturum açın ve tekrar deneyin"</string>
@@ -206,6 +210,9 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="asm_google_query_failed">Ürün bilgisi alınamadı</string>
     <string name="asm_google_service_failed">Google hizmetleri başlatılamadı. Tekrar deneyin</string>
     <string name="asm_gooleplay_notice">Google Play hizmetleri yüklü değil</string>
+    <string name="asm_goto_online_music">Çevrimiçi müzik görüntüle</string>
+    <string name="asm_hate_ads">Reklam yok. İlk ay ücretsiz</string>
+    <string name="asm_hq">Yüksek kalitey</string>
     <string name="asm_item_not_available">öğe mevcut değil</string>
     <string name="asm_loadstate_error_retry">İnternete bağlanın ve tekrar denemek için dokunun</string>
     <string name="asm_loadstate_not_more">Şimdilik bu kadar</string>
@@ -237,15 +244,18 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="asm_song_err_not_exist">İstenilen ses kaynağı mevcut değil</string>
     <string name="asm_song_err_not_exist_clear">Şarkı mevcut değil. Sıradan kaldırıldı</string>
     <string name="asm_song_err_play">Çalınamadı. Tekrar deneyin</string>
+    <string name="asm_song_load_error">Müzik yüklenemedi</string>
     <string name="asm_songlist_all_genre_close">Tümünü daralt</string>
     <string name="asm_songlist_all_genre_title">Tüm kategoriler</string>
     <string name="asm_songs_is_downloading">Şarkı indirliyor</string>
     <string name="asm_stop_action_when_no_network">Ağa bağlanın ve tekrar deneyin</string>
+    <string name="asm_subscribe_now">Başla</string>
     <string name="asm_tips_cannot_download_disable_songs">Bu şarkı indirilemiyor</string>
     <string name="asm_toast_pay_canceled">Ödeme iptal edildi</string>
     <string name="asm_toast_pay_failed">Ödeme tamamlanamadı</string>
     <string name="asm_unknow_album">Bilinmeyen albüm</string>
     <string name="asm_unknow_artist">Bilinmeyen sanatçı</string>
+    <string name="asm_unlock_tracks_ad_free">Üyelik ile reklamsız ve kesintisiz bir şekilde yüksek kalitede müzik dinleyebilir ve indirme yapabilirsiniz</string>
     <string name="audio_ad_countdown">%s saniye sonra reklamı atla</string>
     <string name="audio_ad_pass">Reklamı atla</string>
     <string name="audio_add_equalizer">Ekolayzer+</string>
@@ -488,6 +498,8 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="default_localization_key">Sistem</string>
     <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
     <string name="delete">Sil</string>
+    <string name="delete_all_data_tips">"Devam ederseniz oluşturulan öğeler, favorilere eklenen öğeler, oynatma listeleri ve tarama geçmişi dahil olmak üzere tüm verileri temizleyeceksiniz.
+Tüm verileri temizledikten sonra uygulamadan çıkacaksınız. Bu veriler kalıcı olarak temizlenecek ve geri yüklenemeyecektir. Tüm veriler şimdi temizlensin mi?"</string>
     <string name="delete_download">Sil</string>
     <string name="delete_file_as_well">Bu şarkıyı kalıcı olarka sil</string>
     <string name="delete_file_end">Kalıcı olarak sil</string>
@@ -793,6 +805,7 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="filter_by_duration_min">%d saniye</string>
     <string name="filter_by_duration_prefix">"Daha kısa dosyaları gizle "</string>
     <string name="filter_by_duration_summary">Kısa ses dosyaları gösterilmez</string>
+    <string name="filter_by_duration_summary_file">Kısa ses ve video dosyalarını filtreleyin</string>
     <string name="filter_by_folder">Klasöre göre</string>
     <string name="filter_by_folder_summary">Gösterilecek klasörü seçin</string>
     <string name="filter_by_size">Boyuta göre</string>
@@ -800,6 +813,8 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
     <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
+    <string name="filter_by_size_summary_file">Küçük ses ve video dosyalarını filtreleyin</string>
+    <string name="filter_by_video">Video dosyalarını görüntüle</string>
     <string name="filter_distinct">Kullanıcı</string>
     <string name="filter_division">İşaretleme</string>
     <string name="filter_edge">Taslak</string>
@@ -921,10 +936,12 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="hide_album">Albümü gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Sözleri gizle</string>
+    <string name="hide_or_add_files_manually">Gizli dosyaları görüntüleyin ve öğeleri manuel olarak gizleyin</string>
     <string name="hide_or_add_songs_manually">Gizli şarkıları görüntüle</string>
     <string name="hide_reason_folder">Gizli klasör</string>
     <string name="hide_reason_other">Diğer neden</string>
     <string name="hide_reason_size">"%1$s'den büyük"</string>
+    <string name="hide_songs_file">Gizli dosyalar</string>
     <string name="hide_songs_title">Gizli şarkılar</string>
     <string name="hifi_quality">Yüksek kalite</string>
     <string name="high_sound_quality">Yüksek</string>
@@ -1726,6 +1743,8 @@ Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz
     <string name="playerui_lyric_fun_research">Tekrar ara</string>
     <string name="playerui_lyric_searching">Aranıyor</string>
     <string name="playerui_lyric_selected">Bu şarkı sözlerini kullan</string>
+    <string name="playerui_playing_tilte_asm">Reklam yok. İlk ay ücretsiz</string>
+    <string name="playerui_playing_tilte_asm_already">Reklamsız dinle</string>
     <string name="playerui_song_dialog_cancel">"İzin verme"</string>
     <string name="playerui_song_dialog_hint">Daha doğru şarkı sözleri şu anda mevcut değil. Optimizasyon amacıyla müziklerin bu ses dosyasına erişmesine izin vererek bize yardımcı olabilirsiniz. Şimdi erişime izin verilsin mi?</string>
     <string name="playerui_song_dialog_ok">İzin ver</string>
