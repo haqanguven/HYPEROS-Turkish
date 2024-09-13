@@ -805,6 +805,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="hm2_migration_tips">Xiaomi HyperMind daha güçlü algılama ve öğrenme yetenekleri getiriyor. Ancak teknolojik gelişmeler nedeniyle bazı alışkanlıklarınız artık işe yaramayacak</string>
     <string name="hm2_migration_title">Veri taşıma</string>
     <string name="hm2_network_cta_tip">Bu uygulamayı kullanma sürecinde gerekli hizmetleri sağlamak için internete bağlanacağız</string>
+    <string name="hm2_network_err_crash">Ağ isteği sırasında kilitlendi</string>
+    <string name="hm2_network_err_invald_param">Bilinmeyen ağ hatası</string>
+    <string name="hm2_network_err_net_invald_req">Ağ veri biçimi ayrıştırılamıyor</string>
+    <string name="hm2_network_err_net_jsonerr">Ağ veri biçimi ayrıştırılamıyor</string>
     <string name="hm2_network_err_retry_btn">Tekrar dene</string>
     <string name="hm2_network_err_tips">Ağ kullanılamıyor. Lütfen bağlantıyı onaylayın ve tekrar deneyin</string>
     <string name="hm2_no_activate_tips">Cihazların alışkanlıklarınıza göre çalışmasına izin verin</string>
@@ -889,15 +893,19 @@ geri alınmasına ilişkin önemli notlar"</string>
     <string name="hmind_cancel">İptal et</string>
     <string name="hmind_download">"Mijia'yı indir"</string>
     <string name="hmind_mj_download_hint">"Ayrıntıları görüntülemek için lütfen Mijia'yı indirin"</string>
+    <string name="hmind_mj_download_hint_title">Mijia yüklü değil</string>
     <string name="hmind_mj_version_low">Mevcut Mijia sürümü çok düşük. Lütfen yükseltin ve ayrıntıları kontrol edin</string>
+    <string name="hmind_mj_version_low_title">Mevcut Mijia sürümü çok düşük</string>
     <string name="hmind_network_disable">Ağ kullanılamıyor. Lütfen bağlanıp tekrar deneyin</string>
     <string name="hmind_update">Güncelle</string>
+    <string name="hyper_mind">HyperMind</string>
     <string name="hyper_mind_close_warning">Dikkat</string>
     <string name="hyper_mind_close_warning_checkbox">Tekrar gösterme</string>
     <string name="hyper_mind_close_warning_content">HyperMind kapatıldıktan sonra veri toplamayı ve kullanım alışkanlıklarınızı öğrenmeyi bırakacaktır. Halihazırda toplanmış olan verileri silmeniz gerekiyorsa <a href="%1$s">buraya dokunun</a></string>
     <string name="hyper_mind_close_warning_ok">Tamam</string>
     <string name="hyper_mind_switch_connect_error">Ağa bağlanılamıyor. Lütfen mevcut ağ ortamını kontrol edip tekrar deneyin</string>
     <string name="hyper_mind_switch_connect_ok">Zaten açık</string>
+    <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="i_see">Tamam</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="image_transfer_failed">Resim aktarılamadı</string>
@@ -1160,10 +1168,10 @@ geri alınmasına ilişkin önemli notlar"</string>
     <string name="passport_account_user_name_dialog_title">Ad girin</string>
     <string name="passport_account_user_phone">Kurtarma telefonu</string>
     <string name="passport_activity_not_found_notice">Uygulamayı bulamıyorum</string>
-    <string name="passport_adding_account">Hesap ekleniyor</string>
     <string name="passport_agree">Kabul et</string>
     <string name="passport_area_code_title">Ülke kodu</string>
     <string name="passport_attention">Dikkat</string>
+    <string name="passport_auth_fail_warning">Oturum süresi doldu. Tekrar giriş yapın</string>
     <string name="passport_back">Geri</string>
     <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
     <string name="passport_can_not_recevie_verify_code">Bir kod almadınız mı?</string>
@@ -1303,7 +1311,7 @@ geri alınmasına ilişkin önemli notlar"</string>
     <string name="passport_wrong_vcode">Girdiğiniz kod yanlış</string>
     <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
-    <string name="path_setting_cast">Bağlantı &amp; paylaşma/yayınlama</string>
+    <string name="path_setting_cast">Daha fazla bağlantı seçeneği veya yayın</string>
     <string name="path_setting_cast_demo">Bağlantı &amp; paylaşma/yayınlama/demolar</string>
     <string name="path_setting_cast_demo_document">Bağlantı &amp; paylaşma/yayınlama/demolar/belgeler</string>
     <string name="path_setting_cast_demo_gallery">Bağlantı &amp; paylaşma/yayınlama/demolar/fotoğraflar &amp; videolar</string>

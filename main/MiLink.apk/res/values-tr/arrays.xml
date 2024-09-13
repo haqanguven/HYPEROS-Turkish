@@ -8,6 +8,10 @@
         <item>LeLink</item>
         <item>DLNA</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
     <string-array name="settings_search_connect_car">
         <item>Uygulamaları birleştirin</item>
         <item>Ara bağlantı veya uygulamaları birleştir</item>
@@ -42,6 +46,16 @@
         <item>Ağ yardımı</item>
         <item>Ara bağlantı/Ağ yardımı</item>
         <item>Ağ yardımı, internet paylaşımı, erişim noktası paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Kablosuz bağlantı</item>
+        <item>Bağlantıveya kablosuz bağlantı</item>
+        <item>Ağ yardımı, bağlantı paylaşımı, etkin nokta paylaşımı, kablosuz bağlantı paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Ağ senkronizasyonu</item>
+        <item>Bağlantı veya ağ senkronizasyonu</item>
+        <item>Ağ yardımı, bağlama, etkin nokta paylaşımı, ağ senkronizasyonu</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ana ekran+</item>
