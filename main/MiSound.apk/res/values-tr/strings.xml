@@ -567,6 +567,7 @@
     <string name="sound_id_function_description">EQ eğrisini tercihlerinize göre kişiselleştirin</string>
     <string name="sound_id_function_name">Kişiselleştirilmiş ses</string>
     <string name="sound_id_headset_status">Mevcut kulaklıklar</string>
+    <string name="sound_id_hz">%d Hz</string>
     <string name="sound_id_hz_high">Tiz %d Hz</string>
     <string name="sound_id_hz_low">Bas %d Hz</string>
     <string name="sound_id_hz_media">Orta seviye %d Hz</string>
@@ -588,6 +589,8 @@
     <string name="sound_id_rename_repeat">Bu isim zaten kullanılıyor. Başka bir tane dene</string>
     <string name="sound_id_select_music">Oynamak için demoyu seçin</string>
     <string name="sound_id_select_music_note">Sesi kişiselleştirmek için demoları dinleyin. Her biri aralarından seçim yapabileceğiniz iki efekt seti ile oynanacaktır</string>
+    <string name="sound_id_selection_default_keyboard_a">A</string>
+    <string name="sound_id_selection_keyboard_b">B</string>
     <string name="sound_id_selection_neither">Beğenmedim</string>
     <string name="sound_id_selection_no_difference">Aynı ses</string>
     <string name="sound_id_test_dialog_exit_button">Durdur</string>

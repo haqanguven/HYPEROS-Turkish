@@ -180,9 +180,25 @@
         <item quantity="other">Orijinal ses %1$d</item>
         <item quantity="one">Orijinal ses %1$d</item>
     </plurals>
+    <plurals name="vlog_auto_audio_import_success_toast">
+        <item quantity="other">%1$d şarkı içe aktarıldı</item>
+        <item quantity="one">%1$d şarkı içe aktarıldı</item>
+    </plurals>
     <plurals name="vlog_filter_diy_lut_import_success_toast">
         <item quantity="other">%1$d filtre başarıyla içe aktarıldı</item>
         <item quantity="one">%1$d filtre başarıyla içe aktarıldı</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_limit">
+        <item quantity="other">"Süre şu anda %d dakikayı aşıyor. "</item>
+        <item quantity="one">"Süre şu anda %d dakikayı aşıyor. "</item>
+    </plurals>
+    <plurals name="vlog_import_minutes_no_support_nums">
+        <item quantity="other">%d video atlandı</item>
+        <item quantity="one">%d video atlandı</item>
+    </plurals>
+    <plurals name="vlog_no_support_duration">
+        <item quantity="other">İçe aktarılamadı. Süre %d dakikayı aşıyor</item>
+        <item quantity="one">İçe aktarılamadı. Süre %d dakikayı aşıyor</item>
     </plurals>
     <plurals name="vlog_talkback_crop_scale_value">
         <item quantity="other">%d derece döndür</item>
