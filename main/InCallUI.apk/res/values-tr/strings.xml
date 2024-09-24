@@ -41,7 +41,6 @@
     <string name="align_satellite_model_use">Başlat</string>
     <string name="align_satellite_model_use_exp">Bitti</string>
     <string name="am">ÖÖ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="antifraud_center">Dolandırıcılığa karşı uyarı platformu</string>
     <string name="antifraud_center_incoming_prompt">Dolandırıcılığa karşı resmi uyarı platformundan gelen hiçbir aramayı kaçırmayın</string>
     <string name="antispam_local_marked">Yerel işaretli</string>
@@ -75,9 +74,8 @@
     <string name="call_progress_info_user_busy">Kullanıcı meşgul</string>
     <string name="call_progress_info_user_call_rejected">Kullanıcı - Arama reddedildi</string>
     <string name="call_record_wait_label">Bekliyor</string>
+    <string name="call_recording">Arama kaydı devam ediyor</string>
     <string name="call_recording_deny_permission_msg">Kayıt iznini devre dışı bıraktınız. Kayıt edilemiyor</string>
-    <string name="call_recording_disclaimer_msg">Sizin veya diğer arama katılımcılarının bulunduğu yargı alanındaki geçerli yasa tüm tarafların kayda onay vermesini gerektirebilir. Bu tür yasalara uymakla yükümlüsünüz ve Xiaomi bu özelliğin herhangi bir yasadışı kullanımından sorumlu tutulamaz. Arama kayıtları yalnızca cihazınızda saklanır ve Xiaomi tarafından erişilemez</string>
-    <string name="call_recording_disclaimer_title">Dikkat</string>
     <string name="call_recording_error_low_storage">Depolama alanında yeterli boş alan yok</string>
     <string name="call_recording_error_privacy">Ziyaretçi modunda kayıt yapılamıyor</string>
     <string name="call_recording_error_sd_access">SD karta ulaşılamıyor</string>
@@ -247,7 +245,6 @@
     <string name="flip_expand_conference_call_text">Konferans görüşmesini yönetmek için ekranı açın</string>
     <string name="flip_expand_suport_videocall_text">Görüntülü görüşme seçenekleri için ekranı açın</string>
     <string name="flip_expand_switch_call_text">Çok kanallı aramaya geçmek için ekranı açın</string>
-    <string name="flip_rotate_use_handset_or_speaker_text">Elde taşınabilir veya eller serbest seçenekleri için döndürün</string>
     <string name="flip_video_incoming_call_label">Görüntülü görüşme</string>
     <string name="fmt_chinese_date">N-e</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -383,6 +380,7 @@
     <string name="notification_ongoing_call">Devam eden arama</string>
     <string name="notification_requesting_video_call">Gelen görüntülü arama isteği</string>
     <string name="ok">Tamam</string>
+    <string name="on_call_recording">Kayıt</string>
     <string name="onscreenEndCallText">Bitir</string>
     <string name="onscreen_add_call_text">Arama ekle</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
@@ -534,7 +532,6 @@ Cihazı bu konumda tutun"</string>
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="speakerphone_tip">Kulaklığı veya hoparlörü kullanmak için cihazı katlayın</string>
-    <string name="start_call_record">Başlat</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>

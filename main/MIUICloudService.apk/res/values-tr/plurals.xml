@@ -89,6 +89,10 @@
         <item quantity="other">%d wifi ağı</item>
         <item quantity="one">%d wifi ağı</item>
     </plurals>
+    <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s doğrulanmamış cihaz</item>
+        <item quantity="one">%s doğrulanmamış cihaz</item>
+    </plurals>
     <plurals name="error_retry_hour">
         <item quantity="other">%s saat</item>
         <item quantity="one">%s saat</item>
@@ -144,6 +148,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
+    <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Çok fazla deneme. %s saniye içinde tekrar deneyin</item>
+        <item quantity="one">Çok fazla deneme. %s saniye içinde tekrar deneyin</item>
+    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">%d dakika içinde senkronizasyona devam ediliyor</item>
         <item quantity="one">%d dakika içinde senkronizasyona devam ediliyor</item>
@@ -159,6 +167,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Çok fazla deneme. %d gün içinde tekrar deneyin</item>
+        <item quantity="one">Çok fazla deneme. %d gün içinde tekrar deneyin</item>
     </plurals>
     <plurals name="provision_sync_items_status_off_title">
         <item quantity="other">%s öğe için senkronizasyon açık değil</item>
@@ -187,5 +199,9 @@
     <plurals name="time_format_min">
         <item quantity="other">%1$s dakika</item>
         <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Yeni kod gönder (%s saniye)</item>
+        <item quantity="one">Yeni kod gönder (%s saniye)</item>
     </plurals>
 </resources>

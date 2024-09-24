@@ -108,14 +108,6 @@
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
     <string name="chip_text">Çip metni</string>
     <string name="choose_bluetooth_device">Cihaz seç</string>
-    <string name="clean_speaker_auto_clean">Hoparlörü temizleme</string>
-    <string name="clean_speaker_cleaning">Temizleniyor</string>
-    <string name="clean_speaker_complete">Tamamlandı</string>
-    <string name="clean_speaker_intro">Daha iyi sonuçlar için cihazınızı resimde gösterildiği gibi sallayın. Düşürmemek için cihazı sıkıca tutun</string>
-    <string name="clean_speaker_remove_devices">Kulaklık ve diğer Bluetooth cihazlarını çıkarın</string>
-    <string name="clean_speaker_start_clean">Başlat</string>
-    <string name="clean_speaker_tips">Bu işlem yaklaşık %1$d saniye sürer. Hoparlör sesi otomatik olarak maksimuma çıkar</string>
-    <string name="clean_speaker_title">Hoparlörü temizle</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>

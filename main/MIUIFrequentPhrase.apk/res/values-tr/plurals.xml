@@ -45,6 +45,18 @@
         <item quantity="other">%d dakika içinde</item>
         <item quantity="one">1 dakika içinde</item>
     </plurals>
+    <plurals name="input_method_phrase_more_file">
+        <item quantity="other">%1$d dosya</item>
+        <item quantity="one">%1$d dosya</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_image">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="input_method_phrase_more_video">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>

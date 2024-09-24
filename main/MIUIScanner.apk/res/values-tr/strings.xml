@@ -53,6 +53,17 @@
     <string name="already_ocr_result">Otomatik olarak seçilen öğeler</string>
     <string name="always">Her zaman</string>
     <string name="am">ÖÖ</string>
+    <string name="aon_no_install_app_tip">Bu sayfanın belirtilen uygulamada açılması gerekiyor. lütfen önce ilgili uygulamayı yükleyin</string>
+    <string name="aon_no_network_tip">QR kodunu taramak için İnternet bağlantısı gereklidir. lütfen kablosuz ağı veya mobil ağı açın</string>
+    <string name="aon_no_support_code_tip">Bu tür QR kodu henüz desteklenmiyor. lütfen diğer tarama yöntemlerini deneyin</string>
+    <string name="aon_opened_dialog_des">Yüksek hızlı kod taramayı açtıktan sonra sistem QR kodunu algılayacak ve algılama bilgileri açıldıktan sonra yerel olarak saklanmayacak veya buluta yüklenmeyecektir</string>
+    <string name="aon_opened_dialog_title">Güvenlik beyanı ve hatırlatma</string>
+    <string name="aon_pay_setting_default_des">Varsayılan ödeme yöntemi</string>
+    <string name="aon_pay_setting_null">Ayarlanmadı</string>
+    <string name="aon_recognize_code_cancelled_des">QR kodunun tanınması iptal edildi</string>
+    <string name="aon_recognize_code_des">QR kodu tanındı</string>
+    <string name="aon_setting_title">Kaydırarak kod tarama</string>
+    <string name="aon_title_des">"Masaüstü senaryosunda telefonunuzu 60 cm'lik QR koduna doğrultun, istem göründükten sonra 2 saniye boyunca duruşunuzu koruyun ve kodu hızlı bir şekilde tarayabilirsiniz"</string>
     <string name="app_description_content">Barkod okuyucu QR kodlarını, dökümanları, iş kartlarını ve daha fazlasını taramanıza olanak sağlar. Uygulamayı silmeden önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Barkod okuyucu hakkında</string>
     <string name="app_details">Uygulama:</string>

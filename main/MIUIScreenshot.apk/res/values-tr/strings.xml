@@ -138,7 +138,7 @@
     <string name="cta_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve yukarıda listelenen zorunlu izinleri verin</string>
     <string name="cta_btn_agree">Kabul et</string>
     <string name="cta_btn_disagree">Reddet</string>
-    <string name="cta_main_purpose">Ekran resmi düzenleyicisine hoş geldiniz! Ekran resmini kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Ekran resmi düzenleyicisine hoş geldiniz! Ekran resmini kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran resmini kaydetmek içindir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />

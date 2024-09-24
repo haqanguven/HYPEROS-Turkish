@@ -56,6 +56,7 @@
     <string name="alert_volume">Zil sesi seviyesi</string>
     <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarlama</string>
     <string name="alert_xiaoai_ringtone_desc">Mi yapay zeka konuşuyor</string>
+    <string name="all_alarm_close">Tüm alarmlar kapalı</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_label">Saat</string>
@@ -98,7 +99,11 @@
     <string name="bedtime_welcome">Uyku zamanı</string>
     <string name="bedtime_welcome_desc">Düzenli ve istikrarlı bir uyku programı sürdürmek sağlığınıza faydalıdır. Her gün zamanında uyumanıza ve uyanmanıza yardımcı olacak hatırlatıcılar kurun</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
+    <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
+    <string name="bottomsheet_drag_handle_clicked">Sürükleme koluna çift dokunuldu</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükleme kolu</string>
     <string name="cancel">İptal et</string>
     <string name="channel_name_alarm">Alarm</string>
     <string name="channel_name_sleep">Uyku</string>
@@ -184,7 +189,8 @@
     <string name="click_to_cancel_alarm">Kapatmak için dokunun</string>
     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
-    <string name="clock_information_ipc">ICP kayıt numarası: Pekin ICP No. 10046444-57A</string>
+    <string name="clock_information_ipc">ICP kayıt numarası: HyperOSPro</string>
+    <string name="clock_tab_name">Dünya saati</string>
     <string name="close">Kapat</string>
     <string name="close_alarm">Kapat</string>
     <string name="close_alarm_new">Durdur</string>
@@ -228,6 +234,7 @@
     <string name="edit_label">Alarm etiketini düzenle</string>
     <string name="edit_systemtime">Sistem saatini değiştir</string>
     <string name="empty" />
+    <string name="enter_label">Etiket girin</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Error</string>
@@ -296,7 +303,6 @@
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
     <string name="go_back">Geri</string>
-    <string name="greenwichmean_time">GMT</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>
@@ -405,6 +411,7 @@
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -432,6 +439,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Bunu yapma</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Hata</string>
+    <string name="modify_alarm">Alarmı düzenle</string>
     <string name="module_dialog_negative">Reddet</string>
     <string name="module_dialog_positive">Kabul et</string>
     <string name="module_download_cancel">Şimdi değil</string>
@@ -603,8 +611,6 @@
     <string name="ringtone_firefly">Havai fişekler</string>
     <string name="ringtone_weather">Hava durumu alarmı</string>
     <string name="ringtone_week">Haftalık alarm</string>
-    <string name="ruler_view_text" formatted="false">%d%d</string>
-    <string name="ruler_view_text_one">%d</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>
@@ -779,14 +785,17 @@
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it_new">Sessizlik</string>
     <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
+    <string name="timer_keep_screen_on">Ekranı açık tut</string>
     <string name="timer_pause_timer">Zamanlayıcıyı durdur</string>
     <string name="timer_ringtone">Zamanlayıcı zil sesi</string>
     <string name="timer_running">Zamanlayıcı çalışıyor</string>
+    <string name="timer_screen_on">Ekran açık kalıyor</string>
+    <string name="timer_screen_turn_on">Ekranı açık tut</string>
     <string name="timer_start_alarm">Zaman doldu</string>
     <string name="timer_start_timer">Zamanlayıcı başlat</string>
     <string name="timer_title">Zamanlayıcı</string>
     <string name="timezone_exist_error_message">Zaten bu zaman dilimini görüntülüyorsunuz</string>
-    <string name="timezone_search_zero">%d</string>
+    <string name="timezone_null_massage">Burada henüz hiçbir şey yok</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="tuesday">Salı</string>
@@ -824,6 +833,9 @@
     <string name="white_noise_guide_desc">Odaklanmanızı sağlamak için bir arka plan sesi ekleyin</string>
     <string name="white_noise_selected">Seçildi</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
+    <string name="world_edit_actionbar_subtitle">Araç ilk %d konumu görüntüleyecek</string>
+    <string name="world_edit_actionbar_title">Konumları seçin</string>
+    <string name="world_edit_local_default">"Yerel saat | "</string>
     <string name="worldclock_edit_label">Dünya saati</string>
     <string name="worldclock_input_hint_text">Ülke veya şehir arayın</string>
     <string name="worldclock_local_time">Yerel saat</string>
@@ -833,6 +845,7 @@
     <string name="worldclock_world_time">Zaman dilimleri</string>
     <string name="worldcolock_date_display_prefix">Mevcut:</string>
     <string name="worldcolock_time_date">dd/MM/yyyy</string>
+    <string name="worldcolock_time_date_new">dd/MM</string>
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
     <string name="xiaoai_ringtone_title">Mi yapay zeka zil sesleri</string>

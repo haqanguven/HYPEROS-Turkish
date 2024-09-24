@@ -97,6 +97,14 @@
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
     </plurals>
+    <plurals name="ai_search_picker_hint_text">
+        <item quantity="other">%1$d-%2$d fotoğraf veya video seçin (%3$d seçili)</item>
+        <item quantity="one">%1$d-%2$d fotoğraf veya video seçin (%3$d seçili)</item>
+    </plurals>
+    <plurals name="ai_search_picker_total_duration_exceed_limit">
+        <item quantity="other">"Toplam video süresi %d saniyeyi geçemez"</item>
+        <item quantity="one">"Toplam video süresi %d saniyeyi geçemez"</item>
+    </plurals>
     <plurals name="ai_select_photo_time_count">
         <item quantity="other">Fotoğraflar seçiliyor (%d saniye kaldı)</item>
         <item quantity="one">Fotoğraflar seçiliyor (%d saniye kaldı)</item>
@@ -110,8 +118,8 @@
         <item quantity="one">%d fotoğraf</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d öğe | %2$s</item>
-        <item quantity="one">%1$d öğe | %2$s</item>
+        <item quantity="other">%1$d öğe | %2$s</item>
+        <item quantity="one">%1$d öğe | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d öğe)</item>
@@ -419,6 +427,14 @@
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Cihazda olmayan %d fotoğraf atlandı</item>
         <item quantity="one">Cihazda olmayan %d fotoğraf atlandı</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component">
+        <item quantity="other">%d segmenti seçin</item>
+        <item quantity="one">%d segmenti seçin</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component_format">
+        <item quantity="other">%1$d segmenti seçin (%2$d)</item>
+        <item quantity="one">%1$d segmenti seçin (%2$d)</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d yeni fotoğraf bulundu</item>

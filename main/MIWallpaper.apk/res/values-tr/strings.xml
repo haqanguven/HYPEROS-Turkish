@@ -176,6 +176,11 @@ krater"</string>
     <string name="mars_position_title_4">Bahram vallis</string>
     <string name="mars_summary">"Mars'ın geniş çölleri insanlığı hep hayrete düşürdü"</string>
     <string name="mars_title">Kırmızı gezegen</string>
+    <string name="mars_view_height_0">287.3 kilomtetre</string>
+    <string name="mars_view_height_1">256.7 kilomtetre</string>
+    <string name="mars_view_height_2">286.2 kilomtetre</string>
+    <string name="mars_view_height_3">268.0 kilomtetre</string>
+    <string name="mars_view_height_4">283.8 kilomtetre</string>
     <string name="mi_wallpaper_loading">Yükleniyor</string>
     <string name="mi_wallpaper_title">Mi duvar kağıdı</string>
     <string name="midnight">Gece</string>

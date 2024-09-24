@@ -115,6 +115,10 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s mesaj | "</item>
         <item quantity="one">"%s mesaj | "</item>

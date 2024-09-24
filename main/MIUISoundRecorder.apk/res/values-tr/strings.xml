@@ -198,7 +198,7 @@
     <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
-Bu kodu yöneticiye gönderin."</string>
+Bu kodu yöneticiye gönderin"</string>
     <string name="dialog_content_storage_full">Cihazınızın dahili depolama alanında yeterli boş alan kalmadığından kayıt durduruldu</string>
     <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu durum uygulamayı fiilen kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı? Hesap güvenliğinizi garanti altına almak için Xiaomi bulut hizmetleri için yetkilendirmeyi kaldırmadan önce i.mi.com adresinde oturum açın</string>
     <string name="dialog_title_storage_full">Yeterli boş alan yok</string>
@@ -887,12 +887,9 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="stop_status_focus_notification">Bitti</string>
     <string name="storage_permission_dialog_title">Depolama izinleri gerekli</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_content_more">Çok fazla kelime var. Özet etkinleştirilmedi</string>
     <string name="summary_content_need_deal">Görevler</string>
     <string name="summary_content_result_content">Ana içerik</string>
-    <string name="summary_content_short">Çok az kelime var. Özet etkinleştirilmedi</string>
     <string name="summary_content_theme">Başlık</string>
-    <string name="summary_copy">Başarıyla kopyalandı</string>
     <string name="summary_error_limit_tip">Bu özelliği kullanımınız engellendi</string>
     <string name="summary_error_tip">Hassas veya rahatsız edici içerik özetlenemiyor</string>
     <string name="summary_information_tip">Yukarıdaki içerik yapay zeka tarafından oluşturulmuştur ve yalnızca referansınız için sağlanmaktadır</string>
@@ -997,7 +994,6 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="update_email_address_dialog_message">Kurtarma e-posta adresinizi güncellemeden önce kimliğinizi doğrulamanız gerekmektedir.</string>
     <string name="update_email_address_dialog_title">Kurtarma e-posta adresini güncelle</string>
     <string name="usage_description">Sesin kopyalanması ve öğelerin bulut ile senkronize edilmesi</string>
-    <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="user_agreement_hint_3rd_app"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini okudum ve kabul ettim</string>
     <string name="user_agreement_hint_3rd_app_mobile"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini, ayrıca <a href="%5$s">China Mobile doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini, ayrıca <a href="%5$s">eSurfing hesabı doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>

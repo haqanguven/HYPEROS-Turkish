@@ -918,6 +918,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%1$s | Bu uygulama bu cihazın kamerasını %2$d kez kullandı</item>
         <item quantity="one">%1$s | Bu uygulama bu cihazın kamerasını %2$d kez kullandı</item>
     </plurals>
+    <plurals name="permission_usage_terminal_file">
+        <item quantity="other">%1$s | Bu cihazdaki dosyalara %2$d kez erişildi</item>
+        <item quantity="one">%1$s | Bu cihazdaki dosyalara %2$d kez erişildi</item>
+    </plurals>
     <plurals name="permission_usage_terminal_screen">
         <item quantity="other">%1$s | Bu uygulama bu cihazın ekranını %2$d kez kullandı</item>
         <item quantity="one">%1$s | Bu uygulama bu cihazın ekranını %2$d kez kullandı</item>

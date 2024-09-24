@@ -757,6 +757,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="passport_request_error_network">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="passport_request_error_unknown">Bir sistem hatası oluştu. Geri dönün ve tekrar deneyin</string>
     <string name="passport_request_gallery_permission_message">Galeriye erişime izin ver: Profil fotoğrafları ayarlamak içindir</string>
+    <string name="passport_request_permission_title">Gerekli izinler</string>
     <string name="passport_resend_active_email">E-postayı yeniden gönder</string>
     <string name="passport_resend_ticket">Kodu yeniden gönder</string>
     <string name="passport_reset_fail_title">Sıfırlanamadı</string>
@@ -818,6 +819,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="passport_talkback_switch_image_captcha">Resim doğrulama koduna geç</string>
     <string name="passport_talkback_switch_voice_captcha">Ses doğrulama koduna geç</string>
     <string name="passport_talkback_voice_captcha">Ses doğrulama kodunu oynat</string>
+    <string name="passport_third_sns_service_unavailable">Hizmet kullanılamıyor. Uygulamanın yüklü olduğundan ve engellenmediğinden emin olun</string>
     <string name="passport_ticket_login_select_sim_card_1">Sim 1</string>
     <string name="passport_ticket_login_select_sim_card_2">Sim 2</string>
     <string name="passport_ticket_login_select_sim_card_cancel">İptal et</string>
@@ -903,6 +905,12 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="push_notify_dialog_message">Xiaomi hesabınızda oturum açmak için bilinmeyen bir cihaz kullanıldı. Bu doğrulama kodunu cihazda girin. Girişi yapan siz değilseniz Xiaomi hesap şifrenizi en kısa sürede değiştirin. Doğrulama koduna başkalarının erişimine izin vermeyin</string>
     <string name="push_notify_dialog_title">Hesap doğrulama</string>
     <string name="pwd_width_phone_number_or_mail_num">Şifreniz telefon numaranızı, e-postanızı veya Xiaomi hesap kimliğinizi içeremez</string>
+    <string name="qr_code_login_hint">"Giriş yapılamadı.
+Aşağıdaki kodu bir Xiaomi uygulamasıyla tarayın"</string>
+    <string name="qr_code_login_is_loading">Yükleniyor</string>
+    <string name="qr_code_login_is_reloading">Yükleniyor</string>
+    <string name="qr_code_login_load_failed">QR kodu yeniden yükleniyor</string>
+    <string name="qr_code_login_userid_hint">Xiaomi hesap: %s</string>
     <string name="qrcode_login_entry_text">Farklı bir cihazda mı oturum açtınız? Hızlı oturum açmayı kullanın</string>
     <string name="qrcode_login_load_refresh">Bu QR kodunun süresi doldu</string>
     <string name="qrcode_login_load_retry">Yüklenemedi. Tekrar deneyin</string>
