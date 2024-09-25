@@ -56,8 +56,11 @@
     <string name="category_books_summary">Açıklama ve derecelendirmeyi görüntülemek için bir kitap başlığına basılı tutun</string>
     <string name="category_books_title">Kitaplar</string>
     <string name="category_celebrity_summary">Bilgileri görüntülemek için bir ünlünün adını basılı tutun</string>
+    <string name="category_celebrity_support">Baike.com</string>
     <string name="category_celebrity_title">Ünlüler</string>
     <string name="category_close">Kapalı</string>
+    <string name="category_ctrip_support">Ctrip</string>
+    <string name="category_fiction_duokan_support">Duokan</string>
     <string name="category_fiction_summary">Bilgileri görüntülemek için bir internet kurgu kitabının başlığını basılı tutun</string>
     <string name="category_fiction_title">İnternet kurgusu</string>
     <string name="category_films_summary">Açıklamayı ve derecelendirmeyi görüntülemek için bir film veya TV dizisinin başlığını basılı tutun</string>
@@ -81,6 +84,7 @@
     <string name="category_scene_title">Manzara noktaları</string>
     <string name="category_settings_title">Kategoriler</string>
     <string name="category_shops_summary">Ortalama kontrolünü ve derecesini görüntülemek için bir mağaza/restoran adını basılı tutun</string>
+    <string name="category_shops_support">DianPing</string>
     <string name="category_shops_title">Alışveriş</string>
     <string name="check_privacy_permission">İzin detayları</string>
     <string name="check_privacy_policy">Gizlilik politikasını görüntüle</string>
@@ -156,6 +160,11 @@
     <string name="clipboard_already_update">Değişiklikler başarıyla kaydedildi</string>
     <string name="close">Kapalı</string>
     <string name="close_taplus">"Onayı geri çekin ve Taplus'ı kapatın"</string>
+    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
+    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Moments</string>
+    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="content_description_add">Eklenmedi</string>
     <string name="content_description_added">Eklendi</string>
     <string name="content_description_back">Geri</string>

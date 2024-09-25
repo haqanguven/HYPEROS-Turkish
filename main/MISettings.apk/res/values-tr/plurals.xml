@@ -34,40 +34,40 @@
         <item quantity="one">Bugün %1$s için %2$d dakika kaldı</item>
     </plurals>
     <plurals name="count_times">
-        <item quantity="other">%d times</item>
-        <item quantity="one">%d time</item>
+        <item quantity="other">%d kez</item>
+        <item quantity="one">%d kez</item>
     </plurals>
     <plurals name="current_week_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %d times this week</item>
-        <item quantity="one">Corrected unhealthy habits %d time this week</item>
+        <item quantity="other">Bu hafta sağlıksız alışkanlıkları %d kez düzelttim</item>
+        <item quantity="one">Bu hafta sağlıksız alışkanlıkları %d kez düzelttim</item>
     </plurals>
     <plurals name="current_week_remind_eyes_statistics">
-        <item quantity="other">Sent %d reminders this week</item>
-        <item quantity="one">Sent %d reminder this week</item>
+        <item quantity="other">Bu hafta %d hatırlatma gönderildi</item>
+        <item quantity="one">Bu hafta %d hatırlatma gönderildi</item>
     </plurals>
     <plurals name="current_week_unlock_usage_statistics">
-        <item quantity="other">Unlocked %d times this week</item>
-        <item quantity="one">Unlocked %d time this week</item>
+        <item quantity="other">Bu hafta %d kez kilidi açıldı</item>
+        <item quantity="one">Bu hafta %d kez kilidi açıldı</item>
     </plurals>
     <plurals name="format_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %2$s times on %1$s</item>
-        <item quantity="one">Corrected unhealthy habits %2$s time on %1$s</item>
+        <item quantity="other">%1$s tarihinde sağlıksız alışkanlıkları %2$s kez düzeltti</item>
+        <item quantity="one">%1$s tarihinde sağlıksız alışkanlıkları %2$s kez düzeltti</item>
     </plurals>
     <plurals name="format_less_than_last_interval_unlock">
-        <item quantity="other">%2$d times less than on %1$s</item>
-        <item quantity="one">%2$d time less than on %1$s</item>
+        <item quantity="other">"%1$s'den %2$d kat daha az"</item>
+        <item quantity="one">"%1$s'den %2$d kat daha az"</item>
     </plurals>
     <plurals name="format_more_than_last_interval_unlock">
-        <item quantity="other">%2$d times more than on %1$s</item>
-        <item quantity="one">%2$d time more than on %1$s</item>
+        <item quantity="other">"%1$s'den %2$d kat daha fazla"</item>
+        <item quantity="one">"%1$s'den %2$d kat daha fazla"</item>
     </plurals>
     <plurals name="format_remind_eyes_statistics">
-        <item quantity="other">Sent %2$s reminders on %1$s</item>
-        <item quantity="one">Sent %2$s reminder on %1$s</item>
+        <item quantity="other">%1$s tarihinde %2$s hatırlatıcısı gönderildi</item>
+        <item quantity="one">%1$s tarihinde %2$s hatırlatıcısı gönderildi</item>
     </plurals>
     <plurals name="format_unlock_usage_statistics">
-        <item quantity="other">Unlocked %2$d times on %1$s</item>
-        <item quantity="one">Unlocked %2$d time on %1$s</item>
+        <item quantity="other">%1$s tarihinde %2$d kez kilidi açıldı</item>
+        <item quantity="one">%1$s tarihinde %2$d kez kilidi açıldı</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -86,139 +86,139 @@
         <item quantity="one">1 dakika içinde</item>
     </plurals>
     <plurals name="last_30_day_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %2$s times in the past %1$d days</item>
-        <item quantity="one">Corrected unhealthy habits %2$s time in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s kez sağlıksız alışkanlıkları düzelttim</item>
+        <item quantity="one">Son %1$d günde %2$s kez sağlıksız alışkanlıkları düzelttim</item>
     </plurals>
     <plurals name="last_30_day_remind_eyes_statistics">
-        <item quantity="other">Sent %2$s reminders in the past %1$d days</item>
-        <item quantity="one">Sent %2$s reminder in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s hatırlatıcı gönderildi</item>
+        <item quantity="one">Son %1$d günde %2$s hatırlatıcı gönderildi</item>
     </plurals>
     <plurals name="last_30_day_unlock_usage_statistics">
-        <item quantity="other">Unlocked %2$s times in the past %1$d days</item>
-        <item quantity="one">Unlocked %2$s time in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s kez kilidi açıldı</item>
+        <item quantity="one">Son %1$d günde %2$s kez kilidi açıldı</item>
     </plurals>
     <plurals name="last_7_day_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %2$s times in the past %1$d days</item>
-        <item quantity="one">Corrected unhealthy habits %2$s time in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s kez sağlıksız alışkanlıkları düzelttim</item>
+        <item quantity="one">Son %1$d günde %2$s kez sağlıksız alışkanlıkları düzelttim</item>
     </plurals>
     <plurals name="last_7_day_remind_eyes_statistics">
-        <item quantity="other">Sent %2$s reminders in the past %1$d days</item>
-        <item quantity="one">Sent %2$s reminder in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s hatırlatıcı gönderildi</item>
+        <item quantity="one">Son %1$d günde %2$s hatırlatıcı gönderildi</item>
     </plurals>
     <plurals name="last_7_day_unlock_usage_statistics">
-        <item quantity="other">Unlocked %2$s times in the past %1$d days</item>
-        <item quantity="one">Unlocked %2$s time in the past %1$d days</item>
+        <item quantity="other">Son %1$d günde %2$s kez kilidi açıldı</item>
+        <item quantity="one">Son %1$d günde %2$s kez kilidi açıldı</item>
     </plurals>
     <plurals name="last_day_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %d times yesterday</item>
-        <item quantity="one">Corrected unhealthy habits %d time yesterday</item>
+        <item quantity="other">Sağlıksız alışkanlıkları dün %d kez düzelttim</item>
+        <item quantity="one">Sağlıksız alışkanlıkları dün %d kez düzelttim</item>
     </plurals>
     <plurals name="last_day_remind_eyes_statistics">
-        <item quantity="other">Sent %d reminders yesterday</item>
-        <item quantity="one">Sent %d reminder yesterday</item>
+        <item quantity="other">Dün %d hatırlatma gönderildi</item>
+        <item quantity="one">Dün %d hatırlatma gönderildi</item>
     </plurals>
     <plurals name="last_day_unlock_usage_statistics">
-        <item quantity="other">Unlocked yesterday %d times</item>
-        <item quantity="one">Unlocked yesterday %d time</item>
+        <item quantity="other">Dün %d kez kilidi açıldı</item>
+        <item quantity="one">Dün %d kez kilidi açıldı</item>
     </plurals>
     <plurals name="last_several_days">
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
     </plurals>
     <plurals name="last_week_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %d times last week</item>
-        <item quantity="one">Corrected unhealthy habits %d time last week</item>
+        <item quantity="other">Sağlıksız alışkanlıklarımı geçen hafta %d kez düzelttim</item>
+        <item quantity="one">Sağlıksız alışkanlıklarımı geçen hafta %d kez düzelttim</item>
     </plurals>
     <plurals name="last_week_remind_eyes_statistics">
-        <item quantity="other">Sent %d reminders last week</item>
-        <item quantity="one">Sent %d reminder last week</item>
+        <item quantity="other">Geçen hafta %d hatırlatma gönderildi</item>
+        <item quantity="one">Geçen hafta %d hatırlatma gönderildi</item>
     </plurals>
     <plurals name="last_week_unlock_usage_statistics">
-        <item quantity="other">Unlocked %d times last week</item>
-        <item quantity="one">Unlocked %d time last week</item>
+        <item quantity="other">Geçen hafta %d kez kilidi açıldı</item>
+        <item quantity="one">Geçen hafta %d kez kilidi açıldı</item>
     </plurals>
     <plurals name="less_than_last_day_unlock">
-        <item quantity="other">%d times fewer than yesterday</item>
-        <item quantity="one">%d time fewer than yesterday</item>
+        <item quantity="other">Dünden %d kat daha az</item>
+        <item quantity="one">Dünden %d kat daha az</item>
     </plurals>
     <plurals name="less_than_last_interval_unlock">
-        <item quantity="other">%d times less than the previous period</item>
-        <item quantity="one">%d time less than the previous period</item>
+        <item quantity="other">Önceki döneme göre %d kat daha az</item>
+        <item quantity="one">Önceki döneme göre %d kat daha az</item>
     </plurals>
     <plurals name="less_than_last_month_unlock">
-        <item quantity="other">%d times less than last month</item>
-        <item quantity="one">%d time less than last month</item>
+        <item quantity="other">Geçen aya göre %d kat daha az</item>
+        <item quantity="one">Geçen aya göre %d kat daha az</item>
     </plurals>
     <plurals name="less_than_last_week_unlock">
-        <item quantity="other">%d times less than last week</item>
-        <item quantity="one">%d time less than last week</item>
+        <item quantity="other">Geçen haftaya göre %d kat daha az</item>
+        <item quantity="one">Geçen haftaya göre %d kat daha az</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="long_stare_screen_summary">
-        <item quantity="other">"You've been looking at the screen for %d minutes"</item>
-        <item quantity="one">"You've been looking at the screen for %d minute"</item>
+        <item quantity="other">%d dakikadır ekrana bakıyorsunuz</item>
+        <item quantity="one">%d dakikadır ekrana bakıyorsunuz</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="more_than_last_day_unlock">
-        <item quantity="other">%d times more than yesterday</item>
-        <item quantity="one">%d time more than yesterday</item>
+        <item quantity="other">Dünden %d kat daha fazla</item>
+        <item quantity="one">Dünden %d kat daha fazla</item>
     </plurals>
     <plurals name="more_than_last_interval_unlock">
-        <item quantity="other">%d times more than the previous period</item>
-        <item quantity="one">%d time more than the previous period</item>
+        <item quantity="other">Önceki döneme göre %d kat daha fazla</item>
+        <item quantity="one">Önceki döneme göre %d kat daha fazla</item>
     </plurals>
     <plurals name="more_than_last_month_unlock">
-        <item quantity="other">%d times more than last month</item>
-        <item quantity="one">%d time more than last month</item>
+        <item quantity="other">Geçen aya göre %d kez daha fazla</item>
+        <item quantity="one">Geçen aya göre %d kez daha fazla</item>
     </plurals>
     <plurals name="more_than_last_week_unlock">
-        <item quantity="other">%d times more than last week</item>
-        <item quantity="one">%d time more than last week</item>
+        <item quantity="other">Geçen haftaya göre %d kat daha fazla</item>
+        <item quantity="one">Geçen haftaya göre %d kat daha fazla</item>
     </plurals>
     <plurals name="msc_mixed_recording_incorrect_too_short">
-        <item quantity="other">Enter at least %d characters</item>
-        <item quantity="one">Enter at least %d character</item>
+        <item quantity="other">En az %d karakter girin</item>
+        <item quantity="one">En az %d karakter girin</item>
     </plurals>
     <plurals name="msc_numeric_recording_incorrect_too_short">
-        <item quantity="other">Enter at least %d digits</item>
-        <item quantity="one">Enter at least %d digit</item>
+        <item quantity="other">En az %d rakam girin</item>
+        <item quantity="one">En az %d rakam girin</item>
     </plurals>
     <plurals name="msc_recording_password_incorrect_too_short">
-        <item quantity="other">Connect at least %d dots</item>
-        <item quantity="one">Connect at least %d dot</item>
+        <item quantity="other">En az %d noktayı birleştir</item>
+        <item quantity="one">En az %d noktayı birleştir</item>
     </plurals>
     <plurals name="msc_recording_password_intro_header">
-        <item quantity="other">Connect at least %s dots</item>
-        <item quantity="one">Connect at least %s dot</item>
+        <item quantity="other">En az %s noktayı birleştir</item>
+        <item quantity="one">En az %s noktayı birleştir</item>
     </plurals>
     <plurals name="msc_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Try again in %d seconds</item>
-        <item quantity="one">Try again in %d second</item>
+        <item quantity="other">%d saniye içinde tekrar deneyin</item>
+        <item quantity="one">%d saniye içinde tekrar deneyin</item>
     </plurals>
     <plurals name="msc_unlock_pattern_summary">
-        <item quantity="other">Connect at least %s dots</item>
-        <item quantity="one">Connect at least %s dot</item>
+        <item quantity="other">En az %s noktayı birleştir</item>
+        <item quantity="one">En az %s noktayı birleştir</item>
     </plurals>
     <plurals name="msc_unlock_pin_summary">
-        <item quantity="other">Enter %s digits</item>
-        <item quantity="one">Enter %s digit</item>
+        <item quantity="other">%s rakamını girin</item>
+        <item quantity="one">%s rakamını girin</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">1 dakika önce</item>
     </plurals>
     <plurals name="overuse_pad_summary">
-        <item quantity="other">Using your device for more than %d minutes at a time can cause eye strain.</item>
-        <item quantity="one">Using your device for more than %d minute at a time can cause eye strain.</item>
+        <item quantity="other">Cihazınızı %d dakikadan uzun süre kullanmanız göz yorgunluğuna neden olabilir</item>
+        <item quantity="one">Cihazınızı %d dakikadan uzun süre kullanmanız göz yorgunluğuna neden olabilir</item>
     </plurals>
     <plurals name="overuse_phone_summary">
-        <item quantity="other">Using your device for more than %d minutes at a time can cause eye strain.</item>
-        <item quantity="one">Using your device for more than %d minute at a time can cause eye strain.</item>
+        <item quantity="other">Cihazınızı %d dakikadan uzun süre kullanmanız göz yorgunluğuna neden olabilir</item>
+        <item quantity="one">Cihazınızı %d dakikadan uzun süre kullanmanız göz yorgunluğuna neden olabilir</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Cihazınızı kesintisiz %d dakika kullandınız</item>
@@ -241,16 +241,16 @@
         <item quantity="one">En fazla %d ara ekleyebilirsiniz</item>
     </plurals>
     <plurals name="today_correct_eyes_statistics">
-        <item quantity="other">Corrected unhealthy habits %d times today</item>
-        <item quantity="one">Corrected unhealthy habits %d time today</item>
+        <item quantity="other">Bugün %d kez sağlıksız alışkanlıkları düzelttim</item>
+        <item quantity="one">Bugün %d kez sağlıksız alışkanlıkları düzelttim</item>
     </plurals>
     <plurals name="today_remind_eyes_statistics">
-        <item quantity="other">Sent %d reminders today</item>
-        <item quantity="one">Sent %d reminder today</item>
+        <item quantity="other">Bugün %d hatırlatma gönderildi</item>
+        <item quantity="one">Bugün %d hatırlatma gönderildi</item>
     </plurals>
     <plurals name="today_unlock_usage_statistics">
-        <item quantity="other">Unlocked today %d times</item>
-        <item quantity="one">Unlocked today %d time</item>
+        <item quantity="other">Bugün %d kez kilidi açıldı</item>
+        <item quantity="one">Bugün %d kez kilidi açıldı</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>

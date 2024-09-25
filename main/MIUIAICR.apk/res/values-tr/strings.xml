@@ -41,6 +41,8 @@
     <string name="about_MiAI_engine">Mi yapay zeka motoru hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
+    <string name="aiSearch_privacy_cta_all_purpose_version_one">"Mi yapay zeka moturu cihazınızı nasıl kullandığınız hakkında bilgi toplayıp analiz ederek Mi yapay zeka önerileri, Xiaomi HyperMind, Xiaomi HyperAI araması ve uygulama kasası gibi özellikleri destekleyen sistem yetenekleri sağlar. Xiaomi HyperAI araması için arama yetenekleri sağlar ve doğal dil araması yoluyla öğeleri bulmanızı sağlar. Mi yapay zeka moturu Galeri, Dosyalar, Kaydedici, Mi yapay zeka ve daha fazlası dahil olmak üzere sistem uygulamalarında arama yapmak için kullanabilirsiniz. Mi yapay zeka moturu gizlilik politikasını kabul etmeniz Mi yapay zeka moturu dayanan hizmetleri de kapsar (Örneğin: Xiaomi HyperMind)"</string>
+    <string name="aiSearch_privacy_cta_general_purpose_version_one">Mi yapay zeka moturu cihazınızı nasıl kullandığınız hakkında bilgi toplayıp analiz ederek Mi yapay zeka önerileri, Xiaomi HyperMind, Xiaomi HyperAI araması ve uygulama kasası gibi özellikleri destekleyen sistem yetenekleri sağlar</string>
     <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Dosyalar, arama ve Mi yapay zeka dahil olmak üzere sistem uygulamalarında doğal dil arama hizmetleri sağlamak içindir</string>
     <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Hayatınızla ve aktivitelerinizle ilgili sorularınıza daha iyi yanıt verebilmek için Mi yapay zeka moturu siz sorduktan sonra bazı ilgili öğeleri buluta yükleyecektir. Bu veriler yalnızca Mi yapay zeka sesli asistanındaki soru ve yanıtlar için kullanılacaktı.</string>
     <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Galeri, arama ve Mi yapay zeka dahil olmak üzere sistem uygulamalarında doğal dil arama hizmetleri sağlamak için</string>
@@ -210,8 +212,10 @@
     <string name="cognition_func_detail_msg">Durumları tanır ve tahmin eder ve kişiselleştirilmiş hizmetler sunar</string>
     <string name="cognition_func_name">Cihaz içi biliş motoru</string>
     <string name="cognition_func_open">Cihaz içi biliş motoru</string>
+    <string name="cognition_permission_all_files_name">Tüm dosyalara erişim</string>
     <string name="cognition_permission_content_bottom">Yukarıdaki izinleri kabul etmezseniz ilgili işlevler normal şekilde kullanılamayacaktır ancak bu uygulamanın temel işlevlerini kullanımınızı etkilemeyecektir. Onayınızı istediğiniz zaman geri almak için ayarlardan kapatabilirsiniz</string>
     <string name="cognition_permission_content_connect">Cihaz bağlantı durumunu okuma: NFC akıllı kart gibi hizmetleri kullandığınızda bağlı cihazın durum bilgilerini almak için cihaz bağlantı izinlerinin okunmasını etkinleştirebilirsiniz</string>
+    <string name="cognition_permission_content_location">Konumlandırma: Yerleşik kimlik doğrulama ve NFC akıllı kart kesme gibi hizmetleri kullandığınızda, coğrafi konumunuzu elde etmek için konumlandırma izinlerini etkinleştirebilirsiniz</string>
     <string name="cognition_permission_content_know">Tamam</string>
     <string name="cognition_permission_content_location">Konumlandırma: Yerleşik kimlik doğrulama ve NFC akıllı kart gibi hizmetleri kullandığınızda coğrafi konumunuzu elde etmek için konumlandırma izinlerini etkinleştirebilirsiniz</string>
     <string name="cognition_permission_content_no">Şimdi değil</string>
@@ -221,13 +225,17 @@
     <string name="cognition_permission_declaration">İzin ayrıntıları</string>
     <string name="cognition_permission_guidance_message">"Xiaomi HyperMind yalnızca aşağıdaki izinler verildiğinde ve her zaman izin ver olarak ayarlandığında normal bir şekilde çalışabilir: %s"</string>
     <string name="cognition_permission_guidance_title">İzin gerekli</string>
+    <string name="cognition_permission_image_video_name">Fotoğraf ve videolara erişim</string>
     <string name="cognition_permission_location">Konum bilgisi</string>
     <string name="cognition_permission_location_msg">Mevcut konumunuza erişmek içindir</string>
     <string name="cognition_permission_location_name">Tam konuma eriş</string>
     <string name="cognition_permission_nearby_device_name">Yakındaki cihazları keşfet</string>
     <string name="cognition_permission_phone_state_name">Aramayla ilgili bilgilere eriş</string>
     <string name="cognition_permission_related">İzinler</string>
+    <string name="cognition_permission_request_content_desc">Arama hizmetlerini kullanabilmek için aşağıdaki izni verin: %1$s</string>
+    <string name="cognition_permission_request_content_title">Gerekli izinler</string>
     <string name="cognition_permission_runtime_msg">Daha doğru ve kişiselleştirilmiş hizmetler sağlamak için cihazda depolanan geçmiş konum bilgilerine erişmek içindir</string>
+    <string name="cognition_permission_sms_name">Mesaj ve multimedya erişim</string>
     <string name="cognition_permission_storage">Cihazda depolanan dosyalara eriş</string>
     <string name="cognition_permission_storage_msg">Cihazda depolanan geçmiş konum bilgilerine erişmek içindir</string>
     <string name="cognition_permission_tips">İpuçları</string>
@@ -415,6 +423,10 @@
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="install_wps_dialog_cancel_text">İptal et</string>
+    <string name="install_wps_dialog_confirm_text">Onayla</string>
+    <string name="install_wps_dialog_message">"Bu işlevi kullanabilmeniz için WPS Office'in yüklenmesi gerekiyor. Yüklemek istiyor musunuz?"</string>
+    <string name="install_wps_dialog_title">Kurulum ipuçları</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_24h_suffix">%1$s saat</string>
@@ -440,6 +452,10 @@
     <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
     <string name="miuix_appcompat_cancel_description">İptal et</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Bulutla senkronizasyon kapalı</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Öğeleri senkronize etmek için uçtan uca korumayı açın</string>
+    <string name="miuix_appcompat_cloud_state_finished">Bulutla başarıyla senkronize edildi</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Bulutla senkronize ediliyor</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
@@ -734,19 +750,21 @@
     <string name="privacy_cancel_privacy">Gizlilik politikası iznini geri al</string>
     <string name="privacy_cancel_privacy_title">Onayı geri al ve hizmeti iptal et</string>
     <string name="privacy_cancel_service">Oturum kapatma hizmeti</string>
-    <string name="privacy_cancel_serviece">Xiaoai öneri hizmetinden çıkış yapın</string>
     <string name="privacy_cannel_service">Oturum kapatma hizmeti</string>
     <string name="privacy_cannel_service_content">Mi yapay zeka motor hizmetinden çıkış yapmak üzeresiniz. Çıkış yaptıktan sonra, Mi yapay zeka motorundaki ilgili kişisel bilgileriniz silinecek ve bu durum Xiaomi HyperMind ve Xiaoai öneri hizmetlerini etkileyecektir. Veriler çıkış yapıldıktan sonra kurtarılamaz</string>
-    <string name="privacy_close_personalized">Kişiselleştirmeyi kapat</string>
+    <string name="privacy_close_personalized">Kapat</string>
     <string name="privacy_confirm">Onayla</string>
-    <string name="privacy_cta_all_tained_new_user">Mi yapay zeka motoru, Xiaoai önerilerinin temel hizmetidir. Xiaoai önerileri için durumsal farkındalık ve niyet tanıma yetenekleri sağlar. Bulunduğunuz sahneyi akıllıca algılayabilir, alışkanlıklarınızı öğrenebilir ve doğru ve kişiselleştirilmiş öneriler sağlayabilir. Gizlilik politikasını kabul ettikten sonra Mi yapay zeka motorunu temel hizmet olarak kullanan diğer işletmelerede varsayılan olarak kullanım yetkisi verilecektir</string>
-    <string name="privacy_cta_all_tained_user">Mi yapay zeka motoru, Xiaoai önerilerinin temel hizmetidir. Xiaoai önerileri için durumsal farkındalık ve niyet tanıma yetenekleri sağlar. Bulunduğunuz sahneyi akıllıca algılayabilir, alışkanlıklarınızı öğrenebilir ve doğru ve kişiselleştirilmiş öneriler sağlayabilir. Bu yükseltmeyle Xiaoai önerileri bulut verileri yeni hizmete taşınacak ve yerel veriler devre dışı bırakılacak. Uygulama yönetimi > Xiaoai önerileri > Yerel verileri temizle seçeneğine gidebilirsiniz. Yerel veriler Mi yapay zeka motoru hizmetinde yeniden öğrenilecek. Gizlilik politikasını kabul ettikten sonra, Mi yapay zeka motorunu temel hizmet olarak kullanan diğer işletmelere varsayılan olarak kullanım yetkisi verilecektir</string>
-    <string name="privacy_dialog_location_message">Xiaoai'nin önerilen konumlandırma iznini etkinleştirin. Ayarlar > Konumlandırmaya gitmek için tıklayın. Daha iyi bir deneyim için lütfen her zaman izin veri seçin</string>
-    <string name="privacy_dialog_location_title">Lütfen önce "Xiao Ai önerisinin konumu almasına izin verin</string>
+    <string name="privacy_cta_all_purpose_new_user">Mi yapay zeka motoru, Mi yapay zeka önerilerini destekleyen, bağlamsal farkındalık ve akıllı tanıma yetenekleri sağlayan temel bir hizmettir. Durumunuzu algılayabilir, alışkanlıklarınızı öğrenebilir ve doğru, kişiselleştirilmiş hizmetler sağlayabilir. Mi yapay zeka motoru gizlilik politikasını kabul etmeniz, Mi yapay zeka motoruna dayanan hizmetleri de kapsar (Örneğin: Xiaomi HyperMind)</string>
+    <string name="privacy_cta_all_purpose_old_user">Mi yapay zeka motoru, Mi yapay zeka önerilerini destekleyen, bağlamsal farkındalık ve akıllı tanıma yetenekleri sağlayan temel bir hizmettir. Durumunuzu algılayabilir, alışkanlıklarınızı öğrenebilir ve doğru, kişiselleştirilmiş hizmetler sağlayabilir. Bu güncellemeyle yapay zeka önerileri bulut verileri yeni hizmete aktarılacak ve yerel veriler artık kullanılmayacaktır. Mi yapay zeka motoru bu bilgileri yeniden öğrenecektir. Mi yapay zeka motoru gizlilik politikasını kabul etmeniz, Mi yapay zeka motoru dayanan hizmetleri de kapsar (Örneğin: Xiaomi HyperMind)</string>
+    <string name="privacy_dialog_location_message">Mi yapay zeka önerilerinin konumunuza erişmesine izin verin ve her zaman izin veri seçin. Bu izni ayarlardan verebilirsiniz</string>
+    <string name="privacy_dialog_location_title">Gerekli izinler</string>
+    <string name="privacy_dialog_retention_comment"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">gizlilik politikamızı&lt;/a> okuyun ve kabul edin</Data></string>
+    <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Mi yapay zeka önerilerini kullanabilmek için &lt;a href=\"%1$s\">Mi yapay zeka moturu gizlilik politikasını&lt;/a> kabul edin. Kabul etmiyorsanız yalnızca uygulama önerilerini kullanabilirsiniz. Güncellenen &lt;a href=\"%2$s\">Mi yapay zeka motoru gizlilik politikası&lt;/a>'nı şimdi kabul ediyor musunuz?"</Data></string>
+    <string name="privacy_dialog_retention_content_express_permission">Bu özelliğin gerekli hizmetleri sağlamak için internete bağlanması gerekir. Ek hizmetler sağlamak için aşağıdaki izinleri isteyebiliriz: Bluetooth ve wifi ağını açma ve kapatma, telefon numarasına, arama durumuna, mesaj ve multimedya içeriğine, cihazınıza yüklenen uygulamalar hakkında bilgilere, cihaz MAC adresine, konuma ve cihazınızdaki müzik, ses, fotoğraf ve videolara erişme. İzin ayarlarınızı istediğiniz zaman düzenleyebilirsiniz</string>
     <string name="privacy_docs">Gizlilik politikası</string>
     <string name="privacy_experience_cancel_dialog">İptal et</string>
-    <string name="privacy_experience_comment_dialog">"*Bu özelliği Xiaoai önerileri > Gizlilik yönetimi > Kullanıcı deneyimi iyileştirme planından yönetebilirsiniz
-Lütfen Mi yapay zeka motoru gizlilik politikamızı okuyun"</string>
+    <string name="privacy_experience_comment_dialog">Tercihlerinizi Mi yapay zeka önerileri > Gizlilik > Kullanıcı deneyimi programından değiştirebilirsiniz</string>
+    <string name="privacy_experience_comment_read_template"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Mi yapay zeka moturu gizlilik politikasını&lt;/a> okuyun ve kabul edin</Data></string>
     <string name="privacy_experience_content_dialog">"Açtıktan sonra kullanıcı deneyimi iyileştirme programına katılacak ve verilerinizi Mi yapay zeka motorunun öğrenme yeteneklerini geliştirmesine yardımcı olmak için kullanmanıza izin verilecek. Mi yapay zeka motorunun sizin için öğrenmesi ve tahminleri daha doğru ve zamanında olacaktır
 
 Konumlandırma izinlerini ve konum hizmetlerini açık tutmak Mi yapay zeka motorunun daha iyi öğrenmesine yardımcı olabilir
@@ -769,27 +787,18 @@ Gizlilik ve güç tüketimi konusunda endişelenmenize gerek yok. Tüm bilgiler 
     <string name="privacy_manager_user_improvement_plan_detail">Açıldığında Mi yapay zeka motoru algoritma önerilerini iyileştirmek için verilerinizi kullanır</string>
     <string name="privacy_op_gps_service_dialog_message">Xiaoai daha iyi hizmetler sağlamak için konum bilgilerinizi almanızı, Ayarlara giti tıklamanızı ve konum hizmetlerini açmanızı önerir</string>
     <string name="privacy_op_gps_service_dialog_title">Lütfen önce konum hizmetlerini etkinleştirin</string>
-    <string name="privacy_open">Aç</string>
     <string name="privacy_permission_tip_text">Lütfen hedefleme izninde her zaman izin veri seçin</string>
     <string name="privacy_personalized">Kişiselleştirilmiş öneriler</string>
     <string name="privacy_personalized_close_content">Kapattıktan sonra Xiaoai öneri işlevini kullanmaya devam edebilirsiniz ancak kişiselleştirilmiş bir öneri deneyimi yaşayamayacaksınız. Artık kartların sıralamasını geçmiş kullanım davranışınıza göre ayarlamayacağız</string>
     <string name="privacy_personalized_close_title">Kişiselleştirilmiş önerileri kapat</string>
     <string name="privacy_personalized_content">Kapandıktan sonra Mi yapay zeka motoru kişisel bilgilerinizi size kişiselleştirilmiş hizmetler sağlamak için kullanmayacaktır. Şu anda yalnızca Xiaoai tarafından önerilmektedir</string>
-    <string name="privacy_problem_feedback">Sorun geri bildirimi</string>
     <string name="privacy_refuse">Reddet</string>
     <string name="privacy_request_background_location_permission_reason">Arka planda konumlandırma bilgilerine dayalı olarak seyahat önerileri, yolculuk kodları ve akıllı ev öneri hizmetleri sağlayın</string>
     <string name="privacy_request_location_permission_reason">Konum bilgilerine dayalı olarak seyahat önerileri, yolculuk kodları ve akıllı ev öneri hizmetleri sağlayın</string>
     <string name="privacy_setting">Ayarlara git</string>
     <string name="privacy_tip_item_view_background_location">Arka planda konum izni yok. Lütfen her zaman izin veri seçin</string>
     <string name="privacy_tip_item_view_location">Önerilerin doğruluğunu artırmak için lütfen konum hizmetlerini açın</string>
-    <string name="privacy_tip_item_view_location_permission_hint">Konum izni eksik. Lütfen her zaman izin veri seçin</string>
-    <string name="privacy_tip_item_view_location_provider_hint">Önerilerin doğruluğunu artırmak için lütfen konum hizmetlerini açın</string>
-    <string name="privacy_update_content_remind">Güncellenen Mi yapay zeka motoru gizlilik politikasını okuyup kabul ettiyseniz ürün ve hizmetlerimizi kullanmaya devam etmek için lütfen kabul ediyoruma tıklayın</string>
-    <string name="privacy_update_content_title">"Sizlere daha iyi hizmet verebilmek amacıyla Mi yapay zeka motorunun gizlilik politikası aşağıdaki şekilde güncellendi:
-"</string>
-    <string name="privacy_update_link_content">Mi yapay zeka motoru gizlilik politikası</string>
-    <string name="privacy_update_title">Mi yapay zeka motoru gizlilik politikası güncellemesi</string>
-    <string name="privacy_update_user_notice_content">"Xiaoai'nin sunduğu akıllı hatırlatma hizmetini kullanmak istiyorsanız öncelikle Mi yapay zeka motoru gizlilik politikasını kabul etmeniz gerekmektedir. Kabul etmiyorsanız yalnızca uygulama önerilerini kullanabilirsiniz. Güncellenen Mi yapay zeka motoru gizlilik politikasını kabul ediyor musunuz?"</string>
+    <string name="privacy_tip_item_view_location_permission_hint">Bu uygulamanın konuma erişmesine izin verin ve her zaman izin ver seçeneğini belirleyin</string>
     <string name="privacy_update_user_notice_title">Kullanıcı talimatları</string>
     <string name="privacy_user_agreement">Kullanıcı sözleşmesi</string>
     <string name="privacy_user_experience">Kullanıcı deneyimi iyileştirme planı</string>
@@ -887,6 +896,8 @@ Gizlilik ve güç tüketimi konusunda endişelenmenize gerek yok. Tüm bilgiler 
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
+    <string name="upgrade_wps_dialog_message">Bu özelliğin kullanılması en son WPS Office sürümüne yükseltme yapılmasını gerektirir. Yükseltmek istiyor musunuz?</string>
+    <string name="upgrade_wps_dialog_title">Yükseltme ipuçları</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wednesday">Çarşamba</string>

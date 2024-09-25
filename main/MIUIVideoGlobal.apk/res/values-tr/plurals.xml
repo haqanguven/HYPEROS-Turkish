@@ -201,8 +201,8 @@
         <item quantity="one">%1$s saniye</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other">%s abone</item>
-        <item quantity="one">%s abone</item>
+        <item quantity="other">%s abone</item>
+        <item quantity="one">%s abone</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
         <item quantity="other">Altyazı %.1f saniye ileri alındı</item>

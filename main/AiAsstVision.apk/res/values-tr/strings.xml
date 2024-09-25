@@ -508,6 +508,7 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
     <string name="pref_title_auto_export_to_notes">Otomatik dışa aktarmalar</string>
     <string name="pref_title_distinguish_speaker">Konuşmacıları ayırt edin</string>
     <string name="pref_title_floating_window_background">Arka plan rengi</string>
+    <string name="pref_title_introduce">Yardım</string>
     <string name="pref_title_know_ai_translate">Hakkında</string>
     <string name="pref_title_recognition_and_translation">Tanıma ve çeviri</string>
     <string name="pref_title_shortcut">Ana ekran kısayolu</string>
@@ -730,7 +731,6 @@ Not: Video ve ses içeriklerinden oluşturulan alt yazılar bu sürümde not ola
     <string name="tuesday_shortest">S</string>
     <string name="txt_contact_us">Bize ulaşın</string>
     <string name="txt_service_phone">Müşteri hizmetleri yardım hattı</string>
-    <string name="txt_service_phone_number">400–100–5678 (8:00–18:00)</string>
     <string name="unknown_app">Bilinmeyen uygulama</string>
     <string name="update_button_text">Güncelle</string>
     <string name="update_privacy_content">Kişisel bilgilerinizin korunmasını güçlendirmek amacıyla Xiaoai çevirinin gizlilik politikasını en son yasal gerekliliklere uygun olarak güncelledik. Sizi aşağıdaki şekilde bilgilendirmek isteriz: %s lütfen değişen gizlilik politikasını okuyun ve kabul edin</string>

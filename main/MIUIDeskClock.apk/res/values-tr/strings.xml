@@ -561,10 +561,10 @@
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_set_temporarily">Hayır</string>
     <string name="not_update">Şimdi değil</string>
-    <string name="notification_adv_time_entries1">Ayarlanan zamanda</string>
-    <string name="notification_adv_time_entries2">%d dakika önceden</string>
-    <string name="notification_adv_time_entries3">%d dakika önceden</string>
-    <string name="notification_adv_time_entries4">%d saat önceden</string>
+    <string name="notification_adv_time_entries1">Belirlenen zamanda</string>
+    <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> dakika önceden</string>
+    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> dakika önceden</string>
+    <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> saat önceden</string>
     <string name="notification_adv_time_entries5">Hiçbiri</string>
     <string name="notification_permission_desc">Bildirim izinleri vermezseniz çaldıklarında alarmları kapatamazsınız. Şimdi izin verilsin mi?</string>
     <string name="notification_permission_dialog_content">Alarm bildirimlerini almak için bu uygulamanın bildirim göndermesine izin verin. Bu izni ayarlardan ayarlayabilirsiniz</string>
