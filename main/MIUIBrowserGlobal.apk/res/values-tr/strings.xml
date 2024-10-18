@@ -1234,6 +1234,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="mggc_feedback_send_email_body_extra_info">Aşağıdaki bilgileri silmeyin. Bu sorunu bulmamıza yardımcı olacaktır</string>
     <string name="mggc_game_play">Oyna</string>
     <string name="mggc_game_played">En son</string>
+    <string name="mggc_game_recommend_guide_button">Oyna</string>
     <string name="mggc_game_recommend_guide_title">Ücretsiz oyna</string>
     <string name="mggc_home_page_title">Oyun merkezi</string>
     <string name="mggc_home_recommend_tip">Rastgele</string>
@@ -1246,11 +1247,17 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="mggc_load_overtime_confirm">Ana sayfaya dön</string>
     <string name="mggc_load_overtime_tip">Yüklemede bazı sorunlar var. Oyun listesine dönmeniz gerekiyor mu?</string>
     <string name="mggc_menu_privacy_policy">Gizlilik Politikası</string>
+    <string name="mggc_more_games">Daha fazla oyun</string>
     <string name="mggc_news_load_failed">Tekrar denemek için dokunun</string>
     <string name="mggc_news_loading">Yükleniyor</string>
     <string name="mggc_no_more_games">Başka oyun yok</string>
     <string name="mggc_ranking_page_title">Grafikler</string>
     <string name="mggc_request_error">İstek tamamlanamadı</string>
+    <string name="mggc_shortcut_bottom_add_tip">Ekle</string>
+    <string name="mggc_shortcut_bottom_tip">Herhangi bir zamanda heyecan verici oyun içerikleri oynamak için oyun merkezini mobil masaüstünüze eklemek için dokunun</string>
+    <string name="mggc_shortcut_title_games">Bir dahaki sefer daha hızlı bulmak için masaüstüne ekle</string>
+    <string name="mggc_toast_shortcut_add_fail">Eklenemedi</string>
+    <string name="mggc_toast_shortcut_add_success">Başarıyla eklendi</string>
     <string name="mi_browser">@string/application_name</string>
     <string name="mi_browser_clean_up_garbage">Tarayıcı çöpü temizliyor</string>
     <string name="mi_browser_is_scanning">Tarayıcı tarama yapıyor</string>
@@ -1759,10 +1766,12 @@ Bu sayfadan şimdi ayrılmak istiyor musunuz?"</string>
     <string name="novel_continue_read_popup">Oku</string>
     <string name="novel_tab_popup">En yeni kitaplarınızı burada görüntüleyin</string>
     <string name="novel_tab_popup_ok">Tamam</string>
-    <string name="offline_notification_text">Reklamı açmak için dokunun</string>
+    <string name="offline_dialog_image_description">Simge</string>
+    <string name="offline_dialog_text">"İlginiz için teşekkür ederiz.
+Tekrar çevrimiçi olduğunuzda daha fazlasını paylaşacağız"</string>
     <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
+    <string name="offline_notification_title_with_advertiser">Tekrar çevrimiçisiniz! %s hakkında bilgi edinmeye devam edin</string>
     <string name="offline_opt_in_confirm">Tamam</string>
-    <string name="offline_opt_in_confirmation">İnternete tekrar bağlandığınızda bağlantı içeren bir bildirim alacaksınız</string>
     <string name="offline_opt_in_decline">Hayır</string>
     <string name="offline_opt_in_message">Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın.</string>
@@ -2646,6 +2655,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="tt_logo_cn">Reklam</string>
     <string name="tt_logo_en">Reklam</string>
     <string name="tt_msgPlayable">Ödülleri almak için oynamayı bitirin</string>
+    <string name="tt_multiple_ad_indicator">"%2$d'nin %1$d'si reklam"</string>
     <string name="tt_negtiveBtnBtnText">Ayrıl</string>
     <string name="tt_negtive_txt">İptal et</string>
     <string name="tt_net_error">Ağ hatası</string>

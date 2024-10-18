@@ -85,7 +85,6 @@
     <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>
     <string name="all_apps_setting_title">Ana ekran</string>
     <string name="am">ÖÖ</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="animation_rate_title">Animasyon hızı</string>
     <string name="announce_for_app_move_in_folder">Klasör içinde %1$d konumuna taşındı</string>
     <string name="announce_for_checked">%1$s, kontrol edildi</string>
@@ -471,7 +470,7 @@ Arttırılmış güvenlik"</string>
     <string name="launcher_search_bar_tip">Arama çubuğu ana ekran düzeninizi değiştirebilir</string>
     <string name="launcher_search_bar_title">Ana ekran arama çubuğu</string>
     <string name="launcher_slide_up_title">Ana ekranda yukarı kaydır</string>
-    <string name="launcher_sliding_up_gesture">Arama için yukarı kaydırma</string>
+    <string name="launcher_sliding_up_gesture">Arama için yukarı kaydır</string>
     <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
     <string name="layout_guide_description">Uygulama çekmecesiniz sevmezseniz her zaman klasik ana ekrana dönebilirsiniz. Basit bir şekilde ana ekran ayarları kısayolunu kullanın ve iki mod arasında geçiş yapın</string>
     <string name="layout_guide_tip_title">Tek bir dokunuşla eski haline geri gidebilirsiniz</string>

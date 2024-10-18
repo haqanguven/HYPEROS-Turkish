@@ -432,6 +432,7 @@ Videolar uygulamasının size temel hizmetleri sağlamak için gerekli kişisel 
     <string name="dialog_video_medium">Orta</string>
     <string name="dialog_ytb_content">"Videodan ayrılıp YouTube'u açmak üzeresiniz. Devam edilsin mi?"</string>
     <string name="disagree">Reddet</string>
+																	 
     <string name="diy_channels_tips">Artık kanal listenizi özelleştirebilirsiniz</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
     <string name="download">İndir</string>
@@ -2244,6 +2245,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="vip_pay_refunded">İade edildi</string>
     <string name="vip_pay_success">Satın alındı</string>
     <string name="vip_pay_waiting">Yükleniyor</string>
+    <string name="vip_permission">"Satın alarak &lt;a href=%1$s>MangoTV Hizmet Şartları'nı&lt;/a> kabul ediyorsunuz. Herhangi bir sorunuz varsa &lt;a href=%2$s>SSS ve geri bildirim&lt;/a> bölümümüzü görüntüleyiniz."</string>
     <string name="vip_purchase_history">Satın alma geçmişi</string>
     <string name="vip_qa">Yardıma mı ihtiyacınız var? &lt;a href=%1$s>SSS ve geri bildirimleri&lt;/a> görüntüleyin</string>
     <string name="vip_qa_title">FAQ and feedback</string>

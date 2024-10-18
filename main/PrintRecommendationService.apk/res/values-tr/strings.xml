@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Baskı öneri hizmeti</string>
+    <string name="call_notification_answer_action">Cevapla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Telefonu kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen bir aramayı tara</string>
+    <string name="plugin_vendor_brother">Brother</string>
+    <string name="plugin_vendor_canon">Canon</string>
+    <string name="plugin_vendor_epson">Epson</string>
+    <string name="plugin_vendor_fuji_xerox">Fuji Xerox</string>
+    <string name="plugin_vendor_google_cloud_print">Bulut baskısı</string>
+    <string name="plugin_vendor_hp">HP</string>
+    <string name="plugin_vendor_konica_minolta">Konica Minolta</string>
+    <string name="plugin_vendor_lexmark">Lexmark</string>
+    <string name="plugin_vendor_morpia">Mopria</string>
+    <string name="plugin_vendor_samsung">Samsung</string>
+    <string name="plugin_vendor_xerox">Xerox</string>
+</resources>

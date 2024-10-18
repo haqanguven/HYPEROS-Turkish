@@ -261,6 +261,8 @@
     <string name="loading">Durum bilinmiyor</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başı,</string>
+    <string name="menu_new_display_open">Yeni pencerede aç</string>
+    <string name="menu_pc_open">Bilgisayarda aç</string>
     <string name="mi_smart_hub_entry_title">Mi akıllı ses</string>
     <string name="midnight">Gece</string>
     <string name="miplay_accessibility_cast">Cihaz seç</string>
@@ -270,6 +272,8 @@
     <string name="miplay_accessibility_play">Oynat</string>
     <string name="miplay_accessibility_prev">Önceki şarkı</string>
     <string name="miplay_accessibility_seekbar">İlerleme çubuğu</string>
+    <string name="miplay_accessibility_video_fastForward">%d saniye ileri sar</string>
+    <string name="miplay_accessibility_video_rewind">%d saniye geri sar</string>
     <string name="miplay_accessibility_volume">Ses</string>
     <string name="miplay_bluetooth_share_des_text">"Xiaomi kulaklık kullanıcıları: şarj kutusunu açın veya %d saniye süreyle kutu düğmesini basılı tutun
 Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıklarınızı sıfırlayın ve ardından bağlanın"</string>
@@ -283,6 +287,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="miplay_device_full_name">%1$s - %2$s</string>
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
     <string name="miplay_not_support_hint">Bu özellik desteklenmiyor</string>
+    <string name="miplay_service_error_not_support">Bu eylem desteklenmiyor</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımı. Tekrar deneyin</string>
     <string name="miplay_song_title_empty">Şarkı yok</string>
     <string name="miplay_switch_local_device_when_in_audio_share_hint">Ses paylaşımını sonlandırıp tekrar deneyin</string>
@@ -441,6 +446,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_control_center">Bildirimler &amp; kontrol merkezi</string>
+    <string name="notification_status_bar">Bildirimler &amp; durum çubuğu</string>
     <string name="offline">Çevrimdışı</string>
     <string name="online">Çevrimiçi</string>
     <string name="open_system_optimization">Önce sistem optimizasyonunu açın</string>
@@ -474,6 +480,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="quick_controls_title">Cihaz kontrolleri</string>
     <string name="quick_settings_aisubtitles_label">Akıllı alt yazılar</string>
     <string name="quick_settings_aitranslate_label">MI yapay zeka çeviri</string>
+    <string name="quick_settings_aitranslate_label_new">Çeviri</string>
     <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
     <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Eşleştirilmiş cihaz yok</string>
@@ -510,6 +517,7 @@ Xiaomi olmayan kulaklık kullanıcıları: Bluetooth ayarlarında kulaklıkları
     <string name="quick_settings_uwbsh_label">Xiaomi sihirli kontrol</string>
     <string name="quick_settings_vibrate_label">Titret</string>
     <string name="quick_settings_voice_trans_label">Sesi yorumla</string>
+    <string name="quick_settings_voice_trans_label_new">Yorumla</string>
     <string name="quick_settings_vowifi_label">Wifi arama</string>
     <string name="quick_settings_vowifi_sim1_label">Wifi arama Sim1</string>
     <string name="quick_settings_vowifi_sim2_label">Wifi arama Sim2</string>
@@ -629,6 +637,7 @@ Uzun süre yüksek sese maruz kalmak işitme sorunlarına yol açabilir"</string
     <string name="tuesday_shortest">Sal</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
+    <string name="volume_adjust_panel_title">Ses ayar paneli</string>
     <string name="volume_dialog_accessibility_dismissed_message">Ses kontrolleri gizlendi</string>
     <string name="volume_dialog_accessibility_shown_message">%s ses kontrolleri görüntüleniyor. Kapatmak için yukarı doğru kaydırın</string>
     <string name="wednesday">Çarşamba</string>
