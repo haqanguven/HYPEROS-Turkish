@@ -93,6 +93,7 @@
     <string name="bottomsheet_action_expand_halfway">Yarıma kadar genişlet</string>
     <string name="bottomsheet_drag_handle_clicked">Sürükleme tutamacına iki kez dokunun</string>
     <string name="bottomsheet_drag_handle_content_description">Sürükleme tutamacı</string>
+    <string name="browser_downloads">Xiaomi tarayıcı indir</string>
     <string name="bundle_app_learn_how_to_install">"%1$s'yi nasıl kuracağınızı öğrenin"</string>
     <string name="bundle_app_market__tips_install">Bu uygulama Xiaomi uygulama mağazasında listelenmiştir. Lütfen güvenle yükleyin</string>
     <string name="bundle_app_market_install_background">Arka planda kurulum</string>

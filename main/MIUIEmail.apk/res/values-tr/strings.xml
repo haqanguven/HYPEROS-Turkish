@@ -661,6 +661,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="invoice_card_save">Faturayı kaydet</string>
     <string name="invoice_card_seller">Satıcı</string>
     <string name="invoice_card_title">E-fatura</string>
+    <string name="item_view_role_description">Sekme</string>
     <string name="load_from_remote">Sunucu posta kutusunu ara</string>
     <string name="load_more">Daha fazla yükle</string>
     <string name="loading_conversation">Yükleniyor</string>
@@ -731,7 +732,6 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="manual_sync">Şimdi senkronize et</string>
     <string name="mark_read">Okundu olarak işaretle</string>
     <string name="mark_unread">Okunmadı olarak işaretle</string>
-    <string name="marketSdkVersion">3.2.22</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="me_object_pronun">ben</string>

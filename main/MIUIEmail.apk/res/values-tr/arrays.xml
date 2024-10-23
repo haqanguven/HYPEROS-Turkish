@@ -9,37 +9,37 @@
         <item>Tarih seçin</item>
     </string-array>
     <string-array name="error_message_respond">
-        <item>LOGIN Login error or password error</item>
-        <item>LOGIN Login error password error</item>
-        <item>Invalid login user or password</item>
-        <item>LOGIN failure, invalid username/password</item>
-        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
+        <item>Giriş hatası veya şifre hatası</item>
+        <item>Giriş hatası şifre hatası</item>
+        <item>Geçersiz giriş kullanıcısı veya şifre</item>
+        <item>Giriş hatası. Geçersiz kullanıcı adı veya şifre</item>
+        <item>Giriş hatası:1424. Hesap mevcut değil (2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
-        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>LOGIN Login error user suspended</item>
-        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
-        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
-        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
-        <item>Login fail. Password is incorrect or service is not open</item>
-        <item>LOGIN imap4 nosupport</item>
-        <item>LOGIN errno:1328, custom imap off</item>
-        <item>LOGIN Login error user suspended</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
-        <item>LOGIN imap4 nosupport</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>ERR Invalid login user or password</item>
-        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
-        <item>ERR custom pop3 off</item>
-        <item>LOGIN Login error user name or password error</item>
-        <item>Invalid login or password</item>
-        <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
-        <item>java.net.UnknownHostException: Unable to resolve host</item>
-        <item>client disabled, please switch status on site https://mail.sohu.com</item>
-        <item>no initial password, please login https://mail.sohu.com to generate client password</item>
+        <item>Lütfen giriş yapmak için yetkili kod kullanın. Daha fazla bilgi için https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Yetkili kod yanlış. Daha fazla bilgi için https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Giriş hatası kullanıcı askıya alındı</item>
+        <item>Giriş hatası</item>
+        <item>Giriş hatası: 1423. Kullanıcı şifre hatası (2200019)</item>
+        <item>Geçersiz kimlik bilgileri</item>
+        <item>Giriş başarısız. Şifre yanlış veya servis açık değil</item>
+        <item>Giriş imap4 desteklenmiyor</item>
+        <item>Giriş hatası:1328. Özel imap kapalı</item>
+        <item>Giriş hatası. Kullanıcı askıya alındı</item>
+        <item>Kullanıcı kara listede</item>
+        <item>Giriş başarısız. Hesap engellendi. Kimliğinizi doğrulamak için bir internet tarayıcısı aracılığıyla hesabınıza giriş yapın</item>
+        <item>Giriş kullanıcı kara listede</item>
+        <item>Giriş hatası: 1412. status=51 Şifre uzun süredir değiştirilmedi. Lütfen şifreyi değiştirin. http://mail.10086.cn</item>
+        <item>Giriş imap4 desteklenmiyor</item>
+        <item>Giriş başarısız. Hesap engellendi. Kimliğinizi doğrulamak için bir internet tarayıcısı aracılığıyla hesabınıza giriş yapın</item>
+        <item>Geçersiz giriş. Kullanıcı veya şifresi hatası</item>
+        <item>Giriş başarısız. Lütfen giriş yapmak için uygulama şifresini kullanın. Daha fazla bilgi için http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>Hata veya özel pop3 kapalı</item>
+        <item>Giriş hatası. Kullanıcı adı veya parola hatası</item>
+        <item>Geçersiz giriş veya parola</item>
+        <item>Kara listede. Lütfen ağınızı değiştirin veya istemci ip beyaz listesini ayarlamak için https://mail.sohu.com adresinde oturum açın</item>
+        <item>java.net.UnknownHostException: Ana bilgisayarı çözemiyor</item>
+        <item>İstemci devre dışı. Lütfen https://mail.sohu.com sitesinde durumu değiştirin</item>
+        <item>Başlangıç parolası yok. Lütfen istemci parolasını oluşturmak için https://mail.sohu.com adresinde oturum açın</item>
     </string-array>
     <string-array name="invoice_card_keyword">
         <item>Fatura</item>

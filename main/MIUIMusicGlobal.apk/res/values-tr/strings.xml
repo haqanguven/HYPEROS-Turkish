@@ -156,6 +156,7 @@
     <string name="artist_is_empty">Sanatçı adı boş olamaz</string>
     <string name="artist_name">Sanatçı</string>
     <string name="asm_account_exception">Bir hesap hatası oluştu</string>
+    <string name="asm_ad_free">Reklam yok</string>
     <string name="asm_batch_download_failed">İndirilemedi</string>
     <string name="asm_buy_member_success">VIP üyeliği başarıyla satın alındı</string>
     <string name="asm_check_video_playing">Video oynatılıyor. Öğe oynatma listesine eklenemiyor</string>

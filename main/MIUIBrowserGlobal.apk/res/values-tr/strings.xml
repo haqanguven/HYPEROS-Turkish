@@ -1030,6 +1030,7 @@ Görüntülemiş olduğunuz internet siteleri geçmişinizde görüntülenmeyece
     <string name="home_nf_recommend_on">İçerik akışı</string>
     <string name="home_page_simple">Basit</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_currency">Normal</string>
     <string name="homepage_default">Varsayılan</string>
     <string name="homepage_delete_card_menu">Sil</string>
     <string name="homepage_get_location">Konumu al</string>
@@ -2581,7 +2582,6 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">Daha fazla</string>
     <string name="tt_00_00">00:00</string>
-    <string name="tt_ad">Reklam</string>
     <string name="tt_ad_clicked_text">Reklam gösterildi</string>
     <string name="tt_ad_close_text">Reklam kapatıldı</string>
     <string name="tt_ad_data_error">Yanıt verileri hatası</string>
