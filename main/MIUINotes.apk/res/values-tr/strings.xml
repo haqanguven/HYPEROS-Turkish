@@ -836,6 +836,7 @@
     <string name="super_summary_not_generate">Özet oluşturulamadı</string>
     <string name="super_summary_save_fail">Kaydedilemedi</string>
     <string name="super_summary_success">Kaydedildi</string>
+    <string name="super_summary_tips">Beta sürümünü kullanırken bulut hizmetlerini etkinleştirmeniz veya verileri yerel olarak yedeklemeniz önerilir</string>
     <string name="super_text_summary_huangfan">İçerik hassastır. Lütfen orijinal metne bakın</string>
     <string name="sync_all_terms">%1$s, %2$s, ve %3$s</string>
     <string name="sync_desc_state_complete">Bulut ile senkronize edildi</string>

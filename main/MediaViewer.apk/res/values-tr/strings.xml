@@ -380,7 +380,6 @@ Bu işlem dosyalardaki öğelerinizi etkilemeyecektir"</string>
     <string name="photoplayer_permission_retry">Ayarlar</string>
     <string name="photoplayer_permission_storage_content_reshowable_music_player">Bu uygulamanın görüntüleri görüntüleyebilmek için cihaz depolamasına erişmesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
     <string name="photoplayer_permission_storage_title">Depolama erişimi gerekli</string>
-    <string name="player_setting_audio_enhance">Sesi geliştir</string>
     <string name="player_setting_circulata_play">Döngü oynatma</string>
     <string name="pm">ÖS</string>
     <string name="pref_title_speed_rate">Oynatma hızı</string>

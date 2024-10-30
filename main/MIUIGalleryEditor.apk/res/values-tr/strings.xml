@@ -623,6 +623,8 @@ daireyi hareket ettirin"</string>
     <string name="ext_sdcard_permission_request_title">Galerinin SD karta erişmesine izin ver</string>
     <string name="ext_sdcard_request_failed_button_text">Tamam</string>
     <string name="ext_sdcard_request_succeed_toast_text">Sallanmaya hazırsın</string>
+    <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
+    <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="face_beauty">Yüz güzelliği</string>
@@ -664,24 +666,36 @@ daireyi hareket ettirin"</string>
     <string name="filter_diy_tip_dialog_content">En fazla %d küp renk arama tablosunu içe aktarabilirsiniz</string>
     <string name="filter_diy_tip_dialog_title">Filtreleri içe aktar</string>
     <string name="filter_film_600f">600F</string>
+    <string name="filter_film_besson">Parkour</string>
     <string name="filter_film_bf_70">BF70</string>
     <string name="filter_film_c_50d">C-50D</string>
     <string name="filter_film_c_64">KC64</string>
-    <string name="filter_film_chinese_red">Vermilyon</string>
-    <string name="filter_film_desert_brown">Fındık</string>
+    <string name="filter_film_chinese_red">Vermilion</string>
+    <string name="filter_film_desert_brown">Hazelnut</string>
     <string name="filter_film_f_50">F-50</string>
-    <string name="filter_film_flowers_dream">Neşe</string>
+    <string name="filter_film_flowers_dream">Glee</string>
+    <string name="filter_film_freehand">Freehand</string>
     <string name="filter_film_g_200">KG200</string>
     <string name="filter_film_h_400">H-400</string>
-    <string name="filter_film_light_tea_green">Yeşil çay</string>
-    <string name="filter_film_mountain_cyan">Deniz mavisi sisi</string>
+    <string name="filter_film_korean_rubber">Orchid</string>
+    <string name="filter_film_kyoto">Old town</string>
+    <string name="filter_film_le_mans">Canals</string>
+    <string name="filter_film_light_tea_green">Green tea</string>
+    <string name="filter_film_monsoon">Monsoon</string>
+    <string name="filter_film_mountain_cyan">Teal mist</string>
+    <string name="filter_film_old_alley">Alley</string>
+    <string name="filter_film_old_style">Wistful</string>
     <string name="filter_film_p_100f">P100F</string>
     <string name="filter_film_p_160nc">KP160</string>
     <string name="filter_film_p_400h">FC400</string>
     <string name="filter_film_r_600">R600</string>
-    <string name="filter_film_sunset_red">Kızıl</string>
+    <string name="filter_film_relaxation">Lazy day</string>
+    <string name="filter_film_reversal">Reversal</string>
+    <string name="filter_film_seaside">Seascape</string>
+    <string name="filter_film_sunset_red">Scarlet</string>
     <string name="filter_film_taichi_ink">Ink</string>
     <string name="filter_film_v_5207">V-250</string>
+    <string name="filter_film_zhi_xian">Poem</string>
     <string name="filter_general_blackice">Kara buz</string>
     <string name="filter_general_blackwhite">S&amp;B</string>
     <string name="filter_general_delicious">Gıda</string>
@@ -948,7 +962,7 @@ daireyi hareket ettirin"</string>
     <string name="gallery_frame_default_loc_format" formatted="false">%s%s  %s%s</string>
     <string name="gallery_frame_default_model_format">%s</string>
     <string name="gallery_frame_default_param_format" formatted="false">%s  f/%s  %s  ISO%s</string>
-    <string name="gallery_frame_default_time_format">dd.MM.yyyy  HH:mm:ss</string>
+    <string name="gallery_frame_default_time_format">yyyy.MM.dd  HH:mm:ss</string>
     <string name="gcm_defaultSenderId">184486664684</string>
     <string name="google_api_key">AIzaSyDrIWMNmfvO2-ocgfe0_EakzdN4xF8QCMs</string>
     <string name="google_app_id">1:184486664684:android:d71dca1ff3ad75397008c9</string>
@@ -1273,6 +1287,8 @@ daireyi hareket ettirin"</string>
     <string name="motion_photo_video_reverse_effect">Ters</string>
     <string name="motion_photo_video_reverse_ing">Video ters çevriliyor</string>
     <string name="motion_photo_video_reverse_on">Ters</string>
+    <string name="motion_photo_watermark_off">Filigran kapalı</string>
+    <string name="motion_photo_watermark_on">Filigran açık</string>
     <string name="movie_add_disable">%d fotoğrafa kadar seçebilirsiniz</string>
     <string name="movie_audio_antiquity">Geri</string>
     <string name="movie_audio_custom">Yerel</string>
@@ -1332,6 +1348,7 @@ daireyi hareket ettirin"</string>
     <string name="movie_template_xmas">Noel</string>
     <string name="movie_video_long">Daha uzun video</string>
     <string name="movie_video_short">%d saniye</string>
+    <string name="msg_initialize_failed_and_reenter">Eklenti başlatılamadı. Bu sayfayı kapatın ve yeniden başlayın</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
     <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
@@ -1527,6 +1544,7 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_gallery_frame_tab_leica">Leica</string>
     <string name="photo_editor_high">Yüksek</string>
     <string name="photo_editor_highest">En iyi</string>
+    <string name="photo_editor_inpaint_progress">%s siliniyor</string>
     <string name="photo_editor_intoutpaint_name">Yapay zeka genişletme veya silme 2.0</string>
     <string name="photo_editor_label">Düzenle</string>
     <string name="photo_editor_leica_frame">Leica filigranı</string>
@@ -1566,8 +1584,10 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Görünüşe göre wifi ağına bağlı değilsiniz. Eklentiyi indirmek için %1$d MB mobil veri kullanılsın mı?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Eklentiyi indir</string>
     <string name="photo_editor_navigator_tab_title_ai">Yapay zeka</string>
+    <string name="photo_editor_navigator_tab_title_ai_pro">Yapay zeka</string>
     <string name="photo_editor_navigator_tab_title_basic">Temel</string>
     <string name="photo_editor_navigator_tab_title_beauty">Güzelleştir</string>
+    <string name="photo_editor_outpaint_progress">%s genişletiliyor</string>
     <string name="photo_editor_perspective">Perspektif</string>
     <string name="photo_editor_perspective_crop">Kırp</string>
     <string name="photo_editor_perspective_distortion">Deforme et</string>
@@ -1580,12 +1600,15 @@ Orijinal en boy oranını koruyun, kendinizinkini seçin veya yapay zekanın kar
     <string name="photo_editor_privacy_negative">Çıkış</string>
     <string name="photo_editor_privacy_notice">Gizlilik bildirimi</string>
     <string name="photo_editor_privacy_positive">Kabul et</string>
-    <string name="photo_editor_privacy_tip_below">* Algoritmik rastgeleleştirme nedeniyle konunun tamamen görüntülendiği görselleri kullanırken en iyi sonuçları alırsınız</string>
+    <string name="photo_editor_privacy_tip_ai">"Yapay zeka özelliklerini kullanmadan önce &lt;a href='%1$s'>Galeri düzenleyici yapay zeka özellikleri gizlilik politikası&lt;/a> ve &lt;a href='%2$s'>Galeri düzenleyici yapay zeka özellikleri kullanıcı sözleşmesini&lt;/a> okuyun ve kabul edin"</string>
+    <string name="photo_editor_privacy_tip_below">Algoritmik rastgeleleştirme nedeniyle konunun tamamen görüntülendiği görselleri kullanırken en iyi sonuçları alırsınız</string>
     <string name="photo_editor_privacy_tip_outpaint">Yapay zeka genişletmeyi kullanmadan önce %1$s yapay zeka genişletme gizlilik politikasını ve %2$s yapay zeka genişletme kullanıcı sözleşmesini okuyup kabul edin</string>
     <string name="photo_editor_privacy_tip_rmpro">Yapay zeka silgi 2.0 pro özelliklerini kullanmadan önce %1$s yapay zeka silgi 2.0 Pro özellikleri gizlilik politikasını ve %2$s yapay zeka silgi 2.0 Pro özellikleri kullanıcı sözleşmesini okuyup kabul edin</string>
     <string name="photo_editor_privacy_tip_virtualization">"Yapay zeka görsellerine ve ilgili hizmetlere hoş geldiniz!&lt;br>Size temel özellikleri ve hizmetleri sunabilmek için bazı gerekli kişisel bilgileri toplamamız ve kullanmamız gerekiyor.&lt;br>Yapay zeka görsel özelliklerini kullandığınızda, fotoğraf yüklemeniz gerekir bir kişinin. Cihazınızdaki fotoğraflardaki kişinin yüz bilgilerini işleyeceğiz ve bunu AI görüntüsünü oluşturmak için kullanacağız.&lt;br>Yalnızca ürün ve hizmetlerimizi sağlamak için gerekli olan kişisel bilgileri topluyoruz. Kişisel bilgilerinizi nasıl topladığımız ve kullandığımızla ilgili ayrıntılar için AI Görüntüsü Gizlilik Politikası'na bakın.&lt;br>&lt;a href='%1$s'>AI Görüntüsü Kullanıcı Sözleşmesini&lt;/a okuyup kabul edin. > ve devam etmeden önce &lt;a href='%2$s'>AI Görüntüsü Gizlilik Politikasına&lt;/a> tıklayın"</string>
     <string name="photo_editor_privacy_title">Dikkat</string>
     <string name="photo_editor_quality">Kalite</string>
+    <string name="photo_editor_quality_improve">Genişlet</string>
+    <string name="photo_editor_quality_improve_progress">%s genişletiliyor</string>
     <string name="photo_editor_remove_watermark">Filigranı kaldır</string>
     <string name="photo_editor_remove_watermark_on">Filigran ekle</string>
     <string name="photo_editor_remover">Sil</string>
@@ -2339,6 +2362,7 @@ En iyi sonuçlar için net yüz özelliklerine sahip fotoğraflar yükleyin"</st
     <string name="vlog_auto_clip_delete_desc">Bu klip şimdi silinsin mi?</string>
     <string name="vlog_auto_clip_delete_ok">Sil</string>
     <string name="vlog_auto_complete">Tamamlandı</string>
+    <string name="vlog_auto_compose_middle_close">Kompozisyonu manuel olarak ayarlamak daha önce uygulanan akıllı efektler kaldırılacaktır. Yine de ayarlansın mı?</string>
     <string name="vlog_auto_composition_close">"En boy oranını manuel olarak ayarlamak Xiaomi ProCut'ı kapatacaktır. Yine de ayarlansın mı?"</string>
     <string name="vlog_auto_generate_complete">Oluştur</string>
     <string name="vlog_auto_generate_composition">Xiaomi ProCut</string>
@@ -2473,6 +2497,7 @@ En iyi sonuçlar için net yüz özelliklerine sahip fotoğraflar yükleyin"</st
     <string name="vlog_filter_nanfa">Garrigue</string>
     <string name="vlog_filter_no_support_nums">Düzenlemeyi desteklemeyen atlanan videolar (%1$d)</string>
     <string name="vlog_filter_nuanyang">Güneş ışığı</string>
+    <string name="vlog_filter_old_street">Gezinti</string>
     <string name="vlog_filter_origin">Hiçbiri</string>
     <string name="vlog_filter_qianyin">Hassas</string>
     <string name="vlog_filter_qihuan">Fantezi</string>
@@ -2480,6 +2505,7 @@ En iyi sonuçlar için net yüz özelliklerine sahip fotoğraflar yükleyin"</st
     <string name="vlog_filter_qingye">Gece</string>
     <string name="vlog_filter_rixi">Boya</string>
     <string name="vlog_filter_romantic">Cazibe</string>
+    <string name="vlog_filter_sea_breeze">Deniz meltemi</string>
     <string name="vlog_filter_senshan">Momiji</string>
     <string name="vlog_filter_shenmi">Gizem</string>
     <string name="vlog_filter_tag_atmosphere">Atmospheric</string>
@@ -2502,6 +2528,7 @@ En iyi sonuçlar için net yüz özelliklerine sahip fotoğraflar yükleyin"</st
     <string name="vlog_fps">Kare hızı</string>
     <string name="vlog_fps_x">%d fps</string>
     <string name="vlog_improt_encode_video_error">Bir kodlama hatası oluştu. Tekrar deneyin</string>
+    <string name="vlog_load_data_empty">Önce öğeleri seçin</string>
     <string name="vlog_load_data_fail">Veri yüklenemedi</string>
     <string name="vlog_mi_clip">Video düzenle</string>
     <string name="vlog_mi_clip_cn">Video düzenle</string>

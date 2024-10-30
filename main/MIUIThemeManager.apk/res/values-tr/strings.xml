@@ -73,6 +73,7 @@
     <string name="ad_in_installing">Yükleniyor</string>
     <string name="ad_installing">Yükleniyor</string>
     <string name="ad_sub_textview_ad">Görüntü</string>
+    <string name="ad_sub_textview_divider">m</string>
     <string name="ad_sub_textview_introduction">Tanıtım</string>
     <string name="ad_sub_textview_permission">İzinler</string>
     <string name="ad_sub_textview_privacy">Öncelik</string>
@@ -134,6 +135,7 @@
     <string name="apply_warning_tip_get_device_status">"Bu uygulamanın önce Profil > Ayarlar'da cihaz kimliğinize erişmesine izin verin"</string>
     <string name="aqi_format">HKE %s</string>
     <string name="aqi_format_desc">Hava kalitesi endeksi %s</string>
+    <string name="atmosphere_pressure_unit">hPa</string>
     <string name="audio_duration_minutes_format">%1$d dakika</string>
     <string name="audio_duration_seconds_format">%1$d saniye</string>
     <string name="audition_ringtone">Oynat</string>

@@ -38,6 +38,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
+    <string name="app_has_uninstall">Bu uygulama kaldırıldı</string>
     <string name="app_name">Ana ekran+</string>
     <string name="app_no_storage_permission">"%1$s'nin Ayarlar > Uygulamalar > %2$s > İzinlerden depolamaya erişmesine izin verin"</string>
     <string name="app_not_support_subscreen">Bu pencere büyütülemiyor</string>
@@ -47,6 +48,7 @@
     <string name="call_error_notify_title">Kararsız ağ bağlantısı</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_button">İptal et</string>
+    <string name="cant_open_more_windows">Daha fazla pencere açılamıyor</string>
     <string name="cast_mcc_tips_button_cancel">Yoksay</string>
     <string name="cast_mcc_tips_button_ok">Ayarlar</string>
     <string name="cast_mcc_tips_title_china">Wifi ayarlarını değiştir</string>
@@ -604,6 +606,13 @@ Bilgisayarınızda başka bir oturum başlatabilirsiniz"</string>
     <string name="share_to_settings_title">Ara bağlantı</string>
     <string name="sink_pc_click_again_to_finish_extent">Ekran uzantısını kapatmak için tekrar dokunun</string>
     <string name="sink_pc_click_again_to_finish_mirror">Ekran yansıtmayı durdurmak için tekrar dokunun</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="softap_connect_fail_message">Bağlanılamadı</string>
     <string name="softap_dialog_cancel">İptal et</string>
     <string name="softap_dialog_message">Yakınlarda kullanılabilir wifi ağı yok. Bunun yerine etkin noktaya bağlanılsın mı?</string>
@@ -646,6 +655,7 @@ telefonunuzun kilidini açın"</string>
     <string name="switch_wlan_failed">Bağlanılamadı</string>
     <string name="switch_wlan_failed_desc_china">Bu wifi ağına otomatik olarak bağlanılamadı. Ayarlarda manuel olarak bağlanmayı deneyin</string>
     <string name="switch_wlan_success">Başarıyla bağlandı</string>
+    <string name="switch_wlan_success_china">Aynı wifi ağına geçildi</string>
     <string name="switch_wlan_tips_china">Aynı ağa bağlan</string>
     <string name="switch_wlan_tips_desc_china">Daha iyi bir deneyim için diğer cihazla aynı wifi ağına bağlanabilirsiniz. Şimdi bağlanılsın mı?</string>
     <string name="switch_wlan_tips_desc_pad_china">Daha iyi bir deneyim için diğer cihazla aynı wifi ağına bağlanabilirsiniz. Şimdi bağlanılsın mı?</string>
@@ -699,7 +709,6 @@ telefonunuzun kilidini açın"</string>
     <string name="toast_calling_warning">Devam eden aramayı sonlandırın ve tekrar deneyin</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
-    <string name="traffic_log">Trafik kayıtları</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
